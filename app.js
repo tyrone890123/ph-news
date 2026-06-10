@@ -4,6 +4,11 @@
 
 const DATA_DIR = "data/";
 const MAX_FALLBACK_ATTEMPTS = 3;
+const THEME_KEY = "ph-news-theme";
+const TEXT_SIZE_KEY = "ph-news-textsize";
+const THEME_CYCLE = ["auto", "light", "dark"];
+const TEXT_SIZE_MIN = 80;
+const TEXT_SIZE_MAX = 150;
 
 const CATEGORY_LABELS = {
   politics: "Politics",
@@ -27,6 +32,9 @@ const els = {
   filters: document.getElementById("filters"),
   stories: document.getElementById("stories"),
   live: document.getElementById("live-region"),
+  themeToggle: document.getElementById("theme-toggle"),
+  textSize: document.getElementById("text-size"),
+  textSizeValue: document.getElementById("text-size-value"),
 };
 
 /* ---------- state ---------- */
@@ -105,6 +113,8 @@ function normalizeStories(stories) {
       ? s.category
       : "other",
     publishedAt: typeof s.published_at === "string" ? s.published_at : null,
+    context: typeof s.context === "string" ? s.context : "",
+    watchFor: typeof s.watch_for === "string" ? s.watch_for : "",
   }));
 }
 
@@ -172,6 +182,17 @@ function renderFilters() {
   }
 }
 
+function appendExtra(article, label, value) {
+  if (!value) return;
+  const p = document.createElement("p");
+  p.className = "story-extra";
+  const strong = document.createElement("strong");
+  strong.textContent = `${label}: `;
+  p.appendChild(strong);
+  p.append(value);
+  article.appendChild(p);
+}
+
 function storyNode(story) {
   const article = document.createElement("article");
   article.className = "story";
@@ -187,6 +208,9 @@ function storyNode(story) {
     p.textContent = story.summary;
     article.appendChild(p);
   }
+
+  appendExtra(article, "Context", story.context);
+  appendExtra(article, "What to watch for", story.watchFor);
 
   const metaParts = [CATEGORY_LABELS[story.category]];
   const time = story.publishedAt ? manilaTime(story.publishedAt) : null;
@@ -290,6 +314,53 @@ function showFatal() {
   document.body.replaceChildren(main);
 }
 
+/* ---------- display preferences ---------- */
+
+function storedPref(key) {
+  // localStorage can throw in private-browsing modes; preferences just don't persist there.
+  try { return localStorage.getItem(key); } catch { return null; }
+}
+
+function storePref(key, value) {
+  try { localStorage.setItem(key, value); } catch { /* see storedPref */ }
+}
+
+function applyTheme(theme) {
+  if (theme === "light" || theme === "dark") {
+    document.documentElement.dataset.theme = theme;
+  } else {
+    delete document.documentElement.dataset.theme;
+  }
+  els.themeToggle.textContent = `Theme: ${theme[0].toUpperCase()}${theme.slice(1)}`;
+}
+
+function applyTextSize(pct) {
+  // Root font-size scales every rem-based measurement, so the whole layout resizes.
+  document.documentElement.style.fontSize = pct === 100 ? "" : `${pct}%`;
+  els.textSize.value = String(pct);
+  els.textSizeValue.textContent = `${pct}%`;
+}
+
+function initPrefs() {
+  let theme = storedPref(THEME_KEY);
+  if (!THEME_CYCLE.includes(theme)) theme = "auto";
+  applyTheme(theme);
+  els.themeToggle.addEventListener("click", () => {
+    theme = THEME_CYCLE[(THEME_CYCLE.indexOf(theme) + 1) % THEME_CYCLE.length];
+    applyTheme(theme);
+    storePref(THEME_KEY, theme);
+  });
+
+  let size = parseInt(storedPref(TEXT_SIZE_KEY), 10);
+  if (!(size >= TEXT_SIZE_MIN && size <= TEXT_SIZE_MAX)) size = 100;
+  applyTextSize(size);
+  els.textSize.addEventListener("input", () => {
+    size = parseInt(els.textSize.value, 10) || 100;
+    applyTextSize(size);
+    storePref(TEXT_SIZE_KEY, String(size));
+  });
+}
+
 /* ---------- controller ---------- */
 
 async function loadDate(requestedDate) {
@@ -353,6 +424,7 @@ function step(delta) {
 }
 
 async function init() {
+  initPrefs();
   let manifest;
   try {
     manifest = await fetchJson(`${DATA_DIR}index.json`);
