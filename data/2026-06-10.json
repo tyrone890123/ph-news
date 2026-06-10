@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T06:00:00+08:00",
+  "stories": [
+    {
+      "headline": "Mindanao quake death toll reaches 37 as over 31,000 shelter in evacuation centers",
+      "summary": "The Office of Civil Defense said deaths from Monday's magnitude 7.8 offshore earthquake near Sarangani have risen to 37, with 33 recorded in Soccsksargen and four in the Davao Region. Officials reported 488 injured and four missing, while more than 8,700 families are staying in 54 evacuation centers. Search and retrieval operations are concentrated in General Santos City, which has been placed under a state of calamity, and in Sarangani province.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/990735/magnitude-7-8-mindanao-earthquake-death-toll-now-37-ocd/story/",
+      "category": "regions",
+      "published_at": "2026-06-09T11:00:00+08:00"
+    },
+    {
+      "headline": "157,000 consumers still without power as quake-hit plants stay offline",
+      "summary": "The Department of Energy said around 157,000 consumers remained without electricity after the Sarangani earthquake, with two power plants in Davao Occidental and Sarangani still offline after automatically tripping, removing roughly 832 megawatts of generation. Repairs are ongoing on the Tacurong-General Santos transmission lines. Tsunami alerts triggered by the quake in several coastal provinces were lifted on June 8.",
+      "source": "Rappler",
+      "url": "https://www.rappler.com/philippines/mindanao/death-toll-sarangani-earthquake-june-9-2026/",
+      "category": "regions",
+      "published_at": "2026-06-09T12:00:00+08:00"
+    },
+    {
+      "headline": "Senate shifts to remote work over reported security threat as leadership feud deepens",
+      "summary": "Acting Senate President Sherwin Gatchalian ordered Senate employees to work from home on June 10 and 11 to allow a security assessment of the chamber's premises, citing threat information from the NBI. Senator Alan Peter Cayetano, who was ousted in the June 3 leadership change, questioned the intelligence's credibility and issued a contradicting work advisory, while Malacanang and the House continue to recognize the Gatchalian bloc.",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/06/10/news/national/gatchalian-orders-senate-lockdown/2361914",
+      "category": "politics"
+    },
+    {
+      "headline": "Diesel up P5.77 per liter as fuel prices climb again this week",
+      "summary": "Oil firms raised pump prices effective Tuesday, June 9, reversing the previous week's large rollback, with diesel and kerosene rising by more than P4 per liter under advisories from Seaoil, Shell, and Unioil, and diesel increases reaching P5.77 in some advisories. The Department of Energy said national fuel inventory stands at about 47 days, with the increases attributed to renewed volatility in global crude markets tied to stalled Middle East negotiations.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/companies/990631/oil-price-hike-june-9-2026/story/",
+      "category": "economy",
+      "published_at": "2026-06-08T16:12:00+08:00"
+    },
+    {
+      "headline": "Southwest monsoon brings rain to western Luzon; thunderstorm advisories up in Visayas",
+      "summary": "PAGASA said the southwest monsoon is affecting the western section of Northern Luzon, while localized thunderstorms will bring rain showers to much of the rest of the country. Thunderstorm advisories were issued early Wednesday for parts of Cebu, Bohol, Leyte, and Palawan, with warnings of possible flash floods and landslides in affected areas.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather"
+    }
+  ]
+}
