@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/tyrone890123/ph-news/schema/daily.schema.json",
+  "title": "PH News daily digest",
+  "description": "One day's aggregated Philippine news, written by the publishing routine to data/YYYY-MM-DD.json.",
+  "type": "object",
+  "required": ["version", "date", "generated_at", "stories"],
+  "additionalProperties": false,
+  "properties": {
+    "version": { "const": 1 },
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "generated_at": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}"
+    },
+    "stories": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 30,
+      "items": {
+        "type": "object",
+        "required": ["headline", "summary", "source", "url", "category"],
+        "additionalProperties": false,
+        "properties": {
+          "headline": { "type": "string", "minLength": 1, "maxLength": 200 },
+          "summary": { "type": "string", "minLength": 1, "maxLength": 600 },
+          "source": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "pattern": "^https://" },
+          "category": {
+            "enum": ["politics", "economy", "metro", "regions", "weather", "sports", "world", "other"]
+          },
+          "published_at": {
+            "type": "string",
+            "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}"
+          }
+        }
+      }
+    }
+  }
+}
