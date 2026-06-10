@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PH News Digest</title>
+<meta name="description" content="A daily digest of aggregated Philippine news.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <p class="eyebrow">PH News Digest</p>
+  <h1 id="masthead-date">Loading…</h1>
+  <p id="updated" class="updated"></p>
+  <nav class="date-nav" aria-label="Digest date">
+    <button id="prev-day" type="button" disabled>Previous</button>
+    <select id="date-select" aria-label="Choose digest date" disabled></select>
+    <button id="next-day" type="button" disabled>Next</button>
+  </nav>
+</header>
+<main id="main">
+  <p id="notice" class="notice" hidden></p>
+  <div id="filters" class="filters" role="group" aria-label="Filter stories by category"></div>
+  <section id="stories" class="stories" aria-label="Stories">
+    <p class="muted">Loading…</p>
+  </section>
+</main>
+<p id="live-region" class="visually-hidden" aria-live="polite"></p>
+<footer>
+  <p>Summaries are AI-generated paraphrases and may contain errors. Headlines link to the original sources.</p>
+  <p><a href="https://github.com/tyrone890123/ph-news">Source on GitHub</a></p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

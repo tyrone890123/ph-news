@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T06:01:43+08:00",
+  "stories": [
+    {
+      "headline": "Peso slips to 58.40 per dollar as traders weigh fresh fuel price volatility",
+      "summary": "The peso closed at 58.40 against the US dollar on Monday, its weakest finish in three weeks, as renewed swings in global crude prices weighed on emerging-market currencies. Analysts said the unit is likely to trade sideways until June inflation figures are released next week.",
+      "source": "BusinessWorld",
+      "url": "https://www.bworldonline.com/banking-finance/2026/06/08/peso-slips-58-40-fuel-volatility/",
+      "category": "economy",
+      "published_at": "2026-06-08T18:05:00+08:00"
+    },
+    {
+      "headline": "Rice prices ease in Metro Manila markets as fresh import arrivals fill warehouses",
+      "summary": "Retail prices of well-milled rice fell by up to P3 per kilo in major Metro Manila wet markets this week, traders said, after import shipments booked in April began arriving in bulk. The Department of Agriculture said it expects prices to stay soft through the lean months if arrivals continue on schedule.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://business.inquirer.net/2026/06/08/rice-prices-ease-metro-manila-imports/",
+      "category": "economy",
+      "published_at": "2026-06-08T14:30:00+08:00"
+    },
+    {
+      "headline": "BSP seen holding rates steady until inflation path clears, economists say",
+      "summary": "Most economists polled expect the Bangko Sentral ng Pilipinas to keep its policy rate unchanged at its June meeting, citing uncertainty over fuel-driven inflation in the second half of the year. A cut remains on the table for August if the June and July prints stay within the 2 to 4 percent target band.",
+      "source": "ABS-CBN News",
+      "url": "https://news.abs-cbn.com/business/2026/06/08/bsp-seen-holding-rates-june-meeting",
+      "category": "economy"
+    }
+  ]
+}
