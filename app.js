@@ -178,16 +178,7 @@ function storyNode(story) {
 
   const h2 = document.createElement("h2");
   h2.className = "story-headline";
-  if (story.url) {
-    const a = document.createElement("a");
-    a.href = story.url;
-    a.target = "_blank";
-    a.rel = "noopener noreferrer";
-    a.textContent = story.headline;
-    h2.appendChild(a);
-  } else {
-    h2.textContent = story.headline;
-  }
+  h2.textContent = story.headline;
   article.appendChild(h2);
 
   if (story.summary) {
@@ -197,15 +188,26 @@ function storyNode(story) {
     article.appendChild(p);
   }
 
-  const metaParts = [];
-  if (story.source) metaParts.push(story.source);
-  metaParts.push(CATEGORY_LABELS[story.category]);
+  const metaParts = [CATEGORY_LABELS[story.category]];
   const time = story.publishedAt ? manilaTime(story.publishedAt) : null;
   if (time) metaParts.push(time);
-  const meta = document.createElement("p");
-  meta.className = "story-meta";
-  meta.textContent = metaParts.join(" · ");
-  article.appendChild(meta);
+  const footer = document.createElement("p");
+  footer.className = "story-footer";
+  if (story.url) {
+    footer.append("Read at ");
+    const a = document.createElement("a");
+    a.href = story.url;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.textContent = story.source || "source";
+    // Source names repeat across stories; tie each link to its headline for screen readers.
+    a.setAttribute("aria-label", `Read at ${story.source || "the source"}: ${story.headline}`);
+    footer.appendChild(a);
+    footer.append(` · ${metaParts.join(" · ")}`);
+  } else {
+    footer.textContent = [story.source, ...metaParts].filter(Boolean).join(" · ");
+  }
+  article.appendChild(footer);
 
   return article;
 }
