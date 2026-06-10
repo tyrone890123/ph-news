@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PH News — design variants</title>
+<style>
+:root { --bg: #FFFFFF; --ink: #1A1A1A; --ink-soft: #6B6B6B; --accent: #0038A8; --rule: #E5E5E5; }
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #121212; --ink: #EDEDED; --ink-soft: #A3A3A3; --accent: #7AA2E8; --rule: #2C2C2C; }
+}
+body { margin: 0 auto; padding: 1.5rem 1.25rem; max-width: 40rem; background: var(--bg);
+       color: var(--ink); font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; }
+h1 { font-family: ui-serif, Georgia, serif; font-size: 1.75rem; }
+a { color: var(--accent); }
+li { margin-bottom: 1rem; }
+p { color: var(--ink-soft); margin: 0.25rem 0 0; font-size: 0.875rem; }
+</style>
+</head>
+<body>
+<h1>Design variants — sources in footers</h1>
+<ul>
+  <li>
+    <a href="variant-a-source-footer.html">A — Source in story footer</a>
+    <p>Closest to the current design. Headlines become plain text; each story ends with a quiet "Read at [Source] · category · time" line where the source name is the only link.</p>
+  </li>
+  <li>
+    <a href="variant-b-endnotes.html">B — Sources as endnotes</a>
+    <p>Print-style. Headlines carry a small superscript number; all source links are collected in a numbered "Sources" block in the page footer, like a broadsheet citation list.</p>
+  </li>
+  <li>
+    <a href="variant-c-source-bar.html">C — Story card with source bar</a>
+    <p>Each story becomes a hairline-bordered card whose bottom bar is its footer: source link on the left, category and time on the right. Trades the rule-separated list for cards.</p>
+  </li>
+</ul>
+</body>
+</html>
