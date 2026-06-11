@@ -331,7 +331,10 @@ function applyTheme(theme) {
   } else {
     delete document.documentElement.dataset.theme;
   }
-  els.themeToggle.textContent = `Theme: ${theme[0].toUpperCase()}${theme.slice(1)}`;
+  // The visible icon swap is CSS-driven off data-theme; only the label changes here.
+  const label = `Theme: ${theme[0].toUpperCase()}${theme.slice(1)}`;
+  els.themeToggle.setAttribute("aria-label", label);
+  els.themeToggle.title = label;
 }
 
 function applyTextSize(pct) {
