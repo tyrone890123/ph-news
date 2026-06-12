@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T12:30:00+08:00",
+  "stories": [
+    {
+      "headline": "Mindanao earthquake death toll stands at 55 as rain and aftershocks hamper rescue operations",
+      "summary": "A magnitude 7.8 earthquake that struck offshore Maasim, Sarangani on June 8 has killed 55 people, injured 1,120, and left 31 missing. Nearly 4,000 aftershocks have been recorded, with overnight rain forcing temporary halts to search and recovery operations. The government has delivered 20,000 family food packs to Sarangani, with 40,000 more to follow in coming days.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/991204/rain-aftershocks-hamper-rescuers-as-philippine-quake-toll-hits-55/story/",
+      "category": "regions",
+      "published_at": "2026-06-12T11:07:00+08:00",
+      "context": "The earthquake, centered along the Cotabato Trench, caused building collapses and landslides across southern Mindanao. Phivolcs warned that aftershocks could persist for weeks; the strongest recorded was magnitude 6.4. President Marcos visited affected areas and allocated 100 million pesos for city hall reconstruction.",
+      "watch_for": "Phivolcs says aftershocks may continue for weeks to a month. The Office of Civil Defense is coordinating ongoing search and body recovery operations."
+    },
+    {
+      "headline": "China imposes sanctions on Defense Secretary Teodoro over West Philippine Sea stance",
+      "summary": "China announced entry bans to the mainland, Hong Kong, and Macao, plus business transaction restrictions, targeting Defense Secretary Gilberto Teodoro Jr. and his family, citing what Beijing described as irresponsible remarks that undermine Chinese interests. The Department of Foreign Affairs called the action an unfriendly act that further complicates bilateral relations. Teodoro dismissed the sanctions and pledged to continue his duties.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://www.inquirer.net/477579/dfa-calls-china-sanctions-on-teodoro-unfriendly-act/",
+      "category": "politics",
+      "published_at": "2026-06-12T09:14:00+08:00",
+      "context": "Beijing has previously imposed entry bans on other Philippine officials over the West Philippine Sea dispute, including 16 Kalayaan town officials in February 2026 and former senator Francis Tolentino in 2025. Teodoro has been an outspoken critic of China's maritime claims."
+    },
+    {
+      "headline": "Marcos and Duterte mark 128th Independence Day with calls for truth and accountability",
+      "summary": "President Ferdinand Marcos Jr. called on Filipinos to protect truth from distortion and harness technology responsibly in his message on the 128th anniversary of Philippine independence. Vice President Sara Duterte, speaking separately in Davao City, warned that corruption poses as great a threat to sovereignty as foreign aggression, saying stolen public funds deny citizens education, healthcare, and dignity.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2245158/marcos-urges-filipinos-to-protect-truth-on-independence-day",
+      "category": "politics",
+      "published_at": "2026-06-12T07:44:00+08:00"
+    },
+    {
+      "headline": "Activist groups stage Independence Day protests in Metro Manila over sovereignty and corruption",
+      "summary": "Several activist groups held protests in Manila and Quezon City during Independence Day celebrations, drawing a combined several hundred participants. The largest demonstration, organized by Bayan and allied organizations near the National Library, called for a review of the Enhanced Defense Cooperation Agreement and the removal of US forces from Philippine soil. The Philippine National Police deployed nearly 90,000 personnel nationwide for security.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/991206/protest-independence-day-issues/story/",
+      "category": "metro",
+      "published_at": "2026-06-12T11:50:00+08:00"
+    },
+    {
+      "headline": "Gasoline and kerosene prices to rise next week; diesel rollback expected",
+      "summary": "Oil companies are expected to announce price changes on Monday, June 15, with gasoline and kerosene prices set to increase and diesel potentially rolling back, effective June 16. The Department of Energy said the adjustments reflect continued volatility in global oil markets driven by US-Iran tensions and uncertainty over Strait of Hormuz shipping.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/companies/991205/gasoline-kerosene-price-hikes-diesel-rollback-seen-next-week/story/",
+      "category": "economy",
+      "published_at": "2026-06-12T11:42:00+08:00",
+      "watch_for": "Oil companies are scheduled to announce exact per-liter price adjustments on Monday, June 15, with new pump prices effective June 16."
+    },
+    {
+      "headline": "MIAA acquires NAIA Terminal 3 property from BCDA for 48 billion pesos",
+      "summary": "The Manila International Airport Authority has purchased the 61-hectare land housing Ninoy Aquino International Airport Terminal 3 from the Bases Conversion and Development Authority for 48 billion pesos. The deal includes a 10 billion peso down payment, with the remainder paid in semi-annual installments over 15 years. Terminal 3 is NAIA's busiest terminal, handling more than 27 million passengers last year, representing over half of total airport traffic.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/12/miaa-buys-naia-terminal-3-land-from-bcda-for-48-billion",
+      "category": "economy",
+      "published_at": "2026-06-12T11:11:00+08:00"
+    },
+    {
+      "headline": "PNP-CIDG issues subpoenas in probe of two Ateneo basketball players' drowning deaths",
+      "summary": "Two Ateneo de Manila University basketball players, Rene Baterbonia and Divine Adili, drowned on June 8 during a team training exercise approximately 300 meters from shore at a beach resort in Dipaculao, Aurora. The Philippine National Police pledged an impartial investigation, and the Criminal Investigation and Detection Group has issued subpoenas to all players and coaches who were present at the time.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2245244/pnp-vows-impartial-independent-probe-into-ateneo-drowning-case",
+      "category": "metro",
+      "published_at": "2026-06-12T11:35:00+08:00"
+    },
+    {
+      "headline": "Philippine reading proficiency improves sharply but half of learners remain below grade level",
+      "summary": "Education officials reported that the share of Filipino students meeting grade-level reading standards rose from 19 percent in June 2025 to 48 percent by the end of school year 2025-2026. Despite the improvement, nearly half of learners still fall below proficiency and 23.6 percent of Filipino children are stunted. Education leaders called for integrated approaches linking schools with health, nutrition, and early childhood programs.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2245209/education-leaders-urge-cross-sector-action-to-reverse-ph-learning-crisis",
+      "category": "other",
+      "published_at": "2026-06-12T10:03:00+08:00"
+    },
+    {
+      "headline": "PAGASA issues flood advisory as El Nino and Southwest Monsoon bring rains nationwide",
+      "summary": "The Philippine Atmospheric, Geophysical and Astronomical Services Administration issued a General Flood Advisory as El Nino conditions were confirmed present in the tropical Pacific. The Southwest Monsoon, known locally as habagat, is bringing occasional to frequent rains across the country. Metro Manila recorded temperatures around 31 degrees Celsius on June 12.",
+      "source": "PAGASA",
+      "url": "https://bagong.pagasa.dost.gov.ph/",
+      "category": "weather"
+    },
+    {
+      "headline": "Trump calls off Iran strikes for third consecutive day, claims peace deal nearing signature",
+      "summary": "US President Donald Trump announced for the third consecutive day that planned military strikes against Iran have been cancelled, stating that a peace agreement is close to completion and that a signing ceremony would be announced shortly. Global stock markets rose on the news, with the S&P 500 gaining 1.8 percent, South Korea's Kospi surging 8 percent, and Brent crude oil falling roughly 1 percent.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes",
+      "category": "world",
+      "context": "US-Iran tensions escalated over recent weeks following the breakdown of a ceasefire framework established in April 2026, with US airstrikes and Iranian retaliatory missile attacks exchanged. Trump had earlier threatened to seize Iranian oil infrastructure if negotiations collapsed.",
+      "watch_for": "Trump said signing ceremony details would be announced shortly. Analysts said sustained market and oil price relief depends on the deal being finalized and the Strait of Hormuz fully reopening to shipping."
+    },
+    {
+      "headline": "South Korea's former president Yoon Suk Yeol sentenced to 30 years for authorizing drone incursion into North Korea",
+      "summary": "A Seoul court sentenced former South Korean President Yoon Suk Yeol to 30 years in prison for authorizing military drone flights into North Korean airspace in October 2024. Prosecutors argued the operation was designed to fabricate wartime conditions to justify Yoon's subsequent martial law declaration. Yoon denied ordering the mission and is expected to appeal the ruling.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/6/12/south-koreas-ex-president-yoon-gets-30-years-over-drone-operation",
+      "category": "world",
+      "context": "Yoon already received a life sentence in February 2026 for insurrection connected to his December 2024 martial law declaration, which parliament overturned within hours. The October 2024 drone incursion into North Korean airspace significantly raised military tensions between the two countries."
+    },
+    {
+      "headline": "Thailand's Princess Bajrakitiyabha dies at 47 after nearly four years in a coma",
+      "summary": "Thailand's royal palace announced the death of Princess Bajrakitiyabha, the eldest child of King Maha Vajiralongkorn, at age 47. The princess had been in a coma since late 2022 and died on Friday, according to the palace. No cause of death was specified in the announcement.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/life-arts/obituaries/thailand-s-princess-bajrakitiyabha-dies-at-47-royal-palace-says",
+      "category": "world",
+      "published_at": "2026-06-12T09:52:00+09:00"
+    },
+    {
+      "headline": "Japan's H3 rocket delivers six satellites in first all-liquid-fuel mission",
+      "summary": "Japan launched its H3 rocket on Friday in its first domestic mission powered entirely by liquid-fuel engines, without solid rocket boosters, making the vehicle lighter and less costly according to the Japan Aerospace Exploration Agency. The rocket delivered six small satellites to orbit, including one with ocean observation cameras and another designed to test space debris removal technology.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-launches-h3-rocket-in-1st-domestic-liquid-only-mission",
+      "category": "world",
+      "published_at": "2026-06-12T11:39:00+09:00",
+      "context": "The H3's inaugural flight in March 2023 ended in self-destruction, and a December 2025 mission failed to reach orbit. Friday's successful launch completes the H3 operational configuration lineup."
+    }
+  ]
+}
