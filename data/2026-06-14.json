@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T04:12:33+08:00",
+  "stories": [
+    {
+      "headline": "Mindanao quake toll reaches 61 as magnitude 5.3 aftershock strikes Sarangani",
+      "summary": "A magnitude 5.3 aftershock struck off Glan, Sarangani at 10:05 a.m. on June 13, PHIVOLCS said, one of nearly 4,000 aftershocks recorded since the June 8 magnitude 7.8 earthquake off Maasim. Authorities reported the quake's death toll had climbed to 61, with 1,221 people injured and 33 still missing as validation continued. PHIVOLCS said further strong aftershocks were now considered unlikely.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/991310/earthquake-sarangani-davao-occidental-phivolcs/story/",
+      "category": "regions",
+      "published_at": "2026-06-13T10:47:00+08:00",
+      "context": "The magnitude 7.8 quake hit offshore Maasim, Sarangani on June 8, with most deaths caused by landslides and falling debris. General Santos City, Sarangani, South Cotabato and Davao Occidental were among the hardest hit, and the Office of Civil Defense said more than 346,000 people have been affected."
+    },
+    {
+      "headline": "Defense chief links Chinese sanctions on him to Philippine crackdown on illegal operations",
+      "summary": "Defense Secretary Gilberto Teodoro Jr. said China's decision to bar him and his family from entering the mainland, Hong Kong and Macau stemmed from his statements on the West Philippine Sea and from Philippine enforcement actions against illegal Chinese operations, citing the Bamban scam hub and the Sanjia steel facility. He said the measures targeted wrongdoing rather than Chinese nationals generally. The Department of Foreign Affairs called the sanctions an unfriendly act that complicates bilateral relations.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/991351/teodoro-beijing-sanctions-crackdown-activities/story/",
+      "category": "politics",
+      "published_at": "2026-06-13T19:48:00+08:00",
+      "context": "Beijing announced the entry ban and a prohibition on Chinese entities transacting with the Teodoro family, citing protection of its sovereignty without specifying his remarks. Teodoro has been among the Marcos cabinet's most vocal critics of China's conduct in the disputed waterway."
+    },
+    {
+      "headline": "House prosecutors question detained senator's eligibility to judge Duterte impeachment trial",
+      "summary": "House prosecutors questioned whether detained Senator Jinggoy Estrada can serve as a senator-judge in Vice President Sara Duterte's impeachment trial, arguing he cannot properly assess witnesses without being physically present. Prosecutor Joel Chua and spokesperson Renee Co said physical presence is essential to the role. Estrada's staff called the concern premature, saying the matter remains unresolved while Senate proceedings are pending.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2245811/house-prosecution-questions-estradas-role-as-judge-in-impeachment-trial",
+      "category": "politics",
+      "published_at": "2026-06-13T17:40:00+08:00",
+      "context": "Estrada is detained on a non-bailable plunder charge tied to alleged kickbacks from flood control projects. The Senate impeachment trial is scheduled to open July 6.",
+      "watch_for": "The Senate will hold a pre-trial conference ahead of the July 6 trial opening; the question of Estrada's participation is expected to be taken up then."
+    },
+    {
+      "headline": "Prosecution says new evidence points to undeclared Duterte assets before impeachment trial",
+      "summary": "House prosecutor Terry Ridon said the prosecution had identified properties allegedly owned by Vice President Sara Duterte and her husband that appear in government records but were not listed in her Statements of Assets, Liabilities and Net Worth from 2007 to 2024. Ridon said the alleged undeclared assets relate to an unexplained-wealth charge and would be presented at pre-trial. A pre-trial brief containing details was expected within the following week.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2245830/ridon-cites-new-evidence-on-duterte-assets-missing-from-salns-2",
+      "category": "politics",
+      "published_at": "2026-06-13T19:34:00+08:00",
+      "context": "Unexplained wealth is one of several impeachment articles against Duterte, alongside allegations of misuse of public funds, bribery and threats against President Marcos and others. The trial is set to begin July 6."
+    },
+    {
+      "headline": "Calabarzon declared first region to attain stable internal peace status",
+      "summary": "The Armed Forces of the Philippines and the Department of the Interior and Local Government declared Calabarzon the country's first region to receive Stable Internal Peace and Security status, at a June 12 ceremony in Lucena City. Officials said the designation, built on provincial declarations made between 2018 and 2024, recognizes the region as free of active insurgency. DILG Secretary Jonvic Remulla attended the event.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/13/calabarzon-declared-insurgency-free-on-independence-day",
+      "category": "regions",
+      "published_at": "2026-06-13T18:03:00+08:00",
+      "context": "Calabarzon comprises Cavite, Laguna, Batangas, Rizal and Quezon, a major industrial, agricultural and commercial region south of Metro Manila."
+    },
+    {
+      "headline": "World Bank cuts Philippine 2026 growth forecast to 3.7% amid Middle East conflict",
+      "summary": "The World Bank lowered its 2026 economic growth forecast for the Philippines to 3.7 percent, citing effects of the Middle East conflict including higher oil prices and financial market strains. The lender said it would be the country's weakest expansion since the 2020 recession, noting first-quarter GDP grew 2.8 percent. It projected a rebound to about 5.6 percent in 2027-2028 as public investment recovers.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/12/world-bank-sees-philippines-growing-just-37-in-2026-amid-middle-east-war",
+      "category": "economy",
+      "published_at": "2026-06-12T13:45:00+08:00",
+      "context": "Brent crude has risen sharply amid disruption to shipping through the Strait of Hormuz, and the peso has fallen to record lows near 62 to the US dollar."
+    },
+    {
+      "headline": "Energy department warns of tight Luzon power supply during Malampaya maintenance",
+      "summary": "The Department of Energy warned of tight power reserves in Luzon starting June 15, when a month-long scheduled maintenance shutdown of the Malampaya gas project halts gas supply to dependent power plants. The DOE said Catanduanes is particularly vulnerable to rotational brownouts and that it and the National Power Corporation had deployed generator sets, with additional capacity targeted to come online by June 14.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/12/doe-warns-of-tight-power-reserves-in-luzon-starting-june-15",
+      "category": "economy",
+      "published_at": "2026-06-12T13:08:00+08:00",
+      "watch_for": "The Malampaya maintenance is scheduled to last about a month from June 15; the DOE said an additional 8-megawatt supply from Isla Dagyab Energy Corp. was targeted to come online by June 14."
+    },
+    {
+      "headline": "Philippine under-18 boys rout Malaysia, secure FIBA Asia Cup berth and SEABA final spot",
+      "summary": "Gilas Pilipinas' under-18 boys beat Malaysia 130-54 in the semifinals of the FIBA U18 Asia Cup SEABA Qualifiers, clinching a place in the qualifier final and a berth in the U18 Asia Cup proper set for India in August. JB Cagurungan scored 26 points off the bench and Prince Cariño added 21 as the team opened with a 17-0 run.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/sports/basketball/991350/gilas-pilipinas-boys-rout-malaysia-by-76-to-reach-seaba-qualifiers-finals-secure-asia-cup-berth/story/",
+      "category": "sports",
+      "published_at": "2026-06-13T19:16:00+08:00",
+      "watch_for": "The team plays Indonesia or Thailand in the SEABA Qualifiers final; the FIBA U18 Asia Cup is scheduled for India in August."
+    },
+    {
+      "headline": "US and Iran signal a ceasefire deal is near as fighting persists in Lebanon",
+      "summary": "Iranian Foreign Minister Abbas Araghchi said a memorandum of understanding to end the war with the US and Israel had 'never been closer,' and Pakistan's prime minister said a final agreed text exists with steps still pending, Al Jazeera reported. US officials said negotiations were making progress; President Trump first dismissed the reports as fake, then reposted Araghchi's remarks. Israel meanwhile continued striking southern Lebanon and issued displacement orders.",
+      "source": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues",
+      "category": "world",
+      "published_at": "2026-06-13T00:00:00+03:00",
+      "context": "The conflict had reached its 106th day, according to Al Jazeera, with thousands killed and much of Lebanon's population displaced. A proposed first phase would include a ceasefire on all fronts, lifting the Strait of Hormuz blockade and a mechanism to unfreeze Iranian assets estimated at $24 billion."
+    },
+    {
+      "headline": "Indian Air Force transport plane crashes in Assam, killing five crew",
+      "summary": "Five Indian Air Force personnel were killed when an Antonov An-32 transport plane crashed in the Jorhat area of Assam in northeastern India during what the air force described as a routine sortie, Al Jazeera reported. The military said crash-site management and initial inquiries were under way. The cause of the crash was not yet known.",
+      "source": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/6/13/five-indian-air-force-staff-killed-as-transport-plane-crashes-in-assam",
+      "category": "world",
+      "published_at": "2026-06-13T00:00:00+03:00",
+      "context": "The Indian Air Force operates about 105 An-32 transport aircraft; a 2019 crash of the same type in Arunachal Pradesh killed 13 people."
+    },
+    {
+      "headline": "China expands patrols east of Taiwan as Japan and Philippines plan sea boundary talks",
+      "summary": "Nikkei Asia reported that China is expanding maritime surveillance in waters east of Taiwan, an area crossed by undersea cables and key shipping lanes, in what it characterized as a response to planned talks between Japan and the Philippines on demarcating their sea boundaries in the region. The report did not cite named Chinese officials, and Beijing's specific rationale was presented as inference rather than an official statement.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-patrols-waters-east-of-taiwan-in-response-to-japan-philippine-talks",
+      "category": "world",
+      "published_at": "2026-06-13T07:03:00+09:00"
+    },
+    {
+      "headline": "SpaceX shares jump nearly 20% in stock market debut",
+      "summary": "SpaceX shares closed about 19 percent above their $135 offer price on their first day of Nasdaq trading, valuing the company at roughly $1.75 trillion, Nikkei Asia reported. The report said the listing made Elon Musk the world's first trillionaire. It added that the company's longer-term growth prospects depend heavily on Asia, where Starlink and its AI offerings have so far had limited penetration.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/spacex-closes-up-nearly-20-in-market-debut-but-faces-an-asia-problem",
+      "category": "world",
+      "published_at": "2026-06-12T13:47:00+09:00"
+    }
+  ]
+}
