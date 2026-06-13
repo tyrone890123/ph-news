@@ -108,18 +108,20 @@ h1 {
   cursor: default;
 }
 
-/* Floating display-settings bar, anchored bottom-right like a docs zoom control. */
+/* Floating display-settings bar, anchored bottom-right like a docs zoom control.
+   Sized in px, not rem: it controls the root font-size, so sizing it in rem
+   would make it grow/shrink under the cursor mid-drag. */
 .display-prefs {
   position: fixed;
-  right: 1rem;
-  bottom: 1rem;
+  right: 16px;
+  bottom: 16px;
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  padding: 0.375rem 0.625rem;
+  gap: 8px;
+  padding: 6px 10px;
   background: var(--bg);
   border: 1px solid var(--rule);
-  font-size: 0.75rem;
+  font-size: 12px;
   color: var(--ink-soft);
 }
 
@@ -130,7 +132,7 @@ h1 {
   color: var(--ink);
   background: none;
   border: none;
-  padding: 0.25rem;
+  padding: 4px;
   cursor: pointer;
 }
 
@@ -142,11 +144,11 @@ h1 {
 :root[data-theme="dark"] .icon-moon { display: block; }
 
 .display-prefs input[type="range"] {
-  width: 7rem;
+  width: 112px;
   accent-color: var(--accent);
 }
 
-.display-prefs output { min-width: 3ch; text-align: right; }
+.display-prefs output { min-width: 36px; text-align: right; }
 
 .notice {
   margin: 1rem 0 0;

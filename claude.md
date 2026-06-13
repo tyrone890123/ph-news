@@ -31,7 +31,7 @@ The website specifications are located at `website_spec.md`, use that as referen
 | # | Assumption | Impact if wrong |
 |---|---|---|
 | A1 | News is produced by a **Claude Code cloud routine** (claude.ai/code/routines), not a Cowork desktop scheduled task. | Desktop tasks only run while the machine is awake; delivery mechanism and reliability section would need rework. |
-| A2 | The routine can be granted push access to this repo, with **unrestricted branch pushes enabled** so it commits to `main`. | If kept restricted to `claude/` branches, §8.2 (auto-merge Action) becomes mandatory instead of optional. |
+| A2 | The routine has push access to this repo with **unrestricted branch pushes enabled** and commits directly to `main`. | — Resolved: direct pushes to `main` are the chosen policy; no PR or auto-merge step. §8.2 (validation Action) remains the post-push backstop. |
 | A3 | One publish per day, timed to Philippine mornings (e.g. 06:00 PHT / UTC+8). | Schema supports it either way, but `index.json` semantics assume one file per date. |
 | A4 | Repo is public (required for GitHub Pages on free plans). | Private repo requires a paid GitHub plan for Pages. |
 
@@ -166,10 +166,9 @@ Single page (`index.html`):
 
 1. **Routine type confirmation** — cloud routine or Cowork desktop scheduled task? (Affects A1/A2 and §8 entirely.)
 2. **Current routine output format** — what does it produce today (chat report, file, email)? Determines how much of the existing prompt is reusable vs. rewritten.
-3. **Branch policy** — unrestricted push to `main` (simpler) vs. `claude/` branch + auto-merge Action (safer)? Spec assumes the former.
-4. **Categories** — is the fixed list in §7.1 right for how the routine already groups stories?
-5. **Repo visibility** — public acceptable?
-6. **Custom domain** — `<user>.github.io/ph-news` or a custom domain (adds DNS + CNAME config)?
+3. **Categories** — is the fixed list in §7.1 right for how the routine already groups stories?
+4. **Repo visibility** — public acceptable?
+5. **Custom domain** — `<user>.github.io/ph-news` or a custom domain (adds DNS + CNAME config)?
 
 ## 11. Out of scope for v1 / future candidates
 
