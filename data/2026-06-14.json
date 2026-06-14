@@ -1,114 +1,120 @@
 {
   "version": 1,
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T04:12:33+08:00",
+  "generated_at": "2026-06-14T11:00:00+08:00",
   "stories": [
     {
-      "headline": "Mindanao quake toll reaches 61 as magnitude 5.3 aftershock strikes Sarangani",
-      "summary": "A magnitude 5.3 aftershock struck off Glan, Sarangani at 10:05 a.m. on June 13, PHIVOLCS said, one of nearly 4,000 aftershocks recorded since the June 8 magnitude 7.8 earthquake off Maasim. Authorities reported the quake's death toll had climbed to 61, with 1,221 people injured and 33 still missing as validation continued. PHIVOLCS said further strong aftershocks were now considered unlikely.",
-      "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/topstories/regions/991310/earthquake-sarangani-davao-occidental-phivolcs/story/",
+      "headline": "Death toll reaches 61 as Mindanao quake response mounts; infrastructure damage tops P1 billion",
+      "summary": "The magnitude 7.8 earthquake that struck Maasim, Sarangani on June 8 has claimed 61 lives, injured 1,403, and left 40 missing, according to the NDRRMC. Infrastructure damage reached P1 billion across 725 facilities, with nearly 9,900 homes destroyed and 44,100 partially damaged. Military and coast guard units continued delivering food, water, and medical supplies to isolated communities in Sarangani and Davao Occidental on June 14.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/14/infra-damage-at-p1-billion-quake-death-toll-climbs-to-61-as-govt-responders-race-to-reach-isolated-communities-in-mindanao",
       "category": "regions",
-      "published_at": "2026-06-13T10:47:00+08:00",
-      "context": "The magnitude 7.8 quake hit offshore Maasim, Sarangani on June 8, with most deaths caused by landslides and falling debris. General Santos City, Sarangani, South Cotabato and Davao Occidental were among the hardest hit, and the Office of Civil Defense said more than 346,000 people have been affected."
+      "context": "About 173,000 families or 724,000 people were affected. A state of calamity is in effect across 13 municipalities and cities. The government has distributed P67.6 million in relief assistance; about 2,000 families remain in 34 evacuation centers.",
+      "watch_for": "Congress is deliberating a P15-billion supplemental budget for earthquake relief and rehabilitation."
     },
     {
-      "headline": "Defense chief links Chinese sanctions on him to Philippine crackdown on illegal operations",
-      "summary": "Defense Secretary Gilberto Teodoro Jr. said China's decision to bar him and his family from entering the mainland, Hong Kong and Macau stemmed from his statements on the West Philippine Sea and from Philippine enforcement actions against illegal Chinese operations, citing the Bamban scam hub and the Sanjia steel facility. He said the measures targeted wrongdoing rather than Chinese nationals generally. The Department of Foreign Affairs called the sanctions an unfriendly act that complicates bilateral relations.",
+      "headline": "PHIVOLCS documents 2-meter coastal uplift in Sarangani and Davao Occidental, exposing coral reefs",
+      "summary": "Scientists from the Philippine Institute of Volcanology and Seismology documented a roughly two-meter rise in the coastline of Glan, Sarangani and Jose Abad Santos, Davao Occidental following the June 8 earthquake, with the shoreline retreating about 200 meters and previously submerged coral reefs now exposed above sea level. PHIVOLCS said about 5,200 aftershocks had been recorded, ranging from magnitude 1.2 to 6.4. Field teams said further coastal changes may be identified as more areas are assessed.",
       "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/991351/teodoro-beijing-sanctions-crackdown-activities/story/",
-      "category": "politics",
-      "published_at": "2026-06-13T19:48:00+08:00",
-      "context": "Beijing announced the entry ban and a prohibition on Chinese entities transacting with the Teodoro family, citing protection of its sovereignty without specifying his remarks. Teodoro has been among the Marcos cabinet's most vocal critics of China's conduct in the disputed waterway."
-    },
-    {
-      "headline": "House prosecutors question detained senator's eligibility to judge Duterte impeachment trial",
-      "summary": "House prosecutors questioned whether detained Senator Jinggoy Estrada can serve as a senator-judge in Vice President Sara Duterte's impeachment trial, arguing he cannot properly assess witnesses without being physically present. Prosecutor Joel Chua and spokesperson Renee Co said physical presence is essential to the role. Estrada's staff called the concern premature, saying the matter remains unresolved while Senate proceedings are pending.",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2245811/house-prosecution-questions-estradas-role-as-judge-in-impeachment-trial",
-      "category": "politics",
-      "published_at": "2026-06-13T17:40:00+08:00",
-      "context": "Estrada is detained on a non-bailable plunder charge tied to alleged kickbacks from flood control projects. The Senate impeachment trial is scheduled to open July 6.",
-      "watch_for": "The Senate will hold a pre-trial conference ahead of the July 6 trial opening; the question of Estrada's participation is expected to be taken up then."
-    },
-    {
-      "headline": "Prosecution says new evidence points to undeclared Duterte assets before impeachment trial",
-      "summary": "House prosecutor Terry Ridon said the prosecution had identified properties allegedly owned by Vice President Sara Duterte and her husband that appear in government records but were not listed in her Statements of Assets, Liabilities and Net Worth from 2007 to 2024. Ridon said the alleged undeclared assets relate to an unexplained-wealth charge and would be presented at pre-trial. A pre-trial brief containing details was expected within the following week.",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2245830/ridon-cites-new-evidence-on-duterte-assets-missing-from-salns-2",
-      "category": "politics",
-      "published_at": "2026-06-13T19:34:00+08:00",
-      "context": "Unexplained wealth is one of several impeachment articles against Duterte, alongside allegations of misuse of public funds, bribery and threats against President Marcos and others. The trial is set to begin July 6."
-    },
-    {
-      "headline": "Calabarzon declared first region to attain stable internal peace status",
-      "summary": "The Armed Forces of the Philippines and the Department of the Interior and Local Government declared Calabarzon the country's first region to receive Stable Internal Peace and Security status, at a June 12 ceremony in Lucena City. Officials said the designation, built on provincial declarations made between 2018 and 2024, recognizes the region as free of active insurgency. DILG Secretary Jonvic Remulla attended the event.",
-      "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/06/13/calabarzon-declared-insurgency-free-on-independence-day",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/991369/mindanao-earthquake-triggers-coastal-uplift-in-sarangani-davao-occidental/story/",
       "category": "regions",
-      "published_at": "2026-06-13T18:03:00+08:00",
-      "context": "Calabarzon comprises Cavite, Laguna, Batangas, Rizal and Quezon, a major industrial, agricultural and commercial region south of Metro Manila."
+      "context": "The uplift resulted from movement along the Cotabato Trench, the same fault system that produced the earthquake. PHIVOLCS described the changes as co-seismic, meaning they occurred at the moment of the main rupture."
     },
     {
-      "headline": "World Bank cuts Philippine 2026 growth forecast to 3.7% amid Middle East conflict",
-      "summary": "The World Bank lowered its 2026 economic growth forecast for the Philippines to 3.7 percent, citing effects of the Middle East conflict including higher oil prices and financial market strains. The lender said it would be the country's weakest expansion since the 2020 recession, noting first-quarter GDP grew 2.8 percent. It projected a rebound to about 5.6 percent in 2027-2028 as public investment recovers.",
+      "headline": "General Santos International Airport to reopen to commercial flights on June 15",
+      "summary": "The Department of Transportation and the Civil Aviation Authority of the Philippines said General Santos International Airport will resume commercial operations on June 15 after safety assessments cleared the facility for use. The airport had been closed since the June 8 magnitude 7.8 earthquake as a precautionary measure. Passengers were advised to contact their airlines directly for updated flight schedules.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2246135/general-santos-intl-airport-to-resume-flights-on-monday-june-15",
+      "category": "regions"
+    },
+    {
+      "headline": "PNP, NBI and Senate open separate probes into deaths of two Ateneo basketball players in Aurora",
+      "summary": "The PNP Criminal Investigation and Detection Group, the National Bureau of Investigation, and the Philippine Senate have each opened investigations into the deaths of two Ateneo de Manila University student athletes during a basketball team-building activity in Dipaculao, Aurora. Incoming rookie Rene Baterbonia and sophomore Divine Adili, a Nigerian player, died during the event organized by the Blue Eagles. PNP spokesman Col. Allen Rae Co said authorities would carefully consider all accounts and cautioned against premature conclusions.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2246209/pnp-to-carefully-consider-all-accounts-in-ateneo-drowning-case-2",
+      "category": "other",
+      "context": "A woman claiming to be former coach Tab Baldwin's estranged wife made public allegations that warnings about him went unheeded and that the deaths were preventable. A joint body from the Philippine Sports Commission, UAAP, CHED, and the National Youth Commission is also conducting a separate inquiry."
+    },
+    {
+      "headline": "Villanueva pledges to attend Marcos-called special session as Senate leadership crisis persists",
+      "summary": "Senator Joel Villanueva announced on June 14 that he would attend any special session called by President Marcos, saying it was not the time to take sides amid the Senate leadership dispute. His participation could give Acting Senate President Sherwin Gatchalian's bloc the 13th vote it needs to formally consolidate the majority. Senator Panfilo Lacson said the majority was prepared with contingencies against Senator Alan Peter Cayetano, whom he accused of prioritizing personal interests over the institution.",
       "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/06/12/world-bank-sees-philippines-growing-just-37-in-2026-amid-middle-east-war",
-      "category": "economy",
-      "published_at": "2026-06-12T13:45:00+08:00",
-      "context": "Brent crude has risen sharply amid disruption to shipping through the Strait of Hormuz, and the peso has fallen to record lows near 62 to the US dollar."
+      "url": "https://mb.com.ph/2026/06/14/we-will-be-there-joel-villanueva-to-attend-special-session-to-be-called-by-pbbm",
+      "category": "politics",
+      "context": "The Senate has been gridlocked since June 6 when Cayetano's bloc boycotted its final three session days. Key pending measures include AFP and DFA appointments stalled in the Commission on Appointments and a possible supplemental budget for Mindanao earthquake relief.",
+      "watch_for": "Marcos has said he will call a special session once the Senate resolves its internal dispute. No date has been set."
     },
     {
-      "headline": "Energy department warns of tight Luzon power supply during Malampaya maintenance",
-      "summary": "The Department of Energy warned of tight power reserves in Luzon starting June 15, when a month-long scheduled maintenance shutdown of the Malampaya gas project halts gas supply to dependent power plants. The DOE said Catanduanes is particularly vulnerable to rotational brownouts and that it and the National Power Corporation had deployed generator sets, with additional capacity targeted to come online by June 14.",
-      "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/06/12/doe-warns-of-tight-power-reserves-in-luzon-starting-june-15",
-      "category": "economy",
-      "published_at": "2026-06-12T13:08:00+08:00",
-      "watch_for": "The Malampaya maintenance is scheduled to last about a month from June 15; the DOE said an additional 8-megawatt supply from Isla Dagyab Energy Corp. was targeted to come online by June 14."
-    },
-    {
-      "headline": "Philippine under-18 boys rout Malaysia, secure FIBA Asia Cup berth and SEABA final spot",
-      "summary": "Gilas Pilipinas' under-18 boys beat Malaysia 130-54 in the semifinals of the FIBA U18 Asia Cup SEABA Qualifiers, clinching a place in the qualifier final and a berth in the U18 Asia Cup proper set for India in August. JB Cagurungan scored 26 points off the bench and Prince Cariño added 21 as the team opened with a 17-0 run.",
+      "headline": "Lacson warns detention of up to nine senators could render Sara Duterte impeachment trial untenable",
+      "summary": "Senator Panfilo Lacson said the impeachment trial of Vice President Sara Duterte could become constitutionally unworkable if up to nine senators face detention in a flood control scandal, leaving fewer than the 16 votes needed for conviction. With Senator Jinggoy Estrada already detained, Lacson said a quorum crisis could make acquittal a foregone conclusion. He rejected Senator Cayetano's proposal to lower the conviction threshold from 16 to 12, calling it devious.",
       "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/sports/basketball/991350/gilas-pilipinas-boys-rout-malaysia-by-76-to-reach-seaba-qualifiers-finals-secure-asia-cup-berth/story/",
-      "category": "sports",
-      "published_at": "2026-06-13T19:16:00+08:00",
-      "watch_for": "The team plays Indonesia or Thailand in the SEABA Qualifiers final; the FIBA U18 Asia Cup is scheduled for India in August."
+      "url": "https://www.gmanetwork.com/news/topstories/nation/991439/lacson-senators-sara-duterte-impeachment-trial/story/",
+      "category": "politics",
+      "context": "Conviction in a Senate impeachment trial requires two-thirds of all 24 members, or 16 votes. Estrada is detained on a non-bailable plunder charge unrelated to the flood control case.",
+      "watch_for": "A Senate pre-trial conference is scheduled for June 18; the full trial is set to begin July 6."
     },
     {
-      "headline": "US and Iran signal a ceasefire deal is near as fighting persists in Lebanon",
-      "summary": "Iranian Foreign Minister Abbas Araghchi said a memorandum of understanding to end the war with the US and Israel had 'never been closer,' and Pakistan's prime minister said a final agreed text exists with steps still pending, Al Jazeera reported. US officials said negotiations were making progress; President Trump first dismissed the reports as fake, then reposted Araghchi's remarks. Israel meanwhile continued striking southern Lebanon and issued displacement orders.",
+      "headline": "PNP intensifies operations against POGO-linked scam hubs that have shifted to dispersed networks",
+      "summary": "The Philippine National Police has escalated operations against illegal online scam hubs tied to former Philippine Offshore Gaming Operators that have broken into smaller decentralized networks to evade detection, PNP Chief Gen. Jose Melencio Nartatez Jr. said. Suspected hubs remain active in Baclaran, Binondo, Paranaque, Palawan, and Cebu, according to former quad committee chair Robert Ace Barbers. The PNP is coordinating with other agencies under implementing rules for an executive order that banned all POGO operations.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2246097/pnp-intensifies-ops-vs-guerrilla-style-scam-hubs-tied-to-former-pogos",
+      "category": "other",
+      "context": "A December 31, 2024 deadline shut down all licensed POGO operators, but authorities estimate roughly 100 operators went underground and continued running scam operations out of houses, hotels, and resorts."
+    },
+    {
+      "headline": "Lacson says AFP and PNP will not be destabilized by 18 alleged ex-Marines tied to flood control case",
+      "summary": "Senator Panfilo Lacson said the Armed Forces of the Philippines and the police would not be swayed by alleged destabilization efforts linked to 18 individuals, referred to as Maleta Boys, who he said were alleged former Marines that had delivered suitcases of cash related to a flood control scandal. The AFP has disowned the group. Senate security was heightened after the 18 entered Senate premises on June 8 and held a press conference at Senator Robinhood Padilla's office.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2246175/lacson-afp-pnp-wont-be-affected-by-destabilization-plot-18-bagmen",
+      "category": "politics",
+      "context": "The flood control scandal involves allegations that contractors paid kickbacks to government officials via bagmen. The group's Senate visit occurred on June 8, the same day the magnitude 7.8 earthquake struck Mindanao."
+    },
+    {
+      "headline": "PAGASA: Easterlies bringing scattered rains and thunderstorm risk to Mindanao and eastern Visayas",
+      "summary": "The Philippine Atmospheric, Geophysical and Astronomical Services Administration said as of 4:00 p.m. on June 14 that easterlies were affecting Mindanao and eastern sections of Southern Luzon and the Visayas, bringing scattered rains and thunderstorms. The Zamboanga Peninsula, Basilan, and Tawi-Tawi face cloudy skies with risks of flash floods and landslides from moderate to heavy rainfall. No tropical cyclone was active in the Philippine area of responsibility.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-06-14T16:00:00+08:00"
+    },
+    {
+      "headline": "2026 FIFA World Cup opens with US routing Paraguay 4-1 as host nations deliver strong debuts",
+      "summary": "The 2026 FIFA World Cup kicked off across the United States, Mexico, and Canada with the host nation defeating Paraguay 4-1 and Mexico beating South Africa 2-0 on the first day of group-stage play. Scotland beat Haiti 1-0 for their first World Cup win since 1990, while Australia defeated Turkey 2-0; Brazil drew 1-1 with Morocco and Canada drew 1-1 with Bosnia and Herzegovina. The 48-team tournament, the largest in World Cup history, is spread across 16 cities in three countries.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/sports/football/991428/2026-fifa-world-cup-updates-and-results-june-14-2026/story/",
+      "category": "sports"
+    },
+    {
+      "headline": "Trump condemns Israel's Beirut strike and says US-Iran peace deal remains close despite setback",
+      "summary": "President Trump publicly rebuked Israel's airstrike on southern Beirut on June 14, saying it should not have happened and that all sides should stand down ahead of a peace deal with Iran he described as imminent. Iranian parliamentary leaders questioned US credibility and threatened a strong response to the strike, while Qatari mediators continued working to finalize terms in Tehran. Trump indicated a memorandum signing would be delayed by a few hours but that negotiations remained on track.",
       "source": "Al Jazeera",
-      "url": "https://aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues",
+      "url": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close",
       "category": "world",
-      "published_at": "2026-06-13T00:00:00+03:00",
-      "context": "The conflict had reached its 106th day, according to Al Jazeera, with thousands killed and much of Lebanon's population displaced. A proposed first phase would include a ceasefire on all fronts, lifting the Strait of Hormuz blockade and a mechanism to unfreeze Iranian assets estimated at $24 billion."
+      "context": "Proposed deal terms include a regional ceasefire, lifting of the Strait of Hormuz blockade that has raised global oil prices, and release of approximately $24 billion in frozen Iranian assets, with nuclear and sanctions issues to follow within 60 days.",
+      "watch_for": "A US-Iran memorandum of understanding was expected to be signed imminently, pending Iranian political consensus in the wake of the Beirut strike."
     },
     {
-      "headline": "Indian Air Force transport plane crashes in Assam, killing five crew",
-      "summary": "Five Indian Air Force personnel were killed when an Antonov An-32 transport plane crashed in the Jorhat area of Assam in northeastern India during what the air force described as a routine sortie, Al Jazeera reported. The military said crash-site management and initial inquiries were under way. The cause of the crash was not yet known.",
+      "headline": "About 20,000 protest in Geneva ahead of G7 summit in France, with clashes reported",
+      "summary": "About 20,000 people marched in Geneva on June 14 to protest ahead of the G7 leaders summit opening in Evian-les-Bains, France on June 15, organized by a coalition of more than 60 groups including Palestinian rights advocates, environmentalists, and feminist activists. Some demonstrators clashed with riot police who used tear gas and water cannons, with several UN and corporate offices targeted. Protesters criticized the G7 as serving wealthy nations at the expense of the global majority.",
       "source": "Al Jazeera",
-      "url": "https://aljazeera.com/news/2026/6/13/five-indian-air-force-staff-killed-as-transport-plane-crashes-in-assam",
+      "url": "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit",
       "category": "world",
-      "published_at": "2026-06-13T00:00:00+03:00",
-      "context": "The Indian Air Force operates about 105 An-32 transport aircraft; a 2019 crash of the same type in Arunachal Pradesh killed 13 people."
+      "watch_for": "The G7 summit runs June 15-17 in Evian-les-Bains, France, with the Middle East conflict, tariffs, and global economic coordination expected on the agenda."
     },
     {
-      "headline": "China expands patrols east of Taiwan as Japan and Philippines plan sea boundary talks",
-      "summary": "Nikkei Asia reported that China is expanding maritime surveillance in waters east of Taiwan, an area crossed by undersea cables and key shipping lanes, in what it characterized as a response to planned talks between Japan and the Philippines on demarcating their sea boundaries in the region. The report did not cite named Chinese officials, and Beijing's specific rationale was presented as inference rather than an official statement.",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-patrols-waters-east-of-taiwan-in-response-to-japan-philippine-talks",
-      "category": "world",
-      "published_at": "2026-06-13T07:03:00+09:00"
+      "headline": "British military seizes Russian oil tanker in English Channel in first such operation in the waterway",
+      "summary": "UK armed forces intercepted and seized a vessel named SMYRTOS in the English Channel on June 14, in what officials described as the first British military operation of its kind in the waterway. The tanker was believed to be part of Russia's shadow fleet, a network of vessels using obscure ownership structures to circumvent Western sanctions and channel revenue to fund Moscow's war in Ukraine, Al Jazeera reported.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war",
+      "category": "world"
     },
     {
-      "headline": "SpaceX shares jump nearly 20% in stock market debut",
-      "summary": "SpaceX shares closed about 19 percent above their $135 offer price on their first day of Nasdaq trading, valuing the company at roughly $1.75 trillion, Nikkei Asia reported. The report said the listing made Elon Musk the world's first trillionaire. It added that the company's longer-term growth prospects depend heavily on Asia, where Starlink and its AI offerings have so far had limited penetration.",
+      "headline": "Japan to launch geological surveys in Greenland this summer to reduce rare earth dependence on China",
+      "summary": "Japan's government plans to conduct geological surveys in Greenland starting this summer to assess rare earth and critical mineral deposits, with the aim of supporting Japanese companies in investing in mining projects there, Nikkei Asia reported. The move is part of Japan's broader effort to diversify supply chains after Chinese rare earth exports to Japan fell by approximately 80 percent. Japan is also building domestic processing capacity and pursuing investments in Australian rare earth projects as part of the same strategy.",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/spacex-closes-up-nearly-20-in-market-debut-but-faces-an-asia-problem",
+      "url": "https://asia.nikkei.com/politics/international-relations/japan-to-explore-rare-earth-mining-in-greenland-to-cut-china-reliance",
       "category": "world",
-      "published_at": "2026-06-12T13:47:00+09:00"
+      "context": "Rare earth elements are critical for manufacturing electronics, electric vehicles, and defense technology. China dominates global rare earth mining and processing, giving it significant leverage over supply chains for these materials."
     }
   ]
 }
