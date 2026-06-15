@@ -4,55 +4,78 @@
   "generated_at": "2026-06-10T06:00:00+08:00",
   "stories": [
     {
-      "headline": "Mindanao quake death toll reaches 37 as over 31,000 shelter in evacuation centers",
-      "summary": "The Office of Civil Defense said deaths from Monday's magnitude 7.8 offshore earthquake near Sarangani have risen to 37, with 33 recorded in Soccsksargen and four in the Davao Region. Officials reported 488 injured and four missing, while more than 8,700 families are staying in 54 evacuation centers. Search and retrieval operations are concentrated in General Santos City, which has been placed under a state of calamity, and in Sarangani province.",
+      "headline": "Mindanao quake death toll rises to 45 as recovery and power restoration continue",
+      "summary": "The NDRRMC said deaths from the magnitude 7.8 earthquake that struck off Sarangani on June 8 reached 45 as of the evening of June 9, with 33 fatalities recorded in Soccsksargen and 12 in the Davao Region, alongside 487 injured and 17 still missing. The agency said about 71,525 consumers remained without power, down from a peak of 130,463. PHIVOLCS recorded 2,023 aftershocks as of Wednesday morning, 47 of them felt by residents.",
       "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/990735/magnitude-7-8-mindanao-earthquake-death-toll-now-37-ocd/story/",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/990902/live-updates-magnitude-7-8-mindanao-earthquake-effects-june-10-2026/story/",
       "category": "regions",
-      "published_at": "2026-06-09T11:00:00+08:00",
-      "context": "The magnitude 7.8 quake on June 8 was the strongest to hit Mindanao since the 1976 Moro Gulf earthquake, and follows a series of destructive quakes in the Davao region in late 2023.",
-      "watch_for": "PHIVOLCS has warned of aftershocks above magnitude 6 in the coming days; the OCD is due to release an updated casualty and damage bulletin this evening."
+      "published_at": "2026-06-10T15:56:00+08:00",
+      "context": "The magnitude 7.8 offshore quake on June 8 was among the strongest to hit Mindanao in decades and triggered tsunami warnings that were later lifted.",
+      "watch_for": "PHIVOLCS warned that strong aftershocks remain possible in the coming days; Energy Secretary Sharon Garin said power supply is expected to return to normal within the week."
     },
     {
-      "headline": "157,000 consumers still without power as quake-hit plants stay offline",
-      "summary": "The Department of Energy said around 157,000 consumers remained without electricity after the Sarangani earthquake, with two power plants in Davao Occidental and Sarangani still offline after automatically tripping, removing roughly 832 megawatts of generation. Repairs are ongoing on the Tacurong-General Santos transmission lines. Tsunami alerts triggered by the quake in several coastal provinces were lifted on June 8.",
-      "source": "Rappler",
-      "url": "https://www.rappler.com/philippines/mindanao/death-toll-sarangani-earthquake-june-9-2026/",
+      "headline": "Marcos pledges P50,000 per family of quake fatalities, P100 million for General Santos",
+      "summary": "During a visit to General Santos City on June 10, President Marcos said the families of those killed in the Sarangani earthquake will each receive P50,000 in government assistance. He also announced P100 million from the Local Government Support Fund to repair the city's damaged city hall, and said the budget department would release further funds for infrastructure repairs in Sarangani and South Cotabato. Marcos said power had been restored to about 85 percent of affected areas.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/10/families-of-people-killed-in-earthquake-to-get-p50000-aid-marcos",
       "category": "regions",
-      "published_at": "2026-06-09T12:00:00+08:00"
+      "published_at": "2026-06-10T16:17:00+08:00"
     },
     {
-      "headline": "Senate shifts to remote work over reported security threat as leadership feud deepens",
-      "summary": "Acting Senate President Sherwin Gatchalian ordered Senate employees to work from home on June 10 and 11 to allow a security assessment of the chamber's premises, citing threat information from the NBI. Senator Alan Peter Cayetano, who was ousted in the June 3 leadership change, questioned the intelligence's credibility and issued a contradicting work advisory, while Malacanang and the House continue to recognize the Gatchalian bloc.",
-      "source": "The Manila Times",
-      "url": "https://www.manilatimes.net/2026/06/10/news/national/gatchalian-orders-senate-lockdown/2361914",
-      "category": "politics",
-      "context": "The Senate has had two rival leadership blocs since the June 3 ouster of Cayetano, with both camps claiming legitimacy and issuing competing orders to the chamber's staff.",
-      "watch_for": "The Supreme Court is expected to act this week on a petition asking it to rule on which leadership election was valid."
+      "headline": "Grid operator says quake-damaged Mindanao transmission lines fully restored",
+      "summary": "The National Grid Corporation of the Philippines said it completed restoration of the transmission lines toppled by the magnitude 7.8 earthquake, with services in South Cotabato, Sarangani, and General Santos City back online at 1:38 p.m. on June 9. The Department of Energy directed the grid operator to speed up assessment and repairs, while damage evaluation continued across generation and distribution facilities.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/990807/transmission-lines-hit-by-magnitude-7-8-mindanao-earthquake-fully-restored-ngcp/story/",
+      "category": "economy",
+      "published_at": "2026-06-09T16:15:00+08:00"
     },
     {
-      "headline": "Diesel up P5.77 per liter as fuel prices climb again this week",
-      "summary": "Oil firms raised pump prices effective Tuesday, June 9, reversing the previous week's large rollback, with diesel and kerosene rising by more than P4 per liter under advisories from Seaoil, Shell, and Unioil, and diesel increases reaching P5.77 in some advisories. The Department of Energy said national fuel inventory stands at about 47 days, with the increases attributed to renewed volatility in global crude markets tied to stalled Middle East negotiations.",
+      "headline": "Fuel prices climb anew, with diesel up as much as P5.77 per liter",
+      "summary": "Oil companies raised pump prices effective June 9, with gasoline up by P0.30 per liter across firms and diesel increasing by P4.85 to P5.77 depending on the retailer, according to advisories from Seaoil, Shell, and Unioil. Kerosene rose by up to P8.10 per liter. An industry source attributed the increases to supply disruption following stalled peace negotiations in the Middle East.",
       "source": "GMA News",
       "url": "https://www.gmanetwork.com/news/money/companies/990631/oil-price-hike-june-9-2026/story/",
       "category": "economy",
-      "published_at": "2026-06-08T16:12:00+08:00",
-      "watch_for": "Oil firms announce next week's price adjustments on Monday; analysts expect another increase if Middle East supply talks remain stalled."
+      "published_at": "2026-06-08T16:12:00+08:00"
     },
     {
-      "headline": "Southwest monsoon brings rain to western Luzon; thunderstorm advisories up in Visayas",
-      "summary": "PAGASA said the southwest monsoon is affecting the western section of Northern Luzon, while localized thunderstorms will bring rain showers to much of the rest of the country. Thunderstorm advisories were issued early Wednesday for parts of Cebu, Bohol, Leyte, and Palawan, with warnings of possible flash floods and landslides in affected areas.",
+      "headline": "Gatchalian rejects power-sharing as Senate leadership dispute with Cayetano persists",
+      "summary": "Acting Senate President Sherwin Gatchalian rejected proposals for a power-sharing arrangement to resolve the chamber's leadership standoff, saying only one person was elected to lead when the new majority installed him on June 3. Senator Alan Peter Cayetano, who was unseated in that session after his bloc boycotted it, maintains he remains the legitimate Senate President and has proposed interim dual-signatory arrangements. Malacanang and the House of Representatives recognize Gatchalian.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/09/gatchalian-no-power-sharing-deal-with-cayetano",
+      "category": "politics",
+      "published_at": "2026-06-09T13:29:00+08:00"
+    },
+    {
+      "headline": "Senate impeachment court sets pre-trial conference in VP Duterte case",
+      "summary": "The Senate impeachment court, through presiding officer Sherwin Gatchalian, issued a notice scheduling pre-trial proceedings in the impeachment case against Vice President Sara Duterte. The pre-trial will cover stipulation of facts, marking of evidence, identification of witnesses, and the setting of trial dates. Duterte faces charges including alleged misuse of confidential funds, unexplained wealth, and statements against President Marcos and other officials.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/09/senate-impeachment-court-sets-june-18-pre-trial-conference-for-vp-dutertes-case",
+      "category": "politics",
+      "published_at": "2026-06-09T20:41:00+08:00",
+      "watch_for": "The pre-trial conference is set for June 18 at the Senate, with both parties required to submit pre-trial briefs by June 15. The proceedings will be closed to the media and the public."
+    },
+    {
+      "headline": "Unemployment rate eased to 4.7 percent in April; Palace urges continued job creation",
+      "summary": "Official data showed the unemployment rate fell to 4.7 percent in April from 5.8 percent in March, with the number of employed Filipinos rising to 48.89 million and the services sector accounting for 62.3 percent of jobs. Palace Press Officer Claire Castro said the results were positive but that the government would not take them for granted and would continue working to create quality jobs and livelihood programs.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/10/government-wont-remain-complacent-even-if-unemployment-rate-slows-down-palace",
+      "category": "economy",
+      "published_at": "2026-06-10T13:45:00+08:00"
+    },
+    {
+      "headline": "Southwest monsoon brings rains to northern Luzon; isolated thunderstorms elsewhere",
+      "summary": "PAGASA said the southwest monsoon is bringing cloudy skies with scattered rains and thunderstorms over Ilocos Norte, Batanes, and the Babuyan Islands, with possible flash floods and landslides in affected areas. The rest of the country can expect partly cloudy to cloudy skies with isolated rain showers and thunderstorms, mainly in the afternoon and evening.",
       "source": "PAGASA",
       "url": "https://www.pagasa.dost.gov.ph/weather",
       "category": "weather"
     },
     {
-      "headline": "Viewers' verdict splits online as \"Sandigan ng Puso\" finale airs <b>unedited</b> cut & extended ending",
-      "summary": "The primetime series \"Sandigan ng Puso\" wrapped its three-year run with a double-length finale that trended nationwide within minutes of airing. The network said an extended director's cut will stream over the weekend, while cast members thanked fans at a send-off event in Quezon City.",
-      "source": "PEP.ph",
-      "url": "https://www.pep.ph/news/2026/06/09/sandigan-ng-puso-finale-extended-cut",
-      "category": "showbiz",
-      "published_at": "2026-06-09T22:40:00+08:00"
+      "headline": "Two Ateneo basketball players drown during team-building activity in Aurora",
+      "summary": "Two members of the Ateneo de Manila men's basketball team, 19-year-old incoming recruit Rene Baterbonia and 21-year-old foreign student-athlete Divine Adili, died in a drowning incident during a team-building activity in Dipaculao, Aurora, on June 8. Police initial findings attributed Baterbonia's death to asphyxia by drowning, and authorities said they were still investigating the circumstances. The university expressed condolences to the players' families.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/sports/basketball/990674/ateneo-recruit-rene-baterbonia-foreign-student-athlete-divine-adili-die-in-drowning-incident/story/",
+      "category": "sports",
+      "published_at": "2026-06-08T19:44:00+08:00"
     }
   ]
 }

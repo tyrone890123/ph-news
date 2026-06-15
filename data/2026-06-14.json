@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T11:00:00+08:00",
+  "stories": [
+    {
+      "headline": "Death toll reaches 61 as Mindanao quake response mounts; infrastructure damage tops P1 billion",
+      "summary": "The magnitude 7.8 earthquake that struck Maasim, Sarangani on June 8 has claimed 61 lives, injured 1,403, and left 40 missing, according to the NDRRMC. Infrastructure damage reached P1 billion across 725 facilities, with nearly 9,900 homes destroyed and 44,100 partially damaged. Military and coast guard units continued delivering food, water, and medical supplies to isolated communities in Sarangani and Davao Occidental on June 14.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/14/infra-damage-at-p1-billion-quake-death-toll-climbs-to-61-as-govt-responders-race-to-reach-isolated-communities-in-mindanao",
+      "category": "regions",
+      "context": "About 173,000 families or 724,000 people were affected. A state of calamity is in effect across 13 municipalities and cities. The government has distributed P67.6 million in relief assistance; about 2,000 families remain in 34 evacuation centers.",
+      "watch_for": "Congress is deliberating a P15-billion supplemental budget for earthquake relief and rehabilitation."
+    },
+    {
+      "headline": "PHIVOLCS documents 2-meter coastal uplift in Sarangani and Davao Occidental, exposing coral reefs",
+      "summary": "Scientists from the Philippine Institute of Volcanology and Seismology documented a roughly two-meter rise in the coastline of Glan, Sarangani and Jose Abad Santos, Davao Occidental following the June 8 earthquake, with the shoreline retreating about 200 meters and previously submerged coral reefs now exposed above sea level. PHIVOLCS said about 5,200 aftershocks had been recorded, ranging from magnitude 1.2 to 6.4. Field teams said further coastal changes may be identified as more areas are assessed.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/991369/mindanao-earthquake-triggers-coastal-uplift-in-sarangani-davao-occidental/story/",
+      "category": "regions",
+      "context": "The uplift resulted from movement along the Cotabato Trench, the same fault system that produced the earthquake. PHIVOLCS described the changes as co-seismic, meaning they occurred at the moment of the main rupture."
+    },
+    {
+      "headline": "General Santos International Airport to reopen to commercial flights on June 15",
+      "summary": "The Department of Transportation and the Civil Aviation Authority of the Philippines said General Santos International Airport will resume commercial operations on June 15 after safety assessments cleared the facility for use. The airport had been closed since the June 8 magnitude 7.8 earthquake as a precautionary measure. Passengers were advised to contact their airlines directly for updated flight schedules.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2246135/general-santos-intl-airport-to-resume-flights-on-monday-june-15",
+      "category": "regions"
+    },
+    {
+      "headline": "PNP, NBI and Senate open separate probes into deaths of two Ateneo basketball players in Aurora",
+      "summary": "The PNP Criminal Investigation and Detection Group, the National Bureau of Investigation, and the Philippine Senate have each opened investigations into the deaths of two Ateneo de Manila University student athletes during a basketball team-building activity in Dipaculao, Aurora. Incoming rookie Rene Baterbonia and sophomore Divine Adili, a Nigerian player, died during the event organized by the Blue Eagles. PNP spokesman Col. Allen Rae Co said authorities would carefully consider all accounts and cautioned against premature conclusions.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2246209/pnp-to-carefully-consider-all-accounts-in-ateneo-drowning-case-2",
+      "category": "other",
+      "context": "A woman claiming to be former coach Tab Baldwin's estranged wife made public allegations that warnings about him went unheeded and that the deaths were preventable. A joint body from the Philippine Sports Commission, UAAP, CHED, and the National Youth Commission is also conducting a separate inquiry."
+    },
+    {
+      "headline": "Villanueva pledges to attend Marcos-called special session as Senate leadership crisis persists",
+      "summary": "Senator Joel Villanueva announced on June 14 that he would attend any special session called by President Marcos, saying it was not the time to take sides amid the Senate leadership dispute. His participation could give Acting Senate President Sherwin Gatchalian's bloc the 13th vote it needs to formally consolidate the majority. Senator Panfilo Lacson said the majority was prepared with contingencies against Senator Alan Peter Cayetano, whom he accused of prioritizing personal interests over the institution.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/14/we-will-be-there-joel-villanueva-to-attend-special-session-to-be-called-by-pbbm",
+      "category": "politics",
+      "context": "The Senate has been gridlocked since June 6 when Cayetano's bloc boycotted its final three session days. Key pending measures include AFP and DFA appointments stalled in the Commission on Appointments and a possible supplemental budget for Mindanao earthquake relief.",
+      "watch_for": "Marcos has said he will call a special session once the Senate resolves its internal dispute. No date has been set."
+    },
+    {
+      "headline": "Lacson warns detention of up to nine senators could render Sara Duterte impeachment trial untenable",
+      "summary": "Senator Panfilo Lacson said the impeachment trial of Vice President Sara Duterte could become constitutionally unworkable if up to nine senators face detention in a flood control scandal, leaving fewer than the 16 votes needed for conviction. With Senator Jinggoy Estrada already detained, Lacson said a quorum crisis could make acquittal a foregone conclusion. He rejected Senator Cayetano's proposal to lower the conviction threshold from 16 to 12, calling it devious.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/991439/lacson-senators-sara-duterte-impeachment-trial/story/",
+      "category": "politics",
+      "context": "Conviction in a Senate impeachment trial requires two-thirds of all 24 members, or 16 votes. Estrada is detained on a non-bailable plunder charge unrelated to the flood control case.",
+      "watch_for": "A Senate pre-trial conference is scheduled for June 18; the full trial is set to begin July 6."
+    },
+    {
+      "headline": "PNP intensifies operations against POGO-linked scam hubs that have shifted to dispersed networks",
+      "summary": "The Philippine National Police has escalated operations against illegal online scam hubs tied to former Philippine Offshore Gaming Operators that have broken into smaller decentralized networks to evade detection, PNP Chief Gen. Jose Melencio Nartatez Jr. said. Suspected hubs remain active in Baclaran, Binondo, Paranaque, Palawan, and Cebu, according to former quad committee chair Robert Ace Barbers. The PNP is coordinating with other agencies under implementing rules for an executive order that banned all POGO operations.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2246097/pnp-intensifies-ops-vs-guerrilla-style-scam-hubs-tied-to-former-pogos",
+      "category": "other",
+      "context": "A December 31, 2024 deadline shut down all licensed POGO operators, but authorities estimate roughly 100 operators went underground and continued running scam operations out of houses, hotels, and resorts."
+    },
+    {
+      "headline": "Lacson says AFP and PNP will not be destabilized by 18 alleged ex-Marines tied to flood control case",
+      "summary": "Senator Panfilo Lacson said the Armed Forces of the Philippines and the police would not be swayed by alleged destabilization efforts linked to 18 individuals, referred to as Maleta Boys, who he said were alleged former Marines that had delivered suitcases of cash related to a flood control scandal. The AFP has disowned the group. Senate security was heightened after the 18 entered Senate premises on June 8 and held a press conference at Senator Robinhood Padilla's office.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2246175/lacson-afp-pnp-wont-be-affected-by-destabilization-plot-18-bagmen",
+      "category": "politics",
+      "context": "The flood control scandal involves allegations that contractors paid kickbacks to government officials via bagmen. The group's Senate visit occurred on June 8, the same day the magnitude 7.8 earthquake struck Mindanao."
+    },
+    {
+      "headline": "PAGASA: Easterlies bringing scattered rains and thunderstorm risk to Mindanao and eastern Visayas",
+      "summary": "The Philippine Atmospheric, Geophysical and Astronomical Services Administration said as of 4:00 p.m. on June 14 that easterlies were affecting Mindanao and eastern sections of Southern Luzon and the Visayas, bringing scattered rains and thunderstorms. The Zamboanga Peninsula, Basilan, and Tawi-Tawi face cloudy skies with risks of flash floods and landslides from moderate to heavy rainfall. No tropical cyclone was active in the Philippine area of responsibility.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-06-14T16:00:00+08:00"
+    },
+    {
+      "headline": "2026 FIFA World Cup opens with US routing Paraguay 4-1 as host nations deliver strong debuts",
+      "summary": "The 2026 FIFA World Cup kicked off across the United States, Mexico, and Canada with the host nation defeating Paraguay 4-1 and Mexico beating South Africa 2-0 on the first day of group-stage play. Scotland beat Haiti 1-0 for their first World Cup win since 1990, while Australia defeated Turkey 2-0; Brazil drew 1-1 with Morocco and Canada drew 1-1 with Bosnia and Herzegovina. The 48-team tournament, the largest in World Cup history, is spread across 16 cities in three countries.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/sports/football/991428/2026-fifa-world-cup-updates-and-results-june-14-2026/story/",
+      "category": "sports"
+    },
+    {
+      "headline": "Trump condemns Israel's Beirut strike and says US-Iran peace deal remains close despite setback",
+      "summary": "President Trump publicly rebuked Israel's airstrike on southern Beirut on June 14, saying it should not have happened and that all sides should stand down ahead of a peace deal with Iran he described as imminent. Iranian parliamentary leaders questioned US credibility and threatened a strong response to the strike, while Qatari mediators continued working to finalize terms in Tehran. Trump indicated a memorandum signing would be delayed by a few hours but that negotiations remained on track.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close",
+      "category": "world",
+      "context": "Proposed deal terms include a regional ceasefire, lifting of the Strait of Hormuz blockade that has raised global oil prices, and release of approximately $24 billion in frozen Iranian assets, with nuclear and sanctions issues to follow within 60 days.",
+      "watch_for": "A US-Iran memorandum of understanding was expected to be signed imminently, pending Iranian political consensus in the wake of the Beirut strike."
+    },
+    {
+      "headline": "About 20,000 protest in Geneva ahead of G7 summit in France, with clashes reported",
+      "summary": "About 20,000 people marched in Geneva on June 14 to protest ahead of the G7 leaders summit opening in Evian-les-Bains, France on June 15, organized by a coalition of more than 60 groups including Palestinian rights advocates, environmentalists, and feminist activists. Some demonstrators clashed with riot police who used tear gas and water cannons, with several UN and corporate offices targeted. Protesters criticized the G7 as serving wealthy nations at the expense of the global majority.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit",
+      "category": "world",
+      "watch_for": "The G7 summit runs June 15-17 in Evian-les-Bains, France, with the Middle East conflict, tariffs, and global economic coordination expected on the agenda."
+    },
+    {
+      "headline": "British military seizes Russian oil tanker in English Channel in first such operation in the waterway",
+      "summary": "UK armed forces intercepted and seized a vessel named SMYRTOS in the English Channel on June 14, in what officials described as the first British military operation of its kind in the waterway. The tanker was believed to be part of Russia's shadow fleet, a network of vessels using obscure ownership structures to circumvent Western sanctions and channel revenue to fund Moscow's war in Ukraine, Al Jazeera reported.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war",
+      "category": "world"
+    },
+    {
+      "headline": "Japan to launch geological surveys in Greenland this summer to reduce rare earth dependence on China",
+      "summary": "Japan's government plans to conduct geological surveys in Greenland starting this summer to assess rare earth and critical mineral deposits, with the aim of supporting Japanese companies in investing in mining projects there, Nikkei Asia reported. The move is part of Japan's broader effort to diversify supply chains after Chinese rare earth exports to Japan fell by approximately 80 percent. Japan is also building domestic processing capacity and pursuing investments in Australian rare earth projects as part of the same strategy.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/japan-to-explore-rare-earth-mining-in-greenland-to-cut-china-reliance",
+      "category": "world",
+      "context": "Rare earth elements are critical for manufacturing electronics, electric vehicles, and defense technology. China dominates global rare earth mining and processing, giving it significant leverage over supply chains for these materials."
+    }
+  ]
+}
