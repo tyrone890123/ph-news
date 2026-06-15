@@ -137,7 +137,7 @@ h1 {
 }
 
 .display-prefs .icon { display: none; }
-.icon-auto { display: block; }
+.display-prefs .icon-auto { display: block; }
 :root[data-theme="light"] .icon-auto,
 :root[data-theme="dark"] .icon-auto { display: none; }
 :root[data-theme="light"] .icon-sun { display: block; }
