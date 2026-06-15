@@ -90,6 +90,25 @@ function manilaTime(iso) {
   }).format(d);
 }
 
+function manilaDateTime(iso) {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return null;
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "Asia/Manila",
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+    hour12: true,
+  }).formatToParts(d);
+  const get = (type) => {
+    const part = parts.find((p) => p.type === type);
+    return part ? part.value : "";
+  };
+  return `${get("day")} ${get("month")} ${get("year")}, ${get("hour")}:${get("minute")} ${get("dayPeriod")}`;
+}
+
 /* ---------- data helpers ---------- */
 
 function safeHttpsUrl(raw) {
@@ -115,6 +134,7 @@ function normalizeStories(stories) {
     publishedAt: typeof s.published_at === "string" ? s.published_at : null,
     context: typeof s.context === "string" ? s.context : "",
     watchFor: typeof s.watch_for === "string" ? s.watch_for : "",
+    updatedAt: typeof s.updated_at === "string" ? s.updated_at : "",
   }));
 }
 
@@ -211,6 +231,10 @@ function storyNode(story) {
 
   appendExtra(article, "Context", story.context);
   appendExtra(article, "What to watch for", story.watchFor);
+  // Liberal: format as Manila date-time if it parses, otherwise show the raw string.
+  if (story.updatedAt) {
+    appendExtra(article, "Updated as of", manilaDateTime(story.updatedAt) || story.updatedAt);
+  }
 
   const metaParts = [CATEGORY_LABELS[story.category]];
   const time = story.publishedAt ? manilaTime(story.publishedAt) : null;
