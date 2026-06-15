@@ -48,6 +48,7 @@ Each story in a daily file:
 | `published_at` | no | ISO 8601 |
 | `context` | no | background for the story, ≤500 chars |
 | `watch_for` | no | what to watch out for next, ≤500 chars |
+| `updated_at` | no | ISO 8601; shown as an "Updated as of" note for developing stories |
 
 All strings are plain text (no HTML/markdown) and are rendered exclusively via
 `textContent` — story data is treated as untrusted input. Unknown categories
