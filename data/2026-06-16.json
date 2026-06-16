@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T20:20:36+08:00",
+  "stories": [
+    {
+      "headline": "Marcos calls Congress to a June 17 special session on priority bills and appointments",
+      "summary": "President Ferdinand Marcos Jr. signed Proclamation No. 1318 directing Congress to convene a special session on June 17 to pass priority social, education, and health measures and to help families affected by the June 8 Mindanao earthquake. The proclamation also allows the Commission on Appointments to act on pending appointments to the Cabinet, the military, and the foreign service. Measures cited include amendments to student assistance and child nutrition laws and a proposed anti-political dynasty bill.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2247054/marcos-calls-congress-to-hold-special-session",
+      "category": "politics",
+      "published_at": "2026-06-16T05:55:00+08:00",
+      "context": "Congress had adjourned sine die, and the Senate has been split by a leadership dispute between the blocs of Alan Peter Cayetano and Acting Senate President Sherwin Gatchalian.",
+      "watch_for": "Congress is set to convene the special session on June 17."
+    },
+    {
+      "headline": "House prosecutors and Sara Duterte's defense file pre-trial briefs ahead of impeachment trial",
+      "summary": "Both the House prosecution panel and Vice President Sara Duterte's defense team submitted their pre-trial briefs to the Senate impeachment court on June 15, the set deadline. Lead prosecutor Gerville Luistro said the prosecution plans to present more than 30 witnesses, while defense counsel Michael Poa said his side's roughly 60-page brief lists several witnesses but declined to give details. The briefs cover evidence, witnesses, and proposed stipulations of fact.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/991548/house-panel-vp-duterte-camp-pre-trial-briefs-ahead-of-trial/story/",
+      "category": "politics",
+      "published_at": "2026-06-15T21:25:00+08:00",
+      "context": "The Senate, sitting as an impeachment court under Acting Senate President Sherwin Gatchalian, set a pre-trial conference for June 18. The House impeached Duterte in May 2026, the second impeachment complaint against her.",
+      "watch_for": "The pre-trial conference is scheduled for June 18, with the trial proper set to begin July 6."
+    },
+    {
+      "headline": "Sandiganbayan orders 90-day suspension of Senator Jinggoy Estrada in graft case",
+      "summary": "The Sandiganbayan's Second Division ordered a 90-day preventive suspension of Senator Jinggoy Estrada from his Senate seat and any public office, to take effect once its resolution becomes final, in a graft case over alleged anomalous budget insertions and kickbacks in flood-control and other public works projects funded under the 2025 budget. Former Public Works Secretary Manuel Bonoan is a co-accused. Estrada pleaded not guilty at his June 4 arraignment.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/16/sandiganbayan-suspends-jinggoy-estrada-over-flood-control-related-graft-case",
+      "category": "politics",
+      "published_at": "2026-06-16T16:43:00+08:00",
+      "context": "Estrada faces a separate plunder case before the Sandiganbayan's Fifth Division over the same allegations. The charge cited is violation of the Anti-Graft and Corrupt Practices Act."
+    },
+    {
+      "headline": "Marcos releases more aid for Mindanao quake-hit areas on second Sarangani visit",
+      "summary": "President Marcos returned to quake-hit Glan, Sarangani on June 15 to oversee relief efforts as Malacanang released P278 million through the Socio-Civic Project Fund to local governments across the affected regions, with Sarangani and General Santos City receiving P50 million each. The Office of Civil Defense has reported at least 65 deaths and more than 1,400 injured from the magnitude 7.8 earthquake on June 8, which affected over 176,000 families; 14 municipalities have declared a state of calamity.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/991525/marcos-turns-over-p20-m-aid-to-glan-sarangani-after-mindanao-earthquake/story/",
+      "category": "regions",
+      "published_at": "2026-06-15T17:59:00+08:00",
+      "context": "Marcos also pledged funds for the repair of damaged government buildings and a hospital, turned over a Starlink unit and patient transport vehicles, and inspected the damaged Sapu Masla Bridge."
+    },
+    {
+      "headline": "Diesel and kerosene prices fall in June 16 fuel adjustment; gasoline mixed",
+      "summary": "Oil companies implemented fuel price changes effective 6 a.m. on June 16, with diesel down by P3.71 to P5.71 per liter and kerosene down by P0.50 to P2.50 per liter, according to GMA News Online. Gasoline movements were mixed, ranging from a rollback of up to P0.32 to an increase of up to P1.68 per liter, with adjustments varying by retailer and location. The changes partly reversed increases seen the previous week.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/991490/oil-prices-oil-price-adjustment-rollback-june-16-2026/story/",
+      "category": "economy",
+      "published_at": "2026-06-15T13:28:00+08:00"
+    },
+    {
+      "headline": "Most economists expect BSP to raise key rate to 4.75% at June 18 meeting",
+      "summary": "Most economists in a Manila Bulletin survey expect the Bangko Sentral ng Pilipinas to raise its policy rate by 25 basis points to 4.75 percent at its June 18 meeting, though some institutions see room for a larger increase. The central bank faces competing pressures after inflation eased to 6.8 percent in May from a peak of 7.2 percent in April, while first-quarter economic growth slowed to 2.8 percent, its weakest in five years.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/15/rate-decision-casts-growth-vs-inflation-dilemma-for-bsp",
+      "category": "economy",
+      "watch_for": "The BSP Monetary Board announces its rate decision on June 18."
+    },
+    {
+      "headline": "Philippine stocks surge 6.14% as investors welcome US-Iran peace deal",
+      "summary": "The Philippine Stock Exchange index jumped 362.82 points, or 6.14 percent, to close at 6,272.88 on June 15, with all sectoral indices higher and banking shares leading the advance. The peso strengthened past 61 to the dollar. Analysts at Philstocks Financial attributed the rally to the announced US-Iran agreement and expectations of lower global oil prices that could ease domestic inflation. Foreign investors were net buyers for the session.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://business.inquirer.net/595471/psei-jumps-6-14-as-investors-cheer-us-iran-peace-deal",
+      "category": "economy",
+      "published_at": "2026-06-15T17:05:00+08:00"
+    },
+    {
+      "headline": "PAGASA: No tropical cyclone in PAR; easterlies and thunderstorms bring scattered rains",
+      "summary": "PAGASA reported no tropical cyclone within the Philippine area of responsibility in its 4 p.m. bulletin on June 16. Easterlies are affecting the eastern sections of Visayas and Mindanao, including the Dinagat Islands and parts of the Davao and Surigao areas, while localized thunderstorms may bring rain to Metro Manila and elsewhere. The agency said partly cloudy to cloudy skies with isolated rainshowers or thunderstorms are expected, with possible flash floods or landslides during severe storms.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-06-16T16:00:00+08:00"
+    },
+    {
+      "headline": "G7 leaders meet in France with Iran deal and Ukraine war high on agenda",
+      "summary": "Leaders of the Group of Seven met in Evian, France, with the newly announced US-Iran framework and Russia's war in Ukraine dominating the agenda, Al Jazeera reported. Ukrainian President Volodymyr Zelenskyy joined a session on ending the war, while leaders from the United Arab Emirates, Qatar, and Egypt also attended. French President Emmanuel Macron said the priority was ensuring a finalized agreement, and US President Donald Trump said the Strait of Hormuz would be fully open by Friday.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda",
+      "category": "world",
+      "context": "France holds the G7 rotating presidency in 2026. The three-day summit runs through June 17.",
+      "watch_for": "The summit concludes on June 17."
+    },
+    {
+      "headline": "US and Iran set to sign war-ending agreement on June 19 in Geneva",
+      "summary": "The United States and Iran have agreed to a memorandum of understanding to end more than 100 days of war, with a formal signing set for June 19 in Geneva, Al Jazeera reported, citing mediators Pakistan and Qatar. The deal provides for an immediate halt to hostilities on all fronts, the lifting of the US naval blockade, the reopening of the Strait of Hormuz, and the release of frozen Iranian assets, with a 60-day window for further talks. Tehran said final negotiations would wait until Washington meets its commitments.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/15/us-iran-to-sign-a-peace-deal-on-friday-what-we-know-so-far",
+      "category": "world",
+      "context": "The strait, through which about a fifth of the world's oil passes, has been under a de facto Iranian blockade since the war began. Unresolved issues include Iran's nuclear program and sanctions relief.",
+      "watch_for": "The signing ceremony is scheduled for June 19 in Geneva, followed by a 60-day negotiating period."
+    },
+    {
+      "headline": "Asian markets rally and oil prices fall on US-Iran deal",
+      "summary": "Stock markets across Asia rose and oil prices declined after the United States and Iran announced a framework to end their war, Nikkei Asia reported. Japan's Nikkei average approached the 70,000 level and South Korean shares closed sharply higher, while regional currencies firmed as investors anticipated the reopening of the Strait of Hormuz. The moves followed expectations that months of energy supply disruption would begin to ease.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/japan-and-south-korea-stocks-leap-on-latest-us-iran-deal",
+      "category": "world",
+      "published_at": "2026-06-15T09:28:00+08:00"
+    }
+  ]
+}
