@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "date": "2026-06-22",
+  "generated_at": "2026-06-23T00:30:00+08:00",
+  "stories": [
+    {
+      "headline": "Typhoon Francisco intensifies to super typhoon, Signal No. 1 raised over northern Luzon",
+      "summary": "Typhoon Francisco, internationally named Mekkhala, intensified into a super typhoon on the evening of June 22 with maximum sustained winds of 185 km/h and gusts reaching 230 km/h. PAGASA raised Tropical Cyclone Wind Signal No. 1 for Batanes, portions of Cagayan, and the Babuyan Islands, with the system located 440 kilometers east of Tuguegarao City and moving west-northwestward at 15 km/h.",
+      "source": "Inquirer.net",
+      "url": "https://newsinfo.inquirer.net/2250831/francisco-now-a-super-typhoon",
+      "category": "weather",
+      "published_at": "2026-06-22T23:17:00+08:00",
+      "watch_for": "PAGASA forecast the typhoon to reach peak intensity within 12 hours of the June 22 evening advisory before weakening due to unfavorable environmental conditions. The system is expected to exit the Philippine area of responsibility by June 26 without making landfall on the main islands."
+    },
+    {
+      "headline": "Three students killed in Tacloban school shooting; firearms traced to police officer",
+      "summary": "Two Grade 9 students aged 14 and 15 opened fire at San Jose National High School in Tacloban City on the morning of June 22, killing three classmates and wounding at least 10 others. Police recovered two weapons: a 9mm Glock pistol belonging to the younger suspect's aunt, a policewoman attached to PNP Regional Office 8, and a .38 revolver registered to a Cebu City security agency. Both juvenile suspects were apprehended at the scene and are in police custody pending transfer to social welfare services.",
+      "source": "Inquirer.net",
+      "url": "https://newsinfo.inquirer.net/2250628/guns-in-tacloban-shooting-belong-to-suspects-cop-aunt-security-agency",
+      "category": "regions",
+      "published_at": "2026-06-22T18:48:00+08:00",
+      "watch_for": "The policewoman who owned the Glock faces charges for improper firearm custody, according to PNP information chief Col. Allen Rae Co. PNP investigation is continuing into the suspects' motives and whether the attack was planned in advance."
+    },
+    {
+      "headline": "DSWD releases P378M in relief and begins P800M cash payouts for Mindanao earthquake survivors",
+      "summary": "The Department of Social Welfare and Development released P378.3 million in relief items to families affected by the June 8 magnitude 7.8 earthquake off Sarangani province. Emergency cash transfers totaling an estimated P799.59 million began June 23 in Sarangani, General Santos City, and Davao Occidental, targeting more than 139,000 affected families in Regions 11 and 12. The earthquake impacted over 1.6 million individuals across 635 barangays.",
+      "source": "Inquirer.net",
+      "url": "https://newsinfo.inquirer.net/2250791/dswd-releases-p378m-worth-of-aid-to-mindanao-after-magnitude-7-8-quake",
+      "category": "regions",
+      "published_at": "2026-06-22T22:31:00+08:00"
+    },
+    {
+      "headline": "Philippine Coast Guard confronts Chinese vessel conducting patrols near Bajo de Masinloc",
+      "summary": "The Philippine Coast Guard's BRP Malabrigo issued a radio challenge to China Coast Guard vessel CCG 5304, which was conducting what PCG officials described as unauthorized patrols near Bajo de Masinloc within the Philippine Exclusive Economic Zone off Zambales, Pangasinan, and Ilocos provinces. PCG Rear Admiral Jay Tarriela said the vessel appeared to be following China's nine-dash line claim, which a 2016 arbitral tribunal ruled had no legal basis under international law.",
+      "source": "GMA Network",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/992340/china-coast-guard-philippine-coast-guard-zambales-pangasinan-ilocos/story/",
+      "category": "politics",
+      "published_at": "2026-06-22T20:32:00+08:00"
+    },
+    {
+      "headline": "Duterte impeachment pre-trial extends into third day as defense seeks dismissal before trial",
+      "summary": "The pre-trial conference for Vice President Sara Duterte's Senate impeachment proceeding extended into a third day on June 22 as parties worked through approximately 4,000 documents related to allegations of confidential fund misuse and unexplained wealth. The vice president's defense team filed affirmative defenses arguing the articles of impeachment should be dismissed on constitutional and procedural grounds before the trial proper begins.",
+      "source": "Inquirer.net",
+      "url": "https://newsinfo.inquirer.net/2250449/pre-trial-to-extend-to-day-3-due-to-volume-of-documents-bantug",
+      "category": "politics",
+      "published_at": "2026-06-22T15:30:00+08:00",
+      "context": "Eleven articles of impeachment were transmitted to the Senate earlier this year. The trial proper is scheduled to begin on July 6, 2026, and the pre-trial stage requires both sides to complete the marking of all documentary evidence before proceedings begin.",
+      "watch_for": "The pre-trial conference is expected to conclude by June 25 to 26. The Senate court is set to rule on the defense's motion to dismiss before the July 6 trial start date."
+    },
+    {
+      "headline": "Witness alleges P90M in kickbacks collected for Revilla from ghost Bulacan flood project",
+      "summary": "Former Bulacan District Engineer Henry Alcantara testified in the Sandiganbayan that he raised approximately P90 million in kickback fees intended for then-Senator Ramon Bong Revilla Jr. from a P92.8 million flood control project in Pandi, Bulacan, that investigators determined was never built. Alcantara said he instructed his driver to deliver funds in bank boxes to ex-DPWH Undersecretary Roberto Bernardo at a Roxas Boulevard hotel but acknowledged uncertainty about whether Revilla actually received the full amount.",
+      "source": "GMA Network",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/992334/henry-alcantara-claims-p90m-raised-for-revilla-from-bulacan-flood-project/story/",
+      "category": "politics",
+      "published_at": "2026-06-22T19:06:00+08:00"
+    },
+    {
+      "headline": "BIR launches one-time tax abatement program for micro businesses through end of 2026",
+      "summary": "The Bureau of Internal Revenue announced a one-time tax abatement program allowing micro businesses and inactive taxpayers with annual gross sales up to P3 million and accumulated liabilities up to P80,000 to settle old tax obligations at reduced cost. Qualified taxpayers pay a P5,000 abatement fee per application. The program covers delinquent accounts and open stop-filer cases existing as of December 31, 2025, and is available through December 31, 2026.",
+      "source": "GMA Network",
+      "url": "https://www.gmanetwork.com/news/money/economy/992327/bir-tax-abatement-micro-businesses-taxpayers/story/",
+      "category": "economy",
+      "published_at": "2026-06-22T18:13:00+08:00"
+    },
+    {
+      "headline": "Peso falls to P61.12 against dollar as Federal Reserve signals possible rate increases ahead",
+      "summary": "The Philippine peso depreciated to P61.123 per US dollar on June 22, down 34.8 centavos from the previous close and marking its fourth consecutive day of decline. The drop followed hawkish signals from US Federal Reserve officials, with market futures pricing in a possible 0.25 percentage point rate increase by October and a further 0.25 points by March 2027. The Philippine Stock Exchange index also fell 1.64 percent on the day.",
+      "source": "GMA Network",
+      "url": "https://www.gmanetwork.com/news/money/economy/992324/peso-p61-us-dollar-fed-signals/story/",
+      "category": "economy",
+      "published_at": "2026-06-22T17:56:00+08:00",
+      "context": "The Bangko Sentral ng Pilipinas raised its policy rate by 25 basis points to 4.75 percent. The peso is sensitive to US Federal Reserve decisions because a stronger dollar typically draws capital away from emerging market currencies."
+    },
+    {
+      "headline": "PNP plans expanded coordination with barangay tanods to screen school entrants",
+      "summary": "The Philippine National Police announced plans to tighten coordination with barangay watchmen to screen individuals entering school premises following the Tacloban City school shooting and two separate knife incidents at Cavite schools on June 16 and June 19. PNP information chief Col. Allen Rae Co said budget constraints prevent immediate installation of X-ray machines and metal detectors at all schools, and noted that rules designating schools as zones of peace complicate the deployment of armed officers on campus.",
+      "source": "Inquirer.net",
+      "url": "https://newsinfo.inquirer.net/2250839/pnp-eyes-tighter-ties-with-barangay-tanods-for-school-security",
+      "category": "politics",
+      "published_at": "2026-06-22T23:28:00+08:00"
+    },
+    {
+      "headline": "Manila Water to interrupt service in parts of Metro Manila and Rizal on June 25 to 27",
+      "summary": "Manila Water announced scheduled water service interruptions affecting portions of Marikina, Quezon City, Mandaluyong, Makati, and Taguig in Metro Manila, as well as Binangonan in Rizal, during the nights of June 25 to 27, from 10 p.m. to 4 a.m. each night, for emergency repair and maintenance. Residents are advised to store enough water before the interruptions and to flush taps once service resumes.",
+      "source": "Inquirer.net",
+      "url": "https://newsinfo.inquirer.net/2250743/water-interruption-in-parts-of-ncr-rizal-from-june-25-to-27",
+      "category": "metro",
+      "published_at": "2026-06-22T21:12:00+08:00"
+    },
+    {
+      "headline": "DOJ and GCash sign agreement giving recognized refugees access to digital wallets",
+      "summary": "The Department of Justice and digital payments platform GCash signed a memorandum of agreement allowing approximately 1,000 refugees recognized by the Philippines to open e-wallets using their DOJ refugee certification. DOJ Refugees and Stateless Persons Protection Unit chief Dennis Chan said financial access would open pathways to employment, entrepreneurship, and broader community integration for displaced persons in the country.",
+      "source": "GMA Network",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/992282/doj-gcash-sign-moa-allowing-digital-wallet-access-for-refugees/story/",
+      "category": "other",
+      "published_at": "2026-06-22T13:01:00+08:00"
+    },
+    {
+      "headline": "US lifts Iran oil sanctions for 60 days as nuclear talks in Switzerland show progress",
+      "summary": "The United States Treasury issued a 60-day waiver on Iranian oil export sanctions, authorizing production, delivery, and sale of Iranian oil through August 21, 2026, fulfilling conditions of a June 17 memorandum of understanding between Washington and Tehran. Iran committed to allowing International Atomic Energy Agency inspector access and to maintaining free navigation through the Strait of Hormuz. US Vice President JD Vance described the Switzerland talks as providing a strong foundation for a final deal, while Brent crude oil prices dropped more than 3.5 percent on the announcement.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks",
+      "category": "world",
+      "watch_for": "IAEA inspector access talks were expected to begin as early as June 22. Negotiations continue in Switzerland toward a comprehensive final nuclear agreement, with no timeline yet set for full IAEA inspections to begin."
+    },
+    {
+      "headline": "Ukraine strikes Russian missile plant and satellite facility in large overnight drone attack",
+      "summary": "Ukraine's military conducted strikes on a missile electronics manufacturing plant in Russia's Voronezh region and a satellite communications center near Moscow, using air-launched cruise missiles and drones. Voronezh Governor Alexander Gusev confirmed damage to a production facility with three injuries. Russian air defenses claimed to have intercepted 301 drones nationwide, while Moscow Mayor Sergei Sobyanin said 84 drones were downed over the capital in the preceding 24 hours, temporarily closing three airports.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/ukraine-says-it-hit-missile-electronics-plant-in-western-russia",
+      "category": "world",
+      "context": "Ukraine has escalated long-range strikes on Russian defense infrastructure and energy facilities over recent months as part of its strategy to reduce Russian military production capacity."
+    },
+    {
+      "headline": "RSF forces encircle Sudan's el-Obeid; US warns of imminent risk of mass atrocities",
+      "summary": "The US State Department expressed alarm over Rapid Support Forces and allied militia massing around el-Obeid in North Kordofan, Sudan, warning of a risk of mass atrocities against an estimated 500,000 civilians. The State Department said 50 civilians had been killed by drone strikes over 10 days in the city and surrounding region, and called on the RSF to cease hostilities and allow humanitarian access to the population.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/us-raises-concern-as-rsf-forces-encircle-sudanese-city-of-el-obeid",
+      "category": "world",
+      "context": "Sudan has been engulfed in civil war since April 2023 between the national army and the paramilitary RSF, killing tens of thousands and displacing millions. The UN Human Rights Council previously cited October 2025 RSF conduct in el-Fasher as bearing hallmarks consistent with genocide."
+    },
+    {
+      "headline": "Taiwan launches five-day combat readiness exercise amid cross-strait tensions",
+      "summary": "Taiwan's military began a five-day exercise on June 22 aimed at accelerating its ability to shift from peacetime to wartime operational status, according to officials in Kaohsiung. The drill represents a shift toward less scripted, more realistic rapid-deployment training for Taiwan's armed forces amid ongoing Chinese military maneuvers in the region.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-launches-five-day-immediate-combat-readiness-drill",
+      "category": "world",
+      "published_at": "2026-06-22T15:40:00+08:00"
+    },
+    {
+      "headline": "Indonesia announces $1.48 billion stimulus package to counter energy crisis and currency slump",
+      "summary": "The Indonesian government unveiled a 26.34 trillion rupiah ($1.48 billion) stimulus package for the second half of 2026, including the free distribution of 10 kilograms of rice to 33 million people and holiday transportation subsidies. The measures aim to support economic growth and stabilize the rupiah as Indonesia confronts global energy price pressures and domestic currency depreciation.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/indonesia-unveils-1.48bn-stimulus-to-fight-energy-crisis-currency-slump",
+      "category": "world",
+      "published_at": "2026-06-22T22:53:00+08:00"
+    }
+  ]
+}
