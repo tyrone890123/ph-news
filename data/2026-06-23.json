@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T20:13:34+08:00",
+  "stories": [
+    {
+      "headline": "Typhoon Francisco stays offshore as Signal No. 1 remains over Batanes, northern Cagayan",
+      "summary": "PAGASA said Typhoon Francisco (Mekkhala) was moving northwestward over the Philippine Sea east of northern Luzon, with maximum sustained winds of about 175 kilometers per hour. Tropical Cyclone Wind Signal No. 1 remained over Batanes, northeastern Cagayan and the eastern Babuyan Islands. The weather bureau said the storm has stayed offshore and is unlikely to make landfall, though it continues to bring rain to extreme Northern Luzon.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/tropical-cyclone/severe-weather-bulletin",
+      "category": "weather",
+      "published_at": "2026-06-23T17:00:00+08:00",
+      "watch_for": "PAGASA expects Francisco to weaken gradually and to leave the Philippine Area of Responsibility by Thursday evening or Friday morning before moving toward Japan's Ryukyu Islands."
+    },
+    {
+      "headline": "Three students killed in shooting at Tacloban City high school; two minors detained",
+      "summary": "Three students were killed and 13 others wounded in a shooting at San Jose National High School in Tacloban City on June 22, police said. Two minors enrolled at the school were taken into custody within hours, and authorities said they recovered a pistol and a revolver. Police said one suspect claimed he had been bullied, but investigators said they were still establishing a motive.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2250793/school-shooting-kills-3-students-in-tacloban",
+      "category": "regions",
+      "context": "The Department of Justice said it is examining whether online radicalization, and not only bullying, played a role, citing what it described as nihilistic violent extremism. The Palace said President Marcos is open to legislation restricting violent online games for minors after police linked a suspect to a violent game.",
+      "watch_for": "Classes at the school have been suspended while the investigation continues, and the Cybercrime Investigation and Coordinating Center has temporarily blocked the online game GoreBox pending the probe."
+    },
+    {
+      "headline": "Palace says flood control funds will return in proposed 2027 national budget",
+      "summary": "Malacanang said flood control projects will be included in the proposed 2027 National Expenditure Program, after such locally funded projects were removed from the 2026 budget. Press officer Claire Castro said only projects found legitimate after review would be funded, and President Marcos said the allocations would be protected during the budget process.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2251446/flood-control-funds-to-be-restored-in-proposed-2027-budget-palace",
+      "category": "politics",
+      "context": "The government zeroed out locally funded flood control projects in the 2026 budget amid a corruption controversy that emerged in 2025. New Public Works Secretary Vince Dizon has been tasked with implementing agency reforms.",
+      "published_at": "2026-06-23T18:49:00+08:00"
+    },
+    {
+      "headline": "Senate impeachment trial of VP Sara Duterte expected to open July 6",
+      "summary": "Lawmakers said they expect Vice President Sara Duterte to answer the articles of impeachment as her Senate trial is expected to begin July 6. The case, in which the House of Representatives impeached her in May, is in its pretrial phase, with prosecutors and her defense identifying evidence and witnesses. Duterte has denied wrongdoing through her legal team.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2250141/lawmakers-filipinos-await-sara-duterte-reply-to-charges",
+      "category": "politics",
+      "context": "The accusations against Duterte include alleged misuse of confidential funds, amassing unexplained wealth, and an alleged threat against President Marcos and others. Her camp has questioned the conduct of the proceedings.",
+      "watch_for": "Lawmakers said the Senate trial is expected to begin on July 6.",
+      "published_at": "2026-06-22T05:35:00+08:00"
+    },
+    {
+      "headline": "DSWD begins cash aid for some 139,000 families hit by Mindanao earthquake",
+      "summary": "The Department of Social Welfare and Development said it would start releasing emergency cash transfers on June 23 to about 139,000 families in the Davao Region and Soccsksargen affected by a magnitude 7.8 earthquake, with a budget of roughly 800 million pesos. The agency said the cash aid follows its distribution of food packs, and that more than 84,000 homes were reported totally or partially damaged.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/22/dswd-to-release-nearly-800-million-in-cash-aid-for-139000-quake-hit-families",
+      "category": "regions",
+      "watch_for": "Welfare Secretary Rex Gatchalian said he would visit hard-hit areas, including Glan, Malapatan and General Santos City, to oversee the rollout.",
+      "published_at": "2026-06-22T14:21:00+08:00"
+    },
+    {
+      "headline": "Global banks expect further BSP rate hikes to support peso this year",
+      "summary": "Several global banks expect the Bangko Sentral ng Pilipinas to raise its policy rate further this year to steady the peso and manage inflation, according to a Manila Bulletin report. MUFG, Nomura and Citigroup projected an additional 50 basis points by end-2026, while OCBC saw up to 75; UOB and DBS were more cautious, citing weak first-quarter growth of 2.8 percent.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/22/peso-stands-to-gain-as-global-banks-see-more-bsp-rate-hikes",
+      "category": "economy",
+      "context": "Philippine inflation reached a multi-year high earlier in 2026, and the peso has weakened against the US dollar amid higher oil prices linked to Middle East tensions.",
+      "published_at": "2026-06-22T00:00:00+08:00"
+    },
+    {
+      "headline": "Gilas Pilipinas heads to Australia camp ahead of FIBA Asian qualifier window",
+      "summary": "The Philippine men's basketball team, Gilas Pilipinas, traveled to a training camp in Brisbane to prepare for the third window of the 2027 FIBA World Cup Asian qualifiers against New Zealand and Australia, coach Tim Cone said. The squad, coming off the PBA Commissioner's Cup finals, will be without Kai Sotto and Quentin Millora-Brown, among others.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/19/gilas-to-set-up-camp-in-brisbane-play-friendlies-before-fiba-window",
+      "category": "sports",
+      "watch_for": "Gilas is scheduled to play New Zealand and Australia in the qualifying window in early July.",
+      "published_at": "2026-06-19T11:51:00+08:00"
+    },
+    {
+      "headline": "Marcos calls for inclusive support for refugees on National Refugee Day",
+      "summary": "President Marcos urged Filipinos to help build a society that welcomes and supports refugees and stateless persons, speaking on the occasion of the 3rd National Refugee Day Forum hosted by the Justice department's protection unit. He said protecting refugees reflects values of humanity and fairness, and called for expanded access to education, livelihood and legal identity.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/992424/marcos-urges-filipinos-to-help-build-a-society-that-cares-for-refugees/story/",
+      "category": "politics",
+      "published_at": "2026-06-23T15:20:00+08:00"
+    },
+    {
+      "headline": "Right-wing candidate de la Espriella declared winner of Colombia's presidential runoff",
+      "summary": "Colombian electoral authorities said right-wing lawyer Abelardo de la Espriella narrowly won the presidential runoff with about 49.7 percent against leftist senator Ivan Cepeda's 48.7 percent, with nearly all votes counted. De la Espriella, who had no prior elected experience, said he would govern for all Colombians. Cepeda's campaign said it was challenging results in some polling stations.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/colombian-right-wing-candidate-de-la-espriella-wins-tight-presidential-race",
+      "category": "world",
+      "context": "De la Espriella would succeed leftist President Gustavo Petro and has pledged to end talks with armed groups and expand the oil and gas sector.",
+      "watch_for": "Cepeda's campaign said it is contesting results from thousands of ballot boxes pending the final count."
+    },
+    {
+      "headline": "China imposes new export controls and procurement bans on US firms",
+      "summary": "China announced new export restrictions and government procurement bans targeting dozens of American companies, in a move Nikkei Asia said signals renewed trade tensions between the two countries. The measures were reported to cover firms in the drone, rare-earth and other sectors. The report did not detail any immediate US response.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade-war/china-imposes-new-controls-on-dozens-of-us-companies",
+      "category": "world",
+      "context": "The action follows earlier US restrictions on leading Chinese technology companies amid an extended trade dispute."
+    },
+    {
+      "headline": "US and Iran agree on roadmap toward a final deal after Switzerland talks",
+      "summary": "The United States and Iran agreed on a roadmap toward a final agreement within 60 days following talks in Switzerland, Al Jazeera reported. US Vice President JD Vance said Iran had agreed to allow IAEA nuclear inspectors back into the country, and the sides set up committees to oversee a Lebanon ceasefire and safety in the Strait of Hormuz. Key issues, including uranium enrichment, remain unresolved.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/what-are-the-key-outcomes-of-the-iran-us-talks-in-switzerland-what-next",
+      "category": "world",
+      "context": "The talks followed a recent conflict involving the US, Israel and Iran and a framework memorandum the sides signed earlier in June.",
+      "watch_for": "Vance said IAEA inspectors could return to Iran within days, and the sides set a 60-day target for a final agreement."
+    }
+  ]
+}
