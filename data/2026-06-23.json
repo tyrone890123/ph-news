@@ -1,105 +1,131 @@
 {
   "version": 1,
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T20:13:34+08:00",
+  "generated_at": "2026-06-24T00:45:00+08:00",
   "stories": [
     {
-      "headline": "Typhoon Francisco stays offshore as Signal No. 1 remains over Batanes, northern Cagayan",
-      "summary": "PAGASA said Typhoon Francisco (Mekkhala) was moving northwestward over the Philippine Sea east of northern Luzon, with maximum sustained winds of about 175 kilometers per hour. Tropical Cyclone Wind Signal No. 1 remained over Batanes, northeastern Cagayan and the eastern Babuyan Islands. The weather bureau said the storm has stayed offshore and is unlikely to make landfall, though it continues to bring rain to extreme Northern Luzon.",
+      "headline": "Tacloban school shooters planned attack since May, studied juvenile justice law — police",
+      "summary": "Police said the two teenage suspects in the June 22 Tacloban City school shooting — which killed three students and wounded 20 others — had planned the attack since May 1 and appeared to have studied the juvenile justice law to assess their potential accountability. Paraffin tests confirmed both boys, aged 14 and 15, had gunpowder residue on their hands. Authorities are seeking to prove the suspects acted with discernment, which would allow prosecution despite their ages.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/23/pnp-school-shooters-planned-attack-since-may-1-aware-of-juvenile-justice",
+      "category": "regions",
+      "published_at": "2026-06-23T11:56:00+08:00",
+      "context": "Three junior high school students were killed and 20 were wounded when the two minors opened fire at San Jose National High School in Tacloban City on the morning of June 22. One suspect used a 9mm pistol belonging to his aunt, a police officer who has since been relieved pending an investigation into possible negligence.",
+      "watch_for": "Investigators must establish whether the suspects acted with discernment under the Juvenile Justice and Welfare Act, which would allow prosecution. Authorities are also investigating the officer whose firearm was used."
+    },
+    {
+      "headline": "Typhoon Francisco weakens slightly but keeps Signal No. 1 over Batanes and northern Cagayan",
+      "summary": "Typhoon Francisco has slightly weakened, with maximum sustained winds of 165 kilometers per hour, and has slowed while centered about 320 kilometers east of Calayan, Cagayan, PAGASA said. Tropical Cyclone Wind Signal No. 1 remains in force over Batanes, the northeastern portion of Cagayan, and the Babuyan Islands. The agency said Francisco is not expected to make landfall in the Philippines before moving toward Japanese waters.",
       "source": "PAGASA",
       "url": "https://www.pagasa.dost.gov.ph/tropical-cyclone/severe-weather-bulletin",
       "category": "weather",
-      "published_at": "2026-06-23T17:00:00+08:00",
-      "watch_for": "PAGASA expects Francisco to weaken gradually and to leave the Philippine Area of Responsibility by Thursday evening or Friday morning before moving toward Japan's Ryukyu Islands."
+      "watch_for": "PAGASA forecasts Francisco will turn northward then northeastward, exiting the Philippine Area of Responsibility on June 25 or 26 as it continues to gradually weaken."
     },
     {
-      "headline": "Three students killed in shooting at Tacloban City high school; two minors detained",
-      "summary": "Three students were killed and 13 others wounded in a shooting at San Jose National High School in Tacloban City on June 22, police said. Two minors enrolled at the school were taken into custody within hours, and authorities said they recovered a pistol and a revolver. Police said one suspect claimed he had been bullied, but investigators said they were still establishing a motive.",
+      "headline": "Sara Duterte defense refuses joint document markings in impeachment pretrial",
+      "summary": "Vice President Sara Duterte's defense team rejected a House prosecution request to apply shared markings to identical documents during the impeachment pretrial, saying it intends to mark and use its own copies during the actual trial. The pretrial was in its third day as of June 23, with both sides working through evidence in four articles of impeachment. A pretrial order is expected June 30, and the trial itself is set to open July 6.",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2250793/school-shooting-kills-3-students-in-tacloban",
-      "category": "regions",
-      "context": "The Department of Justice said it is examining whether online radicalization, and not only bullying, played a role, citing what it described as nihilistic violent extremism. The Palace said President Marcos is open to legislation restricting violent online games for minors after police linked a suspect to a violent game.",
-      "watch_for": "Classes at the school have been suspended while the investigation continues, and the Cybercrime Investigation and Coordinating Center has temporarily blocked the online game GoreBox pending the probe."
+      "url": "https://newsinfo.inquirer.net/2250968/defense-refuses-house-prosecs-common-markings-request-in-pretrial",
+      "category": "politics",
+      "published_at": "2026-06-23T09:50:00+08:00",
+      "context": "The House of Representatives impeached Duterte in May on charges including alleged misuse of confidential funds, graft, bribery, and constitutional violations. Two senators who would sit as impeachment judges — Dela Rosa and Estrada — are unavailable due to an ICC arrest warrant and plunder detention, respectively.",
+      "watch_for": "The Senate pretrial order is due June 30. Both sides must submit comments by July 5 before the full trial opens July 6."
     },
     {
-      "headline": "Palace says flood control funds will return in proposed 2027 national budget",
-      "summary": "Malacanang said flood control projects will be included in the proposed 2027 National Expenditure Program, after such locally funded projects were removed from the 2026 budget. Press officer Claire Castro said only projects found legitimate after review would be funded, and President Marcos said the allocations would be protected during the budget process.",
+      "headline": "ICC holds second status conference on Rodrigo Duterte crimes against humanity case",
+      "summary": "The International Criminal Court's Trial Chamber III held a second status conference on June 23 for former President Rodrigo Duterte's crimes against humanity case. The session addressed procedural matters including protocols for handling confidential information, deadlines for observations on medical expert reports, and page limits for the prosecution's trial brief. The trial is scheduled to begin November 30.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://globalnation.inquirer.net/328340/watch-icc-holds-second-status-conference-on-duterte-case",
+      "category": "politics",
+      "published_at": "2026-06-23T14:00:00+08:00",
+      "context": "The ICC announced in May that Duterte's trial would start November 30 — the first Philippine head of state to face an international criminal tribunal. The case centers on killings carried out during his administration's anti-drug campaign."
+    },
+    {
+      "headline": "CHEd orders Ateneo to explain failure to report student deaths during team-building activity",
+      "summary": "The Commission on Higher Education issued a show cause order against Ateneo de Manila University for failing to submit documentation about an incident in which two student-athletes died during a school-sanctioned team-building event in Dipaculao, Aurora. CHEd said the university did not respond to a June 9 directive and subsequent follow-ups requiring an incident report and compliance certificates. Ateneo has 10 days to explain in writing under oath why sanctions should not be imposed.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2251566/ched-issues-show-cause-order-vs-ateneo",
+      "category": "other",
+      "published_at": "2026-06-23T22:57:00+08:00",
+      "watch_for": "Ateneo's written response is due within 10 days of receiving the order, after which CHEd will determine whether to impose sanctions for alleged violations of off-campus activity regulations."
+    },
+    {
+      "headline": "PSEi rebounds 1.5% on bargain hunting as peso slides to P61.35 against the dollar",
+      "summary": "The Philippine Stock Exchange index rose 91.20 points, or 1.51 percent, to 6,126.22 on Tuesday as investors returned to buy shares after two consecutive sessions of declines, GMA News reported. The peso fell 22.8 centavos against the US dollar to P61.351:$1, continuing a slide analysts attributed to hawkish signals from Federal Reserve officials and expectations of further US rate increases.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/992461/psei-bargain-peso-dollar/story/",
+      "category": "economy",
+      "published_at": "2026-06-23T19:12:00+08:00",
+      "context": "The peso has weakened through 2026 amid rising US interest rate expectations and higher global oil prices linked to Middle East tensions. Philippine first-quarter GDP growth slowed to 2.8 percent.",
+      "watch_for": "Analysts said Fed Fund futures price in a possible US rate increase by October, which could sustain further pressure on the peso."
+    },
+    {
+      "headline": "DSWD starts P800 million cash transfer rollout for 139,000 Mindanao earthquake-hit families",
+      "summary": "The Department of Social Welfare and Development began distributing emergency cash transfers on June 23 to more than 139,000 families in the Davao Region and Soccsksargen affected by the June 8 magnitude 7.8 earthquake, with a total budget of nearly P800 million. The quake has affected nearly 1.6 million people across four regions, and more than 84,000 homes have been reported totally or partially damaged.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/992371/dswd-cash-aid-payout-earthquake-victims/story/",
+      "category": "regions",
+      "published_at": "2026-06-23T02:50:00+08:00",
+      "context": "The magnitude 7.8 earthquake struck off the coast of Sarangani on June 8. Prior to the cash rollout, the DSWD had already distributed over P378 million in food and non-food relief.",
+      "watch_for": "DSWD Secretary Rex Gatchalian said he would visit hard-hit municipalities including Glan and Malapatan in Sarangani to oversee the cash aid rollout."
+    },
+    {
+      "headline": "Flood control funding to return in proposed 2027 budget after zero allocation in 2026 — Palace",
+      "summary": "Malacanang said flood control projects will be included again in the proposed 2027 National Expenditure Program, after they were removed from the 2026 budget over a corruption controversy. Press Officer Claire Castro said allocations will depend on the validity and need of each project, and President Marcos pledged tighter monitoring to prevent future irregularities. The 2026 budget cut approximately P250 billion in flood management funding from the public works department.",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2251446/flood-control-funds-to-be-restored-in-proposed-2027-budget-palace",
       "category": "politics",
-      "context": "The government zeroed out locally funded flood control projects in the 2026 budget amid a corruption controversy that emerged in 2025. New Public Works Secretary Vince Dizon has been tasked with implementing agency reforms.",
-      "published_at": "2026-06-23T18:49:00+08:00"
+      "published_at": "2026-06-23T18:49:00+08:00",
+      "context": "Marcos ordered zero funding for DPWH flood control projects in September 2025 after reports of irregularities, reducing the department's 2026 budget from P881.3 billion to P504.3 billion. New Public Works Secretary Vince Dizon was tasked with overseeing reforms."
     },
     {
-      "headline": "Senate impeachment trial of VP Sara Duterte expected to open July 6",
-      "summary": "Lawmakers said they expect Vice President Sara Duterte to answer the articles of impeachment as her Senate trial is expected to begin July 6. The case, in which the House of Representatives impeached her in May, is in its pretrial phase, with prosecutors and her defense identifying evidence and witnesses. Duterte has denied wrongdoing through her legal team.",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2250141/lawmakers-filipinos-await-sara-duterte-reply-to-charges",
-      "category": "politics",
-      "context": "The accusations against Duterte include alleged misuse of confidential funds, amassing unexplained wealth, and an alleged threat against President Marcos and others. Her camp has questioned the conduct of the proceedings.",
-      "watch_for": "Lawmakers said the Senate trial is expected to begin on July 6.",
-      "published_at": "2026-06-22T05:35:00+08:00"
-    },
-    {
-      "headline": "DSWD begins cash aid for some 139,000 families hit by Mindanao earthquake",
-      "summary": "The Department of Social Welfare and Development said it would start releasing emergency cash transfers on June 23 to about 139,000 families in the Davao Region and Soccsksargen affected by a magnitude 7.8 earthquake, with a budget of roughly 800 million pesos. The agency said the cash aid follows its distribution of food packs, and that more than 84,000 homes were reported totally or partially damaged.",
-      "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/06/22/dswd-to-release-nearly-800-million-in-cash-aid-for-139000-quake-hit-families",
-      "category": "regions",
-      "watch_for": "Welfare Secretary Rex Gatchalian said he would visit hard-hit areas, including Glan, Malapatan and General Santos City, to oversee the rollout.",
-      "published_at": "2026-06-22T14:21:00+08:00"
-    },
-    {
-      "headline": "Global banks expect further BSP rate hikes to support peso this year",
-      "summary": "Several global banks expect the Bangko Sentral ng Pilipinas to raise its policy rate further this year to steady the peso and manage inflation, according to a Manila Bulletin report. MUFG, Nomura and Citigroup projected an additional 50 basis points by end-2026, while OCBC saw up to 75; UOB and DBS were more cautious, citing weak first-quarter growth of 2.8 percent.",
-      "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/06/22/peso-stands-to-gain-as-global-banks-see-more-bsp-rate-hikes",
-      "category": "economy",
-      "context": "Philippine inflation reached a multi-year high earlier in 2026, and the peso has weakened against the US dollar amid higher oil prices linked to Middle East tensions.",
-      "published_at": "2026-06-22T00:00:00+08:00"
-    },
-    {
-      "headline": "Gilas Pilipinas heads to Australia camp ahead of FIBA Asian qualifier window",
-      "summary": "The Philippine men's basketball team, Gilas Pilipinas, traveled to a training camp in Brisbane to prepare for the third window of the 2027 FIBA World Cup Asian qualifiers against New Zealand and Australia, coach Tim Cone said. The squad, coming off the PBA Commissioner's Cup finals, will be without Kai Sotto and Quentin Millora-Brown, among others.",
-      "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/06/19/gilas-to-set-up-camp-in-brisbane-play-friendlies-before-fiba-window",
-      "category": "sports",
-      "watch_for": "Gilas is scheduled to play New Zealand and Australia in the qualifying window in early July.",
-      "published_at": "2026-06-19T11:51:00+08:00"
-    },
-    {
-      "headline": "Marcos calls for inclusive support for refugees on National Refugee Day",
-      "summary": "President Marcos urged Filipinos to help build a society that welcomes and supports refugees and stateless persons, speaking on the occasion of the 3rd National Refugee Day Forum hosted by the Justice department's protection unit. He said protecting refugees reflects values of humanity and fairness, and called for expanded access to education, livelihood and legal identity.",
+      "headline": "Marcos urges inclusion of refugees and stateless persons at national forum",
+      "summary": "President Marcos called on Filipinos to create a society that welcomes refugees and stateless persons, speaking at the 3rd National Refugee Day Forum organized by the Department of Justice. He said refugee protection is consistent with Philippine values of fairness and compassion, and urged expanded access to education, livelihood, legal identity, and social services for displaced persons.",
       "source": "GMA News",
       "url": "https://www.gmanetwork.com/news/topstories/nation/992424/marcos-urges-filipinos-to-help-build-a-society-that-cares-for-refugees/story/",
       "category": "politics",
       "published_at": "2026-06-23T15:20:00+08:00"
     },
     {
-      "headline": "Right-wing candidate de la Espriella declared winner of Colombia's presidential runoff",
-      "summary": "Colombian electoral authorities said right-wing lawyer Abelardo de la Espriella narrowly won the presidential runoff with about 49.7 percent against leftist senator Ivan Cepeda's 48.7 percent, with nearly all votes counted. De la Espriella, who had no prior elected experience, said he would govern for all Colombians. Cepeda's campaign said it was challenging results in some polling stations.",
+      "headline": "US Senate votes 50-48 to halt military operations against Iran, defying administration",
+      "summary": "The US Senate passed a concurrent resolution by 50 to 48 votes calling for an end to American military operations against Iran, with some members of President Trump's own party voting in favor. The resolution had earlier passed the House. It was not immediately clear how the measure would affect the conflict, as the Trump administration is simultaneously negotiating a ceasefire agreement with Tehran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump",
+      "category": "world",
+      "context": "The US-Iran conflict began February 28, 2026. A framework memorandum between the two sides was signed earlier in June, with negotiations ongoing toward a final agreement. The IAEA has been expected to resume nuclear inspections in Iran as part of the talks."
+    },
+    {
+      "headline": "Gaza ceasefire implementation talks stall over demand for total Palestinian disarmament",
+      "summary": "Negotiations in Cairo over implementing the October 2025 Gaza ceasefire have stalled after the Trump administration's envoy demanded complete disarmament of Palestinian factions, including personal weapons. Hamas said it agreed in principle to inventory and store heavy weapons but conditioned the step on a parallel Israeli military withdrawal, which Israel rejected. Palestinian analysts warned the demands could provide cover for renewed settlement expansion.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/demand-for-tunnel-maps-and-family-arms-tests-gaza-talks",
+      "category": "world",
+      "context": "The October 2025 ceasefire ended an extended period of conflict in Gaza. Current talks address Clause 8 of that agreement, covering Palestinian disarmament and Israeli military withdrawal, which have remained in dispute."
+    },
+    {
+      "headline": "Colombia's right-wing De la Espriella wins tight presidential runoff; rival seeks recount",
+      "summary": "Colombian electoral authorities declared right-wing lawyer Abelardo de la Espriella the winner of the presidential runoff with approximately 49.7 percent of votes against leftist senator Ivan Cepeda's 48.7 percent, with nearly all ballots counted. De la Espriella, who has no prior elected experience, pledged to end peace talks with armed groups and expand oil and gas production. Cepeda's campaign announced it was challenging results from roughly 33,000 of 122,000 polling stations.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/22/colombian-right-wing-candidate-de-la-espriella-wins-tight-presidential-race",
       "category": "world",
-      "context": "De la Espriella would succeed leftist President Gustavo Petro and has pledged to end talks with armed groups and expand the oil and gas sector.",
-      "watch_for": "Cepeda's campaign said it is contesting results from thousands of ballot boxes pending the final count."
+      "context": "De la Espriella, endorsed by Donald Trump, would succeed leftist President Gustavo Petro after four years of left-wing governance in Colombia.",
+      "watch_for": "Cepeda's campaign is requesting a full recount of contested ballot boxes before it will concede the result."
     },
     {
-      "headline": "China imposes new export controls and procurement bans on US firms",
-      "summary": "China announced new export restrictions and government procurement bans targeting dozens of American companies, in a move Nikkei Asia said signals renewed trade tensions between the two countries. The measures were reported to cover firms in the drone, rare-earth and other sectors. The report did not detail any immediate US response.",
+      "headline": "Indonesia faces fuel shortages and rolling blackouts as energy crisis worsens",
+      "summary": "Indonesia is experiencing diesel fuel shortages at service stations across several provinces, particularly Sumatra, and rolling blackouts as an energy crisis deepens, Nikkei Asia reported. The government has temporarily suspended some coal exports to address the electricity shortfall. Truck and bus drivers face extended waits at fuel stations, disrupting commercial transport operations.",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/economy/trade-war/china-imposes-new-controls-on-dozens-of-us-companies",
+      "url": "https://asia.nikkei.com/business/energy/indonesia-hit-by-fuel-shortages-power-outages-as-energy-crisis-deepens",
       "category": "world",
-      "context": "The action follows earlier US restrictions on leading Chinese technology companies amid an extended trade dispute."
+      "published_at": "2026-06-23T14:24:00+08:00"
     },
     {
-      "headline": "US and Iran agree on roadmap toward a final deal after Switzerland talks",
-      "summary": "The United States and Iran agreed on a roadmap toward a final agreement within 60 days following talks in Switzerland, Al Jazeera reported. US Vice President JD Vance said Iran had agreed to allow IAEA nuclear inspectors back into the country, and the sides set up committees to oversee a Lebanon ceasefire and safety in the Strait of Hormuz. Key issues, including uranium enrichment, remain unresolved.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/22/what-are-the-key-outcomes-of-the-iran-us-talks-in-switzerland-what-next",
+      "headline": "China prepares postwar aid for Iran with securing energy supply as primary goal",
+      "summary": "China is planning economic and diplomatic assistance for Iran's postwar reconstruction after Tehran agreed with the United States to end the conflict, with securing access to Iranian oil identified as the primary objective, Nikkei Asia reported. Chinese officials must balance the aid offer against the need to avoid antagonizing the United States and Gulf states. The strategy reflects Beijing's broader use of economic cooperation to guarantee resource access.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-plans-postwar-aid-for-iran-with-eye-on-energy-supply",
       "category": "world",
-      "context": "The talks followed a recent conflict involving the US, Israel and Iran and a framework memorandum the sides signed earlier in June.",
-      "watch_for": "Vance said IAEA inspectors could return to Iran within days, and the sides set a 60-day target for a final agreement."
+      "published_at": "2026-06-23T17:30:00+08:00"
     }
   ]
 }
