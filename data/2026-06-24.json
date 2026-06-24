@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T20:21:00+08:00",
+  "stories": [
+    {
+      "headline": "Murder charge filed against teen suspect in Tacloban school shooting; gun owners, parents face scrutiny",
+      "summary": "Police filed a criminal complaint, including murder, against the 15-year-old suspect in the June 22 shooting at San Jose National High School in Tacloban City that killed three students and wounded more than 20, while the 14-year-old remained under investigation, GMA News reported. Investigators said they are weighing charges against the owners of the two firearms used — including a police officer who is an aunt of one suspect — and against the boys' parents. Police said bullying is among several angles being examined.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/992494/live-updates-tacloban-school-shooting-june-24-2026/story/",
+      "category": "regions",
+      "context": "One firearm was a 9mm service pistol owned by the police officer; the other was registered to a Cebu City security agency. Under the Juvenile Justice and Welfare Act, children aged 15 and below are exempt from criminal liability and undergo intervention instead, so authorities are working to establish that the older suspect acted with discernment.",
+      "watch_for": "The Department of Education ordered a review of learner-protection measures in schools, and the police officer whose service firearm was used is under administrative investigation."
+    },
+    {
+      "headline": "Government temporarily blocks violent online game linked to Tacloban shooting suspect",
+      "summary": "The Cybercrime Investigation and Coordinating Center ordered the temporary blocking of GoreBox, a violent online game, after one of the two teenage suspects in the Tacloban City school shooting was reported to have played it before the June 22 attack. CICC Executive Director Alexander Paraiso described the move as a precautionary measure, saying authorities cannot ignore possible online influences while the investigation continues. Officials stressed that no causal link between the game and the shooting has been established.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2251593/govt-blocks-violent-online-game-after-tacloban-school-slays",
+      "category": "other",
+      "published_at": "2026-06-24T05:50:00+08:00"
+    },
+    {
+      "headline": "PAGASA: Typhoon Francisco weakens further but keeps Signal No. 1 over Batanes and northern Cagayan",
+      "summary": "Typhoon Francisco has continued to weaken, with maximum sustained winds of 130 kilometers per hour and gusts up to 160 kph, and was located about 320 kilometers east-northeast of Itbayat, Batanes, as of PAGASA's Wednesday afternoon bulletin. Tropical Cyclone Wind Signal No. 1 remained in force over Batanes, the northeastern portion of Cagayan, and the Babuyan Islands. PAGASA said Francisco is moving generally northward and is forecast to leave the Philippine Area of Responsibility on June 25.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/tropical-cyclone/severe-weather-bulletin",
+      "category": "weather",
+      "watch_for": "PAGASA said Francisco will turn toward the Ryukyu Islands and continue weakening, exiting the Philippine Area of Responsibility by the afternoon or evening of June 25."
+    },
+    {
+      "headline": "Sara Duterte impeachment pretrial extended for evidence marking; trial still set for July 6",
+      "summary": "The Senate impeachment court extended its working hours for marking the voluminous documentary evidence in Vice President Sara Duterte's impeachment case and deployed additional teams to speed up the process, officials said. Senate Secretary Renato Bantug Jr. said the July 6 start of the trial remains tight but not impossible. The pretrial order is expected to be issued on June 25 if document marking is completed. The prosecution is also seeking to open a sealed box of Bureau of Internal Revenue records related to Duterte.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/992558/impeachment-trial-july-2026/story/",
+      "category": "politics",
+      "published_at": "2026-06-24T17:14:00+08:00",
+      "context": "The House of Representatives impeached Duterte in May on charges that include alleged misuse of confidential funds and unexplained wealth. The Senate, sitting as an impeachment court, has been holding pretrial conferences to mark thousands of pages of documentary evidence ahead of the trial.",
+      "watch_for": "The pretrial order is expected on June 25 and the trial is scheduled to open July 6. Senators have yet to finalize who will serve as presiding officer."
+    },
+    {
+      "headline": "South Cotabato declares state of calamity over damage from June 8 magnitude 7.8 earthquake",
+      "summary": "The South Cotabato provincial board unanimously declared a state of calamity over damage caused by the June 8 magnitude 7.8 earthquake off southern Mindanao, the province said. Authorities reported four deaths and more than 200 injured in the province, along with damage to 47 buildings, two bridges, and 10 road sections estimated at P833 million. The declaration unlocks a P20-million quick response fund for emergency operations and assistance. President Marcos has released P152 million to support recovery efforts.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2252084/south-cotabato-under-state-of-calamity-due-to-magnitude-7-8-quake",
+      "category": "regions",
+      "published_at": "2026-06-24T17:11:00+08:00",
+      "context": "The magnitude 7.8 quake struck offshore near Sarangani on June 8, triggering tsunami warnings and killing scores of people across southern Mindanao. Provinces and national agencies have been rolling out relief and cash assistance in the weeks since."
+    },
+    {
+      "headline": "Oil firms roll back fuel prices sharply as US-Iran ceasefire eases global oil costs",
+      "summary": "Fuel retailers implemented one of the year's largest price rollbacks this week, cutting diesel by P9.04 to P11.04 per liter, kerosene by P9.82 to P11.82, and gasoline by P3.90 to P5.90, based on Department of Energy figures. Officials and industry sources attributed the decrease to falling global oil prices after the United States and Iran signed a memorandum of understanding on a ceasefire. The adjustments took effect Tuesday, June 23.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/992285/oil-price-rollback-june-23-2026-oil-prices/story/",
+      "category": "economy",
+      "published_at": "2026-06-22T13:30:00+08:00",
+      "context": "Global oil prices had surged earlier in 2026 during the US-Israel-Iran conflict, pushing Philippine inflation higher and prompting the government to declare a national energy emergency and expand fuel subsidies. The Philippines imports most of its oil from the Middle East."
+    },
+    {
+      "headline": "UN commission says Israel's targeting of Palestinian children amounts to genocide; Israel rejects report",
+      "summary": "A United Nations Independent International Commission of Inquiry said Israeli forces have deliberately targeted Palestinian children, amounting to genocide, crimes against humanity, and war crimes in Gaza and war crimes in the occupied West Bank. The commission said about 30 percent of those killed in Gaza during the war were children and documented attacks on maternity and neonatal facilities. Israel's mission in Geneva rejected the report as a sham that it said ignored Hamas's tactics.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/israels-deliberate-targeting-of-gaza-children-part-of-genocide-un-inquiry",
+      "category": "world",
+      "context": "The commission was established by the UN Human Rights Council in 2021 to investigate violations in the occupied Palestinian territory and Israel. A ceasefire in Gaza took effect in October 2025."
+    },
+    {
+      "headline": "Record-breaking heat wave grips western Europe, triggering deaths and power outages",
+      "summary": "An early and intense heat wave has set temperature records across western Europe, with France recording its hottest day since measurements began in 1947 as the national average reached 29.8 degrees Celsius, Al Jazeera reported. It reported at least 48 deaths from drowning as people sought relief in rivers, and two children who died from heat in a car. A transformer failure left tens of thousands of households without power in France's Finistere. Italy, the United Kingdom, Spain, and other countries issued heat alerts, with Britain declaring only its second-ever red warning.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/24/power-outage-in-france-as-europe-bakes-in-record-heat",
+      "category": "world",
+      "watch_for": "Forecasters said the extreme heat is expected to spread toward eastern Europe in the coming days."
+    },
+    {
+      "headline": "UK Prime Minister Keir Starmer resigns after losing party support; Burnham seen as front-runner",
+      "summary": "British Prime Minister Keir Starmer announced he is stepping down after losing the support of his parliamentary party, following heavy Labour losses in May local elections and a surge by Reform UK. Starmer will remain as prime minister during a transition while Labour selects a new leader. Greater Manchester Mayor Andy Burnham, who recently won a by-election to enter Parliament, is regarded as the front-runner, with several senior figures already endorsing him.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over",
+      "category": "world",
+      "context": "Labour won the 2024 general election but has since lost support over immigration, welfare cuts, and its position on Israel. A new leader is expected to be in place before Parliament returns in September.",
+      "watch_for": "Labour's leadership nominations are due to open and close between July 9 and 16; a candidate needs the backing of at least 81 of the party's MPs."
+    },
+    {
+      "headline": "China's Premier Li Qiang rejects claims that state subsidies drive the country's tech rise",
+      "summary": "Chinese Premier Li Qiang defended China's advances in frontier technologies such as artificial intelligence and electric vehicles at a World Economic Forum summit in Dalian, rejecting accusations that the gains stem from state subsidies. Li said the Chinese government is not that wealthy and attributed the progress to heavy private investment, singling out Huawei as a company that has long faced foreign restrictions. He said China would take part in global AI governance discussions, according to Nikkei Asia.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/china-s-premier-rejects-claims-that-state-subsidies-are-driving-tech-rise",
+      "category": "world",
+      "published_at": "2026-06-24T12:59:00+08:00",
+      "context": "Western governments, particularly the United States and European Union, have increasingly scrutinized what they describe as Chinese state support for strategic industries, citing it in trade and tariff disputes."
+    }
+  ]
+}
