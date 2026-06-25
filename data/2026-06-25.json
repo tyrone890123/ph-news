@@ -1,103 +1,164 @@
 {
   "version": 1,
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T20:13:12+08:00",
+  "generated_at": "2026-06-26T00:30:00+08:00",
   "stories": [
     {
-      "headline": "Impeachment prosecutors seek to open sealed box of Sara Duterte's tax records",
-      "summary": "House prosecutors asked the Senate impeachment court to open a sealed box of Bureau of Internal Revenue records on Vice President Sara Duterte and her husband during the pretrial stage, saying they want to inventory its contents rather than have them admitted as evidence at this point. The records were produced by the BIR in April and later kept sealed by the House justice committee on privacy grounds. Senate Secretary Renato Bantug Jr. said only the impeachment court can authorize opening the box. The pretrial conference was extended through Friday.",
+      "headline": "Sara Duterte impeachment pretrial concludes; BIR evidence box remains sealed",
+      "summary": "The five-day pretrial conference for Vice President Sara Duterte's Senate impeachment trial concluded on June 25, with prosecution and defense teams having marked evidence and identified witnesses. A sealed Bureau of Internal Revenue box allegedly containing Duterte's tax records was not opened after the defense objected; prosecutors marked only the sealed box itself. The defense has until Friday to respond to outstanding prosecution requests, and the trial proper is scheduled to begin July 6.",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2252320/house-prosecutors-open-box-of-vps-tax-records",
+      "url": "https://newsinfo.inquirer.net/2252782/vp-impeachment-pretrial-wraps-up-on-fifth-day",
       "category": "politics",
-      "published_at": "2026-06-25T05:30:00+08:00",
-      "context": "Duterte was impeached by the House of Representatives over allegations that include misuse of confidential funds and unexplained wealth. The Senate is sitting as an impeachment court and has been marking thousands of pages of documentary evidence in pretrial conferences.",
-      "watch_for": "The impeachment trial is scheduled to open on July 6, 2026."
+      "published_at": "2026-06-25T17:35:00+08:00",
+      "context": "Duterte was impeached by the House of Representatives on charges including misuse of confidential funds, threats against the President and other officials, and unexplained wealth. The pretrial conference, the first phase before the trial proper, began June 18.",
+      "watch_for": "The Senate impeachment trial is scheduled to begin on July 6, 2026."
     },
     {
-      "headline": "Philippine stock index drops below 6,000 as growth forecasts are cut",
-      "summary": "The Philippine Stock Exchange index fell 2.2 percent, or 134.85 points, to close at 5,991.37 on June 24, its biggest single-day decline in more than three months, as investors reacted to lowered economic growth forecasts and a weaker peso. The peso closed at 61.552 to the US dollar, down 20.1 centavos. Economic Planning Secretary Arsenio Balisacan said this week the economy may grow 3.5 to 4.5 percent this year, below the government's 5 to 6 percent target, while S&P Global Ratings cut its forecast to 4.1 percent from 5.8 percent.",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/stock-market/2026/06/24/758944/psei-sinks-to-5900-level-on-weak-growth-outlook/",
-      "category": "economy",
-      "published_at": "2026-06-24T21:00:00+08:00",
-      "context": "Analysts have linked the weaker outlook to elevated oil prices stemming from the conflict between the United States and Iran, along with government underspending."
+      "headline": "Ombudsman orders Senators Cayetano and Padilla to answer obstruction charges in Dela Rosa arrest standoff",
+      "summary": "The Office of the Ombudsman directed Senate Minority Leader Alan Peter Cayetano and Senator Robinhood Padilla, along with suspended Senate sergeant-at-arms Ma O. Aplasca, to respond within 15 days to obstruction of justice charges under Presidential Decree 1829. The complaint alleges they frustrated the enforcement of an arrest warrant by placing former Senator Ronald Dela Rosa under Senate custody, transporting him off the premises, and blocking NBI agents from entering.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2252824/cayetano-padilla-ordered-to-respond-to-obstruction-of-justice-raps",
+      "category": "politics",
+      "published_at": "2026-06-25T17:51:00+08:00",
+      "context": "Dela Rosa, wanted on an International Criminal Court warrant, returned to the Senate in May 2026 after six months in hiding. NBI agents and Senate security personnel exchanged gunfire during the standoff.",
+      "watch_for": "Cayetano, Padilla, and Aplasca have 15 days from receipt of the order to file their counter-affidavits with the Ombudsman."
     },
     {
-      "headline": "Francisco set to exit Philippine area; only Batanes under storm signal",
-      "summary": "PAGASA said Severe Tropical Storm Francisco, known internationally as Mekkhala, was accelerating north-northeastward and was expected to leave the Philippine Area of Responsibility on the afternoon or evening of June 25. As of the 5 a.m. bulletin it was about 415 kilometers northeast of Itbayat, Batanes, the only area still under Wind Signal No. 1. The state weather bureau said the southwest monsoon and the storm's outer winds could still bring strong to gale-force gusts over much of Luzon, Panay Island, Negros Occidental and Northern Samar.",
+      "headline": "Official once punched by Sara Duterte named as prosecution witness for Senate impeachment trial",
+      "summary": "House prosecutors listed Abe Andres, a Davao City official who was punched four times by then-Mayor Sara Duterte during a 2011 demolition standoff, as a witness for the upcoming impeachment trial. According to the prosecution brief, Andres will testify under Article 4 of the impeachment complaint, which charges Duterte with culpable violation of the Constitution and betrayal of public trust. The testimony is intended to demonstrate the respondent's propensity for violence.",
+      "source": "GMA Network",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/992708/sheriff-punched-by-sara-duterte-listed-as-prosecution-witness-in-impeachment-trial/story/",
+      "category": "politics",
+      "published_at": "2026-06-25T20:49:00+08:00",
+      "context": "The 2011 incident occurred when Duterte struck Andres after he refused to delay a court-ordered demolition of an informal settlement. The altercation was filmed and broadcast on television.",
+      "watch_for": "The Senate impeachment trial is scheduled to begin on July 6, 2026."
+    },
+    {
+      "headline": "DepEd orders nationwide school safety audits and security upgrades after Tacloban shooting",
+      "summary": "Education Secretary Sonny Angara ordered nationwide school safety audits and directed the Philippine National Police to enhance security at schools following the June 22 shooting at San Jose National High School in Tacloban City. Angara convened officials from the PNP, NBI, and the Cybercrime Investigation and Coordinating Center to coordinate intelligence sharing and threat response. He announced funding for metal detectors and fence repairs at public schools and said psychological support has been deployed to affected students and staff.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2252963/angara-directs-nationwide-drive-to-boost-school-safety-measures",
+      "category": "politics",
+      "published_at": "2026-06-25T20:52:00+08:00"
+    },
+    {
+      "headline": "Tacloban school shooting: two minor suspects killed three students, police say",
+      "summary": "Two minor suspects, aged 14 and 15, opened fire on students at San Jose National High School in Tacloban City on June 22, killing three and wounding 20 others. The 15-year-old was apprehended at the school; both were described by neighbors and teachers as quiet individuals with no prior history of troublemaking. President Marcos called the incident unacceptable and directed authorities to determine the cause; Interior Secretary Remulla announced plans to propose a law imposing criminal liability on gun owners whose licensed firearms are used by others to commit crimes.",
+      "source": "GMA Network",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/992623/live-updates-tacloban-school-shooting-june-25-2026/story/",
+      "category": "regions",
+      "published_at": "2026-06-25T06:55:00+08:00"
+    },
+    {
+      "headline": "Authorities take 14-year-old into custody in Leyte over social media threat to attack school",
+      "summary": "Interior Secretary Jonvic Remulla said authorities took a 14-year-old student into custody in Leyte on June 24 after she allegedly used multiple Facebook accounts to post threats of an attack at Tolosa National High School. A tip from Senator Bam Aquino prompted the response. The minor, who had no access to firearms, was turned over to the Department of Social Welfare and Development rather than detained, as she is below the minimum age of criminal liability.",
       "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/06/25/only-batanes-remains-under-signal-no-1-as-francisco-nears-par-exit",
+      "url": "https://mb.com.ph/2026/06/25/planned-school-attack-in-leyte-foiled-remulla-says",
+      "category": "regions"
+    },
+    {
+      "headline": "Marikina instructor dies after motorcycle struck by SUV driven by vice mayor's son, who tested positive for alcohol",
+      "summary": "Alexander Quintos Cruz, a 27-year-old instructor at Pamantasan ng Lungsod ng Marikina, died from a brain hemorrhage after his motorcycle was struck by an SUV at an intersection in Barangay Concepcion Dos on June 13. The driver, identified as David Alfred de Guzman, son of Marikina City Vice Mayor Del de Guzman, tested positive for alcohol intoxication at the time of the collision. CCTV footage confirmed Cruz had activated his turn signal. Cruz's family filed his death certificate to seek an upgrade of charges against de Guzman to reckless imprudence resulting in homicide.",
+      "source": "GMA Network",
+      "url": "https://www.gmanetwork.com/news/topstories/metro/992716/teacher-suv-accident-marikina-vice-mayor-son/story/",
+      "category": "metro",
+      "published_at": "2026-06-25T20:55:00+08:00",
+      "context": "De Guzman was initially charged with reckless imprudence resulting in physical injuries and drunk driving violations after the June 13 collision. Cruz spent about a week hospitalized before dying. The vice mayor allegedly contacted police during the initial investigation."
+    },
+    {
+      "headline": "Severe Tropical Storm Gardo enters Philippine area as Francisco exits; no wind signals raised",
+      "summary": "PAGASA reported that Tropical Storm Gardo intensified into a Severe Tropical Storm on June 25 evening after entering the Philippine Area of Responsibility, with maximum sustained winds of 95 kph and gusts up to 115 kph, located 1,275 kilometers east of extreme northern Luzon. No tropical cyclone wind signals have been raised in any part of the country. Severe Tropical Storm Francisco, known internationally as Mekkhala, exited the Philippine Area of Responsibility earlier in the day.",
+      "source": "GMA Network",
+      "url": "https://www.gmanetwork.com/news/weather/content/992731/gardo-intensifies-severe-tropical-storm-francisco-exits-par/story/",
       "category": "weather",
-      "published_at": "2026-06-25T09:14:00+08:00",
-      "watch_for": "PAGASA said Tropical Storm Higos could enter the area on Thursday evening, when it would be given the local name Gardo, but is expected to stay far from land and exit by Friday."
+      "published_at": "2026-06-25T22:51:00+08:00",
+      "watch_for": "PAGASA said Gardo may weaken to a tropical storm by Friday afternoon or evening and is expected to exit the PAR by Friday morning or afternoon."
     },
     {
-      "headline": "Mayon Volcano logs minor explosion as Alert Level 3 stays in place",
-      "summary": "The Office of Civil Defense said Mayon Volcano in Albay produced a minor explosion at about 6:58 p.m. on June 25, following two lava flows recorded the previous evening. Authorities said the volcano has been in continuous effusive eruption for 170 days. Alert Level 3, indicating relatively high unrest, remains in effect, and entry into the six-kilometer permanent danger zone around the volcano is prohibited.",
+      "headline": "Recto directs Cabinet departments to accelerate 2026 spending and finalize 2027 budget priorities",
+      "summary": "Executive Secretary Ralph Recto directed Cabinet departments including Health, Transportation, Education, Budget Management, and Social Welfare to accelerate their 2026 budget implementation and begin finalizing 2027 spending priorities. A review meeting assessed whether projects and services are on schedule and reviewed the UPLIFT assistance program for vulnerable sectors. The 2027 national budget must be submitted to Congress within 30 days after the State of the Nation Address.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/25/recto-orders-agencies-to-speed-up-budget-spending-finalize-2027-priorities",
+      "category": "economy",
+      "published_at": "2026-06-25T14:21:00+08:00",
+      "context": "Economic analysts have cited government underspending as a factor in the Philippines' weaker growth outlook for 2026, alongside elevated global oil prices. The NEDA recently projected the economy could grow 3.5 to 4.5 percent this year, below the government's 5 to 6 percent target.",
+      "watch_for": "The 2027 national budget is due to Congress within 30 days of the July 26 State of the Nation Address."
+    },
+    {
+      "headline": "BSP orders banks to adopt biometrics and behavioral analysis to fight cyber fraud beyond OTPs",
+      "summary": "The Bangko Sentral ng Pilipinas issued Circular No. 1213 directing financial institutions to adopt biometrics, behavioral analysis, adaptive verification, and passwordless authentication, moving beyond one-time passwords to counter increasingly sophisticated cyber fraud. The BSP said cybercriminals have evolved to use phishing, SIM-swapping, malware, and social engineering to bypass OTP protections. Banks must also implement proactive fraud detection systems to identify suspicious transactions and unusual behavior.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/26/beyond-otps-bsp-strengthens-fight-against-cyber-fraud",
+      "category": "economy"
+    },
+    {
+      "headline": "Multi-agency operation seizes 4.72 million packs of illicit cigarettes in Cebu, worth P343M in unpaid taxes",
+      "summary": "A multi-agency operation led by the Bureau of Internal Revenue's Central Visayas office seized approximately 4.72 million packs of illicit cigarettes across two sites in Cebu City: seven shipping containers in Barangay Bacayan and three near Pier 7. The BIR estimated the basic excise tax liability at P343.12 million. The operation also involved the NBI, PNP, Bureau of Customs, and Philippine Coast Guard; additional enforcement was ongoing at Pier 3.",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2252935/mayon-volcano-records-minor-lava-burst",
-      "category": "regions",
-      "published_at": "2026-06-25T19:37:00+08:00"
+      "url": "https://newsinfo.inquirer.net/2252983/bir-estimates-p343-12-m-tax-on-illicit-cigarettes-seized-in-cebu",
+      "category": "economy",
+      "published_at": "2026-06-25T21:21:00+08:00"
     },
     {
-      "headline": "Officials divided over lowering age of criminal responsibility after school attacks",
-      "summary": "The Juvenile Justice and Welfare Council opposed proposals to lower the minimum age of criminal responsibility, currently 15, with Executive Director Tricia Clare Oco saying harsher penalties do not reduce youth violence and that underlying causes should be addressed instead. The council said cases of children in conflict with the law fell 77 percent from 2016 to 2025. The Palace earlier said President Marcos is open to lowering the age, and the Philippine National Police proposed setting it at 12, following a June 22 school shooting in Tacloban City.",
+      "headline": "Mayon Volcano records lava flows and rockfalls on 172nd consecutive day of eruption",
+      "summary": "The Philippine Institute of Volcanology and Seismology reported lava flows and pyroclastic density currents from Mayon Volcano in Albay on the evening of June 25, marking the 172nd consecutive day of the volcano's ongoing effusive eruption. Alert Level 3 remains in effect, and entry into the six-kilometer Permanent Danger Zone around the crater is prohibited.",
+      "source": "GMA Network",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/992747/lava-flow-observed-from-mayon-volcano-says-phivolcs/story/",
+      "category": "regions"
+    },
+    {
+      "headline": "Newly graduated student shot by unidentified gunmen outside college in Davao de Oro",
+      "summary": "Unidentified gunmen opened fire on a recently graduated student outside Kolehiyo ng Pantukan in Pantukan, Davao de Oro, on June 25 afternoon as he was preparing to board a vehicle with family members after a graduation ceremony. The victim was struck multiple times by a suspected .45 caliber firearm and is in stable condition at a provincial hospital. The suspects fled in a gray van without license plates; police have launched a pursuit operation.",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2252908/child-justice-council-rejects-proposals-to-lower-age-of-criminal-responsibility",
-      "category": "politics",
-      "published_at": "2026-06-25T19:01:00+08:00",
-      "context": "Under the Juvenile Justice and Welfare Act, children 15 and younger are exempt from criminal liability and are referred to social welfare agencies instead of being jailed.",
-      "watch_for": "A Senate committee hearing on the law is scheduled for July 1, 2026."
-    },
-    {
-      "headline": "Authorities say they foiled another school attack threat in Leyte",
-      "summary": "Interior Secretary Jonvic Remulla said authorities took a 14-year-old student into custody in Leyte after she allegedly used multiple Facebook accounts to post a threat of an attack at Tolosa National High School. Remulla said Senator Bam Aquino relayed a tip about the online chatter and that the student was in custody by late June 24. He said the minor had no access to firearms and that her motive appeared to stem from personal and family issues. Because she is under 15, she was turned over to the Department of Social Welfare and Development.",
-      "source": "Philippine Star",
-      "url": "https://www.philstar.com/headlines/2026/06/25/2537740/another-potential-school-attack-stopped-leyte-14-year-old-custody",
+      "url": "https://newsinfo.inquirer.net/2252816/fwd-shooting-incident-occurs-outside-pantukan-college-local-govt",
       "category": "regions",
-      "published_at": "2026-06-25T11:50:00+08:00",
-      "context": "The case follows a June 22 shooting at a high school in Tacloban City that killed three students, and a separate stabbing of students in Negros Occidental."
+      "published_at": "2026-06-25T17:43:00+08:00"
     },
     {
-      "headline": "Nueva Vizcaya court dismisses case against Bayombong bishop and anti-mining advocates",
-      "summary": "A court in Nueva Vizcaya dismissed charges against Bayombong Bishop Jose Elmer Mangalinao and other environmental advocates who had opposed a mining exploration project in the province, the bishop said in a statement on June 24. The complaint had been filed by a man who identified himself as a leader of the Bugkalot and Ilongot indigenous community over an anti-mining barricade set up in ancestral domain areas. Mangalinao described the ruling as a victory for environmental defenders.",
-      "source": "Philippine Star",
-      "url": "https://www.philstar.com/headlines/2026/06/25/2537550/court-dismisses-case-vs-bayombong-bishop-anti-mining-advocates",
+      "headline": "Man drowns at artificial lake formed by June 8 earthquake landslide in Davao Occidental",
+      "summary": "A man drowned while swimming at an artificial lake formed by landslides triggered by the June 8 earthquake in Barangay San Isidro, Jose Abad Santos, Davao Occidental. The local mayor said the victim had been drinking near the lake with a relative before entering the water and did not resurface. The lake formed when the earthquake's landslides blocked a river, flooding nearby communities; authorities had opened a passage in the dam on June 24 to restore normal water flow.",
+      "source": "GMA Network",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/992717/drowning-earthquake-dam-davao-occidental/story/",
       "category": "regions",
-      "published_at": "2026-06-25T08:35:00+08:00"
+      "published_at": "2026-06-25T20:55:00+08:00"
     },
     {
-      "headline": "Brownlee joins Gilas Pilipinas for FIBA World Cup qualifying road games",
-      "summary": "Naturalized player Justin Brownlee said he is ready to suit up for Gilas Pilipinas in upcoming FIBA World Cup Asian Qualifiers away games against New Zealand and Australia, days after helping Barangay Ginebra win the PBA Commissioner's Cup. The 38-year-old, a four-time PBA Best Import, scored a career-high 54 points in one game of the seven-game finals series against TNT.",
-      "source": "Philippine Star",
-      "url": "https://www.philstar.com/sports/2026/06/25/2537646/brownlee-always-high-gilas-duty",
-      "category": "sports",
-      "published_at": "2026-06-25T00:00:00+08:00"
-    },
-    {
-      "headline": "Twin earthquakes kill at least 164 in Venezuela; state of emergency declared",
-      "summary": "Two earthquakes of magnitude 7.2 and 7.5 struck western Venezuela on the evening of June 24, killing at least 164 people and injuring about 971, acting President Delcy Rodriguez said. The government declared a state of emergency as rescuers searched collapsed buildings, with the worst damage reported in the capital, Caracas. Authorities closed the city's main airport and suspended classes. Officials said the death toll could rise as search-and-rescue operations continue.",
+      "headline": "Twin earthquakes kill at least 188 in Venezuela; La Guaira declared disaster zone",
+      "summary": "Two earthquakes of magnitude 7.2 and 7.5 struck Venezuela on the evening of June 24, killing at least 188 people and injuring approximately 1,520, with about 200 still trapped awaiting rescue, according to National Assembly President Jorge Rodriguez. La Guaira was declared a disaster zone after a hospital there was evacuated due to structural damage. US Secretary of State Marco Rubio pledged a prompt and effective response to the disaster.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-rocked-by-7-5-7-2-earthquakes-what-happened-and-what-we-know",
-      "category": "world",
-      "context": "The US Geological Survey warned that high casualties were probable because many buildings in the affected area are made of unreinforced masonry and adobe, which are vulnerable to strong quakes."
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-two-powerful-quakes-shake-s-american-country",
+      "category": "world"
     },
     {
-      "headline": "Record temperatures hit France, UK and Spain in western Europe heatwave",
-      "summary": "A heatwave across western Europe pushed temperatures to record highs, with France recording its hottest day since national records began in 1947 and nearly 41 degrees Celsius reported in Paris. The UK logged its hottest June day on record at 36.1 degrees in Gosport, while Spain reported its highest June daily average since 1950. Red heat alerts covered much of France, and the Louvre and the Eiffel Tower closed early. French officials said at least 40 people have drowned in heat-related incidents since Thursday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78y4102n1zo",
-      "category": "world",
-      "watch_for": "Forecasters said some relief is expected from Friday as temperatures gradually drop."
+      "headline": "Kenya police arrest 355 people as demonstrators mark two years since deadly 2024 protests",
+      "summary": "Kenyan police deployed water cannons, tear gas, and roadblocks across the country as demonstrators gathered to mark the second anniversary of 2024 youth-led protests against tax increases. Interior Minister Kipchumba Murkomen confirmed 355 arrests in various locations. Families of victims and activists continue to seek accountability for at least 60 people killed by security forces when protesters stormed Parliament in June 2024; President Ruto has allocated 2 billion Kenyan shillings for abuse victims, which activists say is insufficient.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/kenya-arrests-more-than-350-as-people-mark-anniversary-of-deadly-protests",
+      "category": "world"
     },
     {
-      "headline": "Oil prices fall to pre-war levels as Strait of Hormuz traffic resumes",
-      "summary": "Brent crude briefly fell below 72.48 US dollars a barrel, returning to levels last seen before the United States and Israel struck Iran in late February, as shipping through the Strait of Hormuz gradually resumed. Prices have eased since the US and Iran signed a memorandum of understanding on June 17. Maritime firms said about 80 vessels have crossed the strait since Monday, still below pre-war levels. US President Donald Trump ordered an investigation into oil companies he accused of keeping pump prices high.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0jy7d7wzv4o",
+      "headline": "IMO suspends Strait of Hormuz sailor evacuation after Singapore-flagged vessel attacked",
+      "summary": "The International Maritime Organisation suspended its operation to evacuate stranded sailors from the Strait of Hormuz after a Singapore-flagged vessel was attacked in the waterway; the IMO chief said the struck vessel had not been transiting under the UN evacuation framework. About 11,000 sailors had been awaiting evacuation. US Secretary of State Marco Rubio, meeting with Gulf Cooperation Council states in Bahrain, said the US would defend Gulf interests and denied that any reconstruction fund for Iran had been agreed upon.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon",
       "category": "world",
-      "context": "Iran had effectively closed the strait, a key route for oil and gas shipments, after the US and Israeli strikes earlier this year.",
-      "watch_for": "The June 17 memorandum set a 60-day period for negotiations on Iran's nuclear program and steps to end the war."
+      "context": "The Strait of Hormuz was disrupted after US and Israeli strikes on Iran in late February. A US-Iran memorandum of understanding signed on June 17 set a 60-day negotiation window, but maritime traffic through the strait remains below pre-war levels.",
+      "watch_for": "The June 17 memorandum set a 60-day window for negotiations on Iran's nuclear program and conditions for restoring normal shipping through the strait."
+    },
+    {
+      "headline": "China's maritime patrols east of Taiwan draw formal objections from US, Europe and Taiwan",
+      "summary": "China conducted maritime law enforcement operations in waters east of Taiwan, framing them as a response to sea boundary discussions between Japan and the Philippines. Taiwan's government called the Japan-Philippines talks a pretext for the patrols and warned of new Chinese pressure in the region. The United States and Europe both issued formal objections to the operations, which have raised concerns about collision risks and escalating tensions.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-s-law-enforcement-in-waters-east-of-taiwan-draws-pushback",
+      "category": "world",
+      "published_at": "2026-06-25T13:21:00+08:00"
+    },
+    {
+      "headline": "Russia's Ukraine offensive stalls as Ukrainian drone strikes reach deep into Russian territory",
+      "summary": "Russia's summer offensive to expand its hold on southeastern Ukraine has stalled at minimal gains despite heavy casualties, with analysts attributing the slowdown partly to Ukrainian drone strikes on Russian supply lines and fuel infrastructure. Ukrainian drones struck Yekaterinburg in the Urals, shutting its airport repeatedly, while attacks on refineries have caused fuel shortages and economic disruption inside Russia. President Putin has signaled openness to peace talks based on 2022 Istanbul negotiations, terms Ukrainian officials are expected to reject.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia",
+      "category": "world"
     }
   ]
 }
