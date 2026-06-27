@@ -1,147 +1,116 @@
 {
   "version": 1,
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T20:15:09+08:00",
+  "generated_at": "2026-06-27T17:00:00+08:00",
   "stories": [
     {
-      "headline": "Sara Duterte's defense opposes prosecution bid to open sealed BIR box of tax records",
-      "summary": "Vice President Sara Duterte's defense team said on June 26 it filed a comment with the Senate impeachment court opposing the House prosecution's motion to open, inventory and mark a sealed Bureau of Internal Revenue box said to contain tax records of Duterte and her family. The Senate secretary said unsealing requires both parties' agreement and that only the impeachment court can decide. The prosecution also sought rules on trial languages and witness disclosure.",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2253443/vp-saras-defense-panel-files-comment-on-house-prosecutions-manifestation",
-      "category": "politics",
-      "published_at": "2026-06-26T19:06:00+08:00",
-      "context": "The five-day pretrial conference concluded June 25 without the box being opened. Duterte faces impeachment articles covering alleged misuse of confidential funds and other accusations.",
-      "watch_for": "The Senate impeachment court is expected to issue its pretrial order by June 29; the trial proper is set to begin July 6, 2026."
-    },
-    {
-      "headline": "Sandiganbayan rules ex-Energy chief Cusi was adequately informed of Malampaya graft charges",
-      "summary": "The Sandiganbayan's Third Division ruled on June 26 that the Office of the Ombudsman sufficiently informed former Energy Secretary Alfonso Cusi and co-accused of the basis of a graft case tied to the Malampaya gas project, finding the bill of particulars adequately alleged injury and damage. Prosecutors allege the government lost about $177.4 million in the 2019 sale of Chevron's 45 percent Malampaya stake to UC Malampaya.",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2253310/court-cusi-sufficiently-informed-of-graft-case-in-malampaya-project",
-      "category": "politics",
-      "published_at": "2026-06-26T13:31:00+08:00",
-      "context": "The case stems from the Department of Energy's approval of the buyout of Chevron Philippines' Malampaya stake by UC Malampaya, a unit of Dennis Uy's Udenna Corp.",
-      "watch_for": "Cusi's arraignment was reset to July 10, 2026; the accused have until July 1 to seek reconsideration and prosecutors until July 6 to respond."
-    },
-    {
-      "headline": "Trillanes files third cyber libel complaint, naming senators Cayetano and Marcoleta over bribery claims",
-      "summary": "Former senator Antonio Trillanes IV said he filed a cyber libel complaint with the Department of Justice on June 25 against 18 self-described former Marines and senators Alan Peter Cayetano and Rodante Marcoleta, over claims aired at a June 4 hearing that he received money to bribe International Criminal Court prosecutors. Trillanes denied the allegations and called them politically motivated.",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2253062/trillanes-includes-cayetano-marcoleta-in-cyber-libel-raps",
-      "category": "politics",
-      "published_at": "2026-06-26T05:31:00+08:00",
-      "context": "Trillanes said it was his third related cyber libel complaint; the disputed claims arose during a Senate inquiry into flood-control projects."
-    },
-    {
-      "headline": "S&P cuts Philippine 2026 growth forecast to 4.1%, its sharpest downgrade in Asia-Pacific",
-      "summary": "Manila Bulletin reported that S&P Global Ratings lowered its 2026 Philippine GDP growth forecast to 4.1 percent from 5.8 percent, the largest cut among Asia-Pacific economies it tracks. S&P cited stalled infrastructure spending after fund-misuse issues, weaker domestic demand and fuel costs roughly 25 percent above pre-war levels, and projected 2026 headline inflation at 4.8 percent.",
+      "headline": "House prosecution to call first witness on July 6 opening of Sara Duterte impeachment trial",
+      "summary": "The House prosecution panel said it will present its first witness on the opening day of Vice President Sara Duterte's impeachment trial on July 6, 2026, and plans to call 57 witnesses over a requested 62 hearing days. Prosecution spokesperson Zia Adiong separately argued that Duterte's November 2024 video containing threats against President Marcos, the First Lady, and then-Speaker Romualdez was not constitutionally protected speech.",
       "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/06/25/philippines-faces-sharpest-economic-growth-downgrade-from-sp-in-asia",
-      "category": "economy",
-      "published_at": "2026-06-25T16:04:00+08:00",
-      "context": "The revision leaves the Philippines below the regional average and follows the government's own downgrade of its 2026 growth target to 3.5 to 4.5 percent."
+      "url": "https://mb.com.ph/2026/06/27/may-witness-agad-house-prosecution-to-hit-the-ground-running-in-vp-sara-trial",
+      "category": "politics",
+      "context": "Duterte faces four articles of impeachment: alleged misuse of P612.5 million in confidential funds, false financial disclosures, unexplained wealth, and death threats against the President and others. The defense has requested only 30 trial days.",
+      "watch_for": "The Senate impeachment court is expected to issue its pretrial order by June 29; the trial proper begins July 6, 2026."
     },
     {
-      "headline": "Barclays expects Philippines to borrow another $2 billion abroad before end-2026",
-      "summary": "Manila Bulletin reported that Barclays economists expect the Philippine government to raise an additional $2 billion in offshore borrowing by year-end, even after Manila declared its 2026 foreign borrowing program complete. The Treasury has raised $5.25 billion through dollar bond sales this year. Barclays projected full-year 2026 growth of 3 percent, below the government's target, and a fiscal deficit of 5.9 percent of GDP.",
-      "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/06/25/philippines-may-borrow-another-2-billion-abroad-before-2026-endsbarclays",
-      "category": "economy",
-      "published_at": "2026-06-25T18:00:00+08:00",
-      "context": "Barclays holds an underweight rating on Philippine sovereign credit, citing governance and external pressures."
+      "headline": "Rodrigo Duterte's lawyers oppose ICC prosecution bid to examine items seized during his arrest",
+      "summary": "Defense counsel for former President Rodrigo Duterte told the International Criminal Court's Trial Chamber III on June 27 that the prosecution's request to inspect evidence from his arrest was filed too late and lacked a legal basis. The defense called the prosecution's request to access all keys held by the ICC Registry a fishing expedition and said the prosecution provided no connection between the items and the alleged crimes.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/992898/rodrigo-duterte-s-defense-denounces-prosecution-s-request-to-access-items-during-his-arrest/story/",
+      "category": "politics",
+      "published_at": "2026-06-27T14:04:00+08:00",
+      "context": "Duterte faces crimes against humanity charges at the ICC related to alleged killings during his presidency and his earlier term as Davao City mayor. His trial is scheduled to begin November 30, 2026."
     },
     {
-      "headline": "Government proposes P7.2-trillion national budget for 2027",
-      "summary": "Manila Bulletin reported that the Marcos administration proposed a P7.2-trillion national budget for 2027, about P407 billion (6 percent) larger than the 2026 budget and equal to 21.7 percent of estimated GDP. Acting Budget Secretary Kim Robert de Leon said the plan prioritizes completing flagship infrastructure and human capital programs, and assumes 2027 growth of 5 to 6 percent, inflation of 4 to 5 percent and an exchange rate of P60 to P62 per dollar.",
+      "headline": "Former Ateneo basketball coach Tab Baldwin and 10 staff face hazing charges after two players drown",
+      "summary": "The Department of Justice received a hazing complaint against former Ateneo de Manila University basketball coach Tab Baldwin and 10 coaching and support staff after players Rene Baterbonia and Divine Adili drowned on June 8 during a team-building exercise in Dipaculao, Aurora. Authorities said the activity, which followed a pre-dawn run and physical games before a seawater drill at high tide, constituted hazing under Republic Act 11053. Baldwin was placed under an immigration lookout bulletin order.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2253588/hazing-raps-pushed-vs-ateneo-ex-coach-staff",
+      "category": "other",
+      "watch_for": "The DOJ is evaluating the complaint for preliminary investigation; authorities said additional charges of homicide or reckless imprudence may follow."
+    },
+    {
+      "headline": "Marcos administration proposes P7.2-trillion national budget for 2027",
+      "summary": "The Marcos administration submitted a proposed P7.2-trillion national budget for 2027, about P407 billion or 6 percent larger than the 2026 outlay and equivalent to 21.7 percent of estimated GDP. Acting Budget Secretary Kim Robert de Leon said the plan prioritizes completing flagship infrastructure and human capital programs, and assumes GDP growth of 5 to 6 percent, inflation of 4 to 5 percent, and an exchange rate of P60 to P62 per dollar.",
       "source": "Manila Bulletin",
       "url": "https://mb.com.ph/2026/06/26/marcos-admin-proposes-72-trillion-budget-for-2027-to-revive-growth",
       "category": "economy",
-      "published_at": "2026-06-26T17:52:00+08:00",
-      "watch_for": "The proposed 2027 budget will be submitted to Congress for deliberation."
+      "watch_for": "The proposed budget will be submitted to Congress for deliberation."
     },
     {
-      "headline": "Phivolcs continues monitoring earthquake swarm off Pangasinan, with 287 tremors recorded",
-      "summary": "The Philippine Institute of Volcanology and Seismology said it had logged 287 earthquakes in a swarm off Bolinao, Pangasinan as of 7 a.m. on June 26, with magnitudes from 1.8 to 5.1 and depths of 2 to 47 kilometers. The swarm began on May 27 and only one quake was felt, at Intensity II. Phivolcs urged coastal residents to stay alert and prepared.",
+      "headline": "Second tranche of toll increases on SLEx and STAR expressways takes effect July 1",
+      "summary": "The Toll Regulatory Board announced that the second tranche of toll rate increases on the South Luzon Expressway and the Southern Tagalog Arterial Road will take effect on July 1, 2026. End-to-end fares for Class 1 vehicles rise by P11 on SLEx from Alabang to Calamba and by P8 on the full STAR corridor from Santo Tomas to Batangas City, with proportionally larger increases for heavier vehicle classes.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/motoring/992933/slex-star-2nd-tranche-of-toll-hike-to-take-effect-july-1-trb/story/",
+      "category": "economy"
+    },
+    {
+      "headline": "Philippine fuel prices may rise by up to P1.50 per liter in the week of June 29",
+      "summary": "Industry analysts said Philippine pump prices could increase by as much as P1.50 per liter for gasoline and P1.20 for diesel in the week of June 29, though downward adjustments of up to P0.70 remain possible. Analysts cited firm demand from Indonesia and limited Chinese fuel exports as upward pressures on gasoline, while the easing of US sanctions on Iranian oil has provided some supply relief.",
       "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/06/26/phivolcs-monitoring-earthquake-swarm-off-pangasinan-coast",
-      "category": "regions",
-      "published_at": "2026-06-26T13:36:00+08:00",
-      "context": "An earthquake swarm is a cluster of quakes with no single dominant mainshock that can persist for weeks and may or may not precede a stronger event."
+      "url": "https://mb.com.ph/2026/06/26/fuel-prices-may-rise-again-next-week",
+      "category": "economy",
+      "watch_for": "Oil companies are expected to announce final price adjustments on Monday, June 29."
     },
     {
-      "headline": "DepEd completes psychological support program for Tacloban school community after deadly shooting",
-      "summary": "The Department of Education said it concluded a three-day psychological intervention for the community of San Jose National High School in Tacloban City following the June 22 shooting that killed three students and injured about 20. Conducted with the Department of Health, mental health professionals and faith-based groups, the sessions used counseling, storytelling and art therapy. The two teenage suspects remain in Department of Social Welfare and Development facilities.",
+      "headline": "Nearly 10,000 police officers mobilized for White Ribbon March at EDSA",
+      "summary": "The National Capital Region Police Office deployed about 9,602 officers on June 27 to maintain order during the White Ribbon March at the EDSA People Power Monument in Quezon City. Led by the Interreligious Leaders Council for National Transformation, the demonstration called for political reforms, accountability, and action against corruption and political dynasties. Politicians from all parties were permitted to attend but were barred from speaking during the program.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/992926/ncrpo-officers-white-ribbon-march/story/",
+      "category": "metro"
+    },
+    {
+      "headline": "DepEd sustains mental health support for Tacloban school community after June 22 shooting",
+      "summary": "The Department of Education said it is maintaining psychosocial assistance for the community of San Jose National High School in Tacloban City, where a June 22 shooting killed three students and injured about 20 others. Support activities include counseling, storytelling, and art therapy conducted with health professionals and faith-based groups, while the two teenage suspects remain in Department of Social Welfare and Development custody.",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2253545/deped-helps-tacloban-school-heal-trauma",
+      "url": "https://newsinfo.inquirer.net/2253917/deped-sustains-support-for-san-jose-nhs-shooting-victims",
       "category": "regions"
     },
     {
-      "headline": "Magnitude 6.5 earthquake strikes off Davao Occidental; Phivolcs warns of aftershocks",
-      "summary": "GMA News reported that Phivolcs recorded a magnitude 6.5 earthquake at 7:34 p.m. on June 26, located about 66 kilometers southwest of Balut Island in Sarangani, Davao Occidental, at a depth of 45 kilometers. The agency said no major damage was expected but warned of aftershocks, and a magnitude 5.2 aftershock was later reported off Glan, Sarangani. Intensity V was felt in parts of Sarangani and South Cotabato.",
+      "headline": "Magnitude 6.5 earthquake strikes off Davao Occidental, followed by 5.2 aftershock in Sarangani",
+      "summary": "Phivolcs recorded a magnitude 6.5 earthquake at 7:34 p.m. on June 26 off Balut Island, Sarangani, Davao Occidental, at a depth of 45 kilometers. The agency said no major damage was expected but warned residents of possible aftershocks; a magnitude 5.2 aftershock later struck off Glan, Sarangani. Intensity V shaking was felt in parts of Sarangani and South Cotabato.",
       "source": "GMA News",
       "url": "https://www.gmanetwork.com/news/topstories/regions/992839/magnitude-6-6-earthquake-balut-island-sarangani-davao-occidental/story/",
       "category": "regions",
-      "published_at": "2026-06-26T20:10:00+08:00",
-      "watch_for": "Phivolcs said it was monitoring for further aftershocks in the area."
+      "watch_for": "Phivolcs said it was monitoring the area for further aftershocks."
     },
     {
-      "headline": "DepEd outlines tighter public-school security measures after Paranaque safety audit",
-      "summary": "GMA News reported that the Department of Education on June 26 announced stricter security measures for public schools after a safety audit led by Education Secretary Sonny Angara at Paranaque National High School. The measures include handheld metal detectors at entrances, updated emergency drills, expanded CCTV monitoring, confidential reporting channels for bullying, and closer coordination with police and local governments.",
-      "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/992814/deped-tighter-school-security-safety-audit-in-para-aque-school/story/",
-      "category": "metro",
-      "published_at": "2026-06-26T17:22:00+08:00",
-      "context": "The measures are part of a nationwide school-safety campaign launched after recent incidents of violence in schools, including the June 22 Tacloban shooting."
-    },
-    {
-      "headline": "Philippine fertility rate falls to record-low 1.7 children per woman in 2025, PSA data show",
-      "summary": "GMA News, citing Philippine Statistics Authority data, reported that the country's total fertility rate among women aged 15 to 49 fell to a record-low 1.7 children per woman in 2025, down from 4.1 in 1993 and below the 2.1 replacement level. The data also showed teenage pregnancy declining from 10.1 percent in 2013 to 4.8 percent in 2025.",
-      "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/992831/explainer-is-the-record-low-fertility-rate-good-or-bad-news-for-the-philippines/story/",
-      "category": "other",
-      "published_at": "2026-06-26T19:04:00+08:00",
-      "context": "A fertility rate below the replacement level means a population would eventually shrink without migration; analysts cited mixed economic implications."
-    },
-    {
-      "headline": "PAGASA forecasts monsoon and low-pressure rains over much of the Philippines",
-      "summary": "In its 4 p.m. forecast on June 27, PAGASA said a low-pressure area about 965 kilometers east of northeastern Mindanao and the southwest monsoon would bring scattered rains and thunderstorms over much of the country. Moderate to heavy rains that could cause flash floods and landslides were possible over Eastern Visayas, Northern Mindanao, Caraga, the Davao region and western coastal areas, while Metro Manila and other western areas could see scattered showers.",
+      "headline": "PAGASA warns of flash flood and landslide risks as monsoon and low-pressure area affect Philippines",
+      "summary": "PAGASA's 4 p.m. June 27 bulletin said a low-pressure area about 965 kilometers east of northeastern Mindanao and the southwest monsoon would bring scattered to moderate rains and thunderstorms across the country. Eastern Visayas, Northern Mindanao, Caraga, and the Davao region face the greatest risk of flash floods and landslides, while Metro Manila and western coastal areas could see isolated to scattered showers from monsoon activity.",
       "source": "PAGASA",
       "url": "https://www.pagasa.dost.gov.ph/weather",
       "category": "weather",
-      "published_at": "2026-06-27T16:00:00+08:00",
-      "watch_for": "PAGASA issues updated weather forecasts and any thunderstorm or rainfall advisories at regular intervals."
+      "published_at": "2026-06-27T16:00:00+08:00"
     },
     {
-      "headline": "US and Iran trade strikes and accusations after Strait of Hormuz cargo ship attack",
-      "summary": "Al Jazeera reported that the United States carried out strikes on Iranian missile and drone storage sites and coastal radar after blaming Iran for a drone attack on the cargo ship Ever Lovely in the Strait of Hormuz, and that Iran's Revolutionary Guard said it struck US sites in the Gulf in response. Both sides accused the other of violating a June 17 memorandum of understanding. Bahrain reported an Iranian drone attack on its territory, with no casualties cited.",
+      "headline": "Venezuela twin earthquakes kill at least 1,430 as rescuers race before 72-hour survival window closes",
+      "summary": "Rescuers and residents were digging through rubble on June 27 after two earthquakes of magnitudes 7.2 and 7.5 struck the coastal area of La Guaira, Venezuela, killing at least 1,430 people and leaving more than 51,000 missing. About 1,600 foreign rescue personnel had arrived in the hardest-hit areas near Caracas while damaged phone and internet infrastructure hampered efforts to locate victims.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire",
+      "url": "https://www.aljazeera.com/news/2026/6/27/venezuelans-dig-for-earthquake-survivors-as-72-hour-rescue-window-nears-end",
       "category": "world",
-      "context": "The exchanges test a roughly week-old US-Iran understanding meant to reopen the Strait of Hormuz, a key oil shipping route that had been largely closed for months."
+      "context": "The UN Development Programme estimated total damages at $4.7 billion to $8.7 billion. The US repaired the runway of Simon Bolivar International Airport in Caracas to facilitate aid deliveries."
     },
     {
-      "headline": "Russia says it downed 660 Ukrainian drones overnight in one of the war's largest strikes",
-      "summary": "Al Jazeera reported that Russia's Defense Ministry said it intercepted 660 Ukrainian drones overnight across 13 regions, including Moscow and annexed Crimea, in one of Kyiv's largest long-range attacks of the war. Ukraine's campaign targeting energy and explosives sites damaged facilities in the Tula region, and Crimea declared a state of emergency over fuel shortages and power cuts.",
+      "headline": "Hezbollah rejects US-brokered Israel-Lebanon framework deal; Israeli strikes continue in south",
+      "summary": "Hezbollah leader Naim Qassem on June 27 called the Israel-Lebanon framework agreement signed a day earlier humiliating and refused to link the group's disarmament to Israel's withdrawal from Lebanese territory, warning the accord could enable Israeli annexation. Israeli strikes continued in southern Lebanon after the agreement was signed, killing one person near Nabatieh al-Fawqa. Israeli Finance Minister Bezalel Smotrich said Israel would remain in southern Lebanon beyond any disarmament deadline.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/russia-reports-downing-660-ukrainian-drones-denies-seeking-belarus-war-aid",
+      "url": "https://www.aljazeera.com/news/2026/6/27/hezbollah-rejects-israel-lebanon-agreement-as-israeli-attacks-hit-south",
       "category": "world",
-      "context": "Ukraine has increasingly targeted Russian fuel and energy infrastructure to disrupt supplies and war revenue."
+      "context": "The US-mediated framework agreement, signed June 26, establishes a path toward mutual recognition and normalization, including direct negotiations and a commitment to end the state of war between Israel and Lebanon."
     },
     {
-      "headline": "Qualcomm to design China-specific data center AI chip to meet US export rules",
-      "summary": "Nikkei Asia reported that Qualcomm, which unveiled a data center chip lineup to challenge Nvidia in the AI processor market, is designing a China-specific variant that complies with US export restrictions. Chief Executive Cristiano Amon said the new chip aims to help ease a global memory shortage amid rising demand for AI infrastructure.",
+      "headline": "Suicide bomber and gunmen attack Rangers paramilitary compound in Karachi, killing three soldiers",
+      "summary": "About five attackers stormed a Rangers paramilitary headquarters in Karachi's Gulistan-i-Jauhar district on June 27, with a suspected suicide bomber first ramming an explosive-laden vehicle into the compound entrance before gunmen entered the building. Three paramilitary soldiers were killed and at least two others wounded; four of the attackers were also killed. No group claimed responsibility for the assault.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/explosion-and-gunfire-reported-in-pakistans-karachi",
+      "category": "world"
+    },
+    {
+      "headline": "Japan announces eight Indo-Pacific digital infrastructure projects linking Taiwan to India",
+      "summary": "Japan's Ministry of Internal Affairs and Communications announced eight communications infrastructure projects across the Indo-Pacific, focused on undersea cables and satellite systems spanning from Taiwan to India. Officials said the initiative, framed as part of a free and open Indo-Pacific digital strategy, aims to strengthen regional economic security ties and support rising demand for AI infrastructure.",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/qualcomm-to-design-china-specific-data-center-chip-to-comply-with-us-export-controls",
-      "category": "world",
-      "context": "Chipmakers continue to tailor products for the Chinese market to navigate tightening US export controls on advanced AI hardware."
-    },
-    {
-      "headline": "Ebola outbreak in DR Congo surpasses 1,000 cases with 254 deaths",
-      "summary": "Al Jazeera reported that the Democratic Republic of the Congo's Ebola outbreak had passed 1,003 confirmed cases and 254 deaths, driven by the rare Bundibugyo strain, for which there is no approved vaccine or specific treatment. Officials said incomplete contact tracing suggests the true number of infections is higher and that the epidemic may not have peaked, with armed violence displacing thousands into crowded camps.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/6/22/ebola-cases-surpass-1000-in-congo-amid-violence-and-displacement",
-      "category": "world",
-      "context": "The World Health Organization declared the regional outbreak a public health emergency of international concern on May 17, 2026."
+      "url": "https://asia.nikkei.com/business/telecommunication/japan-to-launch-8-projects-in-digital-corridor-spanning-taiwan-india",
+      "category": "world"
     }
   ]
 }
