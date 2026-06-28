@@ -1,17 +1,34 @@
 {
   "version": 1,
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T20:13:45+08:00",
+  "generated_at": "2026-06-29T02:45:00+08:00",
   "stories": [
     {
-      "headline": "Senate impeachment court to issue pre-trial order June 29 as Sara Duterte trial nears July 6 start",
-      "summary": "Senate impeachment court spokesperson Reginald Bantug said the pre-trial order in Vice President Sara Duterte's impeachment case will be released on June 29, following a five-day pre-trial conference, and will set the framework for facts, witnesses, and trial dates. The House prosecution has marked witnesses including a sheriff Duterte was accused of punching in 2011 and, according to Manila Rep. Joel Chua, is seeking leeway from the court on how it presents evidence.",
+      "headline": "Prosecution prepares 10,000 exhibits for Sara Duterte impeachment trial as July 6 start approaches",
+      "summary": "The House prosecution panel is preparing around 10,000 pieces of evidence for Vice President Sara Duterte's impeachment trial, which the Senate Impeachment Court projects will run seven to eight months starting July 6. Prosecutors may waive certain articles if early evidence proves compelling, and they are seeking up to 63 hearing dates compared to the defense's 30. The four charges include alleged misuse of confidential funds, unexplained wealth, assassination threats against President Marcos and his family, and pressuring officials to bypass procurement rules.",
       "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/992792/pre-trial-order-for-sara-duterte-impeachment-case-out-by-monday-bantug/story/",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/993006/sara-duterte-impeachment-house-prosecution-panel/story/",
       "category": "politics",
-      "published_at": "2026-06-26T14:24:00+08:00",
-      "context": "Duterte faces articles of impeachment covering alleged misuse of confidential funds, false financial disclosures, unexplained wealth, and alleged threats against President Marcos and his family.",
-      "watch_for": "The pre-trial order is expected June 29, with a comment period until July 1; the trial proper is set to begin July 6, with hearings initially on Mondays to Wednesdays."
+      "published_at": "2026-06-28T23:46:00+08:00",
+      "context": "A Senate impeachment court pre-trial order setting the framework for facts, witnesses, and trial dates is due June 29. Duterte faces charges covering alleged misuse of confidential funds, false financial disclosures, unexplained wealth, and alleged threats against President Marcos and his family.",
+      "watch_for": "The pre-trial order is due June 29; the trial proper opens July 6, with hearings initially scheduled on Mondays to Wednesdays."
+    },
+    {
+      "headline": "NBI files human trafficking charges against former congressman Defensor and family members",
+      "summary": "The National Bureau of Investigation filed qualified human trafficking charges against former Anakalusugan Representative Mike Defensor, his wife Julie, daughter Michaela, and son Miguel Gabriel, alleging they owned establishments in Pasig City where more than 50 women were sexually exploited. The case stems from an April 21 raid on Chicago KTV Bar and Bleu Hotel in Pasig City. Defensor denied the charges as politically motivated; NBI Director Melvin Matibag said the evidence against him was strong.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2253989/nbi-files-human-trafficking-raps-vs-defensors-others",
+      "category": "politics",
+      "published_at": "2026-06-28T05:36:00+08:00"
+    },
+    {
+      "headline": "Government submits proposed P7.2-trillion national budget for 2027",
+      "summary": "The Department of Budget and Management submitted to Congress a proposed P7.2-trillion national budget for 2027, about P407 billion or 6 percent higher than the 2026 outlay and equal to roughly 21.7 percent of GDP. The framework, signed by acting Secretary Kim Robert de Leon, cited narrow fiscal space due to mandatory spending and projected interest payments of about P950 billion.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2253996/govt-proposes-p7-2-t-spending-bill-for-2027",
+      "category": "economy",
+      "published_at": "2026-06-28T05:42:00+08:00",
+      "watch_for": "Congress convenes its second regular session on July 24, when deliberations on the 2027 budget are expected to begin."
     },
     {
       "headline": "Defense department and Chinese embassy trade accusations over South China Sea ahead of arbitral ruling anniversary",
@@ -33,8 +50,8 @@
       "context": "The arrival comes amid heightened Philippines-China tensions in the West Philippine Sea and continuing US-Philippine defense and economic engagement."
     },
     {
-      "headline": "Senate panel to review Juvenile Justice Act, including age of criminal liability, after crimes involving minors",
-      "summary": "A Senate committee led by Sen. Erwin Tulfo said it will conduct a comprehensive review of how the Juvenile Justice and Welfare Act is being implemented, prompted by recent incidents involving minors, including a shooting at a Tacloban school and stabbings in Negros Occidental and Cavite. The review will examine rehabilitation facilities, parental accountability, intervention programs, and whether the current age of criminal liability remains appropriate.",
+      "headline": "Senate committee to examine Juvenile Justice Act after violent incidents involving minors",
+      "summary": "A Senate committee led by Sen. Erwin Tulfo said it will conduct a comprehensive review of how the Juvenile Justice and Welfare Act is being implemented, prompted by recent incidents involving minors including a shooting at a Tacloban school and stabbings in Negros Occidental and Cavite. The review will examine rehabilitation facilities, parental accountability, intervention programs, and whether the current age of criminal liability remains appropriate. Sen. Robin Padilla proposed lowering the minimum age to 10 years old, drawing criticism from child welfare advocates.",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2254075/senate-panel-to-review-age-of-criminal-liability",
       "category": "politics",
@@ -42,22 +59,68 @@
       "context": "Lowering the minimum age of criminal responsibility has been debated in the Philippines for years. The panel said it will gather input from legal experts, law enforcement, social workers, and affected families."
     },
     {
-      "headline": "Government submits proposed P7.2-trillion national budget for 2027",
-      "summary": "The Department of Budget and Management submitted to Congress a proposed P7.2-trillion national budget for 2027, about P407 billion or 6 percent higher than the 2026 outlay and equal to roughly 21.7 percent of GDP. The framework, signed by acting Secretary Kim Robert de Leon, cited narrow fiscal space due to mandatory spending and projected interest payments of about P950 billion.",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2253996/govt-proposes-p7-2-t-spending-bill-for-2027",
-      "category": "economy",
-      "published_at": "2026-06-28T05:42:00+08:00",
-      "watch_for": "Congress convenes its second regular session on July 24, when deliberations on the 2027 budget are expected to begin."
+      "headline": "Senate names anti-dynasty bill and social media age restriction among LEDAC legislative priorities",
+      "summary": "Senate President Sherwin Gatchalian announced that an anti-political dynasty bill, a social media restriction for users aged 16 and under, and amendments to the party-list system are among 50 priority measures endorsed by the Legislative-Executive Development Advisory Council. Gatchalian said the social media measure would require age verification through facial recognition and give the Cybercrime Investigation and Coordinating Center expanded blocking powers.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/993003/anti-dynasty-social-media-ban-for-minors-among-ledac-priority-bills-gatchalian/story/",
+      "category": "politics",
+      "published_at": "2026-06-28T21:40:00+08:00",
+      "context": "The social media proposal gained renewed urgency after a fatal school shooting in Tacloban City. Gatchalian noted that only five new Bahay Pag-asa youth rehabilitation centers are under construction nationwide despite 84 provinces needing coverage.",
+      "watch_for": "Bicameral conference deliberations on the anti-dynasty bill, where significant differences between Senate and House versions are expected."
     },
     {
-      "headline": "Oil industry source projects fuel price increases next week amid Middle East tensions",
-      "summary": "An oil industry source told GMA News that pump prices could rise next week by up to P2.00 per liter for gasoline and P1.00 per liter for diesel, citing renewed tensions between the United States and Iran. The projected increases would reverse rollbacks implemented days earlier. The figures are estimates and not yet final.",
+      "headline": "General Santos suspends in-person classes after magnitude 6.5 earthquake off Davao Occidental",
+      "summary": "General Santos City officials suspended in-person classes at public schools pending structural assessments after a magnitude 6.5 earthquake centered about 70 kilometers west of Balut Island in Davao Occidental was felt at Intensity V in parts of Mindanao. Schools shifted to alternative delivery modes while buildings are inspected. PHIVOLCS said the tremor was a separate event and not an aftershock of the magnitude 7.8 quake that struck the region earlier in June.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2254220/gensan-suspends-in-person-classes-after-powerful-earthquake",
+      "category": "regions",
+      "published_at": "2026-06-28T17:20:00+08:00",
+      "context": "Tremors were also felt in Sarangani, South Cotabato, and Sultan Kudarat provinces. The June 8 magnitude 7.8 quake struck the same Mindanao region.",
+      "watch_for": "Results of structural assessments of school buildings before classes resume."
+    },
+    {
+      "headline": "Two workers trapped after road works site collapse in Las Pinas; rescue operations underway",
+      "summary": "Two workers remained missing Sunday evening after a structural collapse at a road works site connected to a water supply project in Pamplona II, Las Pinas City. Five other people at the site were rescued, one with injuries. The Bureau of Fire Protection, Philippine National Police, and the city disaster risk reduction office conducted retrieval operations.",
       "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/money/economy/992904/motorists-fuel-rates-us-iran-tensions-middle-east/story/",
+      "url": "https://www.gmanetwork.com/news/topstories/metro/993009/2-being-retrieved-at-dig-site-collapse-in-las-pi-as-city/story/",
+      "category": "metro",
+      "published_at": "2026-06-29T00:14:00+08:00"
+    },
+    {
+      "headline": "PAGASA says low-pressure area and monsoon to bring rains over parts of the country",
+      "summary": "In its 4 p.m. bulletin on June 28, PAGASA said a low-pressure area about 705 kilometers east of Surigao City and an active southwest monsoon would bring moderate to at times heavy rains over several areas. The agency flagged the risk of flash floods and landslides in Eastern Visayas, Caraga, the Davao region, Catanduanes, Albay, and Sorsogon, and monsoon rains over Ilocos, Zambales, Bataan, Occidental Mindoro, and Palawan.",
+      "source": "PAGASA",
+      "url": "https://pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-06-28T16:00:00+08:00",
+      "context": "PAGASA said no tropical cyclone was inside the Philippine Area of Responsibility as of June 28; the hazard is rainfall from the low-pressure area and the seasonal southwest monsoon.",
+      "watch_for": "PAGASA reissues its general weather forecast roughly every 12 hours and would begin numbered tropical cyclone bulletins if the low-pressure area develops into a tropical depression."
+    },
+    {
+      "headline": "Experts warn pollutants from monthlong Navotas landfill fire could persist for years",
+      "summary": "Environmental experts warned that pollutants released by a 30-day fire at the Navotas landfill, which began April 10 and burned more than half of its 41-hectare area, could linger in Metro Manila's environment for years and pose long-term health risks. They identified dioxins and furans among the most hazardous pollutants, with possible effects ranging from respiratory irritation to cardiovascular disease and cancer, and urged expanded air-quality and gas monitoring.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2253998/experts-warn-of-lingering-pollutants-from-navotas-landfill-fire",
+      "category": "metro",
+      "published_at": "2026-06-28T05:39:00+08:00",
+      "context": "The fire, which experts said was likely triggered by methane buildup, was extinguished after about 30 days."
+    },
+    {
+      "headline": "Police say White Ribbon March at EDSA was peaceful and orderly",
+      "summary": "The Philippine National Police said the White Ribbon March, an interfaith anti-corruption demonstration, was peaceful and orderly on June 28. The PNP said about 3,600 participants gathered at the People Power Monument along EDSA in Quezon City after a Mass and march from the EDSA Shrine, with nearly 10,000 officers deployed for security and traffic management. Organizers called for accountability and action against corruption and political dynasties.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/28/pnp-says-white-ribbon-rally-peaceful-orderly",
+      "category": "metro",
+      "published_at": "2026-06-28T19:03:00+08:00",
+      "context": "The march was backed by religious and civil society groups, including the Interreligious Leaders Council for National Transformation."
+    },
+    {
+      "headline": "Philippines advances investment for Southeast Asia's first offshore wind project in Camarines Sur",
+      "summary": "Finance Secretary Frederick Go met with executives of Copenhagen Infrastructure Partners and ACEN Corporation to advance a 901-megawatt offshore wind project in San Miguel Bay, Camarines Sur. The government says the project would be Southeast Asia's first offshore wind farm, aimed at strengthening long-term energy security, creating jobs, and aligning with the 2023-2050 Philippine Energy Plan.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/companies/993011/ph-pushes-investment-for-southeast-asia-s-first-offshore-wind-project/story/",
       "category": "economy",
-      "published_at": "2026-06-27T15:15:00+08:00",
-      "watch_for": "Oil companies typically announce final weekly price adjustments on Tuesdays."
+      "published_at": "2026-06-29T01:52:00+08:00"
     },
     {
       "headline": "WTO review flags high Philippine trade costs as a hurdle to investment",
@@ -78,31 +141,22 @@
       "watch_for": "The recommendation now awaits approval by the Office of the President."
     },
     {
-      "headline": "Police say anti-corruption White Ribbon March at EDSA was peaceful",
-      "summary": "The Philippine National Police said the White Ribbon March, an interfaith anti-corruption demonstration, was peaceful and orderly on June 28. The PNP said about 3,600 participants gathered at the People Power Monument along EDSA in Quezon City after a Mass and march from the EDSA Shrine, with nearly 10,000 officers deployed for security and traffic management. Organizers called for accountability and action against corruption and political dynasties.",
-      "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/06/28/pnp-says-white-ribbon-rally-peaceful-orderly",
-      "category": "metro",
-      "published_at": "2026-06-28T19:03:00+08:00",
-      "context": "The march was backed by religious and civil society groups, including the Interreligious Leaders Council for National Transformation."
+      "headline": "Oil industry source projects fuel price increases next week amid Middle East tensions",
+      "summary": "An oil industry source told GMA News that pump prices could rise next week by up to P2.00 per liter for gasoline and P1.00 per liter for diesel, citing renewed tensions between the United States and Iran. The projected increases would reverse rollbacks implemented days earlier. The figures are estimates and not yet final.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/992904/motorists-fuel-rates-us-iran-tensions-middle-east/story/",
+      "category": "economy",
+      "published_at": "2026-06-27T15:15:00+08:00",
+      "watch_for": "Oil companies typically announce final weekly price adjustments on Tuesdays."
     },
     {
-      "headline": "Experts warn pollutants from monthlong Navotas landfill fire could persist for years",
-      "summary": "Environmental experts warned that pollutants released by a 30-day fire at the Navotas landfill, which began April 10 and burned more than half of its 41-hectare area, could linger in Metro Manila's environment for years and pose long-term health risks. They identified dioxins and furans among the most hazardous pollutants, with possible effects ranging from respiratory irritation to cardiovascular disease and cancer, and urged expanded air-quality and gas monitoring.",
+      "headline": "Quezon City condo residents contest Maynilad's reclassification to semi-business water rates",
+      "summary": "About 1,824 units at Smile Citihomes Condominium in Barangay Kaligayahan, Quezon City received a disconnection notice for approximately P1.3 million in disputed bills after Maynilad reclassified the building from residential to semi-business water rates in March 2026, citing fewer than 10 small commercial tenants. The condominium board obtained a temporary hold order from the Metropolitan Waterworks and Sewerage System Regulatory Office suspending the disconnection while the dispute is reviewed.",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2253998/experts-warn-of-lingering-pollutants-from-navotas-landfill-fire",
+      "url": "https://newsinfo.inquirer.net/2254073/qc-condo-residents-alarmed-over-maynilad-disconnection-notice",
       "category": "metro",
-      "published_at": "2026-06-28T05:39:00+08:00",
-      "context": "The fire, which experts said was likely triggered by methane buildup, was extinguished after about 30 days."
-    },
-    {
-      "headline": "General Santos suspends in-person classes after magnitude 6.5 earthquake",
-      "summary": "General Santos City officials suspended in-person classes at public schools pending structural reassessments after a magnitude 6.5 earthquake centered about 70 kilometers west of Balut Island in Davao Occidental was felt at Intensity V in parts of Mindanao. Phivolcs said the tremor was a separate event, not an aftershock of the magnitude 7.8 quake that struck the region earlier in June. Affected schools shifted to alternative delivery while buildings are inspected.",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2254220/gensan-suspends-in-person-classes-after-powerful-earthquake",
-      "category": "regions",
-      "published_at": "2026-06-28T17:20:00+08:00",
-      "watch_for": "Officials said further class suspensions are possible pending structural assessments."
+      "published_at": "2026-06-28T09:22:00+08:00",
+      "watch_for": "Decision from the MWSS Regulatory Office on the building's water rate classification."
     },
     {
       "headline": "Four wounded in shootout between police and armed group in Arayat, Pampanga",
@@ -113,12 +167,28 @@
       "published_at": "2026-06-28T12:58:00+08:00"
     },
     {
+      "headline": "Senator Hontiveros opens 2028 presidential campaign with Bacolod rally drawing 3,000 supporters",
+      "summary": "Senator Risa Hontiveros formally launched her 2028 presidential campaign in Bacolod City on June 28, with the 'Risa Na' movement drawing about 3,000 supporters to Gonzaga Gym in Barangay Taculing. Attendees signed a manifesto pledging to organize community chapters, and backers presented Hontiveros as a candidate without dynastic political ties.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2254177/risa-na-drive-starts-in-bacolod-for-hontiveros-2028-presidential-bid",
+      "category": "politics",
+      "published_at": "2026-06-28T15:42:00+08:00"
+    },
+    {
       "headline": "PDEA reports P40 million in drugs seized and 110 arrested in week of operations",
       "summary": "The Philippine Drug Enforcement Agency said it conducted 83 anti-drug operations nationwide from June 18 to 25, seizing about P40.06 million worth of illegal drugs and arresting 110 suspects. The agency said seizures included roughly 3,575 grams of shabu and more than 72,000 marijuana plants, and that 76 of those arrested were tagged as pushers and 19 as possessors.",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2254230/p40-m-drugs-seized-110-suspects-nabbed-in-june-18-25-ops",
       "category": "other",
       "published_at": "2026-06-28T17:38:00+08:00"
+    },
+    {
+      "headline": "Philippines leads ASEAN adoption of three higher education initiatives covering digital access and research",
+      "summary": "The Commission on Higher Education secured approval from ASEAN member states for three regional education initiatives at a June 26 ministers' roundtable hosted by the Philippines. The approved measures establish a framework for digital transformation and sustainability in higher education, create a regional teacher development center called ACTED, and expand the ASEAN GEMS Plus scholarship and researcher mobility program. The initiatives will guide the ASEAN Work Plan on Education 2026-2030.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/28/philippines-leads-adoption-of-3-asean-higher-education-initiatives",
+      "category": "other",
+      "published_at": "2026-06-28T09:58:00+08:00"
     },
     {
       "headline": "Cagayan's Rina Andrea Delos Santos crowned Miss Philippines Earth 2026",
@@ -130,14 +200,13 @@
       "context": "The Miss Philippines Earth winner represents the country in the international Miss Earth pageant."
     },
     {
-      "headline": "PAGASA says low-pressure area and monsoon to bring rains over parts of the country",
-      "summary": "In its 4 p.m. bulletin on June 28, PAGASA said a low-pressure area about 705 kilometers east of Surigao City and an active southwest monsoon would bring moderate to at times heavy rains over several areas. The agency flagged the risk of flash floods and landslides in Eastern Visayas, Caraga, the Davao region, Catanduanes, Albay, and Sorsogon, and monsoon rains over Ilocos, Zambales, Bataan, Occidental Mindoro, and Palawan. Metro Manila could see isolated rainshowers or thunderstorms.",
-      "source": "PAGASA",
-      "url": "https://pagasa.dost.gov.ph/weather",
-      "category": "weather",
-      "published_at": "2026-06-28T16:00:00+08:00",
-      "context": "PAGASA said no tropical cyclone was inside the Philippine Area of Responsibility as of June 28; the hazard is rainfall from the low-pressure area and the seasonal southwest monsoon.",
-      "watch_for": "PAGASA reissues its general weather forecast roughly every 12 hours and would begin numbered tropical cyclone bulletins if the low-pressure area develops into a tropical depression."
+      "headline": "Israel strikes southern Lebanon two days after US-brokered ceasefire framework is signed",
+      "summary": "Israeli aircraft conducted strikes in southern Lebanon on June 28, just two days after a US-brokered framework was signed on June 26 in Washington to end a conflict that has killed more than 4,200 people in Lebanon since March 2026. One Lebanese civilian was killed in the strikes -- the first death since the agreement. Hezbollah leader Naim Qassem called the deal humiliating, while far-right Israeli Security Minister Itamar Ben-Gvir also opposed it.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal",
+      "category": "world",
+      "context": "The agreement's core ambiguity -- whether Israel must withdraw unconditionally or can remain until Hezbollah disarms -- has generated conflicting claims from all parties. US Secretary of State Marco Rubio described the deal as the beginning of the beginning, while Israeli PM Netanyahu called it historic.",
+      "watch_for": "Implementation of ceasefire withdrawal and disarmament provisions, and Iran's response to continued Israeli military operations in southern Lebanon."
     },
     {
       "headline": "US and Iran exchange new strikes as Iran targets US bases in Kuwait and Bahrain",
@@ -150,35 +219,24 @@
     },
     {
       "headline": "Venezuela earthquake death toll passes 1,400 as rescuers race to find survivors",
-      "summary": "Twin earthquakes of magnitudes 7.2 and 7.5 that struck Venezuela on June 25 have killed at least 1,430 people, with tens of thousands reported missing, devastating the coastal La Guaira area near Caracas, according to Al Jazeera. With a shortage of heavy equipment, residents dug through rubble by hand as international rescuers arrived; officials said about 1,600 foreign rescue personnel had reached the country as the critical 72-hour survival window closed.",
+      "summary": "Twin earthquakes of magnitudes 7.2 and 7.5 that struck Venezuela on June 25 have killed at least 1,430 people, with tens of thousands reported missing, devastating the coastal La Guaira area near Caracas. With a shortage of heavy equipment, residents dug through rubble by hand as international rescuers arrived; officials said about 1,600 foreign rescue personnel had reached the country as the critical 72-hour survival window closed.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/27/venezuelans-dig-for-earthquake-survivors-as-72-hour-rescue-window-nears-end",
       "category": "world",
       "context": "The mainshock is described as Venezuela's strongest in over a century. Caracas's main airport was heavily damaged, and the UN warned that millions may need shelter, water, and medical care."
     },
     {
-      "headline": "Heatwave breaks temperature records across Germany, Denmark, and the Czech Republic",
-      "summary": "Germany set a provisional all-time high of 41.5C on June 27, its second record in two days, as an early summer heatwave moved north and east across Europe, with records also falling in Denmark and the Czech Republic, according to the BBC. The report said an estimated 150 million people in Europe were experiencing temperatures above 35C, and the World Meteorological Organization warned of major impacts on health and ecosystems.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2vdydz31no",
-      "category": "world",
-      "published_at": "2026-06-28T04:08:45+08:00",
-      "context": "The BBC reported the heatwave, which began in the Iberian peninsula, has been linked to hundreds of deaths over the past week."
-    },
-    {
-      "headline": "Burkina Faso severs diplomatic ties with France",
-      "summary": "Burkina Faso said it was cutting diplomatic ties with France, with its communications minister accusing Paris of ceaseless activism and neo-colonial ambitions against the country. France's foreign ministry called the decision hostile and unfounded and urged its nationals in Burkina Faso to exercise heightened vigilance.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7vymlgl5vgo",
-      "category": "world",
-      "published_at": "2026-06-27T22:21:31+08:00",
-      "context": "Relations deteriorated after Capt. Ibrahim Traore took power in a 2022 coup, expelled French troops, and shifted toward Russia and China, mirroring moves by neighboring Mali."
-    },
-    {
-      "headline": "Ukraine and Russia trade overnight strikes, killing at least three",
-      "summary": "Overnight Russian drone and bomb attacks killed two people across several Ukrainian regions and injured more than 20, while Ukrainian strikes on Russian and occupied territory killed one and injured 10, according to Al Jazeera. President Volodymyr Zelenskyy said Ukrainian missiles struck an industrial and defense complex in Volgograd; a Russian regional governor confirmed strikes that injured 10 and caused localized fires.",
+      "headline": "European heatwave kills over 1,000 in France as temperature records fall across the continent",
+      "summary": "France's public health agency reported at least 1,000 excess deaths from a severe heatwave, with most fatalities among older people. At least 191 million Europeans faced temperatures of 35 degrees Celsius or higher, and Germany, Denmark, and the Czech Republic set preliminary all-time temperature records, with some German locations exceeding 40 degrees Celsius. Scientists attributed the intensity to an omega block weather pattern made virtually impossible without man-made climate change.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight",
+      "url": "https://www.aljazeera.com/news/2026/6/28/european-heatwave-causes-1000-excess-deaths-in-france",
+      "category": "world"
+    },
+    {
+      "headline": "Ukraine says it struck two Russian oil refineries hundreds of kilometers from front lines",
+      "summary": "Ukraine conducted overnight drone strikes on the Slavyansk refinery in Krasnodar region and the Yaroslavl refinery approximately 700 kilometers from the front line. Russian authorities reported at least two deaths and said air defenses shot down 117 drones across multiple regions. President Zelenskyy said the attacks were aimed at weakening Russia's ability to sustain its military campaign.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries",
       "category": "world"
     }
   ]
