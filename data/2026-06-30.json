@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T20:11:31+08:00",
+  "stories": [
+    {
+      "headline": "Iglesia ni Cristo stages unannounced EDSA protest over plunder case against senator; police report arrests",
+      "summary": "Thousands of Iglesia ni Cristo members held an unannounced protest near the People Power Monument along EDSA in Quezon City on June 30, snarling traffic and forcing road closures. The Philippine National Police said at least four people were arrested as of mid-morning, including a bus driver accused of using a vehicle to block northbound lanes, and that at least three officers were injured in confrontations. The church said the gathering was meant to press for transparency and accountability after the Ombudsman moved to file a plunder case against Senator Rodante Marcoleta.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2255018/several-arrested-during-inc-rally-on-edsa",
+      "category": "metro",
+      "published_at": "2026-06-30T09:30:00+08:00",
+      "context": "The Iglesia ni Cristo, an influential bloc-voting religious group, endorsed Marcoleta in the 2025 senatorial elections."
+    },
+    {
+      "headline": "Marcos to proceed with Canada visit despite EDSA protest, Palace says",
+      "summary": "Malacanang said President Ferdinand Marcos Jr. will push through with an official visit to Canada from July 1 to 4 despite the Iglesia ni Cristo protest along EDSA, with Presidential Communications Office Secretary Dave Gomez saying there were no changes to the President's schedule. The Palace said Marcos departs for Vancouver this week for what it described as the first Philippine presidential visit to Canada in 11 years, with talks expected to focus on advancing a free trade agreement.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/06/30/marcos-to-push-through-with-canada-trippalace",
+      "category": "politics",
+      "published_at": "2026-06-30T15:24:00+08:00",
+      "watch_for": "Marcos is scheduled to be in Canada from July 1 to 4 for talks officials say will cover trade, defense, and energy cooperation."
+    },
+    {
+      "headline": "PAGASA says low-pressure area off Masbate likely to become tropical cyclone within 24 hours",
+      "summary": "PAGASA said a low-pressure area over the coastal waters of San Pascual, Masbate as of 3 a.m. on June 30 had a high chance of developing into a tropical cyclone within 24 hours, either while crossing land or after emerging over the West Philippine Sea. The weather bureau said the system, which would be given the local name Henry if it develops, was already bringing rain over Southern Luzon and the Visayas, and that Tropical Cyclone Wind Signal No. 1 may be raised given its proximity to land.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2254966/lpa-off-masbate-likely-to-become-tropical-cyclone-in-next-24-hours",
+      "category": "weather",
+      "published_at": "2026-06-30T06:49:00+08:00",
+      "watch_for": "PAGASA said the system was expected to pass over the Southern Luzon-Visayas area on June 30 before emerging over the West Philippine Sea by July 1, with wind signals possible once it develops."
+    },
+    {
+      "headline": "Taal Volcano logs four-minute phreatomagmatic eruption; alert level unchanged",
+      "summary": "Phivolcs recorded a four-minute phreatomagmatic eruption at Taal Volcano from 7:13 a.m. to 7:17 a.m. on June 30, generating a plume that rose about 450 meters above the main crater. The institute said Taal remained under Alert Level 1 and that it measured 881 metric tons of sulfur dioxide emissions in the preceding 24 hours. It was the fourth eruptive event recorded at the volcano in June.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2255033/taal-volcano-logs-4-minute-phreatomagmatic-eruption",
+      "category": "regions",
+      "published_at": "2026-06-30T09:57:00+08:00",
+      "context": "Phreatomagmatic events, driven by the interaction of magma and water, have recurred at Taal since 2021 and are considered part of its normal behavior under Alert Level 1."
+    },
+    {
+      "headline": "Senate impeachment court releases pre-trial order ahead of July 6 Duterte trial",
+      "summary": "The Senate impeachment court released its pre-trial order setting the guidelines and schedule for the trial of Vice President Sara Duterte, which is set to open on July 6, Senate officials said. The order followed a pre-trial conference in which the prosecution and defense marked their evidence on the articles covering confidential funds and alleged unexplained wealth. Duterte faces four articles alleging misuse of public funds, unexplained wealth, bribery, and grave threats against President Marcos and his family.",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/06/29/news/senate-impeachment-court-releases-pre-trial-order-to-guide-trial-vs-vp-sara-duterte/2374959",
+      "category": "politics",
+      "watch_for": "The impeachment trial is scheduled to open on July 6."
+    },
+    {
+      "headline": "AFP reports 44 Chinese vessels in West Philippine Sea over the past week",
+      "summary": "The Armed Forces of the Philippines said it monitored 44 Chinese vessels across four features in the West Philippine Sea from June 23 to 29, up from 17 the previous week. AFP spokesperson Rear Admiral Roy Vincent Trinidad said the tally included China Coast Guard ships and People's Liberation Army Navy vessels at Ayungin Shoal, Bajo de Masinloc, Escoda Shoal, and Pag-asa Islands. He attributed the lower count a week earlier to inclement weather.",
+      "source": "SunStar",
+      "url": "https://www.sunstar.com.ph/pampanga/local-news/44-chinese-vessels-spotted-in-wps-from-june-23-29",
+      "category": "politics",
+      "published_at": "2026-06-30T06:40:00+08:00"
+    },
+    {
+      "headline": "Pump prices rise on June 30 as oil firms cite easing Middle East tensions",
+      "summary": "Pilipinas Shell raised gasoline prices by 1.65 pesos, diesel by 0.84 peso, and kerosene by 1.22 pesos per liter effective June 30, with other oil firms expected to announce similar adjustments, GMA News reported. The Department of Energy had set a permitted range allowing a small rollback or an increase of up to about 1.90 pesos for gasoline. DOE Secretary Sharon Garin said global oil prices were stabilizing as Middle East tensions eased following developing US-Iran negotiations.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/993047/list-pump-price-adjustments-on-tuesday-june-30-2026/story/",
+      "category": "economy",
+      "published_at": "2026-06-29T13:56:00+08:00"
+    },
+    {
+      "headline": "Ombudsman set to file plunder case against Senator Marcoleta over P75-million donations",
+      "summary": "The Office of the Ombudsman is preparing to file plunder charges before the Sandiganbayan against Senator Rodante Marcoleta, former lawmaker Mike Defensor, and businessmen Joseph Espiritu and Aristotle Viray, alleging that Marcoleta accepted 75 million pesos in undisclosed contributions in three transactions in January 2025 while he was a congressman. Marcoleta and Defensor have denied wrongdoing, with Marcoleta saying the funds were legitimate campaign donations. The Sandiganbayan earlier issued a precautionary hold departure order against the four.",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/06/30/news/plunder-charge-poised-vs-marcoleta-defensor/2374590",
+      "category": "politics",
+      "context": "The looming case prompted the Iglesia ni Cristo, which endorsed Marcoleta in 2025, to stage a protest along EDSA on June 30.",
+      "watch_for": "The Ombudsman said the plunder case would be filed before the Sandiganbayan this week, after which the anti-graft court is expected to act on the matter of an arrest warrant."
+    },
+    {
+      "headline": "Pakistan says strikes along Afghan border killed 29 fighters; Taliban reports civilian deaths",
+      "summary": "Pakistan's military said ground operations and air strikes along its border with Afghanistan killed 29 fighters, with Information Minister Attaullah Tarar saying targets in Paktia, Paktika, and Kunar were hit, according to Al Jazeera. Afghanistan's Taliban-led government disputed the account, saying the strikes killed at least 36 civilians and wounded 163. Pakistan said the operation followed an attack on a paramilitary headquarters in Karachi claimed by a Pakistani Taliban faction.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/29/pakistan-says-its-security-forces-killed-29-fighters-along-afghan-border",
+      "category": "world",
+      "context": "The strikes are the latest in months of cross-border attacks between the two countries since February. China, Turkey, Qatar, and Saudi Arabia have urged de-escalation."
+    },
+    {
+      "headline": "Israeli strike in central Gaza kills three, including a child, amid ceasefire",
+      "summary": "An Israeli strike in Deir el-Balah in central Gaza killed at least three people, including an eight-year-old child and two men, Al Jazeera reported. The attack came despite a ceasefire that has been in place since October 2025. Gaza's Government Media Office said more than 1,000 Palestinians have been killed and over 3,300 wounded since the truce took effect, in what it described as repeated Israeli violations of the agreement.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/29/israeli-attack-in-gaza-kills-three-including-a-child",
+      "category": "world"
+    },
+    {
+      "headline": "Russian missile and drone attacks kill at least eight across Ukraine",
+      "summary": "Russian missile and drone strikes killed at least eight people and wounded 34 across several Ukrainian regions, Ukrainian authorities said. At least five were killed in a missile attack on the industrial city of Dnipro, including a 13-year-old girl, while drone strikes on Zaporizhzhia killed at least three, according to Al Jazeera. President Volodymyr Zelenskyy condemned the attacks and called for stronger air defenses.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/29/russian-missile-and-drone-attacks-kill-at-least-eight-in-ukraine",
+      "category": "world",
+      "context": "The Kremlin said its conditions for ending the war remained unchanged, including Ukrainian withdrawal from four claimed regions, and Putin rejected a proposed mutual halt to long-range strikes."
+    }
+  ]
+}
