@@ -1,17 +1,18 @@
 {
   "version": 1,
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T04:11:45+08:00",
+  "generated_at": "2026-07-01T20:21:11+08:00",
   "stories": [
     {
-      "headline": "INC rally on EDSA swells to over 15,000; four arrested, follow-up march permitted for July 1",
-      "summary": "Thousands of Iglesia ni Cristo members gathered without a permit along EDSA and White Plains Avenue in Quezon City starting before dawn on June 30, in a show of support for Senator Rodante Marcoleta ahead of an expected plunder case. Police estimated the crowd grew past 15,000 by evening, snarling Metro Manila traffic after protesters used buses to block lanes including the EDSA Carousel busway. The Philippine National Police said four people were arrested, including a bus driver accused of pinning down an officer with a bus, and that two officers were injured.",
-      "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/993155/live-updates-edsa-protest-june-30-2026/story/",
+      "headline": "Quezon City denies permit for third day of INC rally backing Senator Marcoleta",
+      "summary": "The Iglesia ni Cristo held a second day of protest on July 1 along EDSA and White Plains Avenue in Quezon City in support of Senator Rodante Marcoleta, under a city permit limiting it to White Plains Avenue from 8 a.m. to 8 p.m. Police estimated about 4,000 to 4,500 participants through the day, fewer than the June 30 turnout, with roughly 2,500 officers deployed and some EDSA lanes reopened. Quezon City public order office chief Elmo San Diego said the city denied the group a permit for a planned third day, citing complaints and widespread inconvenience.",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/07/01/news/quezon-city-rejects-permit-for-incs-3rd-day-rally/2376632",
       "category": "metro",
       "published_at": "2026-06-30T09:30:00+08:00",
-      "context": "Marcoleta, a former Senate Blue Ribbon Committee chair who led the flood-control corruption probe, faces a possible plunder case over an alleged 75 million pesos in undeclared 2025 campaign donations; INC, an influential bloc-voting group, has called the case \"selective justice.\"",
-      "watch_for": "Quezon City granted INC a permit for a follow-up rally on July 1, 8 a.m. to 8 p.m., along White Plains Avenue to Temple Drive, and the Ombudsman is expected to formally file plunder charges against Marcoleta this week."
+      "context": "Marcoleta, a Marcos-allied senator and INC member who briefly led the Senate Blue Ribbon Committee's flood-control corruption probe, faces a possible non-bailable plunder case over an alleged 75 million pesos in undeclared 2025 campaign donations; INC, an influential bloc-voting group, has called the case \"selective justice.\"",
+      "watch_for": "The Office of the Ombudsman said on July 1 it would proceed with filing plunder charges against Marcoleta before the Sandiganbayan this week regardless of the protests.",
+      "updated_at": "2026-07-01T20:21:11+08:00"
     },
     {
       "headline": "AFP reports sharp rise in Chinese vessels near disputed West Philippine Sea shoals",
@@ -40,13 +41,14 @@
       "context": "Phreatomagmatic eruptions, driven by magma interacting with water, have recurred at Taal since 2021 and are considered typical behavior under Alert Level 1."
     },
     {
-      "headline": "PAGASA says low-pressure area off Masbate likely to become tropical cyclone Henry within a day",
-      "summary": "PAGASA said a low-pressure area near San Pascual, Masbate had a high chance of developing into a tropical cyclone within 24 hours of its 3 a.m. June 30 position, either while crossing Southern Luzon and the Visayas or after emerging over the West Philippine Sea. If it forms, the system would be locally named Henry, the Philippines' eighth tropical cyclone of 2026. The bureau said it was already bringing scattered rain to Metro Manila, Calabarzon, Bicol, and the Visayas, with 50 to 100 millimeters of rain possible in Mindoro, Marinduque, Romblon, Aklan, and Capiz.",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2254966/lpa-off-masbate-likely-to-become-tropical-cyclone-in-next-24-hours",
+      "headline": "Tropical Depression Henry forms off Luzon; PAGASA raises then lifts Signal No. 1",
+      "summary": "The low-pressure area PAGASA had been tracking developed into Tropical Depression Henry, prompting the agency to raise Tropical Cyclone Wind Signal No. 1 over parts of Zambales, Bataan, and the Lubang Islands early on July 1. PAGASA lifted the signal around 11 a.m. as Henry moved away from the landmass; by mid-afternoon it was over the West Philippine Sea about 240 kilometers west-southwest of Abucay, Bataan, with peak winds of 45 kilometers per hour and gusts to 55. The agency said Henry could exit the Philippine Area of Responsibility by Wednesday evening or early Thursday.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/01/pagasa-lifts-signal-no-1-as-henry-nears-par-exit",
       "category": "weather",
       "published_at": "2026-06-30T06:49:00+08:00",
-      "watch_for": "PAGASA said Tropical Cyclone Wind Signal No. 1 may be raised over Bicol, Quezon, Batangas, Mindoro, Marinduque, and Romblon once the system intensifies, with the system expected to emerge over the West Philippine Sea around July 1."
+      "watch_for": "PAGASA said Henry may intensify into a tropical storm over the West Philippine Sea by Thursday, and it issued what it called its final bulletin on the storm's combined effects with the southwest monsoon, with scattered rains still possible over parts of Luzon and the Visayas.",
+      "updated_at": "2026-07-01T20:21:11+08:00"
     },
     {
       "headline": "GCash parent Mynt files for record 92.3-billion-peso IPO",
@@ -104,12 +106,13 @@
       "watch_for": "The increase takes effect in two tranches: 60 pesos starting July 19, 2026, and an additional 25 pesos in January 2027."
     },
     {
-      "headline": "US envoys meet Qatari mediators in Doha as Iran denies agreeing to direct talks with US",
-      "summary": "US Middle East envoy Steve Witkoff and senior adviser Jared Kushner traveled to Doha on June 30 to meet Qatari mediators, including Qatar's prime minister, as part of efforts to maintain a fragile ceasefire after days of US-Iran strikes around the Strait of Hormuz. President Trump said on social media that Iran had requested a meeting in Doha, but Iran's foreign ministry spokesperson denied any bilateral meeting with US officials was scheduled \"at any level,\" saying Tehran would send only a technical delegation.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha",
+      "headline": "Iran declines direct talks with US envoys in Doha as ceasefire negotiations stall",
+      "summary": "Iran declined to meet US envoys Jared Kushner and Steve Witkoff, who traveled to Doha, with Foreign Ministry spokesperson Esmaeil Baghaei saying no meeting \"at any level\" with the American side was scheduled and that Tehran would deal only through Qatari and Omani mediators. Iran's chief negotiator, Mohammed Baqer Qalibaf, said sovereignty over the Strait of Hormuz lies with Iran and Oman. The two sides have a 60-day window, expiring in mid-August, to reach a permanent deal after a ceasefire signed in mid-June; Iran has said it plans to impose tolls on Strait traffic if that lapses.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/iran-refuses-to-meet-us-envoys-clouding-prospects-for-peace-deal",
       "category": "world",
-      "context": "The talks follow roughly four days of mutual strikes around the Strait of Hormuz that paused around June 29; the June 17 memorandum covers frozen Iranian funds, sanctions relief on oil exports, and administration of the strait."
+      "context": "The negotiations follow days of mutual strikes around the Strait of Hormuz that paused in late June; a mid-June memorandum covers frozen Iranian funds, sanctions relief on oil exports, and administration of the strait, through which about a fifth of global oil and LNG shipments pass.",
+      "updated_at": "2026-07-01T20:21:11+08:00"
     },
     {
       "headline": "Venezuela earthquake death toll passes 1,700 as rescue hopes fade six days on",
@@ -128,12 +131,75 @@
       "watch_for": "Forecasters expect another heat surge from July 5 affecting France, Spain, Germany, Italy, Switzerland, and parts of the UK."
     },
     {
-      "headline": "Putin acknowledges fuel shortages as Ukrainian drone strikes hit more Russian refineries",
-      "summary": "Russian President Vladimir Putin acknowledged fuel shortages and said there were \"queues at petrol stations\" across the country, calling for \"systemic measures\" to counter Ukrainian drone strikes that have hit several oil refineries, including in the Krasnodar and Yaroslavl regions. Most Russian regions have imposed limits on fuel sales, with some gas stations reporting queues of up to 12 hours and others closing. Targeted facilities also include the Norsk refinery, Russia's fourth largest, which suspended operations after an attack near Kstovo.",
+      "headline": "Ukraine strikes Russian refineries as overnight attacks kill three; Kyiv signs Gripen jet deal",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said Ukraine struck an oil refinery in Ufa and a military-industrial facility in Russia's Penza region, calling it a \"just response\" in its campaign against Russian energy and defense sites. Overnight Russian drone attacks killed at least three people, in the Dnipropetrovsk region and Zaporizhzhia, according to local officials and Ukrainian media. Kyiv also signed a contract with Sweden for 16 used Gripen E fighter jets worth about 2.53 billion dollars, with deliveries from 2027.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/30/how-severe-is-russias-energy-shortage-because-of-ukrainian-strikes",
+      "url": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery",
       "category": "world",
-      "context": "Ukraine has intensified strikes on Russian energy infrastructure as part of a campaign to cut Moscow's oil export revenue and pressure the Kremlin toward negotiations; analysts say the disruption is expected to affect Russia's July-August wheat harvest season."
+      "context": "Ukraine has intensified strikes on Russian oil refineries, contributing to fuel shortages that President Vladimir Putin has publicly acknowledged; Moscow continues to demand that Ukraine cede the Donetsk, Luhansk, Kherson, and Zaporizhia regions.",
+      "updated_at": "2026-07-01T20:21:11+08:00"
+    },
+    {
+      "headline": "House prosecutors weigh seeking lower Senate threshold to convict VP Duterte before July 6 trial",
+      "summary": "An adviser to the House prosecution team, former lawmaker Robert Ace Barbers, said prosecutors may ask the Senate impeachment court to lower the number of votes needed to convict Vice President Sara Duterte, arguing that some senators may be unable to take part in the trial. Conviction currently requires two-thirds of the Senate, or 16 of 24 members, under the Constitution. Barbers said the matter would be raised \"at the appropriate time.\" The trial is set to begin July 6.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2256095/barbers-house-prosecutors-may-seek-lower-conviction-threshold",
+      "category": "politics",
+      "published_at": "2026-07-01T17:12:00+08:00",
+      "context": "Duterte faces an impeachment trial on articles that include alleged unexplained wealth, misuse of confidential funds, and threats against President Marcos and his family; a conviction would remove her from office.",
+      "watch_for": "The Senate impeachment court is scheduled to begin the trial on July 6, 2026."
+    },
+    {
+      "headline": "Marcos begins four-day official visit to Canada to pursue trade and security deals",
+      "summary": "President Ferdinand Marcos Jr. left for Vancouver on July 1 for a four-day official visit to Canada, the first by a Philippine president in 11 years, at the invitation of Prime Minister Mark Carney. Palace Press Officer Claire Castro said the two governments were expected to sign agreements on energy and natural resources, trade and investment, labor and immigration, and tourism and the arts, and that Marcos would advance talks on a free trade agreement. Presidential Communications Office official Dave Gomez said the trip would proceed despite the INC protests in Metro Manila.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/01/energy-trade-deals-expected-to-be-forged-during-marcos-canada-trip",
+      "category": "politics",
+      "published_at": "2026-07-01T15:35:00+08:00",
+      "context": "The Philippines holds the 2026 ASEAN chairmanship and has been seeking to broaden its trade and security partnerships beyond traditional allies.",
+      "watch_for": "The visit runs through July 4, 2026, and includes meetings with Prime Minister Carney and Canadian business stakeholders in mining, telecommunications, and other sectors."
+    },
+    {
+      "headline": "Senate opens inquiry into Tacloban school shooting and online violence",
+      "summary": "A Senate committee led by Senator Risa Hontiveros opened an inquiry on July 1 into the shooting at San Jose National High School in Tacloban City and possible links between online gaming platforms and violence among young people. The panel invited relatives of the slain students, some attending in person and others remotely, along with agencies including the Department of Social Welfare and Development. Several other officials sent representatives.",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/07/01/news/senate-starts-investigation-into-tacloban-school-shooting/2376373",
+      "category": "politics",
+      "published_at": "2026-07-01T10:11:00+08:00",
+      "context": "The June 22 shooting at the Tacloban school killed three students, and two minors were taken into custody. Authorities have linked the case to online communities they say expose young people to extremist and violent content."
+    },
+    {
+      "headline": "CIDG recommends homicide charges over deaths of two Ateneo basketball players",
+      "summary": "The Department of Justice said it received a supplemental referral from the Criminal Investigation and Detection Group on July 1 recommending charges of homicide, or reckless imprudence resulting in homicide, over the deaths of two Ateneo de Manila basketball players. The referral supplements a June 26 recommendation that had sought complaints under the Anti-Hazing Act against former head coach Tab Baldwin and 11 others, including team staff. The DOJ said both referrals remain under evaluation.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/993402/homicide-charges-cidg-ateneo/story/",
+      "category": "metro",
+      "published_at": "2026-07-01T20:10:00+08:00",
+      "context": "The Criminal Investigation and Detection Group's earlier referral cited Republic Act No. 11053, the Anti-Hazing Act, in connection with the deaths tied to the Ateneo Blue Eagles basketball program."
+    },
+    {
+      "headline": "Marcos weighs extending price ceiling on imported rice",
+      "summary": "President Marcos was studying whether to extend a 50-peso-per-kilo price ceiling on imported rice after the National Price Coordinating Council recommended keeping it, Palace Press Officer Claire Castro said, adding a decision could come within the day before Marcos left for Canada. The cap on 5-percent broken imported rice was first imposed for 30 days under Executive Order No. 118 on May 13 to curb what the government called unreasonable price increases. Rice imports reached 2.31 million metric tons from January to May, up about 20 percent from a year earlier.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2256110/marcos-studying-extension-of-p50-kilo-price-cap-on-imported-rice",
+      "category": "economy",
+      "published_at": "2026-07-01T17:37:00+08:00",
+      "watch_for": "Castro said a decision on whether to extend the price ceiling could be announced within the day."
+    },
+    {
+      "headline": "Six Philippine esports teams qualify for Asian Games; PUBG Mobile squad falls short",
+      "summary": "Six national esports teams under the Philippines' Sibol program qualified for the Asian Games in Nagoya, competing in Mobile Legends: Bang Bang, Honor of Kings, Naraka: Bladepoint, Puyo Puyo Champions, Pokemon UNITE, and Identity V, the Philippine Esports Organization said. The PUBG Mobile team narrowly missed qualifying, losing to Jordan by a single point on a tiebreaker. PESO executive director Marlon Marcelo said the federation hoped for at least a medal or two.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/01/high-hopes-for-esports-gold-as-six-sibol-teams-qualify-for-asian-games",
+      "category": "sports",
+      "published_at": "2026-07-01T19:23:00+08:00"
+    },
+    {
+      "headline": "South Korea's monthly exports top 100 billion dollars for first time on chip demand",
+      "summary": "South Korea's exports exceeded 100 billion dollars in a single month for the first time in June, according to government figures released July 1, driven by record semiconductor shipments amid strong global demand from the artificial intelligence sector. Chipmakers SK Hynix and Samsung Electronics were cited as the main drivers of the record.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/south-korean-exports-in-june-soar-past-100bn-for-first-time-on-chip-demand",
+      "category": "world"
     }
   ]
 }
