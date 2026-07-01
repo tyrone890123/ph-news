@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T04:30:00+08:00",
+  "stories": [
+    {
+      "headline": "World Bank classifies Philippines as upper-middle-income country",
+      "summary": "The World Bank confirmed the Philippines has reached upper-middle-income status after its gross national income per capita rose to 4,850 dollars, above the 4,636-dollar threshold for the category, the Department of Economy, Planning, and Development said. DEPDev attributed the shift to average GDP growth of 5.8 percent from 2021 to 2025 and an 8.5 percent rise in GNI per capita in 2025.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/993422/world-bank-philippines-status/story/",
+      "category": "economy",
+      "published_at": "2026-07-01T22:39:00+08:00",
+      "context": "The Philippines had been classified a lower-middle-income country; DEPDev Secretary Arsenio Balisacan said growth still needs to become more inclusive so its benefits reach all Filipinos."
+    },
+    {
+      "headline": "Mayon Volcano produces fresh lava flow and pyroclastic currents on 178th day of eruption",
+      "summary": "The Philippine Institute of Volcanology and Seismology reported new lava effusion, pyroclastic density currents, and rockfalls at Mayon Volcano, with lava flow observed at 9:16 p.m. on July 1, marking the 178th consecutive day of the volcano's ongoing effusive eruption. Alert Level 3 remains in place, and Phivolcs said the 6-kilometer permanent danger zone around the volcano remains off-limits.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/993432/lava-flow-and-pyroclastic-currents-mayon-volcano-phivolcs/story/",
+      "category": "regions",
+      "published_at": "2026-07-01T23:46:00+08:00"
+    },
+    {
+      "headline": "Palace announces cash aid for Tacloban school shooting victims, orders school security upgrades",
+      "summary": "Palace Press Officer Claire Castro said the Office of the President will give 150,000 pesos each to the families of the three students killed and 50,000 pesos each to the 18 students injured in the June 23 shooting at a Tacloban City high school, on top of earlier DSWD and DepEd assistance. Castro said the government is adding school security measures such as metal detectors and CCTV, and that authorities had the online game 'GoreBox' removed from Google Play and Steam in the Philippines after investigators found a suspect had frequently played it.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/993376/marcos-tacloban-school-shooting-victims/story/",
+      "category": "politics",
+      "published_at": "2026-07-01T17:20:00+08:00",
+      "context": "The shooting at San Jose National High School on June 23 killed three students and wounded 18; the 14-year-old suspect is undergoing an intervention program at a youth facility, and the Senate has opened a separate inquiry into the shooting and related online content."
+    },
+    {
+      "headline": "Peso falls to over three-week low on Fed rate bets and Mideast uncertainty",
+      "summary": "The Philippine peso fell 26.1 centavos to close at 61.621 per dollar on July 1, its weakest close since June 8, according to Bankers Association of the Philippines data. A trader cited by BusinessWorld attributed the move to hawkish bets on the US Federal Reserve after strong US jobs-openings data and to safe-haven demand amid uncertainty over the US-Iran peace process.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/banking-finance/2026/07/02/760423/peso-tumbles-to-over-three-week-low/",
+      "category": "economy",
+      "published_at": "2026-07-02T00:02:56+08:00",
+      "watch_for": "RCBC Chief Economist Michael Ricafort projected the peso would trade between 61.50 and 61.70 against the dollar on July 2."
+    },
+    {
+      "headline": "Philippine manufacturing PMI rises to 50.9 in June, second straight month of expansion",
+      "summary": "S&P Global's Philippines Manufacturing PMI rose to 50.9 in June from 50.8 in May, marking a second consecutive month of expansion and putting the Philippines above the ASEAN average of 50.5. Output and new orders grew for a second straight month and employment stabilized after job losses in April and May, but overall business confidence fell to its lowest level since January.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/07/02/760524/philippine-manufacturing-pmi-improves-in-june/",
+      "category": "economy",
+      "published_at": "2026-07-02T00:34:26+08:00",
+      "context": "S&P Global economist Maryam Baluch said sharp cost increases over the prior two months had squeezed manufacturers' margins; the Philippines ranked third among ASEAN economies in June, behind Vietnam and Thailand."
+    },
+    {
+      "headline": "Analysts warn slowing OFW remittance growth could weigh on Philippine consumer spending",
+      "summary": "Cash remittances from overseas Filipino workers rose just 2 percent year-on-year to 2.718 billion dollars in April, the weakest growth in nearly four years, as conflict in the Middle East, which accounts for roughly 17 to 18 percent of total remittance inflows, dampened growth, according to ING Bank regional research head Deepali Bhargava. Household spending grew 3 percent year-on-year in the first quarter of 2026, down from 5.28 percent a year earlier.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/07/01/760209/slowing-remittance-growth-seen-to-weigh-on-consumption/",
+      "category": "economy",
+      "published_at": "2026-07-01T00:31:39+08:00",
+      "context": "UnionBank Chief Economist Ruben Carlo Asuncion said he still expects remittances to grow, though modestly, and flagged elevated inflation, which stood at 6.8 percent in May, above the central bank's 2-4 percent target, as a bigger risk to consumer spending."
+    },
+    {
+      "headline": "Marcoleta calls looming plunder case 'fabricated,' says he expects it will be dismissed",
+      "summary": "Senator Rodante Marcoleta said in an interview that he is confident any plunder complaint against him over an alleged 75-million-peso undeclared campaign contribution will be dismissed by the courts, calling the allegations fabricated and arguing the donations were made before the campaign period and properly taxed by donors. He said he believes the case's timing is connected to Vice President Sara Duterte's impeachment trial.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/01/i-am-quite-sure-marcoleta-confident-fabricated-plunder-rap-will-be-dismissed",
+      "category": "politics",
+      "published_at": "2026-07-01T20:43:00+08:00",
+      "context": "Ombudsman Jesus Crispin Remulla has said plunder charges would proceed against Marcoleta and three campaign donors before the Sandiganbayan regardless of Iglesia ni Cristo rallies held in Marcoleta's support in Quezon City this week."
+    },
+    {
+      "headline": "Philippine Air Force outlines plans for new aircraft, strategic bases amid regional security tensions",
+      "summary": "Marking the Philippine Air Force's 79th founding anniversary, commanding general Lt. Gen. Arthur Cordura said the service plans to acquire long-range patrol aircraft, additional Black Hawk and Bell 412 EPX helicopters, and advanced surveillance radar, while developing strategic bases on Pag-asa Island and in Santa Ana, Cagayan. Cordura said the moves are meant to extend the PAF's reach across the West Philippine Sea and Northern Luzon.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/01/paf-to-boost-reach-with-new-aircraft-strategic-bases-as-security-challenges-grow",
+      "category": "politics",
+      "published_at": "2026-07-01T10:53:00+08:00",
+      "context": "The plans are tied to the military's Comprehensive Archipelagic Defense Concept, a shift from internal security operations toward territorial defense amid regional tensions in the West Philippine Sea."
+    },
+    {
+      "headline": "Kanlaon Volcano emits ash column rising about 700 meters",
+      "summary": "The Philippine Institute of Volcanology and Seismology said Kanlaon Volcano produced a brief ash emission at 10:14 a.m. on July 1, sending a grayish plume roughly 700 meters above the summit that drifted southwest. Alert Level 2 remains in effect, meaning ongoing volcanic activity could still lead to further ash emissions or volcanic earthquakes, and entry into the 4-kilometer permanent danger zone remains prohibited.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/01/700-meter-ash-column-rises-from-kanlaon-volcano",
+      "category": "regions",
+      "published_at": "2026-07-01T11:02:00+08:00"
+    },
+    {
+      "headline": "DR Congo Ebola outbreak spreads to fourth province as cases pass 1,300",
+      "summary": "The Democratic Republic of Congo's health ministry reported 1,307 confirmed Ebola cases and 377 deaths in the country's 17th recorded outbreak, which began in May and has now spread to a fourth province, Haut-Uele, after an infected person traveled from Ituri's capital before dying. Health workers report shortages of protective gear and medicines, and the government has banned public gatherings in four provinces, including Kinshasa.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths",
+      "category": "world",
+      "context": "There is no approved vaccine or specific treatment for the Bundibugyo strain of Ebola involved in this outbreak; treatment centers have faced attacks from community members distrustful of health authorities."
+    },
+    {
+      "headline": "Explosive device injures Ukrainian businessman and family at Monaco residence",
+      "summary": "A makeshift explosive device detonated at a residential building entrance in Monaco on June 29, injuring Ukrainian businessman Vadym Yermolaiev, his partner, and his 13-year-old son. Monaco's minister of state, Christophe Mirmand, said the family appeared to have been specifically targeted, and prosecutors opened an attempted murder investigation while ruling out terrorism as a motive.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/who-is-vadym-yermolaiev-the-ukrainian-tycoon-injured-in-monaco-blast",
+      "category": "world",
+      "context": "Yermolaiev, founder of the Alef Group conglomerate, relocated to Monaco in 2021, renounced his Ukrainian citizenship in 2017, and was sanctioned by Ukraine in 2023 over business ties in Russian-occupied Crimea; no suspect has been named and the motive remains unconfirmed."
+    },
+    {
+      "headline": "World's oceans post hottest June on record, EU climate service says",
+      "summary": "The EU's Copernicus Marine Service said the global average sea-surface temperature reached 21.0 degrees Celsius in June, the warmest June on record, with marine heatwaves covering about 82 percent of the world's oceans by the end of the month. Copernicus oceanographer Simon van Gennip said this was the second-largest extent of marine heatwave coverage on record, after roughly 83 percent in 2024.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/worlds-oceans-experience-hottest-june-ever-scientists-say-more-heat-ahead",
+      "category": "world",
+      "watch_for": "Copernicus Climate Change Service director Carlo Buontempo said a possible incoming El Nino could push temperatures higher into 2026 and 2027, with more temperature records likely to fall in coming months."
+    },
+    {
+      "headline": "Roof collapse at Pakistan tutoring center kills at least 14 children",
+      "summary": "The roof of an unfinished second floor collapsed at a private tutoring center in the Kahna area of Lahore, Pakistan on June 30, killing at least 14 children and injuring a teacher and eight other children, according to police. Reuters reported the collapse occurred while workers were repairing tiles on the unfinished floor; police arrested the center's owner and one other person and are investigating possible negligence.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/30/at-least-14-children-killed-after-roof-of-pakistan-tuition-centre-collapses",
+      "category": "world",
+      "context": "Building collapses linked to weak enforcement of construction standards are a recurring problem in Pakistan; a similar incident in July 2025 killed 27 people in Karachi."
+    }
+  ]
+}
