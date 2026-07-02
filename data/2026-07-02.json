@@ -1,16 +1,17 @@
 {
   "version": 1,
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T04:30:00+08:00",
+  "generated_at": "2026-07-02T20:16:08+08:00",
   "stories": [
     {
       "headline": "World Bank classifies Philippines as upper-middle-income country",
-      "summary": "The World Bank confirmed the Philippines has reached upper-middle-income status after its gross national income per capita rose to 4,850 dollars, above the 4,636-dollar threshold for the category, the Department of Economy, Planning, and Development said. DEPDev attributed the shift to average GDP growth of 5.8 percent from 2021 to 2025 and an 8.5 percent rise in GNI per capita in 2025.",
-      "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/money/economy/993422/world-bank-philippines-status/story/",
+      "summary": "The World Bank reclassified the Philippines as an upper-middle-income country after its gross national income per capita rose to a record 4,850 dollars in 2025, above the category's 4,636-dollar threshold, the Department of Economy, Planning and Development said. In a video message on July 2, President Ferdinand Marcos Jr. called the upgrade a vote of confidence in the country's future and said it affirmed his administration's economic policies, adding that progress must put food on Filipinos' tables.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/02/marcos-dubs-philippines-upper-middle-income-status-as-a-vote-of-confidence-for-countrys-future",
       "category": "economy",
       "published_at": "2026-07-01T22:39:00+08:00",
-      "context": "The Philippines had been classified a lower-middle-income country; DEPDev Secretary Arsenio Balisacan said growth still needs to become more inclusive so its benefits reach all Filipinos."
+      "context": "The Philippines had been a lower middle-income economy since 1987; DEPDev Secretary Arsenio Balisacan said growth still needs to become more inclusive so its benefits reach all Filipinos.",
+      "updated_at": "2026-07-02T20:16:08+08:00"
     },
     {
       "headline": "Mayon Volcano produces fresh lava flow and pyroclastic currents on 178th day of eruption",
@@ -113,6 +114,42 @@
       "url": "https://www.aljazeera.com/news/2026/6/30/at-least-14-children-killed-after-roof-of-pakistan-tuition-centre-collapses",
       "category": "world",
       "context": "Building collapses linked to weak enforcement of construction standards are a recurring problem in Pakistan; a similar incident in July 2025 killed 27 people in Karachi."
+    },
+    {
+      "headline": "Senate impeachment trial of VP Sara Duterte set to open July 6",
+      "summary": "The Senate impeachment court is scheduled to begin the trial of Vice President Sara Duterte on July 6, after holding pre-trial conferences from June 18 to 25 to mark and evaluate documentary evidence from both sides. House prosecutors are pursuing four articles of impeachment and have said they may rest their case early if the evidence proves strong enough. Senate officials have described the July 6 timeline as tight but achievable.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/992558/impeachment-trial-july-2026/story/",
+      "category": "politics",
+      "published_at": "2026-06-24T17:14:00+08:00",
+      "context": "Duterte was impeached by the House of Representatives over accusations that include the alleged misuse of confidential funds; a conviction by at least two-thirds of the Senate would remove her from office.",
+      "watch_for": "The trial is scheduled to open on July 6, with the prosecution set to present up to four articles of impeachment."
+    },
+    {
+      "headline": "Marcos leaves for Canada visit as Palace plays down INC rally security fears",
+      "summary": "President Ferdinand Marcos Jr. departed on July 1 for a four-day official visit to Canada at the invitation of Prime Minister Mark Carney, keeping to his schedule despite an Iglesia ni Cristo rally that congested EDSA in Metro Manila. Palace press officer Claire Castro said the government would not dismiss reports of planned protests at government sites but rejected suggestions the church group was orchestrating destabilization, and said police would maintain maximum tolerance toward demonstrators.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2256271/marcos-departs-for-canada-as-palace-rejects-fears-of-inc-backed-coup",
+      "category": "politics",
+      "published_at": "2026-07-01T22:20:00+08:00",
+      "context": "The INC protest pressed demands over what it called selective justice, centered on the looming plunder case against Senator Rodante Marcoleta; the demonstration disrupted Metro Manila's main thoroughfare."
+    },
+    {
+      "headline": "Henry exits PAR as PAGASA watches system that may become super typhoon next week",
+      "summary": "Tropical Depression Henry left the Philippine Area of Responsibility around 8 p.m. on July 1, and PAGASA said the southwest monsoon and Henry's outer bands would still bring strong to gale-force winds and scattered rains to parts of Luzon, the Visayas and Mindanao. The weather bureau said a separate system outside the country could strengthen into a typhoon or super typhoon and may enter Philippine waters by the middle of next week, when it would be named Inday.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2256411/storm-outside-par-may-intensify-into-super-typhoon-next-week-pagasa",
+      "category": "weather",
+      "published_at": "2026-07-02T07:28:00+08:00",
+      "watch_for": "PAGASA said the system outside PAR could enter Philippine waters by the middle of next week and would be given the local name Inday, though it said there is still high uncertainty over the system's track and strength."
+    },
+    {
+      "headline": "Afghanistan and Pakistan trade cross-border strikes as tensions escalate",
+      "summary": "Afghanistan's defense ministry said its air force struck what it called ISIL centers inside Pakistan's Balochistan and Khyber Pakhtunkhwa provinces on July 1, while Pakistan's military said it shot down four drones launched from Afghanistan the same day, according to Al Jazeera. The exchange followed Pakistani strikes on June 29 that Islamabad said killed about 25 fighters but that Afghan officials said killed dozens of civilians. Neither side's casualty claims could be independently verified.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/1/after-afghanistan-fires-drones-into-pakistan-whats-next",
+      "category": "world",
+      "context": "The neighbors have exchanged fire repeatedly since early 2026; Pakistan accuses the Afghan Taliban government of sheltering militants who stage attacks on its territory, which Kabul denies."
     }
   ]
 }
