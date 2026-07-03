@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T04:45:00+08:00",
+  "stories": [
+    {
+      "headline": "Duterte defense says it is ready for July 6 impeachment trial",
+      "summary": "Vice President Sara Duterte's defense team said Friday it is ready for her Senate impeachment trial, which opens Monday, July 6. The Senate impeachment court has approved a 92-day trial period, with 62 dates allotted to the House prosecution, which listed 57 witnesses, and 30 dates to the defense, which named 90 witnesses.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/03/vp-sara-duterte-impeachment-trial-defense-ready-for-july-6-eyes-surprise-witnesses",
+      "category": "politics",
+      "context": "Duterte faces impeachment on allegations that include misuse of public funds and threats against President Marcos, First Lady Marie Louise Araneta-Marcos and former House Speaker Ferdinand Martin Romualdez.",
+      "watch_for": "Defense spokesperson Michael Poa said the team may hold back some of its listed witnesses to call as \"surprise witnesses\" depending on the prosecution's evidence when the trial opens July 6."
+    },
+    {
+      "headline": "Ombudsman files plunder charges against Senator Marcoleta",
+      "summary": "The Office of the Ombudsman filed plunder charges before the Sandiganbayan against Senator Rodante Marcoleta and three others - former congressman Mike Defensor and businessmen Joseph Espiritu and Aristotle Viray - over 75 million pesos in campaign donations Marcoleta allegedly received in January 2025 but did not declare in his campaign expenditure statement or asset disclosure. Marcoleta said the case aims to \"intimidate independent voices\" and vowed not to be silenced.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/993578/ombudsman-p75m-charges-marcoleta-sandiganbayan/story/",
+      "category": "politics"
+    },
+    {
+      "headline": "Marcos, Carney sign Philippines-Canada cooperation agreements",
+      "summary": "President Marcos and Canadian Prime Minister Mark Carney oversaw the signing of agreements covering energy and natural resources cooperation, tourism, culture, labor mobility and mutual defense logistics support during Marcos' visit to Vancouver. The leaders said they aim to conclude a bilateral free trade agreement by the end of 2026.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/993593/marcos-carney-announce-boost-in-ph-canada-ties/story/",
+      "category": "politics",
+      "context": "The visit marked the first by a Philippine head of state to Canada in 11 years, and comes as the two countries also work toward a wider Canada-ASEAN free trade agreement.",
+      "watch_for": "The two countries' foreign ministries were tasked with drafting a Plan of Action to build on the agreements, including support for a rules-based order in the South China Sea."
+    },
+    {
+      "headline": "World Bank reclassifies Philippines as upper-middle income country",
+      "summary": "The World Bank said the Philippines has reached upper-middle-income status, with gross national income per capita reaching a record $4,850 in 2025, placing it within the $4,636 to $14,375 threshold. The country had been classified as lower-middle income since 1987; the change reflects average GDP growth of 5.8 percent annually over the past five years.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://business.inquirer.net/598349/ph-attains-upper-middle-income-rank-world-bank",
+      "category": "economy",
+      "context": "The World Bank updates income classifications every July 1 using the prior year's gross national income data; the Philippines was one of five countries, along with Jordan, Micronesia, Sri Lanka and Vietnam, to move up a tier this year."
+    },
+    {
+      "headline": "Philippine banks' bad loan ratio hits nine-month high",
+      "summary": "The gross non-performing loan ratio of Philippine banks widened to 3.44 percent as of end-May, the highest in nine months, up from 3.37 percent in April, as elevated borrowing costs strained some borrowers. The peso value of soured loans rose 3.7 percent from April to 601.4 billion pesos. Analyst Jonathan Ravelas called it \"a caution flag rather than a red flag,\" saying the banking system remains fundamentally sound.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/03/higher-borrowing-costs-push-philippine-banks-bad-loan-ratio-to-9-month-high",
+      "category": "economy"
+    },
+    {
+      "headline": "Competition watchdog fines Boracay dive shops for price fixing",
+      "summary": "The Philippine Competition Commission fined the Boracay Business Administration of Scuba Shops and 39 member shops a combined 2.17 million pesos for fixing prices on diving services, including minimum rates for certification courses and capped commissions, in violation of the Philippine Competition Act. The commission rejected the group's argument that the price floors protected consumer safety and local livelihoods.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2256996/pcc-fines-boracay-scuba-group-39-members-p2-17m-for-price-fixing",
+      "category": "regions"
+    },
+    {
+      "headline": "DepEd, PNP push new measures amid rise in school violence, threats",
+      "summary": "Education Secretary Sonny Angara urged schools nationwide to strengthen coordination with Parent-Teacher Associations to help prevent campus violence, invoking DepEd's 2022 PTA guidelines. Separately, the PNP warned of a rise in school-related threats, saying many appear to involve students trying to avoid classes or exams, and urged the public to verify reports before sharing them online.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/993601/deped-urges-schools-to-tap-ptas-as-frontline-partners-in-preventing-school-violence/story/",
+      "category": "other",
+      "context": "The push follows a string of recent incidents, including a shooting at a Tacloban City high school on June 22 that killed three students, and a false shooting report at a Quezon City school that circulated online this week."
+    },
+    {
+      "headline": "Alex Eala reaches Wimbledon third round for the first time",
+      "summary": "Alex Eala rallied from a set down to beat Australia's Maya Joint 3-6, 6-2, 6-0 on July 2, becoming the first Filipino to reach the third round of a Grand Slam singles tournament in the Open era. The 29th seed avenged a loss to Joint in last year's Eastbourne Open final.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://sports.inquirer.net/684470/alex-eala-rallies-past-maya-joint-into-historic-wimbledon-third-round",
+      "category": "sports",
+      "watch_for": "Eala faces defending Wimbledon champion Iga Swiatek in the third round on Saturday, July 4."
+    },
+    {
+      "headline": "Super typhoon Bavi may enter Philippine area, could be named 'Inday'",
+      "summary": "PAGASA said tropical cyclone Bavi rapidly intensified into a super typhoon outside the Philippine Area of Responsibility, with maximum sustained winds of 185 km/h and gusts up to 230 km/h as of 10 p.m. on July 3, while located about 3,090 kilometers east of Eastern Visayas. Forecasters said Bavi may enter the PAR by Wednesday, July 8, when it would be given the local name \"Inday.\"",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/03/tropical-cyclone-outside-par-intensifies-into-a-super-typhoon",
+      "category": "weather",
+      "watch_for": "PAGASA said wind signals could later be raised over Northern and possibly Central Luzon, and the system is expected to enhance the southwest monsoon with widespread rain, though officials cautioned the forecast track remains uncertain given the storm's distance from the country."
+    },
+    {
+      "headline": "Russian missile and drone strike on Kyiv kills at least 22",
+      "summary": "Russia launched 74 missiles and 496 drones at Ukraine overnight into July 2, with Kyiv the main target. Ukrainian air defenses intercepted most of them, but 25 ballistic missiles and 12 drones struck 33 locations across the capital, killing at least 22 people and wounding dozens, including children. President Zelenskyy said Russia had \"deliberately attacked ordinary civilians and residential buildings.\"",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike",
+      "category": "world",
+      "context": "Kyiv's mayor called it the war's most massive attack on the capital, with a nine-story residential building among the sites hit. Russia's defense ministry said the strikes were carried out in response to Ukrainian drone attacks inside Russia."
+    },
+    {
+      "headline": "US hiring slows sharply in June, payrolls rise by just 57,000",
+      "summary": "US employers added 57,000 jobs in June, well below the roughly 110,000 to 115,000 economists had forecast, while the unemployment rate edged down to 4.2 percent as labor force participation fell to its lowest level since March 2021. Leisure and hospitality shed 61,000 jobs despite World Cup-related tourism, while professional services, healthcare and social assistance posted gains.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/2/us-job-growth-slows-in-june-hospitality-sheds-roles-despite-world-cup",
+      "category": "world",
+      "context": "The Bureau of Labor Statistics also revised down April and May payroll gains by a combined 74,000 jobs, adding to signs the labor market has cooled significantly this year."
+    },
+    {
+      "headline": "Venezuela rescuers pull survivor from rubble eight days after quakes",
+      "summary": "A 43-year-old security guard, Hernan Gil, was pulled alive from the collapsed basement of a shopping mall in La Guaira, Venezuela, on July 2, eight days after twin earthquakes measuring 7.2 and 7.5 struck the area on June 24. An international team from seven countries carried out the rescue, passing water and oxygen through a narrow shaft during the operation.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes",
+      "category": "world",
+      "context": "The June 24 earthquakes killed more than 2,200 people, injured over 11,000 and left roughly 50,000 people unaccounted for, officials said; experts have cautioned that further survivor rescues are increasingly unlikely at this stage."
+    }
+  ]
+}
