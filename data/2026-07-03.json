@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T04:14:52+08:00",
+  "generated_at": "2026-07-03T20:16:43+08:00",
   "stories": [
     {
       "headline": "Iglesia ni Cristo concludes three-day rally at Manila's Liwasang Bonifacio",
@@ -22,13 +22,14 @@
       "context": "Two minors opened fire at San Jose National High School, killing three people and wounding several others; the case has since prompted separate Senate and law-enforcement inquiries into online extremist networks targeting children."
     },
     {
-      "headline": "Marcos begins four-day Canada visit to advance trade, energy and defense ties",
-      "summary": "President Ferdinand Marcos Jr. arrived in Vancouver on July 1 for a four-day official visit, the first by a Philippine head of state to Canada in 11 years, and met with Prime Minister Mark Carney on cooperation in trade, energy, defense and maritime affairs. Marcos said the talks would \"lay the broad strokes of a Plan of Action\" for bilateral relations, and officials are also working to advance a Philippines-Canada free trade agreement.",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://globalnation.inquirer.net/329476/marcos-arrival-in-canada",
+      "headline": "Philippines and Canada elevate ties to a strategic partnership during Marcos visit",
+      "summary": "The Philippines and Canada elevated their relations to a strategic partnership on July 2 after President Ferdinand Marcos Jr. met Prime Minister Mark Carney in Vancouver, part of Marcos's four-day official visit. The two leaders directed their foreign ministers to draft a plan of action and witnessed the signing of agreements on energy and natural resources, labor and migration, and culture and tourism; Marcos said deeper ties reflected the need to adapt to a volatile geopolitical environment.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/993593/marcos-carney-announce-boost-in-ph-canada-ties/story/",
       "category": "politics",
       "published_at": "2026-07-02T08:17:00+08:00",
-      "context": "The trip proceeded despite an Iglesia ni Cristo rally that disrupted Metro Manila traffic this week; Marcos also cited Canada's support for Philippine positions on the West Philippine Sea dispute under UNCLOS and the 2016 arbitral ruling."
+      "context": "The upgrade builds on earlier defense arrangements, including a Status of Visiting Forces Agreement signed in Manila in November 2025; Marcos is the first Philippine head of state to visit Canada in more than a decade, and officials have said they hope to conclude a bilateral free trade agreement within 2026.",
+      "updated_at": "2026-07-03T20:16:43+08:00"
     },
     {
       "headline": "Mayon Volcano's effusive eruption continues into 179th day",
@@ -95,6 +96,53 @@
       "url": "https://www.aljazeera.com/news/2026/7/1/un-human-rights-council-to-hold-urgent-meeting-on-sudan-crisis",
       "category": "world",
       "context": "Sudan's four-year conflict between the army and the Rapid Support Forces has killed tens of thousands of people and displaced more than 12 million, in what the UN calls the world's worst displacement and hunger crisis."
+    },
+    {
+      "headline": "Ombudsman files plunder case against Senator Marcoleta over undeclared donations",
+      "summary": "The Office of the Ombudsman on July 3 filed a plunder case before the Sandiganbayan against Senator Rodante Marcoleta and three others over 75 million pesos in campaign donations he allegedly received while a congressman and did not report in his statements of assets and campaign finance filings. The Ombudsman also filed three counts of violating an anti-gift law, saying the evidence left it no option but to charge him. Plunder is a non-bailable offense.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/03/ombudsman-files-plunder-raps-vs-marcoleta-3-others-over-alleged-p75-m-undeclared-donations",
+      "category": "politics",
+      "published_at": "2026-07-03T12:19:00+08:00",
+      "context": "The three alleged donors named as co-accused - former congressman Michael Defensor and businessmen Joseph Espiritu and Aristotle Viray - are said to have given 30 million, 25 million and 20 million pesos, respectively, in January 2025 for Marcoleta's Senate bid. The filing followed a three-day Iglesia ni Cristo rally staged in support of the senator."
+    },
+    {
+      "headline": "World Bank reclassifies the Philippines as an upper-middle-income economy",
+      "summary": "The World Bank has reclassified the Philippines as an upper-middle-income economy after gross national income per capita rose to 4,850 dollars in 2025 from 4,470 dollars a year earlier, above the 4,636-dollar threshold. The country had been classified as lower-middle-income since the late 1980s. Officials welcomed the milestone, though analysts cautioned that the statistical upgrade does not by itself reflect the finances of households still facing high living costs.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/01/philippines-achieves-upper-middle-income-ambition",
+      "category": "economy",
+      "published_at": "2026-07-01T21:22:00+08:00",
+      "context": "The reclassification, based on the World Bank's Atlas method, places the Philippines in the income band of 4,636 to 14,375 dollars per capita. The economy grew an average of about 5.8 percent a year over five years, though 2025 growth slowed to 3.6 percent, and neighboring Vietnam's per-capita income remained slightly higher."
+    },
+    {
+      "headline": "Senate impeachment court orders VP Sara Duterte to appear at July 6 trial",
+      "summary": "The Senate impeachment court has ordered Vice President Sara Duterte to appear when her trial opens on July 6 at 2 p.m. at the Senate in Pasay City, though she may attend in person or through counsel. The articles of impeachment adopted by the House of Representatives accuse her of misusing confidential funds, amassing unexplained wealth, bribery, and threatening the lives of President Ferdinand Marcos Jr. and members of his family.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2256975/senate-impeachment-court-directs-sara-duterte-to-appear-at-july-6-trial",
+      "category": "politics",
+      "published_at": "2026-07-03T11:00:00+08:00",
+      "context": "The House impeached Duterte earlier this year and transmitted the case to the Senate, which sits as the impeachment court. The proceedings mark the first impeachment trial of a sitting Philippine vice president.",
+      "watch_for": "Opening statements from the prosecution and defense are expected when the trial convenes on July 6."
+    },
+    {
+      "headline": "PAGASA monitors system that could become a super typhoon and enter Philippine waters next week",
+      "summary": "PAGASA said it is monitoring a tropical system outside the Philippine Area of Responsibility that could enter Philippine waters around July 8 or 9 and may strengthen into a typhoon or even a super typhoon, at which point it would be given the local name Inday. The weather bureau said the system's track and intensity remain highly uncertain and that it is likely to enhance the southwest monsoon. Tropical Depression Henry, which had enhanced the monsoon in recent days, has exited the area.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2256411/storm-outside-par-may-intensify-into-super-typhoon-next-week-pagasa",
+      "category": "weather",
+      "published_at": "2026-07-02T07:28:00+08:00",
+      "context": "PAGASA has said as many as four tropical cyclones could form in or enter Philippine waters during July.",
+      "watch_for": "PAGASA said the system could enter the Philippine Area of Responsibility around Wednesday or Thursday next week, July 8 or 9."
+    },
+    {
+      "headline": "Iran begins seven-day state funeral for supreme leader Khamenei",
+      "summary": "Iran began a seven-day state funeral on July 3 for supreme leader Ayatollah Ali Khamenei, whom Iranian officials say was killed on February 28 in a joint US-Israeli air strike on his compound at the start of the US-Israel war on Iran. Al Jazeera reported the ceremonies run through July 9, with public rites in Tehran, processions to Qom and to the Iraqi cities of Najaf and Karbala, and a final burial at the Imam Reza shrine in Mashhad. Foreign officials gathered in Tehran to pay respects.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/3/mapping-irans-ali-khamenei-funeral-where-mourners-will-gather-each-day",
+      "category": "world",
+      "context": "Khamenei, 86, had been Iran's supreme leader since 1989, holding the country's top political and religious authority. Al Jazeera reported that millions of mourners are expected during the commemorations.",
+      "watch_for": "The final burial is scheduled for July 9 at the Imam Reza shrine in Mashhad."
     }
   ]
 }
