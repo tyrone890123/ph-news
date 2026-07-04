@@ -1,16 +1,17 @@
 {
   "version": 1,
   "date": "2026-07-04",
-  "generated_at": "2026-07-04T04:45:00+08:00",
+  "generated_at": "2026-07-04T20:20:06+08:00",
   "stories": [
     {
-      "headline": "Duterte defense says it is ready for July 6 impeachment trial",
-      "summary": "Vice President Sara Duterte's defense team said Friday it is ready for her Senate impeachment trial, which opens Monday, July 6. The Senate impeachment court has approved a 92-day trial period, with 62 dates allotted to the House prosecution, which listed 57 witnesses, and 30 dates to the defense, which named 90 witnesses.",
-      "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/07/03/vp-sara-duterte-impeachment-trial-defense-ready-for-july-6-eyes-surprise-witnesses",
+      "headline": "Senate impeachment court orders Sara Duterte to appear at July 6 trial opening",
+      "summary": "The Senate impeachment court has directed Vice President Sara Duterte to appear when her trial opens Monday, July 6, at 2 p.m. at the Senate in Pasay City; she may attend in person or through counsel. Senate officials said the chamber is ready to begin, and Malacanang urged Duterte to attend in person. The court earlier approved a 92-day trial period, allotting 62 hearing dates to the House prosecution, which listed 57 witnesses, and 30 to the defense, which named 90.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2256975/senate-impeachment-court-directs-sara-duterte-to-appear-at-july-6-trial",
       "category": "politics",
-      "context": "Duterte faces impeachment on allegations that include misuse of public funds and threats against President Marcos, First Lady Marie Louise Araneta-Marcos and former House Speaker Ferdinand Martin Romualdez.",
-      "watch_for": "Defense spokesperson Michael Poa said the team may hold back some of its listed witnesses to call as \"surprise witnesses\" depending on the prosecution's evidence when the trial opens July 6."
+      "context": "The four articles of impeachment cover alleged misuse of confidential funds, unexplained wealth, bribery involving education officials, and threats against President Marcos, First Lady Marie Louise Araneta-Marcos and former House Speaker Ferdinand Martin Romualdez.",
+      "watch_for": "The trial opens Monday, July 6, at 2 p.m. and is scheduled to run Mondays to Wednesdays until President Marcos's State of the Nation Address on July 27.",
+      "updated_at": "2026-07-04T20:20:06+08:00"
     },
     {
       "headline": "Ombudsman files plunder charges against Senator Marcoleta",
@@ -20,13 +21,14 @@
       "category": "politics"
     },
     {
-      "headline": "Marcos, Carney sign Philippines-Canada cooperation agreements",
-      "summary": "President Marcos and Canadian Prime Minister Mark Carney oversaw the signing of agreements covering energy and natural resources cooperation, tourism, culture, labor mobility and mutual defense logistics support during Marcos' visit to Vancouver. The leaders said they aim to conclude a bilateral free trade agreement by the end of 2026.",
-      "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/993593/marcos-carney-announce-boost-in-ph-canada-ties/story/",
+      "headline": "Philippines and Canada elevate ties to strategic partnership, sign cooperation deals",
+      "summary": "President Marcos and Canadian Prime Minister Mark Carney announced the elevation of Philippines-Canada relations to a \"strategic partnership\" during talks in Vancouver, and oversaw the signing of agreements covering energy and natural resources, tourism and culture, and labor and migration. The two leaders said they aim to conclude a bilateral free trade agreement by the end of 2026.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/03/philippines-canada-elevate-ties-to-strategic-partnership-sign-deals-on-energy-labor-tourism",
       "category": "politics",
       "context": "The visit marked the first by a Philippine head of state to Canada in 11 years, and comes as the two countries also work toward a wider Canada-ASEAN free trade agreement.",
-      "watch_for": "The two countries' foreign ministries were tasked with drafting a Plan of Action to build on the agreements, including support for a rules-based order in the South China Sea."
+      "watch_for": "The two countries' foreign ministries were tasked with drafting a Plan of Action to build on the agreements, including support for a rules-based order in the South China Sea.",
+      "updated_at": "2026-07-04T20:20:06+08:00"
     },
     {
       "headline": "World Bank reclassifies Philippines as upper-middle income country",
@@ -67,12 +69,13 @@
       "watch_for": "Eala faces defending Wimbledon champion Iga Swiatek in the third round on Saturday, July 4."
     },
     {
-      "headline": "Super typhoon Bavi may enter Philippine area, could be named 'Inday'",
-      "summary": "PAGASA said tropical cyclone Bavi rapidly intensified into a super typhoon outside the Philippine Area of Responsibility, with maximum sustained winds of 185 km/h and gusts up to 230 km/h as of 10 p.m. on July 3, while located about 3,090 kilometers east of Eastern Visayas. Forecasters said Bavi may enter the PAR by Wednesday, July 8, when it would be given the local name \"Inday.\"",
+      "headline": "Super typhoon Bavi intensifies further outside PAR, could be named 'Inday'",
+      "summary": "PAGASA said Super Typhoon Bavi continued to strengthen while remaining outside the Philippine Area of Responsibility, with maximum sustained winds of 195 km/h and gusts up to 240 km/h as of the morning of July 4, when it was about 2,985 kilometers east of Eastern Visayas and moving west. Forecasters said Bavi may enter the PAR by Wednesday, July 8, when it would be given the local name \"Inday.\"",
       "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/07/03/tropical-cyclone-outside-par-intensifies-into-a-super-typhoon",
+      "url": "https://mb.com.ph/2026/07/04/super-typhoon-bavi-remains-outside-par-easterlies-to-bring-rains-over-parts-of-luzon-visayaspagasa",
       "category": "weather",
-      "watch_for": "PAGASA said wind signals could later be raised over Northern and possibly Central Luzon, and the system is expected to enhance the southwest monsoon with widespread rain, though officials cautioned the forecast track remains uncertain given the storm's distance from the country."
+      "watch_for": "PAGASA said wind signals could later be raised over Northern and possibly Central Luzon and that Bavi may enhance the southwest monsoon; separately, easterlies were already bringing rain to parts of Cagayan Valley, Bicol and Eastern Visayas, with a risk of flash floods and landslides.",
+      "updated_at": "2026-07-04T20:20:06+08:00"
     },
     {
       "headline": "Russian missile and drone strike on Kyiv kills at least 22",
@@ -91,12 +94,57 @@
       "context": "The Bureau of Labor Statistics also revised down April and May payroll gains by a combined 74,000 jobs, adding to signs the labor market has cooled significantly this year."
     },
     {
-      "headline": "Venezuela rescuers pull survivor from rubble eight days after quakes",
-      "summary": "A 43-year-old security guard, Hernan Gil, was pulled alive from the collapsed basement of a shopping mall in La Guaira, Venezuela, on July 2, eight days after twin earthquakes measuring 7.2 and 7.5 struck the area on June 24. An international team from seven countries carried out the rescue, passing water and oxygen through a narrow shaft during the operation.",
+      "headline": "Venezuela earthquake death toll climbs to 2,645 with thousands missing",
+      "summary": "The death toll from the twin earthquakes that struck Venezuela's La Guaira area on June 24 has risen to 2,645, with about 38,500 people still missing, National Assembly President Jorge Rodriguez said, and officials expect it to climb further. International teams and residents were still searching the rubble; a 43-year-old man was pulled out alive on July 2, eight days after the magnitude 7.2 and 7.5 quakes.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes",
+      "url": "https://www.aljazeera.com/news/longform/2026/7/3/a-nightmare-strugging-with-the-aftermath-of-venezuelas-earthquakes",
       "category": "world",
-      "context": "The June 24 earthquakes killed more than 2,200 people, injured over 11,000 and left roughly 50,000 people unaccounted for, officials said; experts have cautioned that further survivor rescues are increasingly unlikely at this stage."
+      "context": "The government ordered 10,000 body bags and set up tent camps for thousands of displaced people, according to the United Nations and local officials; experts have cautioned that finding more survivors is increasingly unlikely at this stage.",
+      "updated_at": "2026-07-04T20:20:06+08:00"
+    },
+    {
+      "headline": "PNP to deploy about 6,000 officers to secure Senate for impeachment trial",
+      "summary": "The Philippine National Police said it will deploy about 6,000 officers around the Senate in Pasay City for the July 6 opening of Vice President Sara Duterte's impeachment trial. PNP spokesperson Col. Allen Rae Co said a comprehensive security plan is in place and intelligence monitoring is ongoing, with operations focused on the Senate premises.",
+      "source": "Manila Bulletin",
+      "url": "https://balita.mb.com.ph/2026/07/03/6k-pulis-ide-deploy-para-sa-impeachment-trial-vs-vp-sara/",
+      "category": "metro",
+      "watch_for": "The security deployment takes effect for the trial opening on Monday, July 6."
+    },
+    {
+      "headline": "PSEi ends the week higher as oil prices ease",
+      "summary": "The Philippine Stock Exchange index closed at 6,188.03 on Friday, July 3, up 62.31 points or 1.02 percent, as investors picked up bargains and global oil prices fell. Mining stocks led the gains on higher gold prices, with advancers outnumbering decliners 108 to 64. Trading value was subdued at about 4.44 billion pesos.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://business.inquirer.net/598659/psei-climbs-above-6100-on-bargain-hunting",
+      "category": "economy"
+    },
+    {
+      "headline": "Young Pangasinan town councilor dies in vehicle crash",
+      "summary": "A 25-year-old municipal councilor in Bayambang, Pangasinan, Jan Nazer David Junio, died in a single-vehicle crash late on July 2, police said. Investigators said Junio, the town council's presiding officer pro tempore, was driving at high speed when his vehicle struck a bridge barrier in San Carlos City; he was taken to a hospital in Dagupan and declared dead. Police said the investigation is continuing.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/03/bayambang-municipal-councilor-killed-in-car-crash",
+      "category": "regions"
+    },
+    {
+      "headline": "Gilas Pilipinas falls to New Zealand in double-overtime qualifier",
+      "summary": "Gilas Pilipinas lost to New Zealand 106-102 in double overtime in a FIBA World Cup 2027 Asian Qualifier in Auckland on July 3. Juan Gomez de Liano and Kevin Quiambao scored 23 points each for the Philippines, with Gomez de Liano hitting a three-pointer late in regulation to force the first overtime. The defeat dropped Gilas to a 2-3 record in the first round.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/balitambayan/balita/993659/gilas-pilipinas-kinapos-sa-2ot-vs-new-zealand-sa-fiba-world-cup-asian-qualifiers/story/",
+      "category": "sports"
+    },
+    {
+      "headline": "Iran begins seven-day state funeral for Supreme Leader Khamenei",
+      "summary": "Iran began a seven-day state funeral on July 3 for Supreme Leader Ayatollah Ali Khamenei, who Iranian state media and international outlets say was killed in a US-Israeli air strike on his compound on February 28 during the war between Iran and Israel. Al Jazeera reported that public ceremonies in Tehran will be followed by processions toward Qom, a reception in Najaf, Iraq, and burial at the Imam Reza shrine in Mashhad on July 9.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending",
+      "category": "world",
+      "context": "Representatives from more than 100 countries are expected to attend, including heads of government from Pakistan, Tajikistan, Armenia and Georgia and senior delegations from Turkey, India, China and Russia; organizers expect crowds surpassing the 1989 funeral of Ayatollah Khomeini."
+    },
+    {
+      "headline": "Foreign investors buy record $60 billion of Japanese stocks in first half",
+      "summary": "Foreign investors bought a net 9.7 trillion yen, about $60 billion, of Japanese stocks in the first half of 2026, a record for any half-year, Nikkei Asia reported. It attributed the inflows to improving corporate capital efficiency and strong interest in chip- and AI-related companies. The Nikkei Stock Average has risen about 39 percent since the end of 2025.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/equities/foreign-investors-scoop-up-half-year-record-60bn-in-japan-stocks",
+      "category": "world"
     }
   ]
 }
