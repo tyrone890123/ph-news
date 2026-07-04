@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T04:15:44+08:00",
+  "stories": [
+    {
+      "headline": "Marcos returns from Canada with about $2 billion in investment pledges",
+      "summary": "President Marcos concluded an official visit to Canada with roughly $2 billion in investment commitments, including a $1.9 billion mine-life extension by OceanaGold for its Didipio gold-copper mine in Nueva Vizcaya, about $14 million from B2Gold for its Masbate gold project, and a $10.3 million expansion by tech firm NQX.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/05/2539895/marcos-bags-2-billion-canadian-investment-pledges",
+      "category": "politics",
+      "published_at": "2026-07-04T22:05:14+08:00",
+      "context": "The trip was reported as the first official visit by a Philippine president to Canada in more than a decade."
+    },
+    {
+      "headline": "Senate deploys thousands of police ahead of Duterte impeachment trial opening",
+      "summary": "The National Capital Region Police Office said up to 6,000 officers, with an initial 3,250 near the Senate, will secure the area when Vice President Sara Duterte's impeachment trial opens on July 6. Separately, senators agreed in a caucus that a sealed BIR box containing tax records tied to Duterte and her husband should be returned to House prosecutors rather than held by the Senate, since unsealing it requires presidential authorization.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/05/2539898/6000-cops-secure-senate-during-trial",
+      "category": "politics",
+      "published_at": "2026-07-05T00:53:16+08:00",
+      "context": "The tax records are cited as reserve evidence for an impeachment article alleging unexplained wealth.",
+      "watch_for": "The impeachment trial opens at 2 p.m. on July 6 at the Senate."
+    },
+    {
+      "headline": "Ombudsman charges Senator Marcoleta and three businessmen with plunder over undeclared P75 million",
+      "summary": "The Ombudsman filed plunder and bribery charges before the Sandiganbayan against Senator Rodante Marcoleta and businessmen Michael Tan Defensor, Aristotle Baluyut Viray and Joseph Varias Espiritu, alleging Marcoleta received but did not declare P75 million in January 2025 campaign contributions. The Ombudsman rejected Marcoleta's 'utang na loob' (debt of gratitude) defense; police said any arrest would follow the same protocol used for Senator Jinggoy Estrada.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/04/2539737/ombudsman-files-plunder-raps-vs-marcoleta-donors",
+      "category": "politics",
+      "context": "Marcoleta had publicly acknowledged receiving the funds; the Commission on Elections earlier cleared him of election-law violations over the contributions."
+    },
+    {
+      "headline": "Ombudsman dismisses former Senate sergeant-at-arms over May gunfire incident",
+      "summary": "Ombudsman Jesus Crispin Remulla announced the dismissal from service of Mao Aplasca, former acting Senate sergeant-at-arms, saying Aplasca fired the first shot in a gunfire exchange at the Senate compound in May during an attempted arrest of Senator Ronald 'Bato' dela Rosa. Remulla said he signed the dismissal order on June 29, after Aplasca's earlier preventive suspension.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/04/ombudsman-dismisses-ex-senate-security-chief-aplasca-over-gunfire-incident",
+      "category": "politics",
+      "published_at": "2026-07-04T12:16:00+08:00"
+    },
+    {
+      "headline": "ICC gives prosecutors limited access to items seized from Duterte, denies request for his keys",
+      "summary": "The International Criminal Court's Trial Chamber III allowed prosecutors limited access to redacted materials seized from former president Rodrigo Duterte after his transfer to The Hague, but rejected a request for all keys taken from him, ruling prosecutors had not shown their relevance. Duterte's defense had opposed the keys request, saying some may belong to family members present at his arrest.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/04/icc-allows-prosecutors-access-to-items-seized-from-duterte-except-keys",
+      "category": "politics",
+      "published_at": "2026-07-04T05:42:00+08:00",
+      "context": "Duterte remains in ICC detention facing crimes against humanity charges, with trial set to begin November 30, 2026."
+    },
+    {
+      "headline": "SEC vows more reforms after Philippines' upgrade to upper-middle income status",
+      "summary": "The Securities and Exchange Commission said it will push ahead with reforms to ease business registration and deepen capital markets after the World Bank reclassified the Philippines as upper-middle income, with gross national income per capita of $4,850. SEC Chair Francis Lim said the agency recorded 232,524 new company registrations from 2021 to 2025, representing P618.16 billion in capital investments.",
+      "source": "Inquirer",
+      "url": "https://business.inquirer.net/598875/sec-vows-more-reforms-amid-ph-economic-devt",
+      "category": "economy",
+      "published_at": "2026-07-04T05:05:00+08:00",
+      "context": "Malacanang separately said the income upgrade was 'not the finish line,' saying poverty and hunger assistance programs would continue."
+    },
+    {
+      "headline": "Philippine banks' bad-loan ratio hits nine-month high in May",
+      "summary": "The banking industry's gross non-performing loan ratio rose to 3.44% in May 2026 from 3.37% in April, the highest level since August 2025, with bad loans totaling about P601.4 billion against a P17.5 trillion loan portfolio. A Philippine Institute for Development Studies research fellow attributed the rise to elevated interest rates, slower growth, and lingering inflation effects, while banks' loss-coverage buffer fell to its lowest since March 2022.",
+      "source": "Inquirer",
+      "url": "https://business.inquirer.net/598694/banks-bad-loans-rise-as-loss-buffers-fall",
+      "category": "economy",
+      "published_at": "2026-07-04T02:08:00+08:00"
+    },
+    {
+      "headline": "PLDT, Smart and DITO sign rare network infrastructure-sharing agreement",
+      "summary": "Telecom rivals PLDT and Smart signed an infrastructure-sharing agreement with DITO Telecommunity covering cell tower access, in-building solutions, and submarine cable capacity, with no monetary exchange between the parties. The companies said the deal, DITO's first such agreement with a rival, is meant to expand coverage and cut costs by avoiding duplicate network builds.",
+      "source": "Inquirer",
+      "url": "https://business.inquirer.net/598696/rivals-pldt-dito-seal-rare-network-sharing-pact",
+      "category": "economy",
+      "published_at": "2026-07-04T02:02:00+08:00",
+      "context": "The agreement was reportedly signed on July 3, with this report published the following day."
+    },
+    {
+      "headline": "Finance chief hopes digital fund transfers will eventually become fee-free",
+      "summary": "Finance Secretary Frederick Go said he hopes nearly all digital transactions will eventually be free of charge, following BPI's permanent removal of InstaPay and PESONet fees on July 1 and RCBC's move to waive InstaPay transfer fees on July 4. He cited Bangko Sentral ng Pilipinas Governor Eli Remolona's expectation that more banks will waive interbank transfer fees under a new circular limiting such fees to the actual 'switch cost' of about P1.50.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/993707/finance-chief-go-hopes-all-digital-transfers-be-free-of-charge/story/",
+      "category": "economy",
+      "published_at": "2026-07-04T11:00:00+08:00"
+    },
+    {
+      "headline": "Drunk driver's SUV plunges into unprotected Quezon City creek",
+      "summary": "A 71-year-old driver's SUV plunged into an open creek along G. Araneta Avenue in Barangay Manresa, Quezon City, around 7 p.m. Saturday after he attempted a U-turn and drove onto an unprotected road edge. He was injured and taken to a hospital; the MMDA said he later tested positive for alcohol, and MMDA, PNP and BFP personnel assisted with rescue and vehicle recovery.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/05/drunk-senior-citizen-hurt-after-suv-falls-into-qc-creek",
+      "category": "metro",
+      "published_at": "2026-07-05T01:37:00+08:00"
+    },
+    {
+      "headline": "Sudden downpour floods Manila's Taft and T.M. Kalaw avenues",
+      "summary": "A roughly 30-minute downpour around noon on Saturday caused gutter-deep flooding on portions of Taft Avenue and T.M. Kalaw Avenue in Manila, forcing motorists, cyclists and pedestrians to wade through floodwaters. PAGASA attributed the rain to the southwest monsoon and said it could intensify if Super Typhoon Bavi, then outside Philippine waters, enters the Philippine Area of Responsibility around July 7-8.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/04/gutter-deep-floods-hit-manila-after-sudden-downpour",
+      "category": "metro",
+      "published_at": "2026-07-04T13:17:00+08:00",
+      "watch_for": "PAGASA flagged Super Typhoon Bavi as a potential driver of intensified monsoon rains over Metro Manila around July 7-8 if it enters Philippine waters."
+    },
+    {
+      "headline": "Super Typhoon Bavi stays outside Philippine waters, expected to enter around July 8",
+      "summary": "PAGASA's 4 a.m. forecast on July 5 placed Super Typhoon Bavi roughly 2,700 km east of Eastern Visayas, with maximum sustained winds of 195 km/h, still outside the Philippine Area of Responsibility. PAGASA said Bavi is expected to enter Philippine waters, where it would be locally named 'Inday,' around July 8, possibly bringing wind signals to Northern Luzon and Batanes, while separate easterlies were bringing scattered rain to eastern Luzon and the Visayas.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-07-05T04:00:00+08:00",
+      "watch_for": "PAGASA's next bulletins as Bavi approaches, with entry into Philippine waters and renaming to 'Inday' expected around July 8."
+    },
+    {
+      "headline": "Teen dies, companion injured in lightning strike while swimming in Cebu",
+      "summary": "A 16-year-old Grade 10 student died and a 14-year-old companion was injured after lightning struck them while swimming at sea in Barangay Daanlungsod, Tuburan, Cebu, during a thunderstorm on July 2, according to GMA News.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/993703/teen-dies-lightning-strike-swimming-tuburan-cebu-storm/story/",
+      "category": "regions",
+      "published_at": "2026-07-04T09:38:00+08:00"
+    },
+    {
+      "headline": "Kanlaon Volcano emits ash anew; Alert Level 2 remains in effect",
+      "summary": "PHIVOLCS recorded a 5:02 a.m. ash emission at Kanlaon Volcano on July 4 that produced grayish plumes rising about 300 meters above the crater and drifting southwest, GMA News reported. The volcano remains at Alert Level 2 following a more explosive eruption on June 3, after which nearby communities in Negros Occidental and Negros Oriental reported rumbling, ashfall and sulfurous odors.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/993720/phivolcs-kanlaon-volcano-ash-emission/story/",
+      "category": "regions",
+      "published_at": "2026-07-04T14:03:00+08:00"
+    },
+    {
+      "headline": "Flooding in Maguindanao del Sur town affects over 4,000 families",
+      "summary": "At least 4,375 families across 10 villages in Sultan sa Barongis, Maguindanao del Sur, were affected by flooding, which local officials attributed to heavy waterway siltation that turns the town into a catch basin for runoff from South Cotabato and Sultan Kudarat during heavy rain, according to Inquirer. No deaths were reported; the local government began relief distribution and appealed to national agencies for dredging equipment.",
+      "source": "Inquirer",
+      "url": "https://newsinfo.inquirer.net/2257494/4000-families-affected-by-flooding-in-maguindanao-del-sur-town",
+      "category": "regions",
+      "published_at": "2026-07-04T19:46:00+08:00"
+    },
+    {
+      "headline": "About a third of quake-damaged Sarangani beach resorts reopen",
+      "summary": "Roughly one-third of Glan, Sarangani's 54 beach resorts have reopened after passing structural safety inspections following the June 8 magnitude-7.8 earthquake, which raised the seabed about 2 meters and shifted shorelines by up to 200 meters, according to Inquirer. Environment officials said about 373 hectares across five coastal villages remain restricted pending further scientific assessment.",
+      "source": "Inquirer",
+      "url": "https://newsinfo.inquirer.net/2257443/beach-resorts-in-quake-hit-sarangani-town-gradually-reopen",
+      "category": "regions",
+      "published_at": "2026-07-04T15:19:00+08:00",
+      "context": "The same earthquake was estimated to have caused about P45 billion in environmental damage to seagrass beds and coral reefs in the area."
+    },
+    {
+      "headline": "Iran begins week-long funeral rites for slain Supreme Leader Khamenei",
+      "summary": "Iran began public mourning ceremonies in Tehran for Ayatollah Ali Khamenei, who was killed with family members in the opening strikes of the US-Israeli war on Iran in February. The multi-day funeral is set to move through Tehran, Qom and the Iraqi shrine cities of Najaf and Karbala before burial in Mashhad, with officials expecting more than 10 million mourners and delegations from over 100 countries.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei",
+      "category": "world",
+      "context": "The funeral, delayed roughly four months after Khamenei's death, comes amid a fragile US-Iran ceasefire and is seen by some analysts as a display of unity intended to project that Iran's government emerged stronger from the war.",
+      "watch_for": "Processions are scheduled to continue through July 9, moving to Qom and then Najaf and Karbala in Iraq, before a final procession and burial in Mashhad."
+    },
+    {
+      "headline": "Venezuela earthquake death toll passes 2,600 as tens of thousands remain missing",
+      "summary": "The confirmed death toll from Venezuela's June 24 twin earthquakes, magnitude 7.2 and 7.5, has risen to about 2,645, with an estimated 38,500 people still reported missing, according to Al Jazeera. Survivors in hard-hit areas such as La Guaira said government relief has been slow, crediting volunteers and foreign rescue teams for most aid delivered so far; interim President Delcy Rodriguez has denied the response was delayed.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/longform/2026/7/3/a-nightmare-strugging-with-the-aftermath-of-venezuelas-earthquakes",
+      "category": "world",
+      "context": "These were reported as the strongest earthquakes to hit Venezuela in more than a century; authorities have reportedly ordered 10,000 body bags in anticipation of the toll continuing to rise."
+    },
+    {
+      "headline": "Ukraine drones strike oil terminal and naval base near Russia's St. Petersburg",
+      "summary": "Ukraine carried out one of its largest deep-strike drone operations of the war, hitting an oil terminal and Baltic Sea port near St. Petersburg and reportedly targeting the Kronstadt naval base, according to Al Jazeera. Russian officials said air defenses downed more than 70 drones over the Leningrad region, and Russia's defense ministry said the strikes would not go unanswered.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg",
+      "category": "world",
+      "context": "Ukraine's military says its sustained campaign against Russian refineries has now disabled more than 40% of Russia's oil refining capacity, part of a broader effort to reduce Moscow's war financing."
+    },
+    {
+      "headline": "Seven Palestinians killed in Gaza in 48 hours despite ceasefire, health ministry says",
+      "summary": "Gaza's Health Ministry reported seven Palestinians killed by Israeli forces and nine more bodies recovered from rubble over a 48-hour period, with 16 others injured, according to Al Jazeera. The ministry said Israeli violations of the US-brokered ceasefire in place since October have killed 1,066 people and wounded 3,445 in total.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza",
+      "category": "world",
+      "context": "Talks on Hamas disarmament and an Israeli military withdrawal have stalled for months, while Israel's military has continued expanding the territory it controls inside Gaza."
+    }
+  ]
+}
