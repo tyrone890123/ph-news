@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T04:15:44+08:00",
+  "generated_at": "2026-07-05T20:13:48+08:00",
   "stories": [
     {
       "headline": "Marcos returns from Canada with about $2 billion in investment pledges",
@@ -100,12 +100,13 @@
     },
     {
       "headline": "Super Typhoon Bavi stays outside Philippine waters, expected to enter around July 8",
-      "summary": "PAGASA's 4 a.m. forecast on July 5 placed Super Typhoon Bavi roughly 2,700 km east of Eastern Visayas, with maximum sustained winds of 195 km/h, still outside the Philippine Area of Responsibility. PAGASA said Bavi is expected to enter Philippine waters, where it would be locally named 'Inday,' around July 8, possibly bringing wind signals to Northern Luzon and Batanes, while separate easterlies were bringing scattered rain to eastern Luzon and the Visayas.",
-      "source": "PAGASA",
-      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "summary": "PAGASA's July 5 update placed Super Typhoon Bavi about 2,645 km east of Eastern Visayas as of 8 a.m., with maximum sustained winds of 195 km/h and gusts to 240 km/h, still outside the Philippine Area of Responsibility. The bureau said Bavi is expected to enter Philippine waters Wednesday morning, where it would be locally named 'Inday,' while keeping super typhoon strength. A PAGASA specialist said landfall in the country remains unlikely, though the system may pass near Batanes before heading toward Taiwan.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/05/pagasa-super-typhoon-bavi-may-trigger-wind-signals-bring-rains-by-midweek",
       "category": "weather",
-      "published_at": "2026-07-05T04:00:00+08:00",
-      "watch_for": "PAGASA's next bulletins as Bavi approaches, with entry into Philippine waters and renaming to 'Inday' expected around July 8."
+      "published_at": "2026-07-05T10:04:00+08:00",
+      "watch_for": "PAGASA said tropical cyclone wind signals could be raised over northern and eastern Northern Luzon as early as Tuesday evening or Wednesday, and the enhanced southwest monsoon may bring scattered to heavy rains over parts of Luzon and the Visayas from midweek.",
+      "updated_at": "2026-07-05T20:13:48+08:00"
     },
     {
       "headline": "Teen dies, companion injured in lightning strike while swimming in Cebu",
@@ -142,12 +143,13 @@
     },
     {
       "headline": "Iran begins week-long funeral rites for slain Supreme Leader Khamenei",
-      "summary": "Iran began public mourning ceremonies in Tehran for Ayatollah Ali Khamenei, who was killed with family members in the opening strikes of the US-Israeli war on Iran in February. The multi-day funeral is set to move through Tehran, Qom and the Iraqi shrine cities of Najaf and Karbala before burial in Mashhad, with officials expecting more than 10 million mourners and delegations from over 100 countries.",
+      "summary": "Funeral ceremonies for Ayatollah Ali Khamenei entered a second day in Tehran on July 5, with prayers held over his casket at the Imam Khomeini Grand Mosalla as large crowds gathered; Al Jazeera reported millions took part in the funeral prayers. Khamenei was killed alongside family members in the opening strikes of the US-Israeli war on Iran in February. Al Jazeera reported US President Donald Trump said neither side would attack during the proceedings and that talks with Iran would resume afterward.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral",
       "category": "world",
       "context": "The funeral, delayed roughly four months after Khamenei's death, comes amid a fragile US-Iran ceasefire and is seen by some analysts as a display of unity intended to project that Iran's government emerged stronger from the war.",
-      "watch_for": "Processions are scheduled to continue through July 9, moving to Qom and then Najaf and Karbala in Iraq, before a final procession and burial in Mashhad."
+      "watch_for": "Processions are scheduled to continue through July 9, moving to Qom and then Najaf and Karbala in Iraq, before a final procession and burial in Mashhad.",
+      "updated_at": "2026-07-05T20:13:48+08:00"
     },
     {
       "headline": "Venezuela earthquake death toll passes 2,600 as tens of thousands remain missing",
@@ -172,6 +174,23 @@
       "url": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza",
       "category": "world",
       "context": "Talks on Hamas disarmament and an Israeli military withdrawal have stalled for months, while Israel's military has continued expanding the territory it controls inside Gaza."
+    },
+    {
+      "headline": "Marcos says he worries a future administration could soften the West Philippine Sea stance",
+      "summary": "President Marcos said he is concerned that a future Philippine administration could abandon or weaken his government's approach to the West Philippine Sea after his term ends in 2028, calling it 'almost an existential' issue for the country. Speaking at a media briefing closing his official visit to Canada, he stressed continued reliance on the 2016 arbitral ruling that rejected China's expansive South China Sea claims and said backing from partners such as Canada reinforces that position.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/05/marcos-worried-future-administrations-may-change-west-philippine-sea-policy-after-his-term",
+      "category": "politics",
+      "published_at": "2026-07-05T07:34:00+08:00",
+      "context": "The 2016 ruling by an arbitral tribunal in The Hague invalidated China's nine-dash-line claim over most of the South China Sea. The previous Duterte administration largely set the ruling aside in favor of closer ties with Beijing."
+    },
+    {
+      "headline": "Marcos dismisses ouster calls over the pace of the flood-control corruption probe",
+      "summary": "President Marcos rejected as 'nonsense' calls for his removal from critics who say the investigation into anomalous flood-control projects has moved too slowly, saying his administration was the first to expose and act on the irregularities. He said the probe is not finished and that findings increasingly point to wrongdoing predating his term, while acknowledging accountability efforts remain incomplete. He made the remarks at a briefing during his visit to Canada.",
+      "source": "Inquirer",
+      "url": "https://newsinfo.inquirer.net/2257634/nonsense-marcos-says-on-oust-calls-over-slow-flood-control-probe",
+      "category": "politics",
+      "context": "Marcos created the Independent Commission for Infrastructure in September 2025 to investigate questionable flood-control spending. The commission has filed multiple complaints with the Ombudsman and helped freeze billions of pesos in bank accounts, and the scandal has drawn street protests and opposition demands for accountability."
     }
   ]
 }
