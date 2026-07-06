@@ -1,17 +1,18 @@
 {
   "version": 1,
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T04:16:25+08:00",
+  "generated_at": "2026-07-06T20:19:01+08:00",
   "stories": [
     {
-      "headline": "Duterte impeachment trial opens with procedural first day amid heavy Senate security",
-      "summary": "The Senate impeachment court opened proceedings against Vice President Sara Duterte on July 6, with House prosecutors saying the first week would focus on presenting documentary evidence rather than witness testimony. The Philippine National Police said more than 6,000 officers were deployed around the Senate complex, and senators had earlier agreed to return a sealed box of tax records tied to Duterte and her husband to House prosecutors rather than keep it in Senate custody.",
-      "source": "ABS-CBN News",
-      "url": "https://www.abs-cbn.com/news/nation/2026/7/5/evidence-is-focus-of-house-prosecution-in-1st-week-of-sara-duterte-trial-1852",
+      "headline": "Senate impeachment court elects Escudero presiding officer, sets 16-vote bar to convict Duterte",
+      "summary": "The Senate impeachment court opened Vice President Sara Duterte's trial on July 6, electing Senator Francis Escudero presiding officer on a 12-8 vote and affirming that 16 of the 24 senator-judges must vote to convict. It issued subpoenas for the bank records of Duterte and her husband Manases Carpio, summoned two National Bureau of Investigation agents, ordered a sealed box of tax records returned to the Bureau of Internal Revenue for lack of custody authority, and heard opening statements. Duterte did not attend, her camp citing her right against self-incrimination.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/993847/sara-duterte-impeachment-trial-live-updates-july-6-2026/story/",
       "category": "politics",
       "published_at": "2026-07-05T18:52:00+08:00",
-      "context": "Duterte was impeached by the House for a second time on May 11, 2026, on four articles; the Senate has allotted 92 trial days, split between prosecution and defense.",
-      "watch_for": "Prosecution's first witnesses, reported to include NBI officials and House security personnel, are expected to testify around July 7-8."
+      "context": "Duterte was impeached by the House for a second time on May 11, 2026, on four articles; the Senate has allotted 92 trial days, split between prosecution and defense. The minority bloc objected that the Constitution requires the Senate President to preside.",
+      "watch_for": "The trial resumes July 7, when House prosecutors are expected to call their first witnesses.",
+      "updated_at": "2026-07-06T20:19:01+08:00"
     },
     {
       "headline": "Marcos wraps up Canada visit with about $2.5 billion in investment pledges",
@@ -41,13 +42,13 @@
       "context": "The sanctions come amid continued friction over the West Philippine Sea, an issue Marcos has called central to his administration's foreign policy."
     },
     {
-      "headline": "Senate says Marcoleta can now defend himself in court against plunder charge",
-      "summary": "Senate President Sherwin Gatchalian said Senator Rodante Marcoleta, facing an Ombudsman plunder complaint over an alleged undeclared P75 million in 2025 campaign contributions, now has the chance to defend himself before the Sandiganbayan. Senator Panfilo Lacson said the case could become a 'reverse trial' since Marcoleta had publicly acknowledged receiving the funds, arguing they could not be considered personal since he held public office at the time.",
-      "source": "Philippine Star",
-      "url": "https://www.philstar.com/headlines/2026/07/05/2539883/marcoleta-can-now-defend-himself-court",
+      "headline": "Senator Marcoleta arrested on plunder charge over alleged undeclared P75-million donations",
+      "summary": "Senator Rodante Marcoleta was arrested on July 6 after the Sandiganbayan's Third Division denied his motion to quash and issued arrest warrants in a plunder case over an alleged undeclared P75 million in 2025 campaign contributions. Former party-list representative Michael Defensor and two businessmen named as co-accused were also arrested. The accused were booked by the Criminal Investigation and Detection Group and taken to a Quezon City jail. Marcoleta has denied wrongdoing, and plunder is a non-bailable offense.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/993864/mike-defensor-espiritu-marcoleta-s-co-accused-in-plunder-case-arrested/story/",
       "category": "politics",
-      "context": "The Ombudsman filed plunder and bribery charges against Marcoleta and three businessmen on July 3, alleging he did not declare the campaign contributions as required.",
-      "watch_for": "Senate officials said they are preparing for the possibility Marcoleta could be arrested while still serving as a senator-judge in the ongoing impeachment trial."
+      "context": "The Ombudsman filed plunder and bribery charges against Marcoleta and three businessmen on July 3 over the alleged undeclared 2025 campaign contributions. He remains a sitting senator-judge in the concurrent impeachment trial of Vice President Sara Duterte.",
+      "updated_at": "2026-07-06T20:19:01+08:00"
     },
     {
       "headline": "Marcos says lowering the age of criminal liability needs further study",
@@ -65,31 +66,34 @@
       "category": "economy"
     },
     {
-      "headline": "Philippine markets look to Tuesday's inflation report for direction",
-      "summary": "Philippine financial markets ended last week awaiting Tuesday's June inflation report, seen as the week's key catalyst. The stock index closed Friday up 1.01% to 6,188.03, aided by falling global oil prices and the country's recent World Bank income upgrade, while the peso closed at P61.415 per dollar and government bond yields rose an average of 6.93 basis points week-on-week amid uncertainty over US-Iran talks.",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/banking-finance/2026/07/06/761105/peso-to-move-sideways-before-june-cpi/",
+      "headline": "Philippine stocks post fourth straight gain ahead of June inflation data; peso slips",
+      "summary": "The Philippine Stock Exchange index rose 0.58%, or 35.96 points, to close at 6,223.99 on July 6, its fourth straight advance, as investors positioned for June inflation data expected to show a further slowdown. The peso weakened to P61.491 per dollar from P61.415 on Friday. Analysts polled by local outlets estimated June inflation at roughly 6.5% to 6.6%, versus 6.8% in May.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/companies/993907/philippine-stocks-climb-past-6-200-peso-dips-to-p61-49/story/",
       "category": "economy",
       "published_at": "2026-07-06T00:04:00+08:00",
-      "watch_for": "June Consumer Price Index report due July 7, with analysts cited by BusinessWorld estimating about 6.5%, versus May's 6.8%. The Bureau of the Treasury will auction up to P60 billion in T-bills Monday and reissue P30 billion in 20-year T-bonds Tuesday."
+      "watch_for": "The Philippine Statistics Authority is due to release the June Consumer Price Index on July 7.",
+      "updated_at": "2026-07-06T20:19:01+08:00"
     },
     {
-      "headline": "Quezon City logs 265% rise in COVID-19 cases over three weeks",
-      "summary": "The Quezon City Epidemiology and Surveillance Division reported 146 COVID-19 cases so far in 2026, a 265% increase over three weeks, rising from 23 cases between May 21-June 10 to 84 cases between June 11-July 1. City health authorities said they are intensifying surveillance, and children 14 and under accounted for nearly 30% of cases.",
-      "source": "ABS-CBN News",
-      "url": "https://www.abs-cbn.com/news/health-science/2026/7/5/quezon-city-logs-265-surge-in-covid-19-cases-in-3-weeks-2203",
+      "headline": "Quezon City reports COVID-19 uptick; mayor says cases mild and manageable",
+      "summary": "Quezon City Mayor Joy Belmonte said a recent rise in COVID-19 cases in the city is mild and manageable, with cases isolated and no clustering detected, after the city's epidemiology division reported 146 cases so far in 2026 — a 265% increase over three weeks, from 23 cases in May 21-June 10 to 84 in June 11-July 1. Children 14 and under accounted for nearly 30% of cases. The city said 66 health centers offer free consultation, testing and medicine.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/06/mayor-belmonte-qc-covid-19-cases-mild-manageable",
       "category": "metro",
-      "published_at": "2026-07-05T22:03:00+08:00"
+      "published_at": "2026-07-05T22:03:00+08:00",
+      "updated_at": "2026-07-06T20:19:01+08:00"
     },
     {
-      "headline": "Super Typhoon Bavi strengthens to 215 km/h, still outside Philippine waters",
-      "summary": "PAGASA said Super Typhoon Bavi was about 2,355 kilometers east of southeastern Luzon as of 3 a.m. July 6, with maximum sustained winds of 215 km/h and gusts to 265 km/h, moving west-northwest and still outside the Philippine Area of Responsibility. The bureau said Bavi remains on track to enter Philippine waters around July 8, when it would be locally named 'Inday.'",
-      "source": "PAGASA",
-      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "headline": "Marcos orders storm preparations as Super Typhoon Bavi nears Philippines after hitting Marianas",
+      "summary": "President Marcos ordered a whole-of-government preparedness effort on July 6 as Super Typhoon Bavi, to be locally named Inday, tracked toward the Philippines from the western Pacific. PAGASA said Bavi remained a super typhoon thousands of kilometers east of the country and was expected to enter the Philippine Area of Responsibility around July 8. Al Jazeera reported the storm made landfall earlier on Rota in the Northern Mariana Islands, a US territory, causing major damage and power outages. A direct hit on the Philippine mainland is still considered unlikely.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/06/marcos-orders-agencies-to-prepare-as-potential-super-typhoon-inday-nears-par",
       "category": "weather",
       "published_at": "2026-07-06T04:00:00+08:00",
-      "context": "Bavi has strengthened since PAGASA's July 5 morning update, when it was tracked at 195 km/h about 2,645 kilometers away. PAGASA has said direct landfall on the Philippine mainland remains unlikely, with the storm expected to pass near Batanes en route to Taiwan.",
-      "watch_for": "PAGASA said tropical cyclone wind signals could be raised over northern and eastern Northern Luzon as early as July 7-8, and the enhanced southwest monsoon could bring heavy rain to northern and western Philippines beginning around July 9."
+      "context": "Bavi is the ninth tropical cyclone to affect the Philippines in 2026. Forecasters have said it may pass near Batanes en route to Taiwan and could enhance the southwest monsoon rather than make direct landfall on the mainland.",
+      "watch_for": "PAGASA said the enhanced southwest monsoon could bring heavy rain to parts of Luzon and the Visayas around July 8-10, and wind signals may be raised over northern Luzon as the storm approaches.",
+      "updated_at": "2026-07-06T20:19:01+08:00"
     },
     {
       "headline": "Researchers identify new fault zones off Luzon, raising earthquake and tsunami risk",
@@ -134,13 +138,14 @@
       "published_at": "2026-07-05T22:01:00+08:00"
     },
     {
-      "headline": "Iran holds multi-day funeral rites for slain Supreme Leader Khamenei",
-      "summary": "Iran continued state funeral ceremonies in Tehran for assassinated Supreme Leader Ali Khamenei, with the procession set to move on to Qom and then to Najaf and Karbala in Iraq ahead of burial at the Imam Reza shrine in Mashhad. Al Jazeera reported that state messaging has centered on framing retaliation against the US and Israel as a religious obligation.",
+      "headline": "Iran holds main Tehran procession for slain Supreme Leader Khamenei",
+      "summary": "Iran held the main funeral procession through Tehran on July 6 for assassinated Supreme Leader Ali Khamenei, following two days of lying-in-state, with authorities anticipating vast crowds. Mourners carried the flag-draped coffins of Khamenei and four family members killed in a February 28 airstrike on his office, along with portraits of his son Mojtaba Khamenei, whom Al Jazeera described as Iran's new supreme leader. The procession is set to move on to Qom and then to Najaf and Karbala in Iraq before burial in Mashhad.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/5/what-is-the-religious-and-political-messaging-behind-khameneis-funeral",
+      "url": "https://www.aljazeera.com/gallery/2026/7/6/funeral-procession-for-irans-slain-supreme-leader-ali-khamenei-under-way",
       "category": "world",
       "context": "Khamenei was killed alongside family members in the opening strikes of the US-Israeli war on Iran in February 2026; the funeral comes amid a fragile US-Iran ceasefire.",
-      "watch_for": "The procession is expected to continue to Qom around July 6, then to Najaf and Karbala in Iraq around July 8, with burial in Mashhad expected around July 10."
+      "watch_for": "The procession is expected to continue to Qom on July 7, then to Najaf and Karbala in Iraq on July 8, with burial in Mashhad on July 9.",
+      "updated_at": "2026-07-06T20:19:01+08:00"
     },
     {
       "headline": "Trump to meet Zelenskyy and Syria's al-Sharaa at NATO summit amid Ukraine battlefield dispute",
@@ -166,6 +171,15 @@
       "source": "Al Jazeera English",
       "url": "https://www.aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting",
       "category": "world"
+    },
+    {
+      "headline": "Russian missile and drone barrage on Kyiv kills at least 11 on eve of NATO summit",
+      "summary": "At least 11 people were killed and more than 50 wounded in an overnight Russian missile and drone attack on Kyiv early on July 6, according to Ukrainian authorities, who said Russia fired 68 missiles and 351 drones in waves before dawn. Officials said residential buildings in several districts, including the historic Podil area, were damaged. President Zelenskyy, who had warned of an imminent strike, said the timing came just before a NATO summit in Turkey where he is due to meet US President Trump.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say",
+      "category": "world",
+      "context": "The attack was among the largest on the Ukrainian capital in recent weeks and came as Russia and Ukraine traded disputed claims over control of the eastern city of Kostiantynivka.",
+      "watch_for": "A NATO summit opens July 7 in Ankara, where Trump is expected to hold separate meetings with the Turkish, Ukrainian and Syrian leaders."
     }
   ]
 }
