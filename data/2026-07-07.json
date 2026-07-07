@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T04:18:29+08:00",
+  "generated_at": "2026-07-07T20:17:55+08:00",
   "stories": [
     {
       "headline": "Fuel prices rise for second straight week, diesel up by more than P3 a liter",
@@ -14,13 +14,14 @@
     },
     {
       "headline": "Marcos orders preemptive evacuations as Super Typhoon Bavi nears PAR",
-      "summary": "President Marcos directed government agencies to carry out preemptive evacuations, pre-position rescue teams and relief supplies, and enforce sea travel bans ahead of Super Typhoon Bavi. As of 2 a.m. Monday, PAGASA said the typhoon remained outside the Philippine Area of Responsibility with maximum sustained winds of 215 kph and gusts of 265 kph, and forecast it to enter PAR by midweek with a low chance of making landfall.",
+      "summary": "President Marcos ordered preemptive evacuations, the pre-positioning of rescue teams and relief supplies, sea travel bans and the inspection of critical infrastructure ahead of Super Typhoon Bavi. As of Tuesday, July 7, PAGASA said Bavi had weakened slightly but remained a super typhoon over the Pacific east of Luzon and was expected to enter the Philippine Area of Responsibility on Tuesday evening or early Wednesday, when it will be given the local name Inday. Forecasters said the chance of a direct landfall remains low.",
       "source": "GMA News",
       "url": "https://www.gmanetwork.com/news/topstories/nation/993894/marcos-evacuation-supert-typhoon-bavi/story/",
       "category": "weather",
       "published_at": "2026-07-06T15:50:00+08:00",
-      "context": "Once inside PAR, the system will be given the local name Inday. PAGASA has said it may also enhance the southwest monsoon and bring widespread rain even if it does not make direct landfall.",
-      "watch_for": "PAGASA may raise wind signals over northern and eastern Luzon as early as Tuesday night or Wednesday morning if Bavi enters PAR as forecast."
+      "context": "Once inside PAR the system will be named Inday. PAGASA has said Bavi may enhance the southwest monsoon and bring heavy rains over parts of Luzon even if it does not make a direct landfall.",
+      "watch_for": "PAGASA said tropical cyclone wind signals could be raised over the northern and eastern portions of Northern Luzon by Tuesday evening or Wednesday, with gale warnings for northern and eastern seaboards on Wednesday.",
+      "updated_at": "2026-07-07T20:17:55+08:00"
     },
     {
       "headline": "PNP warns against misinformation, online incitement as Duterte impeachment trial opens",
@@ -72,6 +73,24 @@
       "url": "https://business.inquirer.net/599108/psei-climbs-above-6200-on-bargain-hunting",
       "category": "economy",
       "published_at": "2026-07-06T16:50:00+08:00"
+    },
+    {
+      "headline": "June inflation eases to 6.4 percent as fuel and transport costs cool",
+      "summary": "The Philippine Statistics Authority said headline inflation slowed to 6.4 percent in June from 6.8 percent in May, a second straight monthly decline it attributed mainly to smaller increases in transport and fuel costs. The reading landed within the Bangko Sentral ng Pilipinas' 6 to 7 percent forecast range but kept the first-half average at 4.8 percent, still above the government's 2 to 4 percent target.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://business.inquirer.net/599245/inflation-eases-to-6-4-in-june",
+      "category": "economy",
+      "published_at": "2026-07-07T09:27:00+08:00",
+      "context": "Core inflation, which strips out volatile food and energy prices, rose to 4.4 percent from 4.1 percent, and rice remained a leading contributor to the overall rate."
+    },
+    {
+      "headline": "Prosecution opens evidence in Duterte impeachment trial with alleged threat video",
+      "summary": "On the second day of Vice President Sara Duterte's impeachment trial, House prosecutors began presenting evidence under the article covering alleged grave threats and played a 2024 video in which, they said, Duterte threatened to have President Marcos, First Lady Liza Araneta-Marcos and former Speaker Martin Romualdez killed. Senate President Francis Escudero reaffirmed that 16 of the 24 senator-judges must vote to convict.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/993991/sara-duterte-impeachment-trial-live-updates-july-7-2026/story/",
+      "category": "politics",
+      "context": "It is the first impeachment trial of a sitting Philippine vice president. The four articles cover confidential funds, alleged unexplained wealth, corruption and grave threats against government leaders.",
+      "watch_for": "Prosecutors sought subpoenas for Office of the Vice President chief of staff Zuleika Lopez and NBI Director Melvin Matibag, whom they asked to testify on July 13 to 15."
     },
     {
       "headline": "China's submarine-launched ballistic missile test in the Pacific draws regional concern",
