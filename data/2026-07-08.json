@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T04:15:35+08:00",
+  "stories": [
+    {
+      "headline": "Signal No. 1 raised over northeastern Cagayan as Super Typhoon Inday nears PAR entry",
+      "summary": "PAGASA raised Tropical Cyclone Wind Signal No. 1 over Santa Ana, Gonzaga, Lal-lo, Gattaran and Santa Teresita in Cagayan ahead of Super Typhoon Inday's expected entry into the Philippine Area of Responsibility early Wednesday, July 8. As of the 11 p.m. bulletin, Inday, formerly Super Typhoon Bavi, was 1,545 kilometers east of Northern Luzon with maximum sustained winds of 185 kph, moving west at 30 kph. A PAGASA weather specialist said the chance of a direct landfall remains low based on the storm's track.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2259311/super-typhoon-bavi-unlikely-to-make-landfall-pagasa",
+      "category": "weather",
+      "published_at": "2026-07-07T18:42:00+08:00",
+      "context": "Inday is expected to retain super typhoon strength through July 9 before weakening and passing nearest extreme Northern Luzon around July 10 en route toward Taiwan. PAGASA separately warned that the enhanced southwest monsoon would bring 50 to 100 millimeters of rain to Antique, Negros Occidental, Sultan Kudarat and Sarangani on July 8 to 9, expanding to Occidental Mindoro, Palawan, Guimaras, Iloilo, Lanao del Norte and Lanao del Sur on July 9 to 10.",
+      "watch_for": "PAGASA said gale warnings and wider wind signals are expected to be raised over the northern and eastern seaboards of Luzon and Visayas as Inday enters PAR, with strong to gale-force gusts forecast across Pangasinan, Zambales, Bataan, Cavite, Batangas, MIMAROPA, Bicol, Visayas and Mindanao on July 8."
+    },
+    {
+      "headline": "DOE issues 203 show-cause orders to power firms over missing reliability reports",
+      "summary": "The Department of Energy issued 203 show-cause orders to power generation companies nationwide, 174 to on-grid plants and 29 to off-grid facilities, for failing to submit mandatory annual self-assessment reports on plant reliability and outages. The reports were originally due March 31 under Department Circular 2026-02-0006, a deadline the DOE later extended to April 24.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://business.inquirer.net/599158/doe-issues-203-show-cause-orders-to-noncompliant-power-firms",
+      "category": "economy",
+      "context": "DOE legal officer Gabriel Corpuz said the orders were issued solely for failing to submit the required paperwork on time and do not automatically mean a plant was responsible for forced outages or capacity problems. Firms found in violation face possible warnings, fines, or suspension or revocation of their certificates of compliance."
+    },
+    {
+      "headline": "LandBank scraps InstaPay and PESONet transfer fees",
+      "summary": "State-owned Land Bank of the Philippines eliminated fees on InstaPay and PESONet fund transfers for retail clients starting Tuesday, July 7, extending an earlier waiver on QRPh person-to-government payments to everyday retail and business transfers. The waiver also covers Overseas Filipino Bank clients using LandBank's mobile app and iAccess platform.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/companies/993928/landbank-to-waive-instapay-pesonet-fees-starting-july-7-2026/story/",
+      "category": "economy",
+      "published_at": "2026-07-06T19:09:00+08:00",
+      "context": "LandBank joins BPI and RCBC, which dropped interbank transfer fees on July 1 and July 4 respectively, following a Bangko Sentral ng Pilipinas circular effective July 4 that limits interbank transfer fees to the actual switching cost, estimated at about P1.50."
+    },
+    {
+      "headline": "Agriculture chief pushes to extend P50-per-kilo cap on imported rice",
+      "summary": "Agriculture Secretary Francisco Tiu Laurel Jr. cited June's cooler inflation reading, including rice inflation easing to 15.0 percent from 15.6 percent, as grounds for extending the government's P50-per-kilogram price ceiling on imported 5-percent broken rice for another 60 days. He said the cap has helped bring average retail prices down from about P51 to P52 per kilogram to roughly P47 to P48 during the current lean production season.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/economy/2026/07/07/761835/low-june-inflation-reading-cited-as-argument-for-maintaining-p50-kg-cap-on-imported-rice/",
+      "category": "economy",
+      "context": "The P50 price cap was imposed under Executive Order 118 in May to guard against unjustified price increases amid food-cost pressure linked to the Middle East conflict; officials have flagged concerns that retailers raised prices whenever the cap previously lapsed."
+    },
+    {
+      "headline": "Peso strengthens as June inflation eases for second straight month",
+      "summary": "The peso gained 5.6 centavos to close at P61.435 against the US dollar on Tuesday, from P61.491 the prior session, as traders reacted to June's headline inflation easing to 6.4 percent and to falling global oil prices. Analysts said the currency could trade between P61.35 and P61.55 on Wednesday.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/banking-finance/2026/07/08/761726/peso-gains-as-inflation-fears-wane/",
+      "category": "economy",
+      "context": "The Bangko Sentral ng Pilipinas has raised policy rates by a total of 50 basis points since April to keep inflation expectations anchored amid the oil-price shock caused by the Middle East conflict."
+    },
+    {
+      "headline": "Marcos presides over AFP command conference in Brawner's final turnover before retirement",
+      "summary": "President Marcos attended the Armed Forces of the Philippines' 1st Semester 2026 Command Conference at Camp Aguinaldo on July 7, where military officials briefed him on operational accomplishments and security priorities for the coming months. It was the last such conference to be led by outgoing AFP Chief of Staff Gen. Romeo Brawner Jr. ahead of his retirement.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/07/marcos-attends-afp-command-conference",
+      "category": "politics",
+      "published_at": "2026-07-07T18:45:00+08:00",
+      "context": "Defense Secretary Gilberto Teodoro Jr. and senior AFP leaders nationwide also attended. Malacañang did not disclose further specifics of the operational report presented to Marcos."
+    },
+    {
+      "headline": "Government approves 2024 performance-based bonus for public employees",
+      "summary": "Malacañang approved the release of the fiscal year 2024 Performance-Based Bonus for qualified national government personnel, state university and college staff, government-owned firms, water districts and local government units, the Department of Budget and Management said. Congress, the judiciary, constitutional commissions and the Ombudsman are also covered.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/08/2540584/government-oks-grant-2024-performance-based-bonus",
+      "category": "politics",
+      "context": "To qualify, agencies must score at least 70 points across performance, process, financial and citizen-satisfaction measures, and employees must have served at least nine months in 2024 with a very satisfactory rating; those found guilty of administrative or criminal cases by final judgment in that year are disqualified."
+    },
+    {
+      "headline": "Second landslide in two days shuts Bukidnon highway",
+      "summary": "A landslide before dawn on Monday, July 6, buried about 40 to 45 meters of the San Fernando-Talaingod Road in Sitio Balakayo, Barangay Kalagangan, San Fernando, Bukidnon, after days of heavy rain, local disaster officials said. No casualties were reported, but the closure forced motorists to detour through the Bukidnon-Davao road or Barangay Matupe.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2258226/new-landslide-shuts-bukidnon-road-a-day-after-davao-route-reopens",
+      "category": "regions",
+      "published_at": "2026-07-06T10:34:00+08:00",
+      "context": "It was the second landslide to hit the same road corridor in as many days, after an earlier slide at Sitio Cabadiangan, Talaingod, on July 5 that had just been cleared. Officials could not yet estimate when the newly blocked stretch would reopen."
+    },
+    {
+      "headline": "UN warns of 'red alert' as fighting escalates around Sudan's el-Obeid",
+      "summary": "More than 11,000 people, over half of them children, have fled el-Obeid in Sudan over the past two weeks as Rapid Support Forces intensified pressure on the army-held city while the Sudanese Armed Forces reinforced positions, according to Save the Children and the United Nations. The UN human rights chief, Volker Turk, called the situation a red alert, warning that up to 500,000 civilians could be at risk if the violence escalates further.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/7/why-el-obeid-matters-as-sudans-war-enters-a-new-phase",
+      "category": "world",
+      "context": "El-Obeid is a strategic commercial and logistics hub about 360 kilometers southwest of Khartoum. Officials fear it could face a siege similar to el-Fasher's, where prolonged urban warfare devastated services and trapped civilians; damage to water infrastructure has also raised cholera concerns."
+    },
+    {
+      "headline": "Taiwan VP links assault on Japanese journalist to China's new unity law",
+      "summary": "A Japanese journalist based in Taiwan was punched in the face after giving a speech on the island, and a Hong Kong man was arrested in connection with the attack. Taiwanese Vice President Hsiao Bi-khim said the assault, on a journalist she described as a critic of Beijing, may be connected to a new Chinese law promoting ethnic unity.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/assault-on-japan-journalist-may-have-link-to-china-unity-law-taiwan-vp",
+      "category": "world",
+      "published_at": "2026-07-08T00:16:00+09:00",
+      "context": "The incident has raised concern about the extraterritorial reach of China's ethnic unity legislation and its potential effect on press freedom and foreign nationals critical of Beijing operating outside mainland China."
+    }
+  ]
+}
