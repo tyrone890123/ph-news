@@ -1,17 +1,18 @@
 {
   "version": 1,
   "date": "2026-07-08",
-  "generated_at": "2026-07-08T04:15:35+08:00",
+  "generated_at": "2026-07-08T20:21:52+08:00",
   "stories": [
     {
       "headline": "Signal No. 1 raised over northeastern Cagayan as Super Typhoon Inday nears PAR entry",
-      "summary": "PAGASA raised Tropical Cyclone Wind Signal No. 1 over Santa Ana, Gonzaga, Lal-lo, Gattaran and Santa Teresita in Cagayan ahead of Super Typhoon Inday's expected entry into the Philippine Area of Responsibility early Wednesday, July 8. As of the 11 p.m. bulletin, Inday, formerly Super Typhoon Bavi, was 1,545 kilometers east of Northern Luzon with maximum sustained winds of 185 kph, moving west at 30 kph. A PAGASA weather specialist said the chance of a direct landfall remains low based on the storm's track.",
+      "summary": "PAGASA raised Tropical Cyclone Wind Signal No. 1 over 12 areas of Northern Luzon on Wednesday, July 8, including Batanes, Cagayan, Isabela, Apayao, Kalinga and Ilocos Norte, as Super Typhoon Inday (international name Bavi) moved over the Philippine Sea east of Luzon. In its 5 p.m. bulletin PAGASA reported maximum sustained winds of 195 kph and gusts to 240 kph, with the storm moving generally westward at about 20 kph, and said Inday would keep super typhoon strength through Thursday before gradually weakening.",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2259311/super-typhoon-bavi-unlikely-to-make-landfall-pagasa",
+      "url": "https://newsinfo.inquirer.net/2259982/inday-maintains-strength-12-northern-luzon-areas-under-signal-no-1",
       "category": "weather",
       "published_at": "2026-07-07T18:42:00+08:00",
-      "context": "Inday is expected to retain super typhoon strength through July 9 before weakening and passing nearest extreme Northern Luzon around July 10 en route toward Taiwan. PAGASA separately warned that the enhanced southwest monsoon would bring 50 to 100 millimeters of rain to Antique, Negros Occidental, Sultan Kudarat and Sarangani on July 8 to 9, expanding to Occidental Mindoro, Palawan, Guimaras, Iloilo, Lanao del Norte and Lanao del Sur on July 9 to 10.",
-      "watch_for": "PAGASA said gale warnings and wider wind signals are expected to be raised over the northern and eastern seaboards of Luzon and Visayas as Inday enters PAR, with strong to gale-force gusts forecast across Pangasinan, Zambales, Bataan, Cavite, Batangas, MIMAROPA, Bicol, Visayas and Mindanao on July 8."
+      "context": "President Marcos ordered a whole-of-government response and urged public vigilance. Disaster agencies said the DSWD pre-positioned about 4.7 million family food packs, the DOH declared a Code White alert, and the MMDA readied its 73 pumping stations. PAGASA and the Office of Civil Defense warned that the enhanced southwest monsoon could bring flooding and rain-induced landslides beyond the storm's track, with heaviest rains expected Friday to Sunday.",
+      "watch_for": "PAGASA said the storm is forecast to pass nearest Extreme Northern Luzon around July 10 to 11 and to exit the Philippine Area of Responsibility by about July 11 on a track toward East Asia; it said the highest signal that may be raised during Inday's passage is Signal No. 2 or 3. Gale warnings remained over the eastern seaboards of Northern and Central Luzon and the Visayas.",
+      "updated_at": "2026-07-08T20:21:52+08:00"
     },
     {
       "headline": "DOE issues 203 show-cause orders to power firms over missing reliability reports",
@@ -88,6 +89,88 @@
       "category": "world",
       "published_at": "2026-07-08T00:16:00+09:00",
       "context": "The incident has raised concern about the extraterritorial reach of China's ethnic unity legislation and its potential effect on press freedom and foreign nationals critical of Beijing operating outside mainland China."
+    },
+    {
+      "headline": "Duterte impeachment trial enters defense cross-examination on Day 3",
+      "summary": "The impeachment trial of Vice President Sara Duterte moved into its third day on Wednesday, July 8, with her defense team cross-examining the prosecution's first witness, National Bureau of Investigation agent John Mark Calilung, who authenticated a video of Duterte's November 2024 online press conference. Defense counsel argued the recorded remarks were not an impeachable offense, saying there was no proof she contracted an assassin and that she spoke as a family member reacting to an alleged plot against her relatives.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/08/2540762/sara-duterte-trial-recap-july-8-defenses-turn-mic-video-trail-test",
+      "category": "politics",
+      "published_at": "2026-07-08T18:27:00+08:00",
+      "context": "Article IV of the complaint accuses Duterte of a grave threat over remarks in the November 2024 briefing that she had arranged to have President Marcos, First Lady Liza Araneta-Marcos and then-Speaker Martin Romualdez killed if she were harmed. The Senate, sitting as an impeachment court under presiding officer Francis Escudero, began the trial proper this week.",
+      "watch_for": "The court ordered Duterte's former chief of staff, lawyer Zuleika Lopez, to appear as a witness on Tuesday, July 14. The defense is allotted 30 trial days to present its case following the prosecution's phase."
+    },
+    {
+      "headline": "Group asks Supreme Court to halt Duterte impeachment trial over leadership dispute",
+      "summary": "A group asked the Supreme Court to stop the Senate impeachment court from proceeding with Vice President Sara Duterte's trial, filing an urgent motion that challenges a June 3 Senate rule change allowing senators to elect a presiding officer in non-presidential impeachment cases. The petitioners sought a temporary restraining order or similar relief, arguing the trial began under disputed leadership, and said they were not asking the Court to rule on Duterte's guilt or innocence.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/08/2540594/sc-asked-stop-trial-over-rules-choice-chiz",
+      "category": "politics",
+      "context": "Senator Francis Escudero was elected to preside over the trial this week after a contested Senate reorganization. Critics including Senator Alan Peter Cayetano have argued the rule amendment was adopted without a quorum and without the required advance notice."
+    },
+    {
+      "headline": "Manila 'notes with concern' Chinese missile test over the Pacific",
+      "summary": "The Department of Foreign Affairs said on Wednesday, July 8, that it noted with concern a Chinese missile launch and had been given notice a day before the July 6 test. A day earlier the Department of National Defense called the launch a provocative display of military power. China's navy fired the missile, which carried a dummy warhead, from the South China Sea; a flight-path map presented by Taiwan showed it crossing northern Luzon before landing in the Pacific, according to Philippine Star.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/08/2540727/philippines-notes-concern-china-missile-test-criticized-pacific-neighbors",
+      "category": "politics",
+      "published_at": "2026-07-08T12:09:00+08:00",
+      "context": "New Zealand, Australia and the Solomon Islands also criticized the test, and the US Embassy in Manila said it shared the Philippines' concerns. The launch adds to tensions between Manila and Beijing over the South China Sea."
+    },
+    {
+      "headline": "Defense chief says transfer of five Japanese destroyers to Philippines is finalized",
+      "summary": "Defense Secretary Gilberto Teodoro Jr. said the transfer of five Abukuma-class destroyer escorts from Japan to the Philippines is settled, with only administrative details remaining, according to Philippine Star citing the Philippine News Agency. The vessels are expected to be delivered within two to three years. If completed, the deal would be Japan's first overseas transfer of retired surface warships from its Maritime Self-Defense Force under its defense equipment transfer framework.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/08/2540737/philippines-confirms-5-abukama-class-destroyers-deal-japan",
+      "category": "politics",
+      "published_at": "2026-07-08T15:41:00+08:00",
+      "context": "The Abukuma class is a group of six escort ships commissioned between 1989 and 1993, each about 2,000 tons. Manila and Tokyo formed a working group on the transfer after Teodoro met his Japanese counterpart earlier this year, part of deepening defense ties amid South China Sea tensions.",
+      "watch_for": "Teodoro said the Philippine military would assess the vessels' condition and consider additional berthing and docking facilities before their arrival."
+    },
+    {
+      "headline": "Philippine unemployment rises to 2.5 million in May, jobless rate at 4.8%",
+      "summary": "The Philippine Statistics Authority reported on Wednesday, July 8, that about 2.5 million Filipinos were unemployed in May, up from 2.03 million a year earlier, lifting the jobless rate to 4.8 percent from 3.9 percent in May 2025. National Statistician Claire Dennis Mapa said the biggest losses were in agriculture and forestry, which shed roughly 905,000 workers year on year, which Manila Bulletin linked to El Niño farm damage. About 49.63 million Filipinos were employed.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/08/el-nino-farm-losses-push-jobless-filipinos-to-25-million-in-may",
+      "category": "economy",
+      "published_at": "2026-07-08T13:14:00+08:00",
+      "context": "The survey covers May 2026, when headline inflation stood at 6.8 percent before easing to 6.4 percent in June. Labor force participation was 63.8 percent. The PSA said it had not yet assessed the effect of a recently announced wage increase in Metro Manila."
+    },
+    {
+      "headline": "Visayas power grid placed on red alert amid supply shortfall",
+      "summary": "The National Grid Corporation of the Philippines said it raised a red alert over the Visayas grid on Wednesday, July 8, from 3 p.m. to 9 p.m., warning of possible power interruptions or rotating brownouts. NGCP said available capacity of 2,397 megawatts fell short of a peak demand of 2,492 megawatts, and it attributed the shortfall to a tripped transmission line and the emergency shutdown of a power plant, with dozens of other plants offline or running at reduced capacity.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/994172/ngcp-visayas-grid-red-alert-july-8-2026/story/",
+      "category": "economy",
+      "published_at": "2026-07-08T16:19:00+08:00",
+      "context": "A grid is placed on red alert when available power supply is insufficient to cover demand plus required reserves, raising the risk of outages. NGCP said 45 plants were on forced outage and 14 were running at reduced capacity, removing about 1,092 megawatts of capacity."
+    },
+    {
+      "headline": "Trump says US-Iran ceasefire is 'over' after new exchange of strikes",
+      "summary": "US President Donald Trump said the ceasefire with Iran was over after the two sides traded strikes, according to BBC News. Iran said it had targeted US military sites in Bahrain and Kuwait in retaliation for American strikes, while Washington said it had revoked a temporary suspension of sanctions on Iranian oil sales. Speaking before a NATO summit in Turkey, Trump used disparaging language toward Iran's leadership and said further negotiations would be a waste of time. Oil prices rose after his remarks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyw8w1g409o",
+      "category": "world",
+      "published_at": "2026-07-08T18:36:00+08:00",
+      "context": "The ceasefire had followed an earlier round of US and Israeli strikes on Iran. Iran's parliamentary speaker accused Washington of breaching a memorandum of understanding between the two sides. NATO's secretary general said the US strikes were necessary and accused Iran of violating the ceasefire."
+    },
+    {
+      "headline": "Typhoon Maysak leaves at least 17 dead in southern China",
+      "summary": "At least 17 people have died, hundreds have been injured and tens of thousands have been evacuated after Typhoon Maysak brought floods and storms to southern China over the weekend, BBC News reported, citing Chinese state media. In Guangxi province, swollen rivers and breached dam walls inundated the city of Nanning and nearby villages, with residents seeking rescue from rooftops. The storm also spawned thunderstorms and rare tornadoes in Hubei. President Xi Jinping ordered all-out rescue operations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c79ygnv9e93o",
+      "category": "world",
+      "published_at": "2026-07-08T07:44:00+08:00",
+      "context": "Chinese officials estimated about 60,000 people had been evacuated and at least 90,000 affected. Maysak was the first typhoon to make landfall in China this season; forecasters said Super Typhoon Bavi, the storm known in the Philippines as Inday, was expected to approach China's eastern coast later in the week."
+    },
+    {
+      "headline": "Le Pen to seek French presidency despite upheld embezzlement conviction",
+      "summary": "French far-right leader Marine Le Pen said she would run in France's 2027 presidential election, hours after a Paris appeals court upheld her conviction for embezzling European Parliament funds, The Guardian reported. The court imposed a three-year sentence, two years suspended, with the remaining year under an electronic tag, plus a fine, and shortened her ban from office to a period she has already served, clearing her to run. Le Pen said she would appeal to France's highest court.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/07/marine-le-pen-doubt-presidential-election-electronic-tag-france",
+      "category": "world",
+      "published_at": "2026-07-07T20:36:00+08:00",
+      "context": "The case centered on more than 2.8 million euros in European Parliament funds that prosecutors said were used to pay party staff between 2004 and 2016. Le Pen, who leads the National Rally, lost to President Emmanuel Macron in the 2017 and 2022 run-offs. Opposition figures criticized her candidacy."
     }
   ]
 }
