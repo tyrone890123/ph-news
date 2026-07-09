@@ -1,98 +1,117 @@
 {
   "version": 1,
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T20:22:00+08:00",
+  "generated_at": "2026-07-09T23:45:00+08:00",
   "stories": [
     {
-      "headline": "Inday weakens to typhoon over Philippine Sea, forecast to skirt far Northern Luzon",
-      "summary": "PAGASA said Inday (international name Bavi) was downgraded from a super typhoon to a typhoon before dawn on Thursday, July 9, with maximum sustained winds easing to 175 kph and gusts to 215 kph. In its early bulletin the weather bureau placed the storm about 925 kilometers east of Northern Luzon, moving west-northwest at 20 kph, with Tropical Cyclone Wind Signal No. 1 raised over parts of the far north. Forecasters said Inday would enhance the southwest monsoon and bring rains to several areas even without a landfall.",
-      "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2260378/inday-weakens-into-typhoon-rains-to-drench-parts-of-ph-pagasa",
-      "category": "weather",
-      "published_at": "2026-07-09T06:43:00+08:00",
-      "watch_for": "PAGASA said Inday is forecast to pass nearest extreme Northern Luzon by Friday evening and to exit the Philippine Area of Responsibility by Saturday, July 11, on a track toward Taiwan. It said the highest wind signal that may be raised during the storm's passage is Signal No. 2."
-    },
-    {
-      "headline": "Marcos orders full government mobilization as agencies prepare for Inday",
-      "summary": "Malacanang said President Marcos placed government agencies on full alert and ordered a whole-of-government response as Typhoon Inday moved past the eastern seaboard, urging the public to stay vigilant and monitor advisories. Palace Press Officer Claire Castro said the President was personally tracking the weather. The MMDA reported clearing drainage systems and readying its 73 pumping stations, the DPWH prepositioned equipment in Cagayan Valley, the DSWD said it had stockpiled more than 4.7 million family food packs nationwide, and the DOH activated a Code White alert.",
+      "headline": "Typhoon Inday weakens further, Signal No. 2 stays up over Batanes",
+      "summary": "PAGASA said Typhoon Inday's winds eased to 165 kph with gusts to 205 kph by midday Thursday, July 9, as the storm moved over the Philippine Sea about 865 kilometers east of Northern Luzon. Tropical Cyclone Wind Signal No. 2 remained hoisted over Batanes, with Signal No. 1 covering Cagayan, Isabela, and several other northern provinces. The bureau said Inday was moving northwestward at 15 kph and was not expected to make landfall in the Philippines.",
       "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/994162/marcos-monitoring-super-typhoon-inday-orders-full-government-response-palace/story/",
+      "url": "https://www.gmanetwork.com/news/weather/content/994274/typhoon-inday-signal-no-2/story/",
       "category": "weather",
-      "published_at": "2026-07-08T15:28:00+08:00"
+      "published_at": "2026-07-09T12:00:00+08:00",
+      "watch_for": "PAGASA said Inday is forecast to pass closest to extreme Northern Luzon between the evening of July 10 and the morning of July 11 before exiting the Philippine Area of Responsibility, with Signal No. 2 expected to remain the highest signal raised."
     },
     {
-      "headline": "Coast Guard readies response teams across Southern Visayas for Inday",
-      "summary": "The Philippine Coast Guard District Southern Visayas said it activated its Deployable Response Group on Tuesday, July 7, across Negros Occidental, Bacolod City, Siquijor and Negros Oriental, with teams on standby for possible emergency operations as Typhoon Inday enhanced the southwest monsoon. The district said the measures were meant to protect coastal communities. Several local governments in Negros, including Canlaon City, suspended classes on affected days.",
-      "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/07/08/coast-guard-southern-visayas-readies-for-inday",
+      "headline": "Kanlaon Volcano has moderately explosive eruption, ashfall reaches Cebu",
+      "summary": "Phivolcs said Kanlaon Volcano in Negros Island produced a moderately explosive eruption at its summit crater at 7:33 a.m. Thursday, July 9, lasting about three minutes and sending an ash plume roughly two to three kilometers high. Easterly winds carried ashfall across Negros to the Cebu towns of Balamban, Toledo, Pinamungahan, and Aloguinsan, prompting several local governments to suspend classes and at least eight domestic flights to be canceled at Mactan-Cebu International Airport. Phivolcs reported no immediate casualties.",
+      "source": "Cebu Daily News",
+      "url": "https://cebudailynews.inquirer.net/745604/moderate-explosive-eruption-at-kanlaon-on-july-9",
       "category": "regions",
-      "published_at": "2026-07-08T14:50:00+08:00"
+      "published_at": "2026-07-09T08:13:00+08:00",
+      "context": "Kanlaon has had recurring explosive activity through 2026, including eruptions in February, March, and May. Phivolcs has kept the volcano under Alert Level 2, barring entry into the 4-kilometer-radius Permanent Danger Zone around the crater."
     },
     {
-      "headline": "NBI agent testifies on alleged Duterte threats as impeachment trial continues",
-      "summary": "On the third day of Vice President Sara Duterte's impeachment trial on July 8, National Bureau of Investigation Senior Agent Mark Calilung testified for the prosecution about Duterte's reported remarks on having someone kill President Marcos, First Lady Liza Araneta-Marcos and former House Speaker Martin Romualdez, telling the Senate impeachment court that authorities assessed the statements as a serious threat. Calilung said Duterte and an ally did not appear at the NBI to substantiate claims of an alleged plot against the Vice President. Duterte denies the charges.",
+      "headline": "One dead in Bukidnon flash flood as Inday-enhanced rains batter Mindanao",
+      "summary": "A 50-year-old man died in Malaybalay City, Bukidnon on Wednesday evening, July 8, after being swept away by flash floods as heavy rain, intensified by Typhoon Inday's enhancement of the southwest monsoon, battered Mindanao. Barangay Managok in Malaybalay had submerged rice fields and overflowed spillways, and more than 100 residents were evacuated in four other barangays. In Maguindanao del Norte, about 100 families evacuated after a river overflowed, and a flash flood made a highway in Maguindanao del Sur impassable, requiring rescues from neck-deep water.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2260772/1-dead-as-rains-batter-mindanao-ahead-of-indays-luzon-onslaught",
+      "category": "regions"
+    },
+    {
+      "headline": "Impeachment court subpoenas Duterte aide Zuleika Lopez to testify July 13-14",
+      "summary": "The Senate impeachment court issued a subpoena ordering Zuleika Lopez, chief of staff of the Office of the Vice President, to appear on July 13 and 14 at 2 p.m. to testify in Vice President Sara Duterte's impeachment trial, GMA News reported. The court said Lopez's testimony was material to the article of impeachment involving reported threats to have officials assassinated. House prosecutors had listed Lopez as a witness.",
       "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/994110/sara-duterte-impeachment-trial-live-updates-july-8-2026/story/",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/994300/senate-impeachment-court-subpoenas-zuleika-lopez-for-sara-duterte-impeachment-trial/story/",
       "category": "politics",
-      "context": "The House impeached Duterte for a second time on charges including culpable violation of the Constitution and betrayal of public trust tied to alleged misuse of confidential funds and the threat remarks. A two-thirds vote of the 24-member Senate, or 16 senators, is needed to convict. The trial opened on July 6 before presiding officer Senator Francis Escudero.",
-      "watch_for": "The impeachment court scheduled July 15 oral arguments on the prosecution's request to subpoena tax records linked to Duterte, and the prosecution said it would present Office of the Vice President chief of staff Zuleika Lopez as a witness on July 14."
+      "published_at": "2026-07-09T16:09:00+08:00",
+      "context": "The House impeached Duterte for a second time on charges including culpable violation of the Constitution and betrayal of public trust, with the Senate trial that opened July 6 requiring 16 of 24 senators to convict. Duterte denies the charges."
     },
     {
       "headline": "Abalos takes oath as Cabinet Secretary in return to Marcos administration",
-      "summary": "Former Interior Secretary Benjamin 'Benhur' Abalos Jr. took his oath as Cabinet Secretary on Wednesday, July 9, the Palace said, after a one-year appointment ban on losing 2025 election candidates lapsed. Press Officer Claire Castro said Abalos would travel nationwide representing the President and working to ensure government services reach citizens, rather than solely managing Cabinet meetings. The Palace said no executive order was needed, citing the President's appointment and reorganization powers.",
+      "summary": "Former Interior Secretary Benjamin \"Benhur\" Abalos Jr. took his oath as Cabinet Secretary before President Marcos on Thursday, July 9, the Palace said, after a one-year appointment ban on losing 2025 election candidates lapsed. Press Officer Claire Castro said Marcos directed Abalos to travel nationwide representing the President and work with Cabinet members to address public concerns, rather than solely managing Cabinet meetings. The Palace said no executive order was needed, citing the President's appointment powers.",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2260708/palace-abalos-to-represent-marcos-ensure-services-reach-filipinos",
       "category": "politics",
       "published_at": "2026-07-09T17:12:00+08:00",
-      "context": "Abalos served as Secretary of the Interior and Local Government from 2022 to 2024 before an unsuccessful Senate bid in the 2025 midterm elections. The Office of the Cabinet Secretary was abolished in 2022; the Palace said the new role is a redefined position rather than a revival of the former office."
+      "context": "Abalos served as Secretary of the Interior and Local Government from 2022 to 2024 before an unsuccessful Senate bid in the 2025 midterm elections. The Office of the Cabinet Secretary had been abolished in 2022; the Palace described the new role as redefined rather than a revival of the former office."
     },
     {
-      "headline": "Sandiganbayan orders arrest of Senator Marcoleta in P75-million plunder case",
-      "summary": "The Sandiganbayan's Third Division issued an arrest warrant on July 6 for Senator Rodante Marcoleta and three others over an alleged P75 million in undisclosed campaign donations received for his 2025 senatorial bid. Prosecutors allege the funds, delivered in three cash transfers in January 2025, went undeclared in his statement of assets and campaign finance reports. Co-accused are former Rep. Michael Defensor and businessmen Joseph Espiritu and Aristotle Viray. Plunder is a non-bailable offense; all four also face charges under Presidential Decree 46 on prohibited gifts.",
+      "headline": "Sandiganbayan issues new arrest warrants against Marcoleta, Defensor over gifts law",
+      "summary": "The Sandiganbayan's Fourth Division ordered the arrest of Senator Rodante Marcoleta and former Representative Michael Defensor on charges of violating Presidential Decree 46, which bars public officials from receiving gifts, GMA News reported. The court set bail at 30,000 pesos each and issued hold departure orders; both men are already in custody over a separate plunder case in which they were arrested July 6 over an alleged undeclared 2025 campaign donation. Defensor said no favor was requested, promised, or given in exchange for any donation.",
       "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/993635/sandiganbayan-arrest-warrant-rodante-marcoleta-plunder-case/story/",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/994210/sandiganbayan-orders-marcoleta-mike-defensor-arrested-in-gift-prohibition-case/story/",
       "category": "politics",
-      "published_at": "2026-07-06T09:41:00+08:00",
-      "watch_for": "Multiple outlets reported the Sandiganbayan set Marcoleta's arraignment for July 10."
+      "published_at": "2026-07-08T20:27:00+08:00"
     },
     {
-      "headline": "BSP chief says economy can absorb one more rate increase",
-      "summary": "Bangko Sentral ng Pilipinas Governor Eli Remolona Jr. said the economy could withstand another quarter-point increase in the benchmark interest rate, which stands at 4.75 percent after hikes since April, according to the Inquirer. He said real interest rates remained negative even after the increases and declined to specify how many further hikes would follow. Remolona said he expects government spending to rebound in the second half of 2026 after early-year weakness.",
+      "headline": "Philippine officials reject Chinese scholars' claim that Batanes belongs to China",
+      "summary": "The Department of Foreign Affairs on Thursday, July 9, dismissed as \"flights of fancy\" a claim by researchers from Chinese universities that Batanes is a geographical extension of Taiwan and belongs to China, saying Philippine sovereignty over the province is settled and not up for debate, GMA News reported. Defense Secretary Gilberto Teodoro Jr. called the claim baseless, and said academics should discourage the theory.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/994356/philippines-rejects-claims-that-batanes-belongs-to-china-says-sovereignty-not-up-for-debate/story/",
+      "category": "politics",
+      "published_at": "2026-07-09T22:52:00+08:00",
+      "context": "The claim stemmed from a June 30 symposium in Guangzhou involving Chinese scholars; Beijing's government has not formally endorsed the position. The dispute follows a Chinese submarine-launched ballistic missile test on July 6 that Philippine and US officials condemned as provocative."
+    },
+    {
+      "headline": "BSP chief says economy can absorb another rate hike as spending seen rebounding",
+      "summary": "Bangko Sentral ng Pilipinas Governor Eli Remolona Jr. said the economy could withstand another quarter-point increase in the benchmark interest rate, which stands at 4.75 percent, according to the Philippine Daily Inquirer. He said real interest rates remained negative even after recent hikes and pointed to weak government spending, linked to a corruption scandal, as a bigger constraint on growth after first-quarter GDP grew 2.8 percent. He said he expects spending to recover in the second half of 2026.",
       "source": "Philippine Daily Inquirer",
       "url": "https://business.inquirer.net/599165/remolona-ph-economy-can-take-fresh-rate-hike",
       "category": "economy",
-      "context": "The BSP has raised policy rates to keep inflation expectations anchored amid an oil-price shock linked to the Middle East conflict. Headline inflation eased to 6.4 percent in June, a three-month low, but remained above the government's 2 to 4 percent target range."
+      "published_at": "2026-07-07T02:12:00+08:00",
+      "context": "The BSP has raised policy rates to anchor inflation expectations amid an oil-price shock tied to the Middle East conflict. Some bank economists expect two more hikes this year, taking the policy rate to 5.25 percent."
     },
     {
-      "headline": "Marcos approves transport, energy and AI projects at development council",
-      "summary": "President Marcos presided over the 10th Economy and Development Council meeting on July 7 and approved several initiatives, the Palace said. They included a variation to the LRT-1 South Extension enabling interim Common Station operations, Project BEST for technical-vocational skills training, and a geothermal resource de-risking facility. The council also confirmed the Philippine Artificial Intelligence Infrastructure Master Plan 2026-2033, described as a long-term roadmap for AI infrastructure and digital connectivity. Press Officer Claire Castro briefed reporters on July 8.",
+      "headline": "Marcos approves LRT-1 extension change, geothermal facility, AI infrastructure plan",
+      "summary": "President Marcos approved several initiatives at the 10th Economy and Development Council meeting on July 7, Manila Bulletin reported, including a variation to the LRT-1 South Extension project allowing interim operation of its Common Station, a geothermal resource de-risking facility, and a technical-vocational training program. The council also confirmed the Philippine Artificial Intelligence Infrastructure Master Plan 2026-2033, the country's long-term roadmap for AI infrastructure, plus retrofitting plans for 234 school buildings and 36 hospitals.",
       "source": "Manila Bulletin",
       "url": "https://mb.com.ph/2026/07/08/marcos-oks-key-transport-education-energy-disaster-resilience-ai-projects",
       "category": "economy",
       "published_at": "2026-07-08T16:36:00+08:00"
     },
     {
-      "headline": "US launches second wave of strikes on Iran as ceasefire falters",
-      "summary": "US Central Command said its forces carried out a second straight day of strikes on Iran, reporting hits on dozens of military targets it said were meant to degrade Tehran's ability to threaten shipping in the Strait of Hormuz, according to Al Jazeera. Iranian state media reported strikes on sites including Chabahar and Aq Qala and casualties among military personnel and a firefighter. Iran's Revolutionary Guards said they struck US bases in Kuwait and Bahrain. President Trump said the June ceasefire memorandum was 'over' but that he did not seek a full return to war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2",
-      "category": "world",
-      "context": "The escalation followed reported Iranian attacks on commercial vessels in the Strait of Hormuz and marked the most serious flare-up since a mid-June memorandum of understanding paused earlier fighting. Casualty and target figures were attributed to the two governments and could not be independently verified."
+      "headline": "Quezon City logs 265 percent jump in COVID-19 cases over three weeks",
+      "summary": "Quezon City's health department recorded 146 COVID-19 cases as of July 1, up from 23 cases logged between May 21 and June 10 to 84 cases between June 11 and July 1, a 265 percent increase, Manila Bulletin reported. The city government said it has observed a continuous rise over six weeks and advised residents to practice hand and respiratory hygiene and wear masks when symptomatic. Children aged 14 and below accounted for nearly 30 percent of cases, with District 4 the biggest hotspot.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/05/qc-logs-146-covid-19-cases-as-infections-surge-265-in-3-weeks",
+      "category": "metro",
+      "published_at": "2026-07-05T18:12:00+08:00",
+      "context": "The national Department of Health has separately urged caution in interpreting the percentage figure, saying cumulative COVID-19 cases nationwide this year remain far below the same period in 2025."
     },
     {
-      "headline": "NATO pledges 70 billion euros for Ukraine; Trump offers Patriot production license",
-      "summary": "NATO allies pledged 70 billion euros, about 80 billion US dollars, in military assistance for Ukraine in 2026 and said they would sustain at least equivalent levels in 2027, according to the alliance's declaration reported by Al Jazeera. At the two-day summit that concluded in Ankara on July 8, US President Trump said Washington would grant Ukraine a license to produce Patriot air defense systems, saying, in his words, that the US would show Kyiv how to make them.",
+      "headline": "US carries out second night of strikes on Iran as ceasefire process falters",
+      "summary": "US Central Command said its forces struck roughly 90 targets across Iran on Thursday, July 9, for a second consecutive day, hitting military and port facilities near Bandar Abbas, Chabahar, and Jask, according to Al Jazeera. Iran reported at least 14 people killed and 78 wounded over the two days of strikes, and its Revolutionary Guards said they retaliated by striking US military facilities in Bahrain, Kuwait, and Qatar; Jordan's armed forces said they intercepted eight Iranian missiles. President Trump said a June ceasefire memorandum was \"over\" but that negotiations could continue.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/9/us-strikes-iran-for-second-night-is-the-peace-process-all-over-now",
+      "category": "world",
+      "context": "The memorandum, reached after more than five weeks of fighting, set a 60-day peace process due to expire August 21. The ceasefire has been violated by both sides multiple times since it was declared."
+    },
+    {
+      "headline": "NATO pledges 70 billion euros for Ukraine, Trump offers Patriot production license",
+      "summary": "NATO allies pledged 70 billion euros, about 80 billion US dollars, in military assistance for Ukraine in 2026 and said they would sustain similar levels in 2027, Al Jazeera reported from the alliance's two-day summit that concluded in Ankara on July 8. US President Trump said Washington would grant Ukraine a license to manufacture Patriot air defense systems. South Korea separately pledged 100 million US dollars, and Ukraine secured bilateral drone deals with Estonia, the Netherlands, and Denmark.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress",
       "category": "world",
-      "context": "Ukraine has long sought the ability to manufacture Patriot interceptors, which are costly and in high demand, as it defends against Russian air and missile attacks."
+      "context": "Ukraine has sought the ability to produce Patriot interceptors, which are costly and in high demand, as it defends against Russian air and missile attacks. NATO membership for Ukraine remains unlikely despite Kyiv's continued advocacy."
     },
     {
-      "headline": "Taiwan's exports jump nearly 50 percent in first half on AI demand",
-      "summary": "Taiwan's exports rose nearly 50 percent in the first half of 2026, putting the economy on course for its fastest annual growth in more than a decade, Nikkei Asia reported. The report attributed the surge to Taiwan's role as a leading chip producer benefiting from global demand tied to the artificial intelligence boom, and said the government had raised its 2026 growth outlook to a 16-year high.",
+      "headline": "Taiwan's exports surge nearly 50 percent in first half on AI-driven demand",
+      "summary": "Taiwan's exports rose nearly 50 percent in the first half of 2026, putting the economy on track for its fastest growth since 2010, Nikkei Asia reported. The outlet attributed the surge to Taiwan's role as a leading chipmaker benefiting from global demand tied to artificial intelligence, and said President Lai Ching-te's government is positioning the island as an \"AI island\" built around its semiconductor manufacturing base.",
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/economy/taiwan-s-exports-rise-nearly-50-in-first-half-as-lai-builds-ai-island",
-      "category": "world"
+      "category": "world",
+      "published_at": "2026-07-09T17:18:00+08:00"
     }
   ]
 }
