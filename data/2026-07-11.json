@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T20:17:40+08:00",
+  "stories": [
+    {
+      "headline": "Typhoon Inday exits PAR but enhanced monsoon leaves at least 17 dead nationwide",
+      "summary": "Typhoon Inday (Bavi) left the Philippine Area of Responsibility at 8:20 a.m. Saturday, July 11, but continued to enhance the southwest monsoon, or habagat, bringing heavy rains across much of the country. The Office of Civil Defense said at least 17 people had died, most in rain-induced landslides in Sarangani, Lanao del Sur and Bukidnon, with nine still missing, and that it was still verifying the raw figures. It said about 112,000 families in 404 barangays had been affected, with thousands sheltering in evacuation centers.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/11/inday-exits-par-but-leaves-trail-of-destruction-habagat-continues-to-batter-ph",
+      "category": "weather",
+      "published_at": "2026-07-11T11:45:00+08:00",
+      "watch_for": "PAGASA said the enhanced habagat would keep bringing heavy rains and strong to gale-force winds over parts of Luzon, the Visayas and Mindanao until Monday, July 13."
+    },
+    {
+      "headline": "Local governments suspend Saturday classes as Inday and habagat bring flooding",
+      "summary": "Several local governments and schools suspended classes on Saturday, July 11, because of Typhoon Inday and the enhanced southwest monsoon. Suspensions covered Metro Manila cities including Caloocan, Marikina, Valenzuela, Malabon and Manila, along with towns in Cavite, Laguna, Bulacan, Rizal, Pangasinan and Cebu. PAGASA raised a yellow rainfall warning over Zambales, Bataan and parts of Cavite, Batangas and Pampanga, citing possible flooding in low-lying and flood-prone areas.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2261566/walang-pasok-class-suspensions-for-july-11-due-to-inday-habagat",
+      "category": "regions"
+    },
+    {
+      "headline": "Rains from Inday and habagat flood several Metro Manila roads",
+      "summary": "Heavy rains from Typhoon Inday and the southwest monsoon flooded several roads across Metro Manila on Friday, July 10, according to monitoring compiled by GMA News. Gutter- to knee-deep water was reported along parts of EDSA, España in Manila, and roads in Quezon City, Mandaluyong, Marikina and Pasig. Most affected stretches stayed passable, though sections in Pasig's Valle Verde and along EDSA-Santolan were difficult or impassable for light vehicles.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/metro/994434/list-flooded-areas-in-metro-manila-on-july-10-2026/story/",
+      "category": "metro",
+      "published_at": "2026-07-10T16:38:00+08:00"
+    },
+    {
+      "headline": "Cebu air quality returns to safe levels after Kanlaon eruption; volcano stays at Alert Level 2",
+      "summary": "The Environmental Management Bureau said air quality in Metro Cebu had returned to the 'good' category following Kanlaon Volcano's July 9 eruption, which spread ash over parts of Negros and Cebu. The environment department's Central Visayas office cautioned that southwest winds were still carrying sulfur dioxide from the volcano, raising the risk of acid rain, and advised residents to take precautions. Phivolcs kept Kanlaon at Alert Level 2, with the four-kilometer permanent danger zone off-limits.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/11/air-quality-in-cebu-back-to-safe-levels-following-kanlaon-eruption",
+      "category": "regions",
+      "published_at": "2026-07-11T14:11:00+08:00",
+      "context": "Alert Level 2 indicates increasing volcanic unrest and the possibility of further sudden explosions. Kanlaon has erupted several times over the past year."
+    },
+    {
+      "headline": "Economic managers cut 2026 growth target to 3.5 to 4.5 percent",
+      "summary": "The Development Budget Coordination Committee lowered the government's 2026 economic growth target to 3.5 to 4.5 percent, which it said would be the weakest expansion in six years, citing lingering domestic governance issues, tensions in the Middle East and other global developments weighing on business and consumer confidence. The committee trimmed the Bureau of Internal Revenue's collection goal to about 3.39 trillion pesos while raising the Bureau of Customs' target to roughly 1.01 trillion pesos, for total revenues of about 4.81 trillion pesos.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/10/economic-team-shakes-up-bir-customs-targets-for-2026",
+      "category": "economy"
+    },
+    {
+      "headline": "Philippine stocks rise 1 percent as bargain hunting and foreign buying return",
+      "summary": "The Philippine Stock Exchange index rose 1.01 percent, or 62.83 points, to close at 6,286.70 on Friday, July 10, as investors picked up lower-priced shares and foreign buyers returned with net inflows of about 772 million pesos. Analysts linked the rebound to a Wall Street rally and signs of easing US-Iran tensions. Mining and oil issues led the gains, with the index recovering from a decline the previous session.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://business.inquirer.net/599854/psei-climbs-1-on-bargain-hunting",
+      "category": "economy",
+      "published_at": "2026-07-10T16:49:00+08:00"
+    },
+    {
+      "headline": "Senate impeachment court subpoenas Duterte aide Zuleika Lopez to testify",
+      "summary": "The Senate impeachment court issued a subpoena ordering Office of the Vice President chief of staff Zuleika Lopez to appear on July 13 and 14 to give testimony in the impeachment trial of Vice President Sara Duterte. The court said her testimony relates to Article 4 of the impeachment complaint, which accuses Duterte of grave threats against President Ferdinand Marcos Jr. and other officials and of inciting sedition. Duterte, who under the rules is not required to attend, denies the accusations.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/994300/senate-impeachment-court-subpoenas-zuleika-lopez-for-sara-duterte-impeachment-trial/story/",
+      "category": "politics",
+      "published_at": "2026-07-09T16:09:00+08:00",
+      "context": "The trial, which opened July 6, is the first of a sitting Philippine vice president. A conviction requires a two-thirds vote of the 24-member Senate and would remove Duterte from office.",
+      "watch_for": "Hearings are set to resume Monday, July 13, with Lopez expected to testify on July 13 and 14."
+    },
+    {
+      "headline": "Marcos marks 10th anniversary of South China Sea ruling as a win for Filipinos",
+      "summary": "At a diplomatic reception in Pasay City on Friday, July 10, President Ferdinand Marcos Jr. marked the coming 10th anniversary of the 2016 arbitral award on the South China Sea, calling it not merely a legal victory but a matter of protecting Filipino fisherfolk and coastal communities. He reaffirmed the country's commitment to the UN Charter and the Law of the Sea, describing adherence to international law as non-negotiable, and said the South China Sea should be a sea of peace and cooperation rather than an arena of conflict.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/994464/marcos-arbitral-award-people-law/story/",
+      "category": "politics",
+      "published_at": "2026-07-10T21:02:00+08:00",
+      "context": "The July 12, 2016 ruling by a tribunal in The Hague rejected China's expansive South China Sea claims under UNCLOS. China rejected the decision and continues to assert control over waters within the Philippines' exclusive economic zone."
+    },
+    {
+      "headline": "Shipping through Strait of Hormuz slows sharply amid renewed US-Iran fighting",
+      "summary": "Traffic through the Strait of Hormuz fell steeply as fighting between the United States and Iran resumed, with monitors reporting only a handful of tracked crossings in recent days compared with dozens earlier in the week. Al Jazeera reported that the US struck Iranian targets and that Iran said it hit US military sites in Bahrain, Kuwait, Qatar, Jordan and Iraq in response. Brent crude held near 76.58 dollars a barrel on Friday, though analysts said prices could rise over the summer if the disruption persists.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/10/strait-of-hormuz-shipping-grinds-to-halt-as-us-iran-resume-fighting",
+      "category": "world",
+      "context": "The Strait of Hormuz is a chokepoint for a large share of the world's seaborne oil trade. A ceasefire reached in June had briefly eased tensions before fighting resumed."
+    },
+    {
+      "headline": "Russian strikes kill five in eastern Ukraine as Kyiv hits Russian oil sites",
+      "summary": "Ukrainian officials said Russian aerial attacks killed five people, including a teenager, and wounded dozens in Kramatorsk and Zaporizhzhia on Friday, July 10, damaging homes and other buildings. Ukraine's military said it struck two major Russian oil refineries, in the Krasnodar and Leningrad regions, along with oil facilities in the Rostov region and tankers in the Sea of Azov, as part of a campaign to cut fuel supplies to Russian forces. A Russian deputy prime minister acknowledged the strikes had caused fuel shortages.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure",
+      "category": "world"
+    },
+    {
+      "headline": "Spain edges Belgium 2-1 to reach World Cup semifinals",
+      "summary": "Spain defeated Belgium 2-1 in a 2026 World Cup quarterfinal on Friday, July 10, with Mikel Merino scoring an 88th-minute winner after Fabian Ruiz's first-half opener and Charles De Ketelaere's equalizer for Belgium. The result advanced Spain to the semifinals, where it will face France.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/10/spain-vs-belgium-live-fifa-world-cup-2026-quarterfinal",
+      "category": "sports",
+      "watch_for": "Spain is scheduled to play France in the World Cup semifinals."
+    }
+  ]
+}
