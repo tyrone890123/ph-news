@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T04:10:42+08:00",
+  "stories": [
+    {
+      "headline": "Health Secretary Herbosa resigns citing recovery from knee surgery",
+      "summary": "Health Secretary Teodoro Herbosa resigned as head of the Department of Health, saying recovery from a July 7 knee replacement surgery would require months of rehabilitation that could limit his ability to fully perform his duties. President Ferdinand Marcos Jr. accepted the resignation. Orthopedic surgeon Jose Pujalte Jr. was named acting health secretary because Congress, which must confirm a permanent appointee, is currently in recess.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2262921/herbosa-says-recovery-prompted-exit-cites-doh-gains",
+      "category": "politics",
+      "published_at": "2026-07-13T20:09:00+08:00",
+      "context": "Herbosa had led the DOH for about three years under the Marcos administration, during which the agency pursued programs including a no-balance-billing policy for indigent patients."
+    },
+    {
+      "headline": "Philippine officials reject Chinese scholars' claim that Batanes belongs to China",
+      "summary": "Labor Secretary Francis Tolentino publicly rejected a claim, raised by a group of Chinese academics at a late-June symposium, that the Batanes islands are historically and legally part of China. Tolentino said Philippine sovereignty over Batanes is established through continuous governance dating to the 1935 Constitution, and suggested the claim could be a deliberate attempt to sow confusion rather than genuine scholarship. Other officials, including the Department of Foreign Affairs, the defense secretary and the national security adviser, separately made similar rejections in recent days.",
+      "source": "Manila Times",
+      "url": "https://www.manilatimes.net/2026/07/13/news/national/tolentino-rejects-claim-batanes-belongs-to-china/2382962",
+      "category": "politics",
+      "context": "The claim surfaced days before the Philippines marked the 10th anniversary of the 2016 international arbitral ruling that rejected China's expansive South China Sea claims, and around the time Manila and Tokyo announced maritime boundary talks near Taiwan."
+    },
+    {
+      "headline": "Series of gun attacks in Cotabato City kills four, wounds seven",
+      "summary": "Local police said three separate motorcycle-riding gunmen attacks between July 11 and 12 killed four people and wounded seven in Cotabato City, including a tricycle driver and an off-duty police officer. Police said one attack may have been linked to a personal dispute, while motives for the other two remain under investigation. City Mayor Mohammad Matabalao ordered intensified patrols and checkpoints and pledged government support until suspects are identified and prosecuted.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2262661/cotabato-city-lgu-vows-justice-over-series-of-deadly-gun-attacks",
+      "category": "regions",
+      "published_at": "2026-07-13T11:30:00+08:00",
+      "watch_for": "Police have appealed to the public for help identifying the gunmen as the investigation continues."
+    },
+    {
+      "headline": "NBI recommends charges against ex-Ateneo coach over student-athletes' drowning deaths",
+      "summary": "The National Bureau of Investigation recommended homicide-related charges against former Ateneo de Manila basketball coach Tab Baldwin and seven coaching and training staff, over the June 8 drowning deaths of two student-athletes during a team sea-based exercise in Dipaculao, Aurora. The NBI said Baldwin directed the activity at a site with rough surf despite knowing at least one athlete could not swim, and that no life vests, lifeguards or medical personnel were present. It also recommended negligence complaints against an athletic director and resort operators.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/994656/nbi-raps-tab-baldwin-others-rene-baterbonia-divine-adili-deaths/story/",
+      "category": "other",
+      "published_at": "2026-07-13T11:46:00+08:00",
+      "context": "Baldwin resigned as head coach following the incident.",
+      "watch_for": "The Department of Justice will independently review the NBI's recommendation before deciding whether to file charges in court."
+    },
+    {
+      "headline": "Board of Investments approvals rise 21% in first half of 2026",
+      "summary": "The Board of Investments said it approved 461.84 billion pesos in investment pledges from January to June 2026, up 21% from the same period last year, driven mainly by renewable energy projects. DTI Secretary Maria Cristina Roque said the 124 approved projects are expected to generate over 14,000 local jobs and linked the growth to investor confidence after the World Bank reclassified the Philippines as an upper-middle-income economy.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/07/13/762785/boi-approved-investments-jump-21/",
+      "category": "economy",
+      "published_at": "2026-07-13T00:32:00+08:00",
+      "context": "The first-half total represents 46% of the Board of Investments' 1-trillion-peso approval target for the full year."
+    },
+    {
+      "headline": "Peso trading stays volatile amid Middle East tensions",
+      "summary": "The peso closed at 61.515 per dollar on Friday, up slightly from the previous day but down for the week, as easing oil prices and a softer US dollar offset broader caution, an economist told BusinessWorld. Analysts attributed continued currency volatility to renewed US-Iran military exchanges, including Iran's moves affecting passage through the Strait of Hormuz, as well as the ongoing Senate impeachment trial of Vice President Sara Duterte.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/banking-finance/2026/07/13/762741/peso-trade-to-stay-volatile-on-geopolitical-woes/",
+      "category": "economy",
+      "published_at": "2026-07-13T00:03:00+08:00"
+    },
+    {
+      "headline": "Philippine stock index falls as Middle East tensions weigh on sentiment",
+      "summary": "The Philippine Stock Exchange index fell 0.33% to 6,265.72 on Monday, with five of six sectoral indices declining, led by mining and oil shares. Market analysts attributed the drop to investor caution over renewed US-Iran military exchanges and rising oil prices, with foreign investors net sellers of about 673 million pesos.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/stock-market/2026/07/13/762952/psei-edges-lower-as-us-iran-exchange-attacks/",
+      "category": "economy",
+      "published_at": "2026-07-13T21:00:00+08:00"
+    },
+    {
+      "headline": "Economists say Bangko Sentral likely to keep raising rates despite inflation slowdown",
+      "summary": "Nomura economists said Philippine headline inflation, which slowed to 6.4% in June from 6.8% in May, has likely peaked, but a rise in core inflation to 4.4% points to broader underlying price pressure from wages and food supply risks, the Philippine Star reported. Despite lowering its 2026 average inflation forecast to 5.1%, Nomura said it still expects the Bangko Sentral ng Pilipinas to raise its policy rate by another 50 basis points this year, to 5.25%, after two consecutive 25-basis-point hikes.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/business/2026/07/13/2541665/price-pressures-keep-bsp-rate-hiking-path",
+      "category": "economy"
+    },
+    {
+      "headline": "Diesel and kerosene prices set to rise further on July 14",
+      "summary": "The Department of Energy said diesel and kerosene prices would increase by more than 2 pesos per liter starting July 14, while gasoline prices could move up or down by as much as 1 peso, Energy Secretary Sharon Garin said, citing continued volatility in Middle East oil markets. Garin said this would be the last week the department issues range-based forecasts, switching to specific peso-and-centavo price adjustments the following week under the ongoing state of energy emergency.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/business/2026/07/13/2541886/diesel-kerosene-prices-seen-rising-over-p2-liter-doe",
+      "category": "economy",
+      "published_at": "2026-07-13T19:09:00+08:00",
+      "watch_for": "Fuel price adjustments take effect July 14, with more precise DOE price postings to begin the following week."
+    },
+    {
+      "headline": "Angat Dam water level ticks up slightly but remains below critical threshold",
+      "summary": "The National Water Resources Board said Angat Dam, which supplies most of Metro Manila's water, rose marginally to 156.09 meters, still well below the 160-meter critical level and near its lowest point since 2010. NWRB executive director Sevillo David Jr. said the situation could not yet be called comfortable, even after recent rains from Typhoon Inday and the enhanced monsoon.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/994706/nwrb-angat-dam-water-level-slightly-rose-but-still-below-critical-level/story/",
+      "category": "metro",
+      "published_at": "2026-07-13T17:37:00+08:00",
+      "context": "The Metropolitan Waterworks and Sewerage System is developing alternative water sources, including facilities linked to Laguna Lake and Cavite, and drawing on the La Mesa and Ipo dams to supplement supply."
+    },
+    {
+      "headline": "Old submerged structures resurface as Pantabangan Dam water level recedes",
+      "summary": "Structures from a town flooded decades ago during Pantabangan Dam's construction in Nueva Ecija have resurfaced as the reservoir's water level dropped to 177.43 meters, with a church and other buildings emerging in recent days. A PAGASA hydrologist said Luzon reservoirs were recovering after recent rains but described July and August as a general recovery period, adding that Angat Dam specifically would need a tropical cyclone to pass directly over it to improve meaningfully. The same report flagged a risk of Upper Wawa Dam spilling over into nearby Rizal communities.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/994678/old-structures-resurface-as-pantabangan-dam-water-level-continues-to-recede/story/",
+      "category": "regions",
+      "published_at": "2026-07-13T15:05:00+08:00"
+    },
+    {
+      "headline": "Tropical depression nearing Philippine area of responsibility as monsoon rains ease",
+      "summary": "PAGASA said a tropical depression, internationally named Haishen, was about 1,205 kilometers east of Eastern Visayas with 55 kph winds and could enter the Philippine area of responsibility as early as the night of July 13 or morning of July 14, when it would be given the local name Josie. Separately, PAGASA said the enhanced southwest monsoon would generally stop affecting the country from July 14, giving way to easterly winds and mostly fair weather, though isolated rain was still expected over parts of Luzon.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/weather/content/994701/habagat-to-bring-rain-over-luzon-tuesday-td-haishen-nearing-par/story/",
+      "category": "weather",
+      "published_at": "2026-07-13T17:10:00+08:00",
+      "watch_for": "PAGASA is expected to begin issuing bulletins under the name Josie if the system enters the Philippine area of responsibility."
+    },
+    {
+      "headline": "NLEX holds off Terrafirma comeback to open PBA Governors' Cup 2-0",
+      "summary": "NLEX beat Terrafirma 101-100 in the PBA Governors' Cup at Ynares Center in Montalban, building a 23-point lead before nearly squandering it as Terrafirma rallied within one point late; a potential game-winning three at the buzzer missed. Dequan Jones led NLEX with 30 points as the team improved to 2-0, while Terrafirma fell to 1-1 in its group.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/12/nlex-survives-furious-terrafirma-rally-to-go-2-0",
+      "category": "sports",
+      "published_at": "2026-07-12T19:34:00+08:00",
+      "watch_for": "NLEX and Terrafirma are both scheduled to play again on July 14 at Ynares Center in Antipolo."
+    },
+    {
+      "headline": "US and Iran trade fresh strikes as ceasefire collapses; US to reimpose Hormuz measures",
+      "summary": "The United States and Iran exchanged another round of strikes in the Gulf region, with US Central Command hitting Iranian air-defense and missile sites and Iran's Revolutionary Guard retaliating against US-linked sites in Bahrain, Oman, Kuwait, Qatar and Jordan, wounding several people, according to Al Jazeera. President Trump said the mid-June ceasefire was over and announced the US would reimpose a naval blockade of Iranian ports and charge other countries a fee for cargo transiting the Strait of Hormuz. Oil prices rose sharply and shipping traffic through the strait fell to a five-week low.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain",
+      "category": "world",
+      "context": "The US and Iran had reached a ceasefire in mid-June after an earlier round of strikes; mediation efforts had reportedly involved Pakistan and Qatar.",
+      "watch_for": "The announced US blockade and transit fee were set to take effect July 14."
+    },
+    {
+      "headline": "EU and UK sanction Russian officials over alleged years-long cyber-espionage campaign",
+      "summary": "The European Union imposed sanctions, including asset freezes and travel bans, on nine Russian individuals and four entities linked to the FSB's so-called 16th Center, which it accused of a cyber-espionage and sabotage campaign against critical infrastructure in at least nine countries since 2010. The United Kingdom separately sanctioned 24 people and entities the same day. Germany summoned Russia's ambassador in response, calling the alleged attacks unacceptable.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/eu-sanctions-nine-people-over-alleged-russian-cyber-spying-campaign",
+      "category": "world",
+      "context": "The sanctions were announced alongside a Paris summit on international support for Ukraine."
+    },
+    {
+      "headline": "Ukraine and European allies announce joint air-defense project after deadly overnight strikes",
+      "summary": "Russia and Ukraine exchanged drone and missile strikes overnight that killed at least nine people combined, including four in Ukraine and five in Russian-controlled or Russian territory, according to Al Jazeera. Ukrainian President Volodymyr Zelenskyy and leaders from roughly 25 countries met in Paris as part of the so-called Coalition of the Willing, where Ukraine and nine European countries announced a joint project, referred to as FREYJA, to build shared ballistic-missile defense for Europe. A Kremlin spokesman dismissed the coalition as a grouping of \"warmongers.\"",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos",
+      "category": "world",
+      "watch_for": "Coalition members are to advance the joint missile-defense project ahead of winter, when Russian strikes on Ukraine's power grid have previously intensified."
+    },
+    {
+      "headline": "UN official accuses Hamas of obstructing Gaza aid distribution; Hamas denies",
+      "summary": "A UN deputy special coordinator, Ramiz Alakbarov, said armed personnel linked to Hamas's administration forcibly entered a World Food Programme distribution site and warehouse in Jabalia, North Gaza, assaulted two truck drivers and halted food distribution, describing it as part of a pattern of intimidation and obstruction. Hamas denied the characterization, saying it was a law-enforcement operation targeting contraband, including cigarettes and phone screens, hidden in aid shipments rather than an action against aid workers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/hamas-denies-un-accusations-over-gaza-aid-distribution-interference",
+      "category": "world"
+    }
+  ]
+}
