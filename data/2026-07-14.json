@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T04:10:42+08:00",
+  "generated_at": "2026-07-14T20:19:07+08:00",
   "stories": [
     {
       "headline": "Health Secretary Herbosa resigns citing recovery from knee surgery",
@@ -98,13 +98,13 @@
       "published_at": "2026-07-13T15:05:00+08:00"
     },
     {
-      "headline": "Tropical depression nearing Philippine area of responsibility as monsoon rains ease",
-      "summary": "PAGASA said a tropical depression, internationally named Haishen, was about 1,205 kilometers east of Eastern Visayas with 55 kph winds and could enter the Philippine area of responsibility as early as the night of July 13 or morning of July 14, when it would be given the local name Josie. Separately, PAGASA said the enhanced southwest monsoon would generally stop affecting the country from July 14, giving way to easterly winds and mostly fair weather, though isolated rain was still expected over parts of Luzon.",
+      "headline": "Tropical Storm Josie enters Philippine area of responsibility, forecast to weaken",
+      "summary": "PAGASA said Tropical Storm Josie, internationally named Haishen, entered the Philippine area of responsibility early on July 14 with maximum sustained winds of about 65 kph as it moved northwestward east of Eastern Visayas. The state weather bureau said the system was forecast to weaken and was less likely to directly affect the country. Separately, PAGASA said the enhanced southwest monsoon would generally stop affecting the country from July 14, giving way to easterly winds and mostly fair weather, with isolated rain still possible over parts of Luzon.",
       "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/weather/content/994701/habagat-to-bring-rain-over-luzon-tuesday-td-haishen-nearing-par/story/",
+      "url": "https://www.gmanetwork.com/news/weather/content/994751/tropical-storm-haishen-enters-par-named-josie-pagasa/story/",
       "category": "weather",
       "published_at": "2026-07-13T17:10:00+08:00",
-      "watch_for": "PAGASA is expected to begin issuing bulletins under the name Josie if the system enters the Philippine area of responsibility."
+      "updated_at": "2026-07-14T20:19:07+08:00"
     },
     {
       "headline": "NLEX holds off Terrafirma comeback to open PBA Governors' Cup 2-0",
@@ -146,6 +146,43 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/13/hamas-denies-un-accusations-over-gaza-aid-distribution-interference",
       "category": "world"
+    },
+    {
+      "headline": "Impeachment court hears NBI testimony on Duterte 'threat' remarks in fifth day of trial",
+      "summary": "The Senate impeachment court held the fifth day of Vice President Sara Duterte's trial on July 14, hearing NBI Bangsamoro regional director Jeremy Lotoc on Article IV, which concerns alleged grave threats against President Ferdinand Marcos Jr., the first lady and former House Speaker Martin Romualdez. Lotoc testified that Duterte betrayed public trust and that her remarks were not protected speech, while her defense argued they were responses to reporters' questions rather than actual threats. Presiding officer Francis Escudero reprimanded both panels for side remarks.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/994839/nbi-official-sara-duterte-betrayed-public-trust-with-death-threats-vs-marcoses-romualdez/story/",
+      "category": "politics",
+      "published_at": "2026-07-14T20:01:00+08:00",
+      "context": "The Senate, sitting as an impeachment court, is trying Duterte on articles transmitted by the House of Representatives; Article IV centers on public remarks in which she said she had arranged for Marcos and others to be killed if she herself were harmed, which she has maintained were not a genuine threat.",
+      "watch_for": "Escudero said the impeachment court would rule on July 15 on a request to subpoena bank and tax records, according to the Inquirer."
+    },
+    {
+      "headline": "Marcos orders 2027 budget to prioritize projects ready for immediate rollout",
+      "summary": "President Ferdinand Marcos Jr. directed that the proposed 2027 National Expenditure Program prioritize funding for projects that are ready for immediate implementation and offer the greatest public benefit, the government said after a Cabinet meeting reviewing the plan. Executive Secretary Ralph Recto said proposed spending should align with national development plans and deliver significant public benefit. Officials have said the administration is preparing a record proposed budget of about 7.2 trillion pesos.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/994799/funding-budget-projects/story/",
+      "category": "politics",
+      "published_at": "2026-07-14T15:37:00+08:00",
+      "context": "The proposed 2027 budget is about 6% higher than the 6.793-trillion-peso national budget for 2026.",
+      "watch_for": "The budget will be submitted to Congress for deliberation after Marcos delivers his State of the Nation Address later in July."
+    },
+    {
+      "headline": "Bangko Sentral issues voluntary AI governance principles for financial firms",
+      "summary": "The Bangko Sentral ng Pilipinas issued governance principles to guide banks and other financial institutions in adopting artificial intelligence, built around a framework it calls STARS: sustainability, transparency, accountability, responsibility and security. The central bank said the principles are voluntary but reflect its minimum supervisory expectations, and apply to institutions and their outsourced providers in proportion to each firm's size and risk. It said financial firms already use AI for fraud detection, anti-money-laundering, credit scoring and customer service.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/994812/bsp-lays-down-rules-on-ai-use-to-guide-banks-financial-institutions/story/",
+      "category": "economy",
+      "published_at": "2026-07-14T16:33:00+08:00"
+    },
+    {
+      "headline": "EU condemns threats against ICC after US moves to dismantle the court",
+      "summary": "The European Union said threats against the International Criminal Court, its officials and those cooperating with it were unacceptable, after US Secretary of State Marco Rubio announced a campaign to dismantle the court, which he described as a threat to US sovereignty. An EU spokesman said attacks or threats against the court's elected officials and personnel could not be accepted. The Trump administration has previously backed sanctions on ICC officials; the court has taken no recent steps to investigate US personnel.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/world/994828/eu-says-threats-against-icc-unacceptable-as-us-targets-court/story/",
+      "category": "world",
+      "published_at": "2026-07-14T18:50:00+08:00",
+      "context": "The ICC, based in The Hague, prosecutes individuals for genocide, war crimes and crimes against humanity; the United States is not a member state."
     }
   ]
 }
