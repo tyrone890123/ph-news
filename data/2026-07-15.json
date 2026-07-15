@@ -1,26 +1,27 @@
 {
   "version": 1,
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T04:15:58+08:00",
+  "generated_at": "2026-07-15T20:20:15+08:00",
   "stories": [
     {
-      "headline": "NBI witness links Rodrigo Duterte's ICC case to threat assessment in VP impeachment trial",
-      "summary": "On day five of Vice President Sara Duterte's impeachment trial, NBI official Jeremy Lotoc testified investigators weighed former President Rodrigo Duterte's ICC case in assessing the vice president's alleged capability to threaten President Marcos, First Lady Liza Araneta-Marcos and former House Speaker Martin Romualdez. Under cross-examination, Lotoc said he had no personal knowledge of an alleged hitman plot but maintained the NBI's findings on grave threats and inciting to sedition. The court is set to rule Wednesday on the prosecution's bid to subpoena Duterte's bank and tax records.",
+      "headline": "Sara Duterte impeachment trial turns to fight over subpoenaing her bank and tax records",
+      "summary": "On the sixth day of Vice President Sara Duterte's impeachment trial, the court heard oral arguments on the prosecution's request to subpoena the bank, AMLC and tax records of Duterte and her husband, Manases Carpio. Earlier, House prosecutor Chel Diokno presented Anti-Money Laundering Council data he said showed her financial transactions exceeded 3 billion pesos while she was a Davao City official, which the prosecution ties to allegations of unexplained wealth. Prosecutors also withdrew most of their grave-threats witnesses, keeping only NBI Director Melvin Matibag.",
       "source": "Philippine Daily Inquirer",
-      "url": "https://newsinfo.inquirer.net/2263822/highlights-day-5-of-sara-duterte-impeachment-trial-july-14-2026",
+      "url": "https://newsinfo.inquirer.net/2264530/vp-dutertes-financial-activity-surged-in-public-office-diokno",
       "category": "politics",
       "published_at": "2026-07-14T23:10:00+08:00",
-      "context": "The threats allegedly occurred during a November 2024 online press briefing; the trial concerns whether Duterte should be removed from office over the allegations.",
-      "watch_for": "The impeachment court is due to rule Wednesday on the subpoena request, and NBI Director Melvin Matibag's testimony has been rescheduled to July 20."
+      "context": "Duterte faces several impeachment articles, including alleged misuse of confidential funds and unexplained wealth, and grave threats against President Marcos, the first lady and former House Speaker Martin Romualdez.",
+      "watch_for": "The impeachment court is set to vote on July 20 on whether to subpoena the financial records, with a simple majority of senator-judges present required. Prosecutors are due to begin presenting confidential-funds witnesses on July 22.",
+      "updated_at": "2026-07-15T20:20:15+08:00"
     },
     {
-      "headline": "UP-PGH doctors declare detained senator fit to appear before anti-graft court",
-      "summary": "Independent doctors from the University of the Philippines-Philippine General Hospital concluded that Senator Rodante Marcoleta, in police hospital custody since his July 6 arrest on plunder charges, is medically fit to be presented to the Sandiganbayan. Police said it is now up to the anti-graft court to decide whether Marcoleta can be transferred from hospital detention to a regular jail facility.",
-      "source": "The Manila Times",
-      "url": "https://www.manilatimes.net/2026/07/15/news/up-doctors-say-marcoleta-fit-to-be-brought-to-court/2384444",
+      "headline": "Detained senator Marcoleta transferred to Quezon City jail after doctors clear him",
+      "summary": "The Sandiganbayan's Third Division ordered Senator Rodante Marcoleta moved from hospital detention to the New Quezon City Jail in Barangay Payatas after doctors at the Philippine General Hospital found he had recovered from pneumonia and was fit for regular detention. He had been held at a police hospital since his July 6 arrest on a plunder charge. The anti-graft court inspected the jail facility before finalizing the transfer.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2264006/sandiganbayan-orders-marcoleta-jail-transfer",
       "category": "politics",
-      "context": "Marcoleta was arrested over an alleged 75-million-peso campaign-fund plunder case and has remained under medical observation at a police hospital for reported back pain, degenerative disc disease and pneumonia.",
-      "watch_for": "The Sandiganbayan is due to decide on his transfer to jail detention."
+      "context": "Marcoleta, a party-list senator, is accused of failing to declare a 75-million-peso campaign donation; he has filed a motion to quash the charge and has not yet been arraigned.",
+      "updated_at": "2026-07-15T20:20:15+08:00"
     },
     {
       "headline": "Philippine stocks slip further as Middle East tensions weigh on markets",
@@ -49,12 +50,12 @@
       "context": "Phivolcs said the quake was an aftershock of the magnitude 7.8 earthquake off Maasim, Sarangani on June 8 and the magnitude 6.5 quake off Balut Island on June 26."
     },
     {
-      "headline": "Tropical Storm Josie weakens to low-pressure area ahead of exiting Philippine waters",
-      "summary": "Tropical Storm Josie entered the Philippine Area of Responsibility around 12:30 a.m. Tuesday, weakened to a tropical depression by 8 a.m. and further degraded into a low-pressure area by 2 p.m., PAGASA said. A PAGASA weather specialist attributed the weakening to high vertical wind shear and said the system was expected to exit the country's area of responsibility by Tuesday evening or early Wednesday and could dissipate within 24 hours.",
-      "source": "Philippine Star",
-      "url": "https://www.philstar.com/headlines/2026/07/15/2542252/josie-weakens-lpa-ahead-par-exit",
+      "headline": "Southwest monsoon brings rains to northern Luzon as no tropical cyclone remains active",
+      "summary": "As of July 15, no tropical cyclone was active within the Philippine Area of Responsibility, PAGASA said, after Tropical Storm Josie earlier weakened into a low-pressure area. The southwest monsoon, or habagat, is bringing isolated rains and thunderstorms over Ilocos Norte, Batanes and the Babuyan Islands, while the rest of the country can expect localized afternoon thunderstorms over the next 24 hours. Light to moderate winds and moderate coastal waters are forecast.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/weather/content/994976/habagat-rains/story/",
       "category": "weather",
-      "watch_for": "PAGASA said the weakened system is less likely to directly affect Philippine weather in the coming days as it exits the area of responsibility."
+      "updated_at": "2026-07-15T20:20:15+08:00"
     },
     {
       "headline": "Monsoon rains and high tides force class suspensions across Luzon provinces",
@@ -81,12 +82,14 @@
       "category": "other"
     },
     {
-      "headline": "US strikes Iran for third consecutive night as Iran hits tankers, Gulf bases",
-      "summary": "US Central Command carried out a third consecutive night of strikes on Iranian military targets, including sites in Bushehr, Chah Bahar, Jask, Konarak, Abu Musa and Bandar Abbas, according to Al Jazeera. Iran's Revolutionary Guard Corps responded with strikes on two UAE-flagged oil tankers in the Strait of Hormuz, killing one Indian crew member and wounding eight others, along with attacks on US military facilities in Bahrain, Kuwait and a Jordanian air base. Oil prices surged more than 9%, with Brent crude nearing $85 a barrel, and shipping traffic through the strait dropped sharply.",
+      "headline": "US resumes naval blockade of Iran and strikes Hormuz targets as Gulf retaliation widens",
+      "summary": "US Central Command launched a fresh seven-hour wave of strikes on Iranian military targets near the Strait of Hormuz early July 15 and reinstated a naval blockade of Iran's ports, less than a month after both sides signed a de-escalation memorandum. Iran's Revolutionary Guard fired drones and missiles at US-linked sites in Bahrain, Kuwait and Jordan, wounding four Kuwaiti naval personnel, Al Jazeera reported. Iran reported more than 30 civilians killed and over 260 injured, and Tehran declared the memorandum void. Brent crude rose to about 86 dollars a barrel.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest",
+      "url": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest",
       "category": "world",
-      "context": "The escalation follows the collapse of a mid-June US-Iran ceasefire understanding; President Trump said the US had reinstated a blockade of Iran's southern ports."
+      "context": "The strikes mark a sharp escalation after a US-Iran de-escalation memorandum signed in June; Iran had attacked commercial tankers in the Strait of Hormuz in the preceding days.",
+      "watch_for": "Iran's Revolutionary Guard has threatened to halt regional energy exports and disrupt shipping through the Strait of Hormuz if the blockade continues.",
+      "updated_at": "2026-07-15T20:20:15+08:00"
     },
     {
       "headline": "Israel and Lebanon resume Rome talks on troop withdrawal from south Lebanon",
@@ -102,6 +105,51 @@
       "summary": "Yemen's Houthi movement said it fired ballistic missiles and drones at Saudi Arabia's Abha International Airport, which the Saudi-led coalition said it intercepted, in retaliation for a strike a day earlier on Sanaa International Airport meant to block a plane carrying a Houthi delegation from Iran. A Houthi spokesperson said the group considers the informal de-escalation in place since 2022 to be over and warned it could disrupt shipping through the Bab al-Mandeb strait if the blockade on Sanaa's airport continues. No casualties were reported from either strike.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack",
+      "category": "world"
+    },
+    {
+      "headline": "ICTSI becomes first Philippine company to reach 2-trillion-peso market value",
+      "summary": "International Container Terminal Services Inc., the port operator led by Enrique Razon Jr., became the first Philippine company to reach a market capitalization of about 2.02 trillion pesos after its shares closed at a record 999 pesos, GMA News reported. The company crossed the 1-trillion-peso mark less than 10 months earlier, in September 2025. ICTSI, which runs 33 terminals in 19 countries, reported first-quarter net income up 21 percent to 314.69 million dollars on revenue up 29 percent to 961.11 million dollars.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/companies/994980/ictsi-razon-philippine-company-market-cap/story/",
+      "category": "economy"
+    },
+    {
+      "headline": "Metro Manila minimum wage to rise by 85 pesos in two stages, labor department says",
+      "summary": "The Department of Labor and Employment said the 85-peso increase in Metro Manila's daily minimum wage under Wage Order No. 27 will take effect in two tranches: 60 pesos on July 25, 2026, and 25 pesos on January 20, 2027. Once fully in place, the minimum wage rises to 780 pesos a day for most workers and 743 pesos for agriculture and small establishments. Labor Secretary Francis Tolentino described it as the largest single daily wage adjustment enacted in Metro Manila.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/14/p85-wage-hike-to-be-rolled-out-in-2-tranches-dole-says",
+      "category": "economy"
+    },
+    {
+      "headline": "Peso rebounds from near-record low after softer US inflation data",
+      "summary": "The peso closed at 61.686 to the US dollar on July 15, strengthening 2.4 centavos from the previous day's near-record low, after softer-than-expected US inflation data eased expectations of another Federal Reserve rate increase, GMA News reported. US consumer prices rose 0.4 percent in June, down from 0.5 percent in May. RCBC chief economist Michael Ricafort said the dollar corrected against major currencies following the data.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/994962/peso-recovers-from-near-record-low-on-softer-us-inflation/story/",
+      "category": "economy"
+    },
+    {
+      "headline": "Magnitude 6.5 earthquake strikes off Davao Occidental; no immediate damage reported",
+      "summary": "A magnitude 6.5 earthquake struck 104 kilometers southwest of Balut Island in Sarangani, Davao Occidental, at 11:49 p.m. on July 14, at a depth of 10 kilometers, the Philippine Institute of Volcanology and Seismology said. The strongest shaking, Intensity V, was felt in Kiamba, Sarangani, with lower intensities recorded across South Cotabato, General Santos City and nearby areas. Phivolcs reported no immediate damage and warned of possible aftershocks; no tsunami warning was issued.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/15/magnitude-65-offshore-earthquake-jolts-davao-occidental-phivolcs",
+      "category": "regions",
+      "published_at": "2026-07-15T00:12:00+08:00",
+      "context": "The waters off southern Davao Occidental and Sarangani have seen repeated offshore earthquakes since a magnitude 7.8 quake near Sarangani on June 8."
+    },
+    {
+      "headline": "China's second-quarter GDP growth slows to 4.3 percent, weakest in over three years",
+      "summary": "China's economy grew 4.3 percent year-on-year in the second quarter, its slowest pace in more than three years, as weak domestic consumption weighed on activity, according to figures reported by Nikkei Asia. Industrial production rose 5.4 percent in the first half, led by robotics and semiconductors, and Nikkei said US trade tensions and Middle East turmoil had so far proved less damaging than feared.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/china-s-gdp-growth-rate-of-4.3-marks-slowest-pace-in-over-three-years",
+      "category": "world",
+      "published_at": "2026-07-15T10:03:00+08:00"
+    },
+    {
+      "headline": "Russian strikes on Odesa kill three as Ukraine reports hitting Russian ships in Black Sea",
+      "summary": "A Russian drone and missile attack on the southern port city of Odesa killed at least three people and wounded three others, Ukrainian officials said, in what they described as a fifth straight day of strikes on port infrastructure. Ukraine's drone force commander said its forces had struck 17 Russian oil tankers, two gas tankers and a tugboat, claims Al Jazeera said could not be independently verified. Russia's Foreign Minister Sergey Lavrov called Ukraine's attacks on shipping terrorism.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea",
       "category": "world"
     }
   ]
