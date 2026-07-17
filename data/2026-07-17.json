@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-07-17",
-  "generated_at": "2026-07-17T04:13:45+08:00",
+  "generated_at": "2026-07-17T20:15:50+08:00",
   "stories": [
     {
       "headline": "Supreme Court dismisses contempt petitions against critics of Duterte impeachment ruling",
@@ -22,12 +22,13 @@
     },
     {
       "headline": "Marcos expands cash aid to 7.5 million households amid Middle East-driven oil price hikes",
-      "summary": "President Marcos announced an expanded Uplift Assistance cash aid program covering 7.5 million low-income households, or roughly 37.5 million Filipinos, through the Department of Social Welfare and Development, citing the impact of rising oil prices linked to the Middle East conflict. The package includes a one-time payout of up to P2,000 for 3.5 million 4Ps and Walang Gutom Program beneficiaries, plus monthly P2,000 aid from July to December for 2.5 million poor and near-poor households and 1.5 million low-income workers.",
+      "summary": "President Marcos expanded the Uplift Assistance cash aid program to cover 7.5 million low-income households, or about 37.5 million Filipinos, through the Department of Social Welfare and Development, citing rising oil prices linked to the Middle East conflict. DSWD said on July 17 that beneficiaries include tax-paying 'near-poor' earners just above the poverty line, not only the poorest. The package gives a one-time P2,000 to 3.5 million 4Ps and Walang Gutom members, and monthly P2,000 from July to December to 2.5 million poor and near-poor households and 1.5 million low-income workers.",
       "source": "Philippine Daily Inquirer",
       "url": "https://newsinfo.inquirer.net/2264768/marcos-new-cash-aid-for-7-5m-poor-households-amid-oil-price-hike",
       "category": "economy",
       "published_at": "2026-07-16T10:36:00+08:00",
-      "context": "The aid is a second wave under Executive Order No. 110's one-year national energy emergency declaration. The war between the US and Israel against Iran has driven up global oil prices and disrupted shipping through the Strait of Hormuz."
+      "context": "The aid is a second wave under Executive Order No. 110's one-year national energy emergency declaration. The war between the US and Israel against Iran has driven up global oil prices and disrupted shipping through the Strait of Hormuz. DSWD Secretary Rex Gatchalian said the third beneficiary group covers Social Security System members earning up to P20,000 a month, and that selection used the Community-Based Monitoring System without political interference.",
+      "updated_at": "2026-07-17T20:15:50+08:00"
     },
     {
       "headline": "DepEd holds first active shooter drill at Manila Science High School",
@@ -72,12 +73,13 @@
       "watch_for": "Alas Pilipinas is scheduled to face Indonesia next in Pool A action on July 17."
     },
     {
-      "headline": "US and Iran trade strikes for sixth straight day over Strait of Hormuz",
-      "summary": "The United States carried out a sixth consecutive night of strikes against Iran, with Iranian state media reporting explosions in Bandar Abbas and Ahvaz, as the two sides continued exchanging fire over control of the Strait of Hormuz, Al Jazeera reported. Iran's military warned that regional infrastructure would be 'crushed' if the US struck civilian sites, while air-raid sirens sounded in Bahrain and Kuwait amid the exchanges.",
+      "headline": "US and Iran press strikes into a seventh day as Gulf states come under fire",
+      "summary": "The United States completed a sixth consecutive night of strikes on southern Iran early on July 17, with Iranian media reporting hits on bridges, a railway station and other infrastructure in Hormozgan province, killing at least eight people and cutting power near Bandar Abbas, Al Jazeera reported. Iran's Revolutionary Guard said it launched a 13th wave of retaliatory strikes on US bases across the Gulf; Qatar reported a child hurt by falling shrapnel in Doha and sirens sounded in Bahrain, while Jordan said it intercepted three missiles.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker",
+      "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest",
       "category": "world",
-      "context": "The conflict, which began in late February when the US and Israel launched strikes on Iran, has repeatedly disrupted shipping through the Strait of Hormuz, a waterway that normally carries about a fifth of the world's oil and gas supply, driving up global fuel prices."
+      "context": "The conflict, which began in late February when the US and Israel launched strikes on Iran, has repeatedly disrupted shipping through the Strait of Hormuz, a waterway that normally carries about a fifth of the world's oil and gas supply. A June 17 US-Iran memorandum of understanding briefly paused the fighting before collapsing over disputes on how traffic through the strait should be managed.",
+      "updated_at": "2026-07-17T20:15:50+08:00"
     },
     {
       "headline": "44 Japanese firms launch sovereign AI project with Nvidia chip order",
@@ -87,6 +89,50 @@
       "category": "world",
       "published_at": "2026-07-17T01:09:00+09:00",
       "context": "The project is described as part of Japan's strategic push to protect its manufacturing competitiveness as the United States and China advance their own artificial intelligence capabilities."
+    },
+    {
+      "headline": "Marcos promotes Philippines as digital investment hub after Singapore visit",
+      "summary": "President Marcos returned from a working visit to Singapore, where he pitched the Philippines as a destination for technology-driven investment at a Milken Institute roundtable and a meeting with Prime Minister Lawrence Wong, Manila Bulletin reported. Malacanang said firms including Singtel and ABC Impact reaffirmed plans to expand in telecommunications, data centers, digital infrastructure, AI and healthcare, and that Marcos cited the Luzon Economic Corridor, the PPP Code and Green Lanes for Strategic Investments as reforms to attract investors.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/17/marcos-touts-philippines-as-southeast-asias-next-digital-investment-hub",
+      "category": "economy",
+      "published_at": "2026-07-17T07:48:00+08:00"
+    },
+    {
+      "headline": "Philippines files diplomatic protest over China Daily depictions of Filipinos",
+      "summary": "The Department of Foreign Affairs said it lodged a formal diplomatic protest against Chinese state outlet China Daily over content it called demeaning and racist toward Filipinos, tied to the 10th anniversary of the 2016 South China Sea arbitral ruling. DFA Undersecretary Leo Herrera-Lim raised the issue with Chinese Ambassador Jing Quan on July 16, and the Philippine Embassy in Beijing wrote to the outlet's editor over an AI-generated video. National Security Adviser Eduardo Ano's office called the material a bid to discredit the ruling.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/995198/ph-issues-diplomatic-protest-over-china-daily-racist-videos-cartoons/story/",
+      "category": "politics",
+      "published_at": "2026-07-17T14:28:00+08:00",
+      "context": "The 2016 ruling by an arbitral tribunal in The Hague invalidated most of China's expansive maritime claims in the South China Sea; Beijing has rejected the decision. The protest comes ahead of Chinese Foreign Minister Wang Yi's expected visit to Manila for ASEAN meetings."
+    },
+    {
+      "headline": "Ombudsman reopens 2019 SEA Games sports facilities case",
+      "summary": "Ombudsman Jesus Crispin Remulla said he ordered a review of a dismissed case over alleged irregularities in the construction of sports facilities for the 2019 Southeast Asian Games, telling reporters his office is retrieving files to examine possible legal violations. The original complaint was dismissed in 2021 for insufficient evidence; Remulla said reopening it poses no double jeopardy issue because no charges were filed. The National Bureau of Investigation has separately said it will look into alleged anomalies in the projects.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/995225/ombudsman-remulla-orders-review-of-dismissed-2019-sea-games-sports-facilities-case/story/",
+      "category": "politics",
+      "published_at": "2026-07-17T18:04:00+08:00",
+      "context": "Public Works Secretary Vince Dizon was a subject of the original case in his former role heading the Bases Conversion and Development Authority, which oversaw New Clark City construction. Senator Alan Peter Cayetano, who chaired the 2019 SEA Games organizing committee, has said the NBI director tried to intimidate him ahead of a Senate appearance."
+    },
+    {
+      "headline": "Oil firms expected to impose large pump price increases on July 21",
+      "summary": "Local oil companies are expected to raise pump prices sharply next week, with an industry source cited by GMA News estimating diesel could rise by P9.50 to P10.50 per liter and gasoline by P3.50 to P4.50 per liter effective July 21. The source attributed the increases to a higher geopolitical risk premium after Iranian attacks on ships in the Strait of Hormuz and US retaliatory strikes, reduced vessel traffic through the waterway, and lower Russian diesel exports. Final adjustments depend on end-of-week market averages.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/995172/diesel-price-hike-of-up-to-p10-50-l-gasoline-p4-50-l-seen-next-week/story/",
+      "category": "economy",
+      "published_at": "2026-07-17T09:10:00+08:00",
+      "watch_for": "Oil companies typically announce final price adjustments on Monday for implementation on Tuesday, July 21."
+    },
+    {
+      "headline": "Metro Manila police monitoring four groups seeking protest permits for Marcos SONA",
+      "summary": "The National Capital Region Police Office said four groups have sought permits from Quezon City to hold protests during President Marcos's fifth State of the Nation Address on July 27, spokesperson Maj. Hazel Asilo said, adding that rally locations and expected turnout are still being finalized. The Philippine National Police plans to deploy more than 20,000 personnel and is still determining road closures around the Batasang Pambansa complex and along major Quezon City thoroughfares.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2265609/ncrpo-4-groups-plan-protests-during-marcos-5th-sona",
+      "category": "politics",
+      "published_at": "2026-07-17T17:00:00+08:00",
+      "watch_for": "Marcos delivers his State of the Nation Address at the House of Representatives on July 27, with rally permits and road closures to be finalized before then."
     }
   ]
 }
