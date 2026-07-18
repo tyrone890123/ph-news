@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T04:13:49+08:00",
+  "stories": [
+    {
+      "headline": "Grenade attack wounds five near Army convoy in Maguindanao del Sur",
+      "summary": "Two unidentified men on a motorcycle threw a grenade at a passing Army convoy in Shariff Aguak, Maguindanao del Sur, wounding two soldiers and three civilians, military officials said. No group has claimed responsibility, and authorities increased patrols while pursuing the suspects.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2266026/grenade-attack-jolts-army-convoy-in-maguindanao-del-sur",
+      "category": "regions",
+      "published_at": "2026-07-19T01:42:00+08:00",
+      "context": "The attack occurred during an election-related gun ban in the Bangsamoro region ahead of BARMM's first parliamentary elections, scheduled for September 14."
+    },
+    {
+      "headline": "Palace, Sen. Lacson dispute Cayetano's claims on rejected pandemic aid plan and Lacson's wealth",
+      "summary": "Sen. Alan Peter Cayetano said in a livestream that President Marcos had rejected his 2021-2022 proposal to give P10,000 in aid to families hit by the pandemic, and separately claimed Sen. Panfilo Lacson's net worth had doubled through business dealings. Palace press officer Claire Castro called the aid claim false, while Lacson said his declared net worth actually grew more than fourfold between 2022 and 2025, which he attributed to real estate and business income.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2265936/palace-slams-cayetano-over-rejected-p10000-ayuda-proposal-claim",
+      "category": "politics",
+      "published_at": "2026-07-18T18:27:00+08:00",
+      "context": "The exchange occurred amid friction between Cayetano and the Senate's new majority, whose Blue Ribbon Committee hearings have themselves scrutinized Cayetano over an alleged P6.79-billion budget insertion."
+    },
+    {
+      "headline": "PNP reports 20.6% drop in major crimes under three-month anti-crime drive",
+      "summary": "The Philippine National Police said nationwide focus-crime incidents fell 20.6%, from 9,506 cases in the three months before the Department of the Interior and Local Government's Safer Cities Initiative to 7,883 cases in the three months after its April 6 launch. PNP spokesperson Col. Allen Rae Co attributed the decline to increased police visibility and stricter enforcement of local ordinances such as curfews and bans on public drinking.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2265547/pnp-reports-lower-crime-rate-after-3-months-of-safer-cities-initiative",
+      "category": "politics",
+      "published_at": "2026-07-17T15:00:00+08:00"
+    },
+    {
+      "headline": "DFA says 81 more Filipino seafarers evacuated from Strait of Hormuz conflict zone",
+      "summary": "The Department of Foreign Affairs said 81 Filipino seafarers aboard four Philippine-registered vessels safely exited the Strait of Hormuz conflict zone between June 24 and July 1, bringing the total evacuated to roughly 2,900 seafarers across 136 vessels. The DFA said evacuations had paused after a brief Iran-US ceasefire lapsed, and some Filipino seafarers remain stranded in the region amid renewed hostilities.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/pinoyabroad/dispatch/995339/filipino-seafarers-strait-hormuz/story/",
+      "category": "politics",
+      "published_at": "2026-07-18T23:05:00+08:00",
+      "context": "The evacuations are part of the Philippine government's response to the Strait of Hormuz crisis triggered by the US-Iran conflict, which the Department of Migrant Workers says has left thousands of Filipino seafarers stranded on ships in the Persian Gulf."
+    },
+    {
+      "headline": "Phivolcs logs two aftershocks off Balut Island, Sarangani",
+      "summary": "The Philippine Institute of Volcanology and Seismology recorded two earthquakes, magnitude 5.5 and 5.6, off Balut Island, Sarangani early Saturday, classifying both as aftershocks of the earlier magnitude-7.8 quake off Sarangani and magnitude-6.5 quake off Davao Occidental. The stronger tremor registered Intensity IV in General Santos City, and no damage was reported.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2265916/phivolcs-records-2-quakes-off-balut-island-in-sarangani-early-saturday",
+      "category": "regions",
+      "published_at": "2026-07-18T16:39:00+08:00"
+    },
+    {
+      "headline": "PAGASA: Southwest monsoon to bring rain over western Luzon, isolated storms elsewhere",
+      "summary": "PAGASA said the southwest monsoon was affecting the western sections of northern and central Luzon, bringing cloudy skies with scattered rains and thunderstorms to the Ilocos region, Zambales and Bataan, with a risk of flash floods or landslides in those areas. The rest of the country, including Metro Manila, can expect isolated rain from localized thunderstorms, and the agency said no tropical cyclone was affecting the Philippines.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather"
+    },
+    {
+      "headline": "Alex Eala to partner Venus Williams again at Washington DC Open",
+      "summary": "Tournament organizers announced that Filipino tennis player Alex Eala will pair with seven-time Grand Slam champion Venus Williams in the women's doubles draw of the Washington DC Open, marking their second partnership after reaching the quarterfinals together at the Bad Homburg Open earlier this year.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/sports/othersports/995292/alex-eala-venus-williams-reunite-for-washington-dc-open-doubles/story/",
+      "category": "sports",
+      "published_at": "2026-07-18T11:52:00+08:00",
+      "watch_for": "The Washington DC Open doubles competition is scheduled to begin July 27, 2026."
+    },
+    {
+      "headline": "Peso seen staying weak near record lows on oil prices, dollar demand",
+      "summary": "Fitch Solutions unit BMI said the peso, trading near a record low of about 61.61 per dollar, is likely to stay under pressure in the coming months due to elevated oil prices linked to Middle East tensions, firm dollar demand and seasonally higher imports. BMI said it still expects the peso to strengthen modestly toward 61 per dollar by year-end as remittances rise and oil prices ease.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/business/2026/07/18/2542825/peso-stay-under-pressure",
+      "category": "economy",
+      "context": "BMI said it expects the Bangko Sentral ng Pilipinas to raise its policy rate by a further 25 to 50 basis points by the end of 2026, from the current 4.75% to between 5% and 5.25%."
+    },
+    {
+      "headline": "Combined InstaPay, PESONet transfers top P16 trillion in first half of 2026",
+      "summary": "Bangko Sentral ng Pilipinas data showed combined InstaPay and PESONet transaction values rose 44.6% year-on-year to about P16.09 trillion in the first half of 2026, with transaction volumes up 166.5%, as banks began waiving transfer fees under a new BSP circular. Central bank officials and analysts said the growth reflects accelerating adoption of digital payments nationwide.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/07/17/764150/instapay-pesonet-transfers-surpass-p16t/",
+      "category": "economy",
+      "published_at": "2026-07-17T00:35:06+08:00",
+      "context": "BSP Circular No. 1238, effective July 4, required fair, market-based pricing for retail digital transfers; as of July 15, eleven universal and commercial banks offered free InstaPay and PESONet transfers."
+    },
+    {
+      "headline": "Maybank projects OFW remittances will keep growing in 2026 despite Middle East war risk",
+      "summary": "Maybank Investment Bank economists said they expect cash remittances from overseas Filipino workers to grow 2.8% to $36.5 billion in 2026, slightly above the central bank's 2.7% projection, citing stable overseas employment and diversified remittance sources. They cautioned that the prolonged Middle East conflict could still cause month-to-month volatility, after central bank data showed remittance growth slowed to a four-year low of 2% in May.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/07/17/764152/ofw-remittances-to-stay-resilient-despite-global-uncertainty-maybank/",
+      "category": "economy",
+      "published_at": "2026-07-17T00:40:10+08:00"
+    },
+    {
+      "headline": "Israeli strikes on Gaza kill at least eight at funeral procession",
+      "summary": "Israeli strikes across Gaza killed at least 14 Palestinians on July 17, including at least eight people at a funeral procession in Nuseirat for someone killed in an earlier strike, hospital officials said. Israel's military said it had targeted an Islamic Jihad cell and acknowledged reports that uninvolved people were harmed, while Hamas called the strike a massacre of mourners.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral",
+      "category": "world",
+      "context": "The strike occurred against the backdrop of a nominal Gaza ceasefire that has been in place since October 2025, under which Israeli strikes have continued."
+    },
+    {
+      "headline": "China rejects Trump's claim that Beijing interfered in 2020 US election",
+      "summary": "China's government dismissed as fabricated and groundless a claim by US President Trump that Beijing stole 220 million American voter files and interfered in the 2020 election. A declassified 2021 US intelligence assessment had previously concluded China considered but did not carry out an operation to influence the election's outcome.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/did-china-steal-2020-us-election-data-as-trump-claims",
+      "category": "world"
+    },
+    {
+      "headline": "China's share of global wind turbine installations nears 80%",
+      "summary": "Chinese manufacturers accounted for 79% of wind turbines installed worldwide last year, up 6 percentage points from the prior year, Nikkei Asia reported, citing industry data. The report attributed the increase to rising demand for Chinese-made turbines across China, Africa and Southeast Asia.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/china-s-share-of-global-wind-turbine-market-reaches-nearly-80",
+      "category": "world",
+      "published_at": "2026-07-19T02:23:00+09:00"
+    },
+    {
+      "headline": "Iran's threats to Gulf undersea cables expose global data infrastructure risk, report says",
+      "summary": "Nikkei Asia reported that Iran has hinted it could damage or interfere with undersea data cables in the Persian Gulf amid its war with the United States, a region through which about 30% of global internet traffic passes. Roughly 500 undersea cables worldwide carry about 99% of international data traffic, making the Gulf a critical point of vulnerability, the report said.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
+      "category": "world",
+      "published_at": "2026-07-18T01:30:00+09:00",
+      "context": "The threat comes amid an ongoing US-Iran conflict that began in late February 2026 and has repeatedly disrupted shipping through the Strait of Hormuz."
+    }
+  ]
+}
