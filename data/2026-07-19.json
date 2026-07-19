@@ -1,7 +1,7 @@
 {
   "version": 1,
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T04:13:49+08:00",
+  "generated_at": "2026-07-19T20:15:59+08:00",
   "stories": [
     {
       "headline": "Grenade attack wounds five near Army convoy in Maguindanao del Sur",
@@ -118,6 +118,42 @@
       "category": "world",
       "published_at": "2026-07-18T01:30:00+09:00",
       "context": "The threat comes amid an ongoing US-Iran conflict that began in late February 2026 and has repeatedly disrupted shipping through the Strait of Hormuz."
+    },
+    {
+      "headline": "Manila to host ASEAN foreign ministers' meetings, with Rubio and Wang Yi among expected attendees",
+      "summary": "The Department of Foreign Affairs said US Secretary of State Marco Rubio and Chinese Foreign Minister Wang Yi are among the foreign ministers expected in Metro Manila for a series of ASEAN ministerial meetings that the Philippines is hosting as this year's ASEAN chair. The DFA said counterparts from Russia, Australia, India, Japan, South Korea, the European Union and other partners are also expected to take part.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/995106/us-china-foreign-ministers-to-attend-asean-meetings-in-ph-next-week/story/",
+      "category": "politics",
+      "published_at": "2026-07-16T17:22:00+08:00",
+      "context": "The Philippines holds the 2026 ASEAN chairship. The engagements run alongside events marking the 50th anniversary of the Treaty of Amity and Cooperation in Southeast Asia.",
+      "watch_for": "The 59th ASEAN Foreign Ministers' Meeting is scheduled for July 21, with the ASEAN Regional Forum and East Asia Summit foreign ministers' meetings set for July 23."
+    },
+    {
+      "headline": "Senate impeachment court to rule July 20 on subpoena for Duterte's bank and tax records",
+      "summary": "The Senate impeachment court is set to decide on July 20 whether to subpoena Vice President Sara Duterte's bank records, tax returns and Anti-Money Laundering Council documents, which prosecutors say are needed to support allegations that she illegally amassed wealth. Duterte's defense has argued that compelling the records would violate her constitutional rights and bank secrecy laws, calling the request a fishing expedition.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2264615/highlights-day-6-of-sara-duterte-impeachment-trial-july-15-2026",
+      "category": "politics",
+      "published_at": "2026-07-15T22:39:00+08:00",
+      "context": "Duterte's impeachment trial, on charges including betrayal of public trust, graft, unexplained wealth and alleged threats against President Marcos, opened on July 6 in the Senate sitting as an impeachment court.",
+      "watch_for": "Senator-judges are scheduled to vote on the subpoena request on July 20. NBI official Melvin Matibag is set to testify on the grave-threats article on July 21."
+    },
+    {
+      "headline": "Baguio's Gwendoline Soriano, Tarlac's Sasha-Juli Lacuna win Binibining Pilipinas 2026 titles",
+      "summary": "Gwendoline Meliz Soriano of Baguio City was crowned Binibining Pilipinas International 2026 and Sasha-Juli Belle Lacuna of Tarlac won the Binibining Pilipinas Globe title at the pageant's coronation night at the Smart Araneta Coliseum on July 18. Soriano will represent the Philippines at the Miss International pageant, while Lacuna advances to The Miss Globe competition. Julianne Raine Antonio and Tracy Mae Sunio finished as first and second runners-up.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/lifestyle/content/995327/gwendoline-meliz-soriano-of-baguio-city-is-binibining-pilipinas-2026-international/story/",
+      "category": "other",
+      "published_at": "2026-07-19T00:21:00+08:00"
+    },
+    {
+      "headline": "Iran says 50 killed in US strikes this month as both sides declare truce suspended",
+      "summary": "Al Jazeera reported that Iran said at least 50 people had been killed and more than 500 injured in US strikes since early July as fighting over the Strait of Hormuz intensified. Iran's deputy foreign minister said Tehran had suspended its commitments under a preliminary agreement reached last month and accused Washington of doing the same, while Iran launched drone and missile attacks on Gulf states including Kuwait and Bahrain. Iran said recent US strikes hit sites near the port of Bandar Abbas and on Qeshm Island.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies",
+      "category": "world",
+      "context": "The conflict centers on the Strait of Hormuz, through which about a fifth of the world's oil passes; a June 25 drone attack on a cargo ship there broke a short-lived ceasefire between the two countries."
     }
   ]
 }
