@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T04:17:46+08:00",
+  "stories": [
+    {
+      "headline": "PNP finalizes deployment of over 20,000 personnel for Marcos' fifth SONA",
+      "summary": "The Philippine National Police said it is in final rehearsals to deploy more than 20,000 personnel, backed by the military and coast guard, to secure President Marcos' State of the Nation Address at the Batasang Pambansa on July 27. PNP chief Gen. Jose Melencio Nartatez Jr. said officers have been reminded to exercise maximum restraint toward demonstrators, and coordination with local governments on traffic management is ongoing.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2266167/pnp-final-readiness-checks-underway-for-marcos-fifth-sona",
+      "category": "politics",
+      "published_at": "2026-07-19T10:32:00+08:00",
+      "watch_for": "SONA scheduled for July 27 at the Batasang Pambansa; detailed road-closure advisories expected closer to the date."
+    },
+    {
+      "headline": "Defense chief rejects China's denial of responsibility for video depicting Filipinos as monkeys",
+      "summary": "After Chinese foreign ministry spokesperson Lin Jian said an AI-generated China Daily video depicting Filipinos as monkeys was not an act of the Chinese government, Philippine Defense Secretary Gilberto Teodoro Jr. said that claim was implausible, arguing nothing is published by China Daily without government approval. Beijing separately reiterated it rejects the 2016 South China Sea arbitration ruling favoring the Philippines.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://www.inquirer.net/481170/racist-video-beijing-keeps-distance-gibo-teodoro-unswayed/",
+      "category": "politics",
+      "published_at": "2026-07-19T05:55:00+08:00",
+      "context": "The video was posted by state-run China Daily on July 10, days before the 10th anniversary of the 2016 arbitral ruling. The Department of Foreign Affairs has lodged a formal diplomatic protest demanding its removal, and several senators have separately condemned it."
+    },
+    {
+      "headline": "Caloocan police form task force to probe political-motive angle in vlogger's killing",
+      "summary": "The Northern Police District formed a special investigation task group to examine the fatal shooting of Alicia Lipata, a pro-administration content creator known for criticizing Vice President Sara Duterte and her allies, who was shot by motorcycle-riding gunmen outside her Caloocan home on July 17. Police said they are specifically examining whether her online commentary was connected to the killing, an angle they had not confirmed when the shooting was first reported.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/metro/995346/explainer-who-was-slain-vlogger-mima-alicia/story/",
+      "category": "metro",
+      "published_at": "2026-07-19T00:34:00+08:00",
+      "context": "The killing has drawn national attention amid heightened political polarization surrounding the ongoing Senate impeachment trial of Vice President Duterte."
+    },
+    {
+      "headline": "Government says free rice program has reached 7 million Filipino families",
+      "summary": "Executive Secretary Ralph Recto said the administration's \"Bawat Bayan Makikinabang\" program has delivered monthly 10-kilogram rice sacks to 7 million families nationwide, citing a recent distribution to 55,000 families in Oriental Mindoro. The 2026 national budget allocates roughly 18.75 billion pesos from the Local Government Support Fund to the program's rice component.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2266225/recto-marcos-govts-free-rice-program-benefits-7-million-families",
+      "category": "economy",
+      "published_at": "2026-07-19T11:58:00+08:00"
+    },
+    {
+      "headline": "PAGASA: No cyclone in PAR, but southwest monsoon to keep bringing rain to western Luzon",
+      "summary": "PAGASA said no tropical cyclone is active in the Philippine Area of Responsibility, but the southwest monsoon is bringing scattered rain and thunderstorms to western Luzon, with a risk of flash floods and landslides in areas of heavier rainfall. The agency had earlier issued a thunderstorm advisory for Metro Manila and nearby provinces, warning of moderate to heavy rain, lightning and strong winds.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-07-19T16:00:00+08:00"
+    },
+    {
+      "headline": "Phoenix Fuel Masters hold off Ginebra rally, stay undefeated in PBA Governors' Cup",
+      "summary": "The Phoenix Fuel Masters withstood a fourth-quarter rally to beat Barangay Ginebra 81-78 at Smart Araneta Coliseum, improving to 3-0 in the PBA Season 50 Governors' Cup. Import BJ Johnson led Phoenix with 23 points and 11 rebounds, while Ginebra import Riley Grigsby scored 42 points in defeat as the team played without Scottie Thompson and Justin Brownlee.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/19/phoenix-spoils-ginebra-debut-takes-3rd-win",
+      "category": "sports",
+      "published_at": "2026-07-19T22:13:00+08:00",
+      "watch_for": "Phoenix continues its unbeaten Governors' Cup run in its next game."
+    },
+    {
+      "headline": "Philippine women's softball team routs host Peru, finishes fifth at World Cup group stage",
+      "summary": "The Philippine women's national softball team beat host Peru 13-0 in four innings at the WBSC Women's Softball World Cup in Lima, with Charlotte Sales going 3-for-3 with a home run and four RBIs. The team finished the group stage with a 2-3 record, narrowly missing the playoffs on a tiebreaker after also upsetting world No. 3 Puerto Rico earlier in the tournament.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/19/blu-girls-clobber-peru-anew-finish-fifth-in-softball-world-cup-group-stage",
+      "category": "sports",
+      "published_at": "2026-07-19T13:09:00+08:00",
+      "watch_for": "The team is set to compete at the 2026 Asian Games in Japan this September."
+    },
+    {
+      "headline": "Defending champion Letran swept by Australian club in collegiate volleyball invitational opener",
+      "summary": "Australia's Southern Storm Melbourne swept NCAA defending champion Letran 26-24, 25-21, 25-19 in the opening match of the Shakey's Collegiate National Invitationals at Ninoy Aquino Stadium, overcoming deficits in every set as Letran committed 29 errors. Australian player Sammy Pila led all scorers with 12 points.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/07/19/aussies-storm-past-letran-in-ssl-opener",
+      "category": "sports",
+      "published_at": "2026-07-19T16:04:00+08:00",
+      "watch_for": "Both teams play their next SSL matches on July 20, with Letran facing Vietnam's Ho Chi Minh City Volleyball Club."
+    },
+    {
+      "headline": "Russia fires one of war's largest ballistic missile barrages at Kyiv, killing at least one",
+      "summary": "Russia launched about 41 missiles and 125 drones at Ukraine overnight, mostly targeting Kyiv, in one of the largest ballistic missile attacks on the capital since the war began. Ukrainian officials said at least one person was killed and 16 wounded, with fires reported across several districts damaging homes, a dormitory and a supermarket; Kyiv's military said it intercepted 18 of the 41 missiles.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war",
+      "category": "world",
+      "published_at": "2026-07-19T00:00:00+08:00",
+      "context": "The attack comes amid a Ukrainian shortage of Patriot interceptor missiles, its primary defense against ballistic weapons.",
+      "watch_for": "President Zelenskiy has called for accelerated delivery of Patriot interceptors from Western partners."
+    },
+    {
+      "headline": "Iran strikes Kuwait and Bahrain as US-Iran conflict spreads further into the Gulf",
+      "summary": "The United States carried out another night of strikes on Iran, which it said targeted military command centers and air defenses, while Iran responded by firing drones and missiles at Kuwait and Bahrain, starting a fire at a Kuwaiti power and desalination plant and damaging a residential building near Bahrain's airport. Iran also said it had stopped two ships in the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies",
+      "category": "world",
+      "published_at": "2026-07-19T00:00:00+08:00",
+      "context": "The strikes are part of the US-Israel conflict with Iran that resumed after an earlier ceasefire broke down.",
+      "watch_for": "Iran has said it may halt ceasefire talks entirely if strikes on its territory continue."
+    },
+    {
+      "headline": "Venezuela earthquake death toll rises past 5,100 as IMF releases emergency funds",
+      "summary": "Venezuela's National Assembly said confirmed deaths from the June 24 twin earthquakes rose to 5,119, with about 16,740 injured and roughly 20,000 people still displaced. The International Monetary Fund released 346 million dollars in emergency financing from Venezuela's reserve tranche to help fund the humanitarian response.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid",
+      "category": "world",
+      "published_at": "2026-07-18T00:00:00+08:00",
+      "context": "The magnitude 7.2 and 7.5 quakes are the strongest to hit Venezuela since 1900, and recovery efforts have reportedly been slowed by delayed military deployment and equipment shortages."
+    },
+    {
+      "headline": "Guyana ferry capsizes with 116 aboard, dozens still missing",
+      "summary": "The ferry MV Barima capsized off Guyana's coast late Saturday while sailing from Georgetown to Port Kaituma, after issuing a distress call around 11 p.m. local time. As of Sunday, 53 people including 15 children had been rescued while dozens remained missing, according to Guyanese officials; the cause of the capsizing is not yet known.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/guyana-ferry-with-116-people-aboard-capsizes",
+      "category": "world",
+      "published_at": "2026-07-19T00:00:00+08:00",
+      "watch_for": "Guyana's coast guard and private vessels are continuing search and rescue operations."
+    },
+    {
+      "headline": "Taiwan's Lai urges his party to resist Beijing's 'red terror' amid rising cross-strait tension",
+      "summary": "Taiwanese President Lai Ching-te told his Democratic Progressive Party's annual congress that Taiwan must protect its democracy against pressure from Beijing, describing Chinese coercion as \"red terror\" and warning against Taiwan becoming subordinate to China. He pointed to China's new ethnic unity law, which he said could give Beijing a legal basis to act against Taiwanese it views as separatists.",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-lai-urges-dpp-to-resist-china-s-red-terror",
+      "category": "world",
+      "published_at": "2026-07-19T17:08:00+09:00",
+      "context": "The remarks follow Papua New Guinea's recent closure of Taiwan's economic representative office, a move Beijing welcomed and the United States called deeply concerning."
+    }
+  ]
+}
