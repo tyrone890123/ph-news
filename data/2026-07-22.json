@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T07:10:20+08:00",
+  "stories": [
+    {
+      "headline": "Marcos summons Chinese ambassador after Ayungin confrontation",
+      "summary": "President Ferdinand Marcos Jr. summoned Chinese Ambassador Jing Quan after a confrontation near Ayungin Shoal injured Philippine Navy personnel, the Palace said. The Philippine military accused Chinese coast guard personnel of striking a sailor with a baton; Beijing denied responsibility and accused Manila of misrepresenting the incident.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/995642/marcos-summons-chinese-ambassador-over-ayungin-shoal-national-security-concerns/story/",
+      "category": "politics",
+      "published_at": "2026-07-21T18:51:00+08:00",
+      "watch_for": "Foreign Affairs Secretary Ma. Theresa Lazaro and Chinese Foreign Minister Wang Yi are due to meet on the sidelines of the ASEAN foreign ministers' meetings in Manila this week."
+    },
+    {
+      "headline": "Angat Dam falls to record-low 152.2 meters",
+      "summary": "PAGASA said Angat Dam's water level fell to 152.20 meters on July 21, the lowest in its records and well below the 180-meter normal operating level. The weather bureau said sustained rainfall is needed to replenish the reservoir, while the local government of San Jose del Monte prepared wells and repaired leaking pipelines.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/scitech/science/995690/angat-dam-hits-all-time-low-water-level-of-152-2m-could-go-lower-pagasa/story/?just_in=",
+      "category": "weather",
+      "published_at": "2026-07-22T01:01:00+08:00"
+    },
+    {
+      "headline": "NBI chief testifies on alleged threats in Duterte impeachment trial",
+      "summary": "NBI Director Melvin Matibag testified during the eighth day of Vice President Sara Duterte's impeachment trial about alleged threats against President Marcos and his family. Duterte's defense challenged parts of his account as hearsay and questioned possible bias; Matibag said his duties were separate from his wife's role as a House member who endorsed the impeachment resolution.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/995691/sara-duterte-impeachment-trial-day-8-matibag-stands-by-threat-testimony-vp-in-the-hague/story/?just_in=",
+      "category": "politics",
+      "published_at": "2026-07-22T00:49:00+08:00"
+    },
+    {
+      "headline": "Peso closes one centavo short of record low",
+      "summary": "The Philippine peso weakened to P61.745 per US dollar on July 21, just short of its record-low close of P61.75. An economist cited a stronger dollar and elevated crude oil prices amid renewed US-Iran tensions, while central bank measures helped limit the decline.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/995634/peso-us-dollar/story/?order=5&top_picks=",
+      "category": "economy",
+      "published_at": "2026-07-21T17:57:00+08:00"
+    },
+    {
+      "headline": "Marcos appoints Joey Salceda to lead Palace liaison with Congress",
+      "summary": "President Marcos appointed former Albay representative Joey Salceda to head the Presidential Legislative Liaison Office with Cabinet rank. The office coordinates with the Senate and House on the administration's legislative priorities.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/nation/2026/7/21/joey-salceda-named-pllo-chief-1208",
+      "category": "politics",
+      "published_at": "2026-07-21T12:08:00+08:00"
+    },
+    {
+      "headline": "June balance-of-payments surplus reaches 21-month high",
+      "summary": "The Philippines posted a $3.4 billion balance-of-payments surplus in June, the highest monthly level since September 2024, according to Bangko Sentral ng Pilipinas data reported by PNA. The result narrowed the first-half deficit to $3.9 billion, while gross international reserves rose to $104.7 billion.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1279879",
+      "category": "economy",
+      "published_at": "2026-07-21T11:42:00+08:00"
+    },
+    {
+      "headline": "Australia expands drone and maritime support for Philippine Coast Guard",
+      "summary": "Australia announced a four-year P413 million package of drones, counter-drone systems and operator training for the Philippine Coast Guard, according to PNA. Canberra also said it would double bilateral civil-maritime assistance through a separate P678 million program focused on security and environmental protection.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1279873",
+      "category": "politics",
+      "published_at": "2026-07-21T09:24:00+08:00"
+    },
+    {
+      "headline": "Civil Service Commission sets qualifications for public-school counselors",
+      "summary": "The Civil Service Commission approved qualification standards for newly created counselor and counselor-associate positions in public basic education. The positions will support mental-health and well-being offices required under Republic Act 12080, the commission said.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1279917",
+      "category": "other",
+      "published_at": "2026-07-21T14:45:00+08:00"
+    },
+    {
+      "headline": "Iloilo City power rates rise on generation and grid costs",
+      "summary": "Residential electricity rates in Iloilo City rose by P0.4389 to P14.349 per kilowatt-hour in July, utility MORE Power said. The company attributed the increase mainly to higher generation and transmission charges amid limited Visayas grid supply and plant outages.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1279910",
+      "category": "regions",
+      "published_at": "2026-07-21T14:01:00+08:00",
+      "watch_for": "MORE Power said supply could stabilize when at least one power plant is expected to resume operations in late July or August."
+    },
+    {
+      "headline": "PAGASA forecasts thunderstorms in major cities on July 22",
+      "summary": "PAGASA's city outlook forecasts partly cloudy to cloudy skies with rain showers or thunderstorms in Metro Manila on July 22, with temperatures of 25 to 33 degrees Celsius and a 60 percent chance of rain. Bacolod is forecast to have cloudy skies with rain showers and thunderstorms, 25 to 32 degrees Celsius, and a 60 percent rain chance.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather/weather-outlook-selected-philippine-cities",
+      "category": "weather",
+      "published_at": "2026-07-21T08:00:00+08:00"
+    }
+  ]
+}
