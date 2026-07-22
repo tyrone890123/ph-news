@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T07:16:09+08:00",
+  "stories": [
+    {
+      "headline": "Kiyapo trough and habagat bring rain to southern and central Philippines",
+      "summary": "PAGASA said the trough of Tropical Depression Kiyapo and the southwest monsoon would bring scattered rain and thunderstorms across parts of Southern Luzon, the Visayas and Mindanao on Thursday. Moderate to at times heavy rain may trigger flash floods or landslides in affected areas.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/weather/content/995840/trough-of-kiyapo-habagat-cloudy-skies-rain-southern-luzon-visayas-mindanao/story/?just_in=",
+      "category": "weather",
+      "published_at": "2026-07-23T04:23:00+08:00"
+    },
+    {
+      "headline": "Canada urges peaceful resolution after Ayungin confrontation",
+      "summary": "Canada's embassy said it was concerned by the July 20 Ayungin Shoal confrontation that injured a Filipino service member, opposed intimidation and unilateral actions, and urged disputes to be settled peacefully under UNCLOS. Philippine and Chinese officials have offered conflicting accounts of the encounter.",
+      "source": "Balita (Manila Bulletin)",
+      "url": "https://balita.mb.com.ph/2026/07/22/canada-sa-ccg-attack-sa-ayungin-shoal-we-oppose-the-use-of-intimidation-and-unilateral-actions/",
+      "category": "politics"
+    },
+    {
+      "headline": "More than 20,000 police assigned to Marcos SONA security",
+      "summary": "The Philippine National Police said more than 20,000 officers would be deployed for President Ferdinand Marcos Jr.'s fifth State of the Nation Address, with contingency plans and coordination among agencies still being finalized.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/nation/2026/7/22/pnp-chief-says-over-20-000-cops-to-be-deployed-for-sona-security-2106",
+      "category": "metro",
+      "published_at": "2026-07-22T21:06:00+08:00",
+      "watch_for": "The address is scheduled for July 27 at the Batasang Pambansa complex; NCR police are due to go on full alert from 5 p.m. on July 24."
+    },
+    {
+      "headline": "Marcos and Rubio discuss alliance, economy and regional security",
+      "summary": "President Ferdinand Marcos Jr. and US Secretary of State Marco Rubio met in Malacañang to discuss bilateral relations, economic cooperation and regional security. The talks included the South China Sea and work on the Luzon Economic Corridor.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/nation/2026/7/22/marcos-jr-meets-rubio-in-malaca-ang-reaffirms-deep-ties-between-ph-us-1744",
+      "category": "politics",
+      "published_at": "2026-07-22T17:44:00+08:00"
+    },
+    {
+      "headline": "Peso closes at P61.75 per dollar as stocks retreat",
+      "summary": "The peso weakened to P61.75 against the US dollar from P61.74, while the Philippine Stock Exchange index fell 1.04 percent to 6,267.85. Market participants cited continued currency pressure and cautious sentiment.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/business/2026/7/22/peso-again-sinks-to-weakest-level-again-1649",
+      "category": "economy",
+      "published_at": "2026-07-22T16:49:00+08:00"
+    },
+    {
+      "headline": "Marcoleta pleads not guilty in plunder and gift cases",
+      "summary": "Senator Rodante Marcoleta pleaded not guilty before the Sandiganbayan to plunder and unlawful gift-receipt charges tied to P75 million in campaign donations that prosecutors allege were not declared in required filings. His counsel withdrew an earlier motion to quash the plunder charge.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/nation/2026/7/22/marcoleta-enters-not-guilty-plea-to-plunder-gift-receipt-cases-0905",
+      "category": "politics",
+      "published_at": "2026-07-22T09:05:00+08:00",
+      "watch_for": "The Sandiganbayan set the plunder case pretrial for August 10."
+    },
+    {
+      "headline": "Agriculture department delays 250,000-ton fish import program",
+      "summary": "The Department of Agriculture moved the arrival of 250,000 metric tons of approved frozen fish and aquatic imports from August to the fourth quarter, citing stable local supply and an extended fishing season. The department said the volume remains authorized and may be released when the closed fishing season begins.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280083",
+      "category": "economy",
+      "published_at": "2026-07-22T20:15:00+08:00",
+      "watch_for": "Agriculture Secretary Francisco Tiu Laurel Jr. said imports could be triggered around October or November if needed."
+    },
+    {
+      "headline": "LTFRB told to open consultations on public transport fare petitions",
+      "summary": "Transportation Secretary Giovanni Lopez directed the LTFRB to begin public consultations on pending fare-increase petitions from public utility vehicle operators as oil prices remain elevated.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280053",
+      "category": "economy",
+      "published_at": "2026-07-22T18:45:00+08:00"
+    },
+    {
+      "headline": "PHLPost says existing government ID is not needed for Postal ID",
+      "summary": "PHLPost clarified that first-time Postal ID applicants do not need an existing government-issued ID. Applicants may instead submit a birth certificate, a barangay certificate or another accepted proof of address, and a completed application form.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280054",
+      "category": "other",
+      "published_at": "2026-07-22T18:51:00+08:00"
+    },
+    {
+      "headline": "First Batangas-Quezon sections of SLEX TR4 targeted by December",
+      "summary": "The first three packages of SLEX Toll Road 4 between Batangas and Quezon are targeted to open before year-end, Transportation Secretary Giovanni Lopez said. The government expects the initial section to cut travel between Sto. Tomas and Tiaong from about two hours to 30 minutes.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280068",
+      "category": "regions",
+      "published_at": "2026-07-22T18:42:00+08:00",
+      "watch_for": "Operations are targeted to start in November or December."
+    }
+  ]
+}
