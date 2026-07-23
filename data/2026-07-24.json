@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T07:10:36+08:00",
+  "stories": [
+    {
+      "headline": "Kiyapo strengthens as Signal No. 2 covers parts of Northern Luzon",
+      "summary": "PAGASA said Tropical Storm Kiyapo had maximum sustained winds of 65 kilometers per hour early Friday, with Signal No. 2 over Batanes, northern Cagayan including the Babuyan Islands, and Pagudpud in Ilocos Norte. Very rough seas and strong winds pose risks across exposed northern areas.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/tropical-cyclone/severe-weather-bulletin",
+      "category": "weather",
+      "published_at": "2026-07-24T05:00:00+08:00",
+      "watch_for": "PAGASA forecast Kiyapo to pass close to northeastern Cagayan and the Babuyan Islands on Friday, then exit the Philippine Area of Responsibility Saturday morning."
+    },
+    {
+      "headline": "Marcos and Trump discuss South China Sea and economic issues",
+      "summary": "President Ferdinand Marcos Jr. and US President Donald Trump discussed global economic and security issues by phone, including recent South China Sea developments. Malacañang said Trump told Marcos he would raise Philippine concerns in his next meeting with Chinese President Xi Jinping.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/995940/marcos-trump-speak-by-phone-us-president-to-raise-ph-concerns-with-china-s-xi/story/",
+      "category": "politics",
+      "published_at": "2026-07-23T22:39:00+08:00"
+    },
+    {
+      "headline": "Rubio says US Coast Guard aided evacuation after Ayungin encounter",
+      "summary": "US Secretary of State Marco Rubio said a US Coast Guard vessel positioned itself between Philippine and Chinese vessels and helped enable the medical evacuation of a Filipino service member injured near Ayungin Shoal. He cited the episode as evidence of US support under the allies' defense commitments.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/995959/rubio-us-coast-guard-vessel-stood-between-ccg-ph-vessels-as-injured-navy-man-rescued/story/",
+      "category": "politics",
+      "published_at": "2026-07-24T01:37:00+08:00"
+    },
+    {
+      "headline": "Pag-IBIG reports P5.82 billion released through emergency loan program",
+      "summary": "Pag-IBIG Fund said it had released P5.82 billion to 803,769 members through its Special Assistance for Financial Emergencies loan program since June. Eligible active members may borrow up to P10,000 or 90 percent of their regular savings at 5.95 percent annual interest.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/companies/995944/pag-ibig-releases-p5-82b-in-safe-loans-here-s-how-to-apply/story/",
+      "category": "economy",
+      "published_at": "2026-07-23T23:09:00+08:00",
+      "watch_for": "Applications through Virtual Pag-IBIG remain open until September 8."
+    },
+    {
+      "headline": "BPI plans stablecoin pilot for inbound cross-border payments",
+      "summary": "Bank of the Philippine Islands said it will pilot stablecoin-based settlement with global clearing network Meridian for inbound cross-border payments. The initial phase will focus on payroll credits for freelancers, virtual assistants and other workers receiving income from overseas.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/business/2026/7/23/bpi-to-pilot-stablecoin-for-cross-border-payments-to-virtual-assistants-freelancers-2025",
+      "category": "economy",
+      "published_at": "2026-07-23T20:25:00+08:00",
+      "watch_for": "BPI said it aims to make the service more broadly available to eligible clients before the ASEAN Summit in November."
+    },
+    {
+      "headline": "Marcos inspects Malampaya expansion as new gas output is targeted",
+      "summary": "President Ferdinand Marcos Jr. conducted an aerial inspection of the Malampaya Phase 4 project off Palawan. The expansion includes three wells intended to extend the gas field's productive life and increase domestic natural gas supply.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/business/2026/7/23/marcos-flies-over-malampaya-phase-4-to-inspect-gas-project-s-progress-1757",
+      "category": "economy",
+      "published_at": "2026-07-23T17:57:00+08:00",
+      "watch_for": "The government targets production from two wells in the fourth quarter of 2026 while preparations continue for the Bagong Pag-asa-1 exploration well."
+    },
+    {
+      "headline": "Senate flood-control investigation to continue during impeachment trial",
+      "summary": "Senator JV Ejercito said the Senate investigation into alleged flood-control project anomalies would continue despite the impeachment trial of Vice President Sara Duterte. He also said the Ombudsman was preparing charges against eight contractors, while other senators raised separate questions about Taguig infrastructure spending.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/24/2544247/senate-flood-control-probe-resume",
+      "category": "politics",
+      "published_at": "2026-07-24T00:00:00+08:00"
+    },
+    {
+      "headline": "BCDA reports about 30 firms interested in New Clark City technology hub",
+      "summary": "The Bases Conversion and Development Authority said about 30 manufacturing, technology and energy companies have expressed interest in the planned Pax Silica district in New Clark City. The 1,620-hectare US-linked project is intended to host semiconductor, electronics, artificial-intelligence and minerals operations.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/business/2026/07/24/2544182/bcda-0ver-30-firms-interested-pax-silica-project",
+      "category": "economy",
+      "published_at": "2026-07-24T00:00:00+08:00",
+      "watch_for": "BCDA expects the project framework agreement to be signed in November; construction could begin in 2028."
+    },
+    {
+      "headline": "Philippines adopts rules to block imports made with forced labor",
+      "summary": "The government adopted implementing rules that prohibit the importation of goods produced wholly or partly through forced labor. The rules establish procedures for receiving, evaluating and investigating allegations before products are barred from entry.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280157",
+      "category": "economy",
+      "published_at": "2026-07-23T17:59:00+08:00"
+    },
+    {
+      "headline": "Government urges conservation as Angat Dam falls to 151.45 meters",
+      "summary": "The government urged consumers to conserve water after Angat Dam fell to 151.45 meters on Thursday, down 0.67 meter in 24 hours and its lowest level since 2010. The reservoir is a primary water source for Metro Manila and nearby provinces.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280156",
+      "category": "metro",
+      "published_at": "2026-07-23T19:19:00+08:00"
+    }
+  ]
+}
