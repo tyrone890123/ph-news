@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T07:05:49+08:00",
+  "stories": [
+    {
+      "headline": "Philippines and European Union elevate ties and expand security cooperation",
+      "summary": "The Philippines and European Union agreed to an Enhanced Partnership covering security, trade and regional affairs. The EU also approved 15 million euros in assistance to improve the Philippine military's maritime surveillance and monitoring capabilities.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/996070/philippines-eu-elevate-ties-as-bloc-grants-eur15m-security-assistance/story/",
+      "category": "politics",
+      "published_at": "2026-07-25T00:25:00+08:00"
+    },
+    {
+      "headline": "Kiyapo becomes typhoon after leaving Philippine monitoring area",
+      "summary": "PAGASA said Kiyapo rapidly intensified into a typhoon after exiting the Philippine Area of Responsibility, with sustained winds of 120 kilometers per hour early Saturday. Signal No. 1 remained over exposed parts of Northern Luzon, while a gale warning covered the region's northern seaboard.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/weather/content/996078/kiyapo-intensifies-into-typhoon-outside-par-signal-no-1-remains-over-four-areas/story/",
+      "category": "weather",
+      "published_at": "2026-07-25T05:23:00+08:00",
+      "watch_for": "PAGASA forecast Kiyapo to move toward southern mainland China through Sunday and weaken rapidly after landfall."
+    },
+    {
+      "headline": "United States imposes 12.5 percent tariff on Philippine goods",
+      "summary": "The United States imposed a new 12.5 percent tariff on Philippine goods as part of a wider set of duties that took effect Friday. Philippine Ambassador Jose Manuel Romualdez said the government would seek to negotiate the rate down to 10 percent.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/business/2026/7/24/us-slaps-new-12-5-percent-tariff-on-philippine-goods-1021",
+      "category": "economy"
+    },
+    {
+      "headline": "Peso closes at record low of 61.847 to the dollar",
+      "summary": "The Philippine peso closed Friday at a record low of 61.847 against the US dollar, weakening by 9.7 centavos from the previous session. The decline came amid uncertainty over new US tariffs and higher global energy costs.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/business/2026/7/24/peso-continues-to-weaken-sinks-to-new-low-in-intraday-trading-1146",
+      "category": "economy",
+      "published_at": "2026-07-24T11:46:00+08:00"
+    },
+    {
+      "headline": "PEZA investment approvals reach nearly P152 billion",
+      "summary": "The Philippine Economic Zone Authority said approved investments reached P151.9 billion through the end of July, about 16 percent higher than a year earlier. The agency attributed the increase to new and expanding projects in economic zones.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280226",
+      "category": "economy",
+      "published_at": "2026-07-24T14:08:00+08:00"
+    },
+    {
+      "headline": "ASEAN treaty marks 50 years as four countries join",
+      "summary": "The Philippines marked the 50th anniversary of ASEAN's Treaty of Amity and Cooperation during meetings in Manila. Four European countries formally joined the pact, committing to principles that include peaceful dispute settlement and non-interference.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280277",
+      "category": "politics",
+      "published_at": "2026-07-24T21:33:00+08:00"
+    },
+    {
+      "headline": "Investigators recommend plunder cases against Romualdez and Co",
+      "summary": "An investigative panel asked the Ombudsman to pursue plunder charges against former House speaker Martin Romualdez, former lawmaker Zaldy Co and others over allegations that roughly P56 billion was unlawfully amassed from 2022 to 2025. It separately recommended money-laundering charges against Romualdez and lawyer Jose Raulito Paras.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/25/2544525/prosecutors-seek-plunder-launder-raps-vs-romualdez-co/amp/",
+      "category": "politics",
+      "published_at": "2026-07-25T00:00:00+08:00"
+    },
+    {
+      "headline": "MariBank begins operating as the Philippines' seventh digital bank",
+      "summary": "MariBank formally began operating under a digital banking license on July 18 after receiving Bangko Sentral ng Pilipinas authorization earlier in the month. Its conversion makes it the country's seventh licensed digital bank.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/business/2026/07/25/2544422/maribank-becomes-7th-digital-bank-philippines/amp/",
+      "category": "economy",
+      "published_at": "2026-07-25T00:00:00+08:00"
+    },
+    {
+      "headline": "Philippines retains second-largest US raw sugar quota",
+      "summary": "The United States allocated the Philippines a 145,235-metric-ton raw-value quota for raw cane sugar in fiscal 2027, the second-largest country allocation. It is the fourth consecutive year that the Philippines has received the same amount under the lower-tariff quota program.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/business/2026/07/25/2544428/philippines-keeps-us-sugar-quota-gets-2nd-highest-allocation/amp/",
+      "category": "economy",
+      "published_at": "2026-07-25T00:00:00+08:00",
+      "watch_for": "The fiscal 2027 quota period begins October 1, 2026."
+    },
+    {
+      "headline": "Ikhlas Capital explores new Philippine investments",
+      "summary": "Singapore-based Ikhlas Capital said it is seeking additional investments and partnerships in the Philippines, including opportunities tied to artificial intelligence and local conglomerates. The private-equity firm has raised $370 million for its second regional fund.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/business/2026/07/25/2544423/singapores-ikhlas-capital-eyes-more-philippine-investments/amp/",
+      "category": "economy",
+      "published_at": "2026-07-25T00:00:00+08:00"
+    }
+  ]
+}
