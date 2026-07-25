@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T07:07:44+08:00",
+  "stories": [
+    {
+      "headline": "BCDA says Pax Silica will rely mainly on harvested rainwater",
+      "summary": "The Bases Conversion and Development Authority said the planned 1,600-hectare Pax Silica technology hub in New Clark City would rely mainly on harvested rainwater and impounding facilities rather than groundwater. Environmental groups have raised concerns about the project's water and energy use and possible effects on local communities.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/996145/explainer-how-would-pax-silica-sustain-its-water-demand/story/",
+      "category": "regions",
+      "published_at": "2026-07-26T00:21:00+08:00"
+    },
+    {
+      "headline": "Habagat brings flood and landslide risk to parts of Luzon",
+      "summary": "PAGASA said the southwest monsoon would bring occasional moderate to heavy rain to Pangasinan and Zambales on Sunday, with possible flash floods or landslides. Metro Manila, the rest of Luzon, Aklan and Antique were forecast to have scattered rain and thunderstorms.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/weather/content/996152/habagat-to-bring-rains-over-luzon-parts-of-visayas-kiyapo-now-outside-par/story/?amp=",
+      "category": "weather",
+      "published_at": "2026-07-26T04:22:00+08:00"
+    },
+    {
+      "headline": "Philippines and Chile conclude negotiations on free trade agreement",
+      "summary": "The Philippines and Chile concluded negotiations on a comprehensive economic partnership agreement, the country's first free trade deal in Latin America. The framework covers tariff liberalization and cooperation in trade, investment and the digital economy.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/business/2026/07/26/2544658/philippines-seals-landmark-trade-pact-chile",
+      "category": "economy",
+      "published_at": "2026-07-26T00:00:00+08:00"
+    },
+    {
+      "headline": "DepEd and EDCOM 2 give differing estimates of classroom backlog",
+      "summary": "The Department of Education estimated the nationwide classroom backlog at 143,543 as of June, down from 165,443 at the start of the Marcos administration. EDCOM 2 has put the shortage above 166,000, while DepEd said its figure remains subject to validation of enrollment, school inventories and site conditions.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/26/2544741/classroom-shortage-down-143543-deped",
+      "category": "other",
+      "published_at": "2026-07-26T00:00:00+08:00"
+    },
+    {
+      "headline": "Appeals court sustains dismissal of forfeiture case tied to pastillas allegations",
+      "summary": "The Court of Appeals denied the Anti-Money Laundering Council's request to reconsider a 2025 decision dismissing a forfeiture case against former NBI official Joshua Paul Capiral and three others. The case concerned their alleged involvement in the immigration-related pastillas scandal.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/07/26/2544706/ca-upholds-ruling-over-pastillas-scam",
+      "category": "politics",
+      "published_at": "2026-07-26T00:00:00+08:00"
+    },
+    {
+      "headline": "House completes preparations for Marcos' July 27 SONA",
+      "summary": "The House of Representatives said preparations were complete for President Ferdinand Marcos Jr.'s State of the Nation Address on Monday. The program will coincide with the opening of the second regular session of the 20th Congress and will use a simplified format without a red-carpet ceremony.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/26/2544769/house-ready-host-simple-focused-sona",
+      "category": "politics",
+      "published_at": "2026-07-26T00:00:00+08:00",
+      "watch_for": "Marcos is scheduled to deliver the address on July 27 as Congress opens its second regular session."
+    },
+    {
+      "headline": "Ombudsman files graft cases over infrastructure projects",
+      "summary": "The Ombudsman filed 14 graft counts against Representative Jojo Ang over infrastructure projects. It also filed two graft and two malversation counts against Arnulfo Go and three others; the allegations have not yet been adjudicated.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/nation/2026/7/25/multiple-graft-cases-filed-against-rep-jojo-ang-arnulfo-go-over-infrastructure-projects-1527",
+      "category": "politics",
+      "published_at": "2026-07-25T15:27:00+08:00"
+    },
+    {
+      "headline": "Parañaque voters decide proposed boundary changes in five coastal barangays",
+      "summary": "Parañaque held a plebiscite on proposed boundary changes affecting five coastal barangays. Voters were asked whether to approve revisions to the villages' territorial boundaries under a city ordinance.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/nation/2026/7/25/para-aque-holds-plebiscite-on-boundary-changes-in-5-coastal-barangays-1129",
+      "category": "metro"
+    },
+    {
+      "headline": "Customs reports four convictions in two smuggling cases",
+      "summary": "The Bureau of Customs said four people were convicted in two separate smuggling cases. One case involved two containers from China declared as plastic products in which inspectors found 1,599 cartons of cigarettes without required import clearances.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280293",
+      "category": "other",
+      "published_at": "2026-07-25T18:57:00+08:00"
+    },
+    {
+      "headline": "DFA disputes forced-labor concerns about Philippine exports",
+      "summary": "The Department of Foreign Affairs said Philippine exports to the United States and goods produced domestically do not rely on forced labor. The statement was the government's account following a new US tariff linked to forced-labor concerns and the Philippines' adoption of rules blocking imports made with forced labor.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280296",
+      "category": "economy",
+      "published_at": "2026-07-25T17:04:00+08:00"
+    }
+  ]
+}
