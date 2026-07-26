@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T07:18:02+08:00",
+  "stories": [
+    {
+      "headline": "Habagat brings scattered rain and flood risk across Luzon",
+      "summary": "PAGASA said the southwest monsoon would bring scattered rain and thunderstorms to Metro Manila and several other parts of Luzon on Monday. Moderate to at times heavy rain could trigger flash floods or landslides in affected areas.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/weather/content/996224/habagat-to-bring-cloudy-skies-rain-over-luzon-pagasa/story/?amp=",
+      "category": "weather",
+      "published_at": "2026-07-27T04:36:00+08:00"
+    },
+    {
+      "headline": "Police deploy 20,000 personnel for Marcos' fifth SONA",
+      "summary": "The Philippine National Police deployed 20,000 personnel in Quezon City for President Ferdinand Marcos Jr.'s State of the Nation Address. Four groups obtained permits to demonstrate along Commonwealth Avenue, while checkpoints, road closures and traffic rerouting were put in place.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/metro/996204/pnp-deploys-20-000-cops-for-2026-sona-4-groups-secure-protest-permits-in-qc/story/",
+      "category": "metro",
+      "published_at": "2026-07-26T20:36:00+08:00"
+    },
+    {
+      "headline": "DOTr says Metro Manila subway construction is 60 percent complete",
+      "summary": "Transportation Secretary Giovanni Lopez said the Metro Manila Subway Project was about 60 percent complete. He said tunneling had finished on the Valenzuela-to-Quirino Avenue and North Avenue-to-Tandang Sora sections, with a demonstration run targeted before the end of the Marcos administration in 2028.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/07/27/2544983/metro-manila-subway-construction-60-percent-complete-dotr",
+      "category": "metro",
+      "published_at": "2026-07-27T00:00:00+08:00",
+      "watch_for": "The Transportation Department is targeting a demonstration run on the Valenzuela-to-Quirino section by 2028."
+    },
+    {
+      "headline": "Temporary repairs begin on collapsed Davao-Bukidnon road section",
+      "summary": "Public Works Secretary Vince Dizon said temporary repairs would begin Monday on the section of the Davao-Bukidnon Road that collapsed in Barangay Marilog Proper on July 17. The government is also studying a long-term design for the hazardous area.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/07/27/2544967/repair-collapsed-davao-bukidnon-road-starts-today",
+      "category": "regions",
+      "published_at": "2026-07-27T00:00:00+08:00"
+    },
+    {
+      "headline": "Philippines, Japan and US complete five-day West Philippine Sea exercise",
+      "summary": "Philippine, Japanese and US forces completed a five-day maritime exercise in the West Philippine Sea from July 21 to 25. The activity included anti-submarine warfare training and involved warships, fighter aircraft and surveillance assets.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/27/2545023/philippines-japan-us-hold-west-philippine-sea-drills/amp/",
+      "category": "politics",
+      "published_at": "2026-07-27T00:00:00+08:00"
+    },
+    {
+      "headline": "DTI says more than 60 percent of Philippine exports avoid new US tariff",
+      "summary": "The Department of Trade and Industry said more than 60 percent of Philippine exports to the United States were exempt from the new 12.5 percent additional tariff. The figure is the Philippine government's assessment of the measure's coverage.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://business.inquirer.net/602438/dti-over-60-of-ph-exports-exempt-from-12-5-us-tariff",
+      "category": "economy",
+      "published_at": "2026-07-27T02:10:00+08:00"
+    },
+    {
+      "headline": "Survey finds Filipinos prioritize solutions in Marcos' SONA",
+      "summary": "A Pulse Asia survey reported by the Inquirer found that more Filipinos wanted the government to present solutions to current problems than review its achievements in President Marcos' fifth State of the Nation Address.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2270627/more-filipinos-want-to-hear-solutions-not-achievements-in-sona-survey",
+      "category": "politics",
+      "published_at": "2026-07-26T10:51:00+08:00"
+    },
+    {
+      "headline": "PNP seeks stronger regional crime coordination through ASEANAPOL",
+      "summary": "The Philippine National Police said it would pursue closer regional coordination against transnational crime after assuming the ASEANAPOL chairmanship. The police organization also backed Timor-Leste's membership.",
+      "source": "ABS-CBN News",
+      "url": "https://news.abs-cbn.com/news/nation/2026/7/26/pnp-eyes-stronger-regional-crime-fight-as-aseanapol-backs-timor-leste-membership-1348",
+      "category": "politics",
+      "published_at": "2026-07-26T13:48:00+08:00"
+    },
+    {
+      "headline": "Child rights group opposes blanket social media ban for minors",
+      "summary": "Save the Children Philippines opposed a proposed blanket ban on social media use by minors. The group issued its position after the Philippine National Police chief called for restricting children's access to social platforms.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/nation/2026/7/26/child-rights-org-opposes-blanket-social-media-ban-for-minors-1717",
+      "category": "other",
+      "published_at": "2026-07-26T17:17:00+08:00"
+    },
+    {
+      "headline": "DSWD expands disaster logistics under Buong Bansa Handa program",
+      "summary": "The Department of Social Welfare and Development said it was expanding disaster-response logistics through its Buong Bansa Handa program. The agency said the initiative strengthens relief-goods production, storage and dispatch through its central and regional facilities.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280313",
+      "category": "other",
+      "published_at": "2026-07-26T16:55:00+08:00"
+    }
+  ]
+}
