@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T07:02:21+08:00",
+  "stories": [
+    {
+      "headline": "Habagat and easterlies bring flood risk to parts of Luzon, Visayas and Mindanao",
+      "summary": "PAGASA forecast scattered rain and thunderstorms over the Ilocos Region, Zambales and Bataan due to the southwest monsoon, and over Eastern Visayas, Caraga and the Davao Region due to easterlies. Moderate to at times heavy rain could trigger flash floods or landslides.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/weather/content/996383/habagat-easterlies-to-bring-cloudy-skies-rains-over-ph-pagasa/story/",
+      "category": "weather",
+      "published_at": "2026-07-28T04:32:00+08:00"
+    },
+    {
+      "headline": "Marcos calls for transition to electric public transport",
+      "summary": "President Ferdinand Marcos Jr. called for a shift toward electric public transportation and asked the electric-vehicle industry to support transport modernization. He said the government aims for electric vehicles to account for half of all vehicles in the country by 2040.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/996320/marcos-eyes-shift-to-electric-public-transport/story/",
+      "category": "economy",
+      "published_at": "2026-07-27T17:57:00+08:00",
+      "watch_for": "Marcos said an electric ferry is planned for the Pasig River route between Pinagbuhatan and Escolta, while electric-vehicle tariff exemptions remain in effect through 2028."
+    },
+    {
+      "headline": "Philippines plans Cagayan rocket test in 2027",
+      "summary": "President Marcos announced that the Philippines plans to conduct a sounding-rocket launch test in Cagayan in 2027 with a South Korean aerospace company. The government is positioning the province as the site of the country's first spaceport.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/scitech/science/996323/sona-2026-philippines-rocket-launch-cagayan/story/",
+      "category": "regions",
+      "published_at": "2026-07-27T18:09:00+08:00",
+      "watch_for": "The sounding-rocket test is scheduled for 2027, although the government has not announced a specific launch date."
+    },
+    {
+      "headline": "Police investigate DOJ blast and explosive device found near Senate",
+      "summary": "A bomb exploded near the Department of Justice compound in Manila early Monday, damaging two parked vehicles but causing no reported injuries. Authorities later found and detonated an improvised explosive device near the Senate complex and are investigating whether the incidents were connected.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/07/28/2545174/marcos-sona-day-marred-explosion-bomb-threat",
+      "category": "metro",
+      "published_at": "2026-07-28T00:00:00+08:00"
+    },
+    {
+      "headline": "Lamitan restricts hog movement after African swine fever cases",
+      "summary": "Lamitan City prohibited the transport of hogs and pork products after African swine fever was confirmed in several barangays. Basilan's provincial veterinarian said the outbreak had affected 113 hog raisers and killed at least 284 pigs.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/07/28/2545159/asf-cases-confirmed-lamitan",
+      "category": "regions",
+      "published_at": "2026-07-28T00:00:00+08:00"
+    },
+    {
+      "headline": "Pangasinan court acquits Indigenous rights activist of terror-financing charge",
+      "summary": "A regional trial court in Urdaneta City acquitted Indigenous rights activist Sarah Abelon Alikes of terrorism financing. The court granted her demurrer to evidence, finding that prosecutors had not presented direct evidence that she knowingly supported terrorist activity.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/07/28/2545160/court-clears-ip-activist-terror-financing",
+      "category": "other",
+      "published_at": "2026-07-28T00:00:00+08:00"
+    },
+    {
+      "headline": "Fuel prices rise sharply on July 28",
+      "summary": "Oil companies scheduled another major fuel-price increase for Tuesday, with diesel rising by P7.30 per liter, gasoline by P6.80 and kerosene by P4.20. Industry advisories attributed the adjustment to overseas supply concerns linked to the US-Iran conflict.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://business.inquirer.net/602568/about-p7-liter-fuel-price-hike-set-on-july-28",
+      "category": "economy"
+    },
+    {
+      "headline": "AMRO forecasts 4.1 percent Philippine growth in 2026",
+      "summary": "The ASEAN+3 Macroeconomic Research Office projected Philippine economic growth of 4.1 percent this year and 5.5 percent in 2027. The regional surveillance group cited risks from the oil shock and trade tensions.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://business.inquirer.net/602629/amro-stays-cautious-on-ph-amid-oil-shock-trade-tensions",
+      "category": "economy"
+    },
+    {
+      "headline": "Marcos says Philippines will continue to uphold 2016 maritime ruling",
+      "summary": "President Marcos said the Philippines would not abandon the 2016 arbitral award on the South China Sea and would continue to uphold it through peaceful and legal means. His statement reiterated the government's position amid renewed tensions in the West Philippine Sea.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/nation/2026/7/27/-we-are-not-racists-not-liars-marcos-says-ph-won-t-abandon-arbitral-award-1754",
+      "category": "politics",
+      "published_at": "2026-07-27T17:54:00+08:00",
+      "context": "The 2016 tribunal rejected the legal basis for China's sweeping maritime claims; Beijing does not recognize the ruling."
+    },
+    {
+      "headline": "Isabela City allocates P19.7 million to upgrade 21 schools",
+      "summary": "The Isabela City government allocated P19.7 million to renovate and upgrade facilities in 21 schools. The city said work was already underway at five campuses under its School Infrastructure Repair Program.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280374",
+      "category": "regions",
+      "published_at": "2026-07-27T15:47:00+08:00"
+    }
+  ]
+}
