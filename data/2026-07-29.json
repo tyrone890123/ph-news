@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T05:58:50+08:00",
+  "stories": [
+    {
+      "headline": "Marcos says corruption cases against former Speaker Romualdez are nearing filing",
+      "summary": "President Ferdinand Marcos Jr. said cases tied to alleged flood-control irregularities are being prepared against former Speaker Martin Romualdez. Romualdez denied wrongdoing and said the legal process should determine the outcome.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/28/2545318/i-am-not-president-my-family-or-friends",
+      "category": "politics",
+      "published_at": "2026-07-28T00:00:00+08:00",
+      "context": "The flood-control scandal has become the administration's largest corruption controversy, with officials, contractors and lawmakers facing investigations and charges.",
+      "watch_for": "The Office of the Ombudsman is expected to decide on filing the announced cases after completing its review."
+    },
+    {
+      "headline": "Bomb blast near DOJ and separate device near Senate prompt investigations",
+      "summary": "An explosive detonated outside the Department of Justice compound in Manila, damaging two parked vehicles but causing no injuries. Police also found and neutralized a separate device near the Senate complex and said they were investigating whether the incidents were connected.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/07/28/2545174/marcos-sona-day-marred-explosion-bomb-threat/amp/",
+      "category": "metro",
+      "published_at": "2026-07-28T00:00:00+08:00",
+      "watch_for": "Police are reviewing surveillance footage and forensic evidence to identify those responsible and determine whether the two incidents were linked."
+    },
+    {
+      "headline": "Philippine shares return above 6,300 as oil prices ease",
+      "summary": "The Philippine Stock Exchange index rose 0.54 percent to 6,314.90 as lower oil prices improved market sentiment. The peso also strengthened to 61.675 per US dollar from a record low reached the previous trading day.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/business/2026/07/28/2545144/psei-returns-6300-level-mideast-tensions-ease/amp/",
+      "category": "economy",
+      "published_at": "2026-07-28T00:00:00+08:00"
+    },
+    {
+      "headline": "AFP reports 26 Chinese naval and coast guard vessels in four West Philippine Sea areas",
+      "summary": "The Armed Forces of the Philippines said it monitored 26 Chinese naval and coast guard vessels around Ayungin Shoal, Bajo de Masinloc, Escoda Shoal and Pag-asa Island from July 21 to 26. The count was slightly higher than in its previous monitoring period.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280442",
+      "category": "politics",
+      "published_at": "2026-07-28T12:27:00+08:00"
+    },
+    {
+      "headline": "Senate reviews hospital expansion bills as 36 provinces lack DOH-run facilities",
+      "summary": "The Senate health committee began reviewing measures to establish, expand or return provincial hospitals to national control. Senator Risa Hontiveros said 36 of 82 provinces still have no hospital directly managed by the Department of Health.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280468",
+      "category": "regions",
+      "published_at": "2026-07-28T16:18:00+08:00",
+      "watch_for": "The committee will assess staffing, funding, service gaps and referral roles before advancing the bills."
+    },
+    {
+      "headline": "Senator files measures to remove power-bill system loss charges and taxes",
+      "summary": "Senator Erwin Tulfo filed two bills and a resolution seeking to repeal a residential energy tax, exempt system-loss charges from value-added tax and review rules that allow utilities to pass system losses to consumers.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280476",
+      "category": "economy",
+      "published_at": "2026-07-28T16:13:00+08:00",
+      "watch_for": "The Senate energy panel is scheduled to continue hearings on proposed EPIRA amendments on July 30."
+    },
+    {
+      "headline": "Saudi Arabia pledges relief for about 120,000 Mindanao earthquake victims",
+      "summary": "Saudi Arabia said it would provide hygiene kits, shelter kits and mobile latrines for communities affected by the June Mindanao earthquake. The assistance will be coordinated with the Department of Social Welfare and Development and is expected to reach about 120,000 people.",
+      "source": "Philippine News Agency",
+      "url": "https://www.pna.gov.ph/articles/1280456",
+      "category": "regions",
+      "published_at": "2026-07-28T15:14:00+08:00"
+    },
+    {
+      "headline": "Habagat brings scattered rain to western Luzon and parts of Mindanao",
+      "summary": "PAGASA said the southwest monsoon would bring scattered rain and thunderstorms to Ilocos Region, Zambales and Bataan, while Eastern Visayas, Caraga and Davao Region would also see unsettled weather. Other areas, including Metro Manila, may have isolated rain or thunderstorms.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/agri-weather",
+      "category": "weather",
+      "published_at": "2026-07-28T07:00:00+08:00",
+      "watch_for": "The forecast was valid until 7:00 a.m. on July 29, when PAGASA was due to issue an updated bulletin."
+    },
+    {
+      "headline": "Nine protesters face complaints over SONA-day spray-painting in Quezon City",
+      "summary": "Police brought nine protesters before Quezon City prosecutors over alleged spray-painting near the Meralco Diliman Substation during SONA-day demonstrations. Twelve minors were released to their parents after assessment, while 30 other people remained under investigation.",
+      "source": "Manila Bulletin",
+      "url": "https://tempo.mb.com.ph/2026/07/28/9-vandals-charged-after-sona-spray-paint-arrests-in-qc/",
+      "category": "metro",
+      "published_at": "2026-07-28T12:28:00+08:00"
+    }
+  ]
+}
