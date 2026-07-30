@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T07:04:50+08:00",
+  "stories": [
+    {
+      "headline": "Philippines presents extended West Philippine Sea shelf claim to UN commission",
+      "summary": "The Philippines presented its partial submission for an extended continental shelf in the West Philippine Sea to the UN Commission on the Limits of the Continental Shelf, the Department of Foreign Affairs said. The submission asks the commission to consider the 2016 South China Sea arbitral ruling.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/996706/ph-presents-claims-on-extended-wps-continental-shelf-to-un/story/",
+      "category": "politics",
+      "published_at": "2026-07-30T11:52:00+08:00",
+      "context": "The filing seeks to define Philippine seabed and subsoil rights beyond 200 nautical miles under the UN Convention on the Law of the Sea. China rejects the 2016 arbitral ruling."
+    },
+    {
+      "headline": "US and Zamboanga del Sur agree to establish police training hub in Pagadian",
+      "summary": "The US Embassy and the Zamboanga del Sur government signed an agreement for a P30.8-million antiterrorism training hub in Pagadian City. The US program will provide permanent facilities and recurring courses, with about 2,000 Philippine law-enforcement personnel expected to train there each year.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/996808/us-embassy-zamboanga-del-sur-partner-for-anti-terrorism-hub/story/",
+      "category": "regions",
+      "published_at": "2026-07-30T23:39:00+08:00"
+    },
+    {
+      "headline": "LTO extends July-expired licenses and registrations during system disruption",
+      "summary": "The Land Transportation Office extended until further notice the validity of driver's licenses and vehicle registrations that expired from July 1 because of downtime and slowdowns in its management system. Covered renewals will not incur late fees while the extension remains in force.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/996775/lto-validity-drivers-license-vehicle-registration-extended/story/",
+      "category": "other",
+      "published_at": "2026-07-30T19:12:00+08:00",
+      "watch_for": "The extension will end after the LTO's information technology office certifies that the system problems are fully resolved and a new memorandum is issued."
+    },
+    {
+      "headline": "Defense chief seeks audit of BCDA remittances for military modernization",
+      "summary": "Defense Secretary Gilberto Teodoro Jr. called for an audit of revenue earned by the Bases Conversion and Development Authority from former military properties. He said the agency had remitted P45 billion over 26 years and that its net revenue should support the Armed Forces modernization fund.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/31/2545939/afp-modernization-fund-gibo-wants-bcda-audited/amp/",
+      "category": "politics",
+      "published_at": "2026-07-31T00:00:00+08:00"
+    },
+    {
+      "headline": "Executive order creates incentive program for local electric-vehicle production",
+      "summary": "President Ferdinand Marcos Jr. issued Executive Order 121 establishing incentives for Philippine production of hybrid and battery electric vehicles and components. Eligible investors must commit at least P5 billion, meet production targets and introduce locally made models within three years of registration.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/07/31/2545928/eo-provides-incentives-e-vehicle-production",
+      "category": "economy",
+      "published_at": "2026-07-31T00:00:00+08:00",
+      "watch_for": "The Board of Investments was directed to issue implementing guidelines within one month after the order takes effect."
+    },
+    {
+      "headline": "June exports reach record $8.77 billion as trade deficit narrows from May",
+      "summary": "Philippine exports rose 24.1 percent from a year earlier to a record $8.77 billion in June, while imports increased 19.6 percent to $13.71 billion. The resulting $4.94-billion goods deficit was wider than a year earlier but smaller than the May gap.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://business.inquirer.net/603203/exports-jump-to-record-high-keep-trade-deficit-at-4-month-low",
+      "category": "economy",
+      "published_at": "2026-07-31T02:28:00+08:00"
+    },
+    {
+      "headline": "Philippine government debt exceeds P19 trillion",
+      "summary": "The national government's outstanding debt climbed past P19 trillion, according to a report based on the latest Treasury data. The increase places the debt stock above the level assumed in the government's 2026 projections.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://business.inquirer.net/603195/ph-government-debt-stock-tops-p19-trillion",
+      "category": "economy",
+      "published_at": "2026-07-31T02:18:00+08:00"
+    },
+    {
+      "headline": "Economists estimate second-quarter growth slowed amid inflation pressures",
+      "summary": "Economists polled by BusinessWorld estimated that Philippine economic growth slowed to about 2.5 percent in the second quarter as elevated inflation and weaker business confidence weighed on activity. The figure is an estimate ahead of the government's official release.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/07/30/766779/inflation-risks-likely-weighed-on-q2-economic-growth/",
+      "category": "economy"
+    },
+    {
+      "headline": "Philippines and Chile aim to sign economic partnership agreement by October",
+      "summary": "The Philippines and Chile are targeting an October signing of their Comprehensive Economic Partnership Agreement, according to the Department of Trade and Industry. The planned pact is intended to expand bilateral trade and market access.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/economy/2026/07/30/767112/phl-chile-target-trade-pact-signing-by-october/",
+      "category": "economy",
+      "watch_for": "The two governments are targeting October for the agreement's signing."
+    },
+    {
+      "headline": "Supreme Court maintains ruling against mandatory vessel monitoring systems",
+      "summary": "The Supreme Court affirmed its ruling that monitoring and electronic reporting systems imposed on commercial fishing vessels are unconstitutional. The decision concerns rules requiring operators to install tracking equipment and electronically report catches.",
+      "source": "ABS-CBN News",
+      "url": "https://news.abs-cbn.com/news/nation/2026/7/30/sc-affirms-unconstitutionality-of-monitoring-systems-imposed-on-commercial-fishing-vessels-2227",
+      "category": "other",
+      "published_at": "2026-07-30T21:30:00+08:00"
+    }
+  ]
+}
