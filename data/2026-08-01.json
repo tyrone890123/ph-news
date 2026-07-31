@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T07:00:04+08:00",
+  "stories": [
+    {
+      "headline": "Defense department backs closer review of China-linked education programs",
+      "summary": "The Department of National Defense said foreign state-funded academic and cultural exchanges should face greater transparency and scrutiny because of possible risks to academic integrity and national security. It said the review is not directed at the Filipino-Chinese community, while a Chinese state-linked scholar criticized the approach as excessive.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/philippines-defends-efforts-put-china-linked-education-programmes-under-more-2026-07-31/",
+      "category": "politics",
+      "published_at": "2026-07-31T12:14:00+00:00"
+    },
+    {
+      "headline": "Cardinal David seeks safeguards and transparency for Pax Silica project",
+      "summary": "Cardinal Pablo David questioned whether the proposed Pax Silica AI hub would sufficiently benefit Philippine science and industry. He called for transparency, local participation, technology transfer and environmental safeguards; Malacañang said the concerns would be considered and project provisions could still change.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/996966/church-leader-raises-questions-on-government-s-ai-hub-project/story/",
+      "category": "politics",
+      "published_at": "2026-08-01T04:34:00+08:00",
+      "context": "Pax Silica is a planned technology and industrial initiative centered on artificial intelligence infrastructure and advanced supply chains in the Philippines."
+    },
+    {
+      "headline": "Bong Revilla released after posting P1 million bail in malversation case",
+      "summary": "Former senator Ramon Bong Revilla Jr. posted P1 million bail and was released after the Sandiganbayan ruled that prosecutors had not shown strong evidence of guilt at this stage of his malversation and falsification case. The charges concern an alleged P92.8 million flood-control project in Pandi, Bulacan; the Ombudsman said it would pursue available remedies.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/996900/bong-revilla-posts-p1-m-bail-walks-free/story/",
+      "category": "politics",
+      "published_at": "2026-07-31T17:58:00+08:00"
+    },
+    {
+      "headline": "Poland signals farm and food-sector opportunities for Filipino workers",
+      "summary": "Polish Agriculture Minister Stefan Krajewski said Poland sees possible jobs for Filipinos in agriculture, rural development, processing and food production. Poland is also considering more food exports to the Philippines, while officials expect Philippine mango and avocado shipments to Poland to expand as Philippines-EU trade talks progress.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/balitambayan/pinoyabroad/996961/poland-planong-ialok-sa-mga-pinoy-ang-mga-trabaho-sa-sektor-ng-agrikultura-at-food-production/story/?just_in=",
+      "category": "economy",
+      "published_at": "2026-08-01T01:19:00+08:00"
+    },
+    {
+      "headline": "Ombudsman opens preliminary probe into solar franchise allegations",
+      "summary": "The Ombudsman ordered a preliminary investigation of Senator Loren Legarda, Representative Leandro Leviste and former energy secretary Alfonso Cusi over plunder and graft complaints involving renewable-energy projects. The Ombudsman alleged unpaid obligations and nonperformance worth about P10.44 billion; Legarda denied the accusations as false and baseless.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/01/2546158/legarda-son-face-probe-over-p10-billion-solar-franchise",
+      "category": "politics",
+      "published_at": "2026-08-01T00:00:00+08:00"
+    },
+    {
+      "headline": "Labor department plans challenge to court order pausing NCR wage increase",
+      "summary": "The Department of Labor and Employment said it would contest a Pasig court order temporarily stopping the P85 daily minimum-wage increase in Metro Manila. DOLE said workers who already received higher pay need not return it, while the court considers a petition filed by two construction companies.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/01/2546157/dole-preparing-contest-p85-wage-hike-tro",
+      "category": "economy",
+      "published_at": "2026-08-01T00:00:00+08:00",
+      "watch_for": "The court scheduled a hearing on the preliminary injunction request for August 3. The temporary restraining order is due to remain in effect through August 13 unless the court acts earlier."
+    },
+    {
+      "headline": "Lacson raises questions over Taguig reclamation and flood-control funds",
+      "summary": "Senator Panfilo Lacson alleged that Laguna de Bay reclamation works in Taguig lacked environmental permits and used national funds intended for slope protection. He also cited possible overlapping appropriations and repeated project documentation; the claims remain allegations under his investigation.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/01/2546144/ping-flags-taguig-lake-reclamation",
+      "category": "politics",
+      "published_at": "2026-08-01T00:00:00+08:00"
+    },
+    {
+      "headline": "Low-pressure area trough brings rain risk to Bicol and parts of Visayas",
+      "summary": "PAGASA located a low-pressure area 960 kilometers east of southeastern Luzon early Saturday. Its trough is forecast to bring scattered rain and thunderstorms to Bicol, Eastern and Central Visayas, Quezon and Marinduque, with possible flash floods or landslides during moderate to heavy rain.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-01T04:00:00+08:00"
+    }
+  ]
+}
