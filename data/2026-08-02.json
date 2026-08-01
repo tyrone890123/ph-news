@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T07:00:03+08:00",
+  "stories": [
+    {
+      "headline": "Tropical Depression Luis brings wind signals and heavy-rain risk to parts of Luzon",
+      "summary": "PAGASA placed the Polillo Islands, Camarines Norte, Catanduanes and northern Camarines Sur under Signal No. 1 as Tropical Depression Luis moved slowly west-southwest over the Philippine Sea. The agency warned of possible flash floods and landslides in areas facing moderate to heavy rain.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-02T04:00:00+08:00",
+      "watch_for": "PAGASA said Luis could strengthen into a tropical storm within 24 hours and that a westward track shift could bring it near or over Northern or Central Luzon."
+    },
+    {
+      "headline": "Five people die in predawn Caloocan boarding-house fire",
+      "summary": "The Bureau of Fire Protection said five people, including an infant, died after a fire spread through a boarding house in Barangay 8, Caloocan City early Sunday. Investigators were still determining the cause and the amount of damage.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/metro/997040/5-killed-in-predawn-fire-at-boarding-house-in-caloocan-city/story/?just_in=",
+      "category": "metro",
+      "published_at": "2026-08-02T03:58:00+08:00"
+    },
+    {
+      "headline": "Lacson alleges kickbacks of up to 33 percent in Taguig public works projects",
+      "summary": "Senator Panfilo Lacson alleged that commissions on some Department of Public Works and Highways projects in Taguig reached 33 percent, citing documents and information from whistleblowers that his office began submitting to the Ombudsman. Senator Alan Peter Cayetano previously denied that Taguig had ghost projects and said he supported a fair investigation.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/997046/kickbacks-from-dpwh-projects-in-taguig-up-to-33-lacson/story/?order=1&top_picks=",
+      "category": "politics",
+      "published_at": "2026-08-02T06:13:00+08:00"
+    },
+    {
+      "headline": "Alex Eala beats Naomi Osaka to reach Washington final",
+      "summary": "Alex Eala defeated four-time Grand Slam champion Naomi Osaka 6-4, 6-2 to advance to her first WTA 500 final and her first tour-level final on a hard court. She will play Jessica Pegula for the title.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/sports/othersports/997042/alex-eala-vs-naomi-osaka-dc-open-semifinal/story/?just_in=",
+      "category": "sports",
+      "published_at": "2026-08-02T05:16:00+08:00",
+      "watch_for": "Eala is scheduled to face Jessica Pegula in the DC Open final."
+    },
+    {
+      "headline": "World Bank approves $268.62 million water and sanitation project for three islands",
+      "summary": "The World Bank approved a $268.62 million project to expand safe water and sanitation services in Bohol, Siargao and Jolo. The program, to be implemented by the public works and interior departments, will finance climate-resilient infrastructure and improvements to local service providers.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/02/2546413/world-bank-oks-269-million-water-sanitation-project",
+      "category": "economy",
+      "published_at": "2026-08-02T00:00:00+08:00"
+    },
+    {
+      "headline": "Philippines deposits Panatag Shoal nautical chart with United Nations",
+      "summary": "The Department of Foreign Affairs said the Philippines formally deposited its official chart of Panatag Shoal and nearby maritime zones with the UN Secretariat on July 29. The submission places the country's charted baselines, territorial sea and contiguous zone on the international public record under the UN Convention on the Law of the Sea.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/02/2546410/philippines-formally-deposits-panatag-shoal-chart-un",
+      "category": "politics",
+      "published_at": "2026-08-02T00:00:00+08:00",
+      "context": "Panatag Shoal, also known as Scarborough Shoal, is claimed by the Philippines and China and has been a recurring point of maritime tension."
+    },
+    {
+      "headline": "Escudero files bill seeking nationwide ban on gambling advertising",
+      "summary": "Senator Francis Escudero filed a bill that would prohibit gambling advertisements and sponsorships across broadcast, print, online and social media, including celebrity and influencer endorsements. The proposal provides a one-year transition period and escalating fines, prison terms and license penalties for violations.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/02/2546406/escudero-wants-ban-gambling-ads-endorsements",
+      "category": "politics",
+      "published_at": "2026-08-02T00:00:00+08:00"
+    },
+    {
+      "headline": "UP expects about 153,000 examinees for two-day UPCAT",
+      "summary": "The University of the Philippines expected about 153,000 applicants to take the UPCAT for academic year 2027-2028 at testing centers nationwide. The entrance examination is being conducted on August 1 and 2.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/nation/2026/8/1/thousands-take-upcat-2027-as-up-expects-153-000-examinees-nationwide-0854",
+      "category": "other",
+      "published_at": "2026-08-01T08:54:00+08:00",
+      "watch_for": "The second and final day of the UPCAT is August 2."
+    }
+  ]
+}
