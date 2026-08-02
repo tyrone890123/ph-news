@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T06:59:10+08:00",
+  "stories": [
+    {
+      "headline": "Tropical Depression Luis brings rain and gusty winds to northern and central Luzon",
+      "summary": "PAGASA located Tropical Depression Luis about 130 kilometers east of Casiguran, Aurora early Monday, with sustained winds of 55 kilometers per hour and gusts up to 70 kilometers per hour. The agency warned of possible flash floods and landslides across parts of northern and central Luzon, including Cagayan, Isabela, Aurora and Quezon.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-03T04:00:00+08:00",
+      "watch_for": "PAGASA said Luis may make landfall or pass close to Northern Luzon on Monday night or early Tuesday, although its forecast track remained uncertain."
+    },
+    {
+      "headline": "Teodoro says officials must uphold West Philippine Sea policies or challenge them in court",
+      "summary": "Defense Secretary Gilberto Teodoro said public officials are required to uphold Philippine laws and regulations on the West Philippine Sea unless they challenge those rules in court. He said officials unwilling to do either should resign; Representative Paolo Duterte criticized the statement as an improper loyalty test.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/997111/teodoro-clarifies-officials-should-either-uphold-wps-law-challenge-it-in-court-or-resign/story/?order=5&top_picks=",
+      "category": "politics",
+      "published_at": "2026-08-02T23:35:00+08:00"
+    },
+    {
+      "headline": "Davao ships 17.2 metric tons of fresh produce to Saudi Arabia",
+      "summary": "The Department of Agriculture said a Davao del Norte exporter shipped 17.2 metric tons of bananas, sweet potatoes and jicama worth about P800,000 to Jeddah. The department attributed the sale to contacts developed at a 2024 trade exhibition in Dubai.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/997082/p800k-worth-of-davao-fresh-produce-shipped-to-saudi-arabia-da/story/",
+      "category": "regions",
+      "published_at": "2026-08-02T15:03:00+08:00"
+    },
+    {
+      "headline": "Petron raises LPG price as source points to possible gasoline and diesel rollback",
+      "summary": "Petron increased the price of its Gasul liquefied petroleum gas by P3 per kilogram on August 1. An oil industry source estimated that Tuesday's adjustments could cut gasoline prices by P1 to P1.30 per liter and diesel prices by P0.20 to P0.50 per liter after five weeks of increases.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/companies/997051/petron-gasul-lpg-price-up-by-p3-kg-aug-1-gasoline-diesel-rollback-seen/story/",
+      "category": "economy",
+      "published_at": "2026-08-02T08:56:00+08:00",
+      "watch_for": "Fuel companies are expected to announce their official gasoline and diesel price adjustments before Tuesday."
+    },
+    {
+      "headline": "ERC directs Meralco to refund P9.5 billion to customers",
+      "summary": "The Energy Regulatory Commission ordered Meralco to return P9.5 billion in overrecoveries to more than eight million customers over six months. The average refund is P0.3448 per kilowatt-hour across customer classes, while residential users are due P0.5861 per kilowatt-hour.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/03/2546618/erc-orders-p95-billion-refund-meralco-customers",
+      "category": "economy",
+      "published_at": "2026-08-03T00:00:00+08:00",
+      "watch_for": "The ERC said the refund should begin in the next billing cycle after Meralco receives the decision and will appear as a separate line on customer bills."
+    },
+    {
+      "headline": "LTFRB schedules hearing on public transport fare increase petitions",
+      "summary": "The Land Transportation Franchising and Regulatory Board scheduled a hearing with transport groups on petitions to raise fares for jeepneys, UV Express services, taxis and motorcycle taxis. The petitions were filed between March and July amid higher operating costs linked to Middle East conditions.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/03/2546606/hearing-fare-hike-petitions-set-today",
+      "category": "economy",
+      "published_at": "2026-08-03T00:00:00+08:00",
+      "watch_for": "The LTFRB hearing is scheduled for 9 a.m. on August 3."
+    },
+    {
+      "headline": "Police tighten Senate security while investigating explosive device and theft",
+      "summary": "The National Capital Region Police Office increased security around the Senate as investigators continued examining an improvised explosive device found outside the complex on July 27 and a theft reported two days later. Police said no suspect had been identified in the explosive-device case and evidence was still being validated.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/08/03/2546528/senate-security-tight-after-ied-theft-cases",
+      "category": "metro",
+      "published_at": "2026-08-03T00:00:00+08:00"
+    },
+    {
+      "headline": "Labor groups criticize court order pausing Metro Manila wage increase",
+      "summary": "Labor organizations criticized the temporary restraining order that halted the P85 daily minimum-wage increase in Metro Manila. The construction companies that sought the order argued the increase could reduce profits, cause job cuts or work suspensions and limit their ability to bid for projects.",
+      "source": "ABS-CBN News",
+      "url": "https://www.abs-cbn.com/news/business/2026/8/2/-senseless-speculative-scaremongering-group-slams-tro-vs-p85-wage-hike-1145",
+      "category": "economy",
+      "published_at": "2026-08-02T11:45:00+08:00",
+      "watch_for": "A court hearing on the request for a preliminary injunction is scheduled for August 3."
+    }
+  ]
+}
