@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T07:03:56+08:00",
+  "stories": [
+    {
+      "headline": "Two low-pressure areas bring rain and flood risk to parts of Luzon",
+      "summary": "PAGASA located one low-pressure area near Baggao, Cagayan and another off Balaoan, La Union early Tuesday. It forecast scattered rain and thunderstorms across northern and central Luzon, with flash floods or landslides possible during moderate to heavy rain.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-04T04:00:00+08:00"
+    },
+    {
+      "headline": "Alex Eala wins first WTA Tour title at DC Open",
+      "summary": "Alex Eala defeated top seed Jessica Pegula 4-6, 6-4, 6-0 after their final resumed following a 20-hour weather suspension. The victory gave the Filipina her first WTA Tour title and first WTA 500 championship.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/sports/othersports/997231/alex-eala-stuns-jessica-pegula-in-dc-open-finals-for-first-career-wta-title/story/",
+      "category": "sports",
+      "published_at": "2026-08-04T01:05:00+08:00"
+    },
+    {
+      "headline": "ERC allows Meralco to recover P8.7 billion over three years",
+      "summary": "The Energy Regulatory Commission directed Meralco to collect a net P8.71 billion from customers over 36 months after reconciling pass-through charges from February 2011 through December 2022. The regulator said the balance accounts for amounts the utility had already refunded or collected.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/companies/997210/erc-meralco-to-collect-p8-7-billion-from-customers-over-pass-through-charges/story/?order=5&top_picks=",
+      "category": "economy",
+      "published_at": "2026-08-04T00:33:00+08:00",
+      "context": "Pass-through charges cover costs such as generation, transmission and taxes that a distribution utility collects for other entities. The utility does not earn from these charges, according to the ERC."
+    },
+    {
+      "headline": "Education chief calls rising school violence an emergency",
+      "summary": "Education Secretary Sonny Angara said violence in schools has become an emergency alongside the learning crisis. He cited the deadly June shooting in Tacloban and a recent fatal student stabbing in Las Pinas, and said prevention must address warning signs, bullying, family problems and online influences.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/04/2546807/angara-education-faces-emergency-amid-school-violence",
+      "category": "other",
+      "published_at": "2026-08-04T00:00:00+08:00"
+    },
+    {
+      "headline": "Anti-graft court keeps Bonoan as accused in flood-control case",
+      "summary": "The Sandiganbayan denied the Ombudsman's request to remove former public works secretary Manuel Bonoan from a graft charge so he could later be presented as a state witness. The court said prosecutors may still pursue that plan at the proper stage of the proceedings.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/04/2546802/sandigan-rejects-bonoan-state-witness-graft",
+      "category": "politics",
+      "published_at": "2026-08-04T00:00:00+08:00",
+      "context": "The case concerns alleged kickbacks tied to two Bulacan public-works projects inserted in the 2025 national budget. Bonoan and Senator Jinggoy Estrada remain accused; the allegations have not been proven in court."
+    },
+    {
+      "headline": "Police arrest five people over theft inside Senate grounds",
+      "summary": "Pasay police said they arrested five suspects in the theft of broadcast equipment and office supplies from a media facility inside the Senate compound. Police said theft charges would be filed, while some suspects also face drug and illegal-gambling complaints.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/08/04/2546772/5-nabbed-over-senate-burglary",
+      "category": "metro",
+      "published_at": "2026-08-04T00:00:00+08:00"
+    },
+    {
+      "headline": "Senate passes benefits bill for barangay health workers",
+      "summary": "The Senate approved on third and final reading a bill setting pay and benefits for registered barangay health workers. The measure provides a minimum P3,000 monthly honorarium, hazard and transport allowances, state insurance and a P10,000 loyalty incentive after 15 years of continuous service.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/08/04/2546768/senate-oks-magna-carta-bhws",
+      "category": "politics",
+      "published_at": "2026-08-04T00:00:00+08:00"
+    },
+    {
+      "headline": "Venezuela says June earthquake death toll has passed 6,000",
+      "summary": "Venezuelan lawmaker Jorge Rodriguez said the death toll from June's twin earthquakes had risen to 6,125. Figures he released also showed nearly 61,000 people received hospital care and only 16.5 percent of quake debris had been removed.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/environment/death-toll-venezuela-june-earthquakes-tops-6000-2026-08-03/",
+      "category": "world",
+      "published_at": "2026-08-03T21:23:00+00:00",
+      "context": "The figures are the Venezuelan authorities' account. The government's response has faced criticism over delays in reaching people trapped in rubble."
+    }
+  ]
+}
