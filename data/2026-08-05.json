@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T07:03:56+08:00",
+  "stories": [
+    {
+      "headline": "Tropical Storm Maymay puts parts of northern Luzon under Signal No. 2",
+      "summary": "PAGASA raised Signal No. 2 over portions of six northern Luzon provinces as Maymay strengthened into a tropical storm. The agency located its center west of La Union and forecast landfall over Ilocos Sur or La Union on Wednesday afternoon or evening, with flooding and landslides possible in areas of heavy rain.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/weather/content/997392/pagasa-signal-no-2-up-in-6-luzon-areas-as-maymay-intensifies-into-tropical-storm/story/",
+      "category": "weather",
+      "published_at": "2026-08-05T05:29:00+08:00",
+      "watch_for": "PAGASA forecast Maymay could cross northern and central Luzon through Thursday, weakening after landfall."
+    },
+    {
+      "headline": "World Bank maintains 3.7% Philippine growth forecast for 2026",
+      "summary": "The World Bank kept its 2026 Philippine growth forecast at 3.7%, down from 4.4% growth in 2025. It attributed the slowdown to policy uncertainty that weakened investment and confidence, alongside higher energy costs that raised inflation and weighed on consumption and employment.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/997350/world-bank-keeps-slower-3-7-2026-growth-forecast-for-philipppines/story/?order=6&top_picks=",
+      "category": "economy",
+      "published_at": "2026-08-04T19:43:00+08:00",
+      "context": "The forecast sits within the government's revised 3.5% to 4.5% growth target for 2026."
+    },
+    {
+      "headline": "DOJ and DILG say they cannot confirm reports of Dela Rosa arrest",
+      "summary": "The justice and interior departments said they had no information confirming reports that Senator Ronald dela Rosa had been arrested. The reports circulated as Dela Rosa faces an International Criminal Court arrest warrant connected to alleged crimes against humanity during the anti-drug campaign.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/997345/bato-dela-rosa-arrested-doj-dilg-say-no-information/story/?order=3&top_picks=",
+      "category": "politics",
+      "published_at": "2026-08-04T18:37:00+08:00"
+    },
+    {
+      "headline": "Auditor says OVP staff sought less formal treatment of confidential-fund findings",
+      "summary": "A state auditor testified at Vice President Sara Duterte's impeachment trial that senior OVP staff asked the Commission on Audit in 2023 to issue an audit query rather than a formal observation memorandum over confidential-fund deficiencies. The defense separately argued that spending P125 million in 11 days was not itself barred by COA rules.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/05/2547137/ovp-staff-lobbied-coa-downgrade-findings",
+      "category": "politics",
+      "published_at": "2026-08-05T00:00:00+08:00",
+      "context": "The testimony concerns the prosecution's allegations over the OVP and Department of Education's use and liquidation of confidential funds."
+    },
+    {
+      "headline": "Former public works chief Bonoan scheduled to testify in Revilla flood-control case",
+      "summary": "Former public works secretary Manuel Bonoan is scheduled to testify for the prosecution in a malversation case against former senator Ramon Revilla Jr. involving a Bulacan flood-control project. A former undersecretary alleged in court that Revilla sought a 25% commitment fee; Revilla and other named lawmakers have denied the allegations.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/05/2547055/bonoan-testify-vs-revilla-flood-case",
+      "category": "politics",
+      "published_at": "2026-08-05T00:00:00+08:00",
+      "watch_for": "Bonoan is scheduled to take the witness stand before the Sandiganbayan Third Division on August 12."
+    },
+    {
+      "headline": "DepEd develops national plan for artificial intelligence in schools",
+      "summary": "Education Secretary Sonny Angara said DepEd is preparing a plan to train teachers and learners for the use of artificial intelligence in schools. The department is also seeking private-sector support for digital literacy and access to AI tools.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/05/2547129/deped-preparing-master-plan-ai-schools",
+      "category": "other",
+      "published_at": "2026-08-05T00:00:00+08:00"
+    },
+    {
+      "headline": "Partnership launches crisis center for women and children in Muntinlupa",
+      "summary": "Congress, government agencies, Muntinlupa City and private partners launched a Women and Children's Crisis Center at the Haven for Women compound in Alabang. The project is intended to provide protection, mental-health assistance and other support to vulnerable women and children.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/05/2547124/philippines-launches-first-women-and-childrens-crisis-center",
+      "category": "metro",
+      "published_at": "2026-08-05T00:00:00+08:00"
+    },
+    {
+      "headline": "Qatar reports progress in mediation as US and Iran differ over status of talks",
+      "summary": "Qatar said mediators were making progress toward ending the US-Iran war, but Tehran denied President Donald Trump's statement that direct talks had begun. Iran said discussions with Oman on safe shipping lanes were continuing, while the Strait of Hormuz remained largely closed and shipping attacks persisted.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/status-us-iran-talks-uncertain-ship-struck-hormuz-2026-08-04/",
+      "category": "world",
+      "published_at": "2026-08-04T11:41:00+08:00"
+    }
+  ]
+}
