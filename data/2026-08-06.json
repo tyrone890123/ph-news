@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T07:04:54+08:00",
+  "stories": [
+    {
+      "headline": "Tropical Storm Maymay crosses northern Luzon after Ilocos Sur landfall",
+      "summary": "PAGASA located Tropical Storm Maymay near Bantay, Ilocos Sur early Thursday after it made landfall in Magsingal. The agency warned of intense rain, flooding, landslides and strong winds in parts of northern Luzon as the storm moved east at 10 kilometers per hour.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-06T04:00:00+08:00",
+      "watch_for": "PAGASA said Maymay would continue crossing northern Luzon and could weaken into a tropical depression or remnant low later Thursday."
+    },
+    {
+      "headline": "Government work and classes suspended across Metro Manila and 22 provinces",
+      "summary": "Malacañang suspended government work and classes at all levels in Metro Manila and 22 Luzon provinces for August 6 because of rain from Maymay and the southwest monsoon. Agencies providing health, disaster-response and other vital services were ordered to remain operational.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/997514/gov-t-work-and-classes-in-metro-manila-parts-of-luzon-suspended-on-aug-6-2026-due-to-maymay-habagat/story/?order=1&top_picks=",
+      "category": "other",
+      "published_at": "2026-08-05T23:24:00+08:00"
+    },
+    {
+      "headline": "Supreme Court dismisses petitions challenging Duterte impeachment process",
+      "summary": "The Supreme Court dismissed consolidated petitions challenging House proceedings that led to Vice President Sara Duterte's impeachment. The court said the cases had become moot after the House transmitted the articles to the Senate, which has begun the trial.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/05/2547206/supreme-court-dismisses-challenges-sara-duterte-impeachment",
+      "category": "politics",
+      "published_at": "2026-08-05T18:13:00+08:00",
+      "context": "The petitions questioned the House justice committee's evidence gathering and findings during its preliminary review of the complaints."
+    },
+    {
+      "headline": "Government raises fuel discount for public transport drivers to P12 per liter",
+      "summary": "President Ferdinand Marcos Jr. increased the fuel subsidy for public utility vehicle drivers from P10 to P12 per liter, according to Executive Secretary Ralph Recto. The higher discount is scheduled to begin August 15 as transport operators face elevated petroleum costs.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/06/2547281/marcos-hikes-fuel-subsidy-puv-drivers-p12",
+      "category": "economy",
+      "published_at": "2026-08-06T00:00:00+08:00",
+      "context": "The existing P10-per-liter program has assisted more than 93,000 public transport drivers, the government said.",
+      "watch_for": "The P12-per-liter subsidy is scheduled to take effect on August 15."
+    },
+    {
+      "headline": "Japan extends P11.54 billion loan for Philippine universal health care reforms",
+      "summary": "Japan approved a P11.54 billion loan through the Japan International Cooperation Agency to support Philippine universal health care reforms. The financing is intended for sustainable funding, strategic purchasing, integrated service delivery, health information systems and accountability.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/06/2547276/japan-approves-p1154-billion-philippines-health-care",
+      "category": "other",
+      "published_at": "2026-08-06T00:00:00+08:00"
+    },
+    {
+      "headline": "Magnitude 6.4 earthquake strikes near Sarangani",
+      "summary": "A magnitude 6.4 earthquake struck southwest of Balut Island in Sarangani, according to Phivolcs, which revised an initial magnitude 7.1 estimate. The quake was felt across parts of Sarangani and South Cotabato and prompted court closures for inspections; aftershocks were expected.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/08/06/2547259/magnitude-64-quake-hits-sarangani-aftershocks-expected",
+      "category": "regions",
+      "published_at": "2026-08-06T00:00:00+08:00",
+      "context": "Phivolcs identified the tremor as an aftershock of the magnitude 7.8 earthquake that struck Sarangani in June."
+    },
+    {
+      "headline": "Iran warns Gulf energy sites could be targeted after any renewed US strikes",
+      "summary": "Iran warned Gulf governments that renewed US attacks on Iranian territory would trigger retaliation against regional energy infrastructure, five sources told Reuters. Saudi Arabia and other Gulf states have urged Washington to return to negotiations, while Saudi officials also said the kingdom would defend itself if attacked.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-threatens-hit-gulf-states-if-us-launches-new-strikes-2026-08-05/",
+      "category": "world",
+      "published_at": "2026-08-06T03:07:00+08:00",
+      "context": "The warning followed US threats against Iranian infrastructure and diplomatic efforts to prevent a wider regional escalation."
+    },
+    {
+      "headline": "Germany investigates explosive-equipped drone found near Leipzig airport runway",
+      "summary": "Germany opened a counterterrorism investigation after an explosive-equipped drone was found in a restricted area near a runway at Leipzig/Halle airport. Flights were briefly disrupted, but authorities reported no danger to passengers or staff and said the drone's origin remained unknown.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/german-police-examine-suspicious-object-leipzig-airport-2026-08-05/",
+      "category": "world",
+      "published_at": "2026-08-05T14:21:00+08:00"
+    }
+  ]
+}
