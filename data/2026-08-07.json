@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T06:58:28+08:00",
+  "stories": [
+    {
+      "headline": "Former Maymay system and southwest monsoon keep flood risks elevated",
+      "summary": "PAGASA said the low-pressure area that was formerly Tropical Depression Maymay was east of Isabela early Friday, while the southwest monsoon continued to bring monsoon or occasional rains to parts of Luzon and Western Visayas. The agency warned of possible flooding and landslides in affected areas.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-07T04:00:00+08:00",
+      "watch_for": "PAGASA's next regular weather bulletins will track the low-pressure area and continuing monsoon rains."
+    },
+    {
+      "headline": "UP law school restricts AI and electronic devices in first-year core classes",
+      "summary": "The University of the Philippines College of Law will generally prohibit electronic devices in onsite first-year core classes and bar generative AI from research and writing assignments beginning academic year 2026-2027. Limited, supervised AI use may be allowed after students demonstrate research fundamentals.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/997655/up-college-of-law-bars-ai-devices-in-first-year-core-subjects/story/?just_in=",
+      "category": "other",
+      "published_at": "2026-08-07T04:33:00+08:00"
+    },
+    {
+      "headline": "SWS survey shows higher trust in US and Japan than in China, Palestine and Iran",
+      "summary": "A non-commissioned Social Weather Stations survey reported net trust ratings of +42 for the United States and +36 for Japan, both classified by SWS as good. China, Palestine and Iran received negative net ratings classified as poor; the June 20-29 survey covered 1,200 adults nationwide with a three-point national margin of error.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/997656/sws-filipinos-give-us-japan-good-trust-rating-china-palestine-iran-poor/story/?just_in=",
+      "category": "politics",
+      "published_at": "2026-08-07T02:49:00+08:00"
+    },
+    {
+      "headline": "DFA says US extradition request for Quiboloy has been sent to DOJ",
+      "summary": "The Department of Foreign Affairs said it received the United States government's request to extradite Apollo Quiboloy and forwarded it to the Department of Justice. Quiboloy, who has pleaded not guilty in his Philippine cases, also faces US allegations including sex trafficking and racketeering.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/997627/philippines-received-us-request-for-quiboloy-extradition-says-dfa/story/",
+      "category": "politics",
+      "published_at": "2026-08-06T20:55:00+08:00"
+    },
+    {
+      "headline": "Lawmakers propose moving 2026 barangay and youth elections to 2028",
+      "summary": "Bills filed in the Senate and House seek to postpone the November 2 barangay and Sangguniang Kabataan elections until 2028. Senator Francis Escudero's measure would also extend the terms of barangay and youth council officials from four years to five, while a similar House proposal cites election costs amid an energy emergency.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/07/2547578/2-year-bske-postponement-5-year-term-pushed",
+      "category": "politics",
+      "published_at": "2026-08-07T00:00:00+08:00"
+    },
+    {
+      "headline": "Landslides in Benguet and Rizal leave four dead after sustained rains",
+      "summary": "The NDRRMC reported four deaths in landslide and rockslide incidents in La Trinidad, Benguet, and Rodriguez, Rizal after sustained rain from tropical cyclones and the southwest monsoon. The agency said 80,633 people had been affected nationwide and 6,929 were displaced in evacuation centers.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/07/2547575/4-dead-landslides-hit-benguet-rizal",
+      "category": "regions",
+      "published_at": "2026-08-07T00:00:00+08:00"
+    },
+    {
+      "headline": "Flood-control projects worth P1.1 billion face scrutiny in La Union and Pampanga",
+      "summary": "Groups called for reviews of more than P773 million in flood-control and related projects in La Union after recent flooding, while two Pampanga projects worth about P359 million are the subject of complaints before the Ombudsman. The allegations concern contracts and project performance and have not been adjudicated.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/07/2547558/p11-billion-la-union-pampanga-flood-projects-flagged",
+      "category": "politics",
+      "published_at": "2026-08-07T00:00:00+08:00"
+    },
+    {
+      "headline": "Mayon alert lowered to Level 2 as unrest declines",
+      "summary": "Phivolcs lowered Mayon Volcano's alert status from Level 3 to Level 2 after observing a general decline in unrest since July 23. The agency said the volcano remains restless, kept the six-kilometer permanent danger zone closed and warned that heavy rain could trigger lahars along several gullies.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/08/07/2547524/mayon-alert-status-lowered-level-2",
+      "category": "regions",
+      "published_at": "2026-08-07T00:00:00+08:00"
+    },
+    {
+      "headline": "Trump signs narrower orders seeking limits on US birthright citizenship",
+      "summary": "US President Donald Trump signed two executive orders seeking narrower limits on birthright citizenship after the Supreme Court rejected his earlier effort. Reuters reported that the orders target birth tourism and certain other categories, but set policy rather than binding law and are likely to face court challenges.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/trump-sign-orders-birthright-citizenship-axios-reports-2026-08-06/",
+      "category": "world",
+      "published_at": "2026-08-06T19:50:00+00:00",
+      "watch_for": "Legal challenges are expected against the new orders."
+    }
+  ]
+}
