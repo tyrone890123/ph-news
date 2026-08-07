@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T07:04:25+08:00",
+  "stories": [
+    {
+      "headline": "DSWD extends aid after deadly landslides in Benguet and Rizal",
+      "summary": "The DSWD said it gave initial cash aid to families affected by rain-triggered landslides in La Trinidad, Benguet, and Rodriguez, Rizal, where four people were killed. The agency reported that recent storms and monsoon rains affected 88,738 people in 290 barangays.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/997781/dswd-gives-financial-aid-to-maymay-habagat-victims-in-benguet-rizal/story/?just_in=",
+      "category": "regions",
+      "published_at": "2026-08-08T06:18:00+08:00",
+      "watch_for": "The DSWD said it is awaiting local authorities' full incident report before endorsing affected households for further assistance."
+    },
+    {
+      "headline": "Ambassador urges public review of Philippines' role in Pax Silica",
+      "summary": "Philippine Ambassador to the United States Jose Manuel Romualdez urged a full discussion of the benefits and environmental concerns surrounding Pax Silica. The US-led economic-security initiative includes the Philippines among 24 signatories and envisions an AI-focused industrial hub in New Clark City.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/997776/ambassador-romualdez-several-asian-nations-wanted-pax-silica-but-ph-was-chosen/story/?just_in=",
+      "category": "economy",
+      "published_at": "2026-08-08T02:54:00+08:00"
+    },
+    {
+      "headline": "DOJ evaluates United States request to extradite Apollo Quiboloy",
+      "summary": "The Justice Department is evaluating the US extradition request for Apollo Quiboloy after its formal transmission by the foreign affairs department. Ambassador Jose Manuel Romualdez said US authorities want the request resolved promptly, while Justice Secretary Fredderick Vida said local cases and treaty provisions will be considered.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/997775/us-very-eager-for-philippines-to-resolve-quiboloy-extradition-request-ambassador-romualdez/story/?just_in=",
+      "category": "politics",
+      "published_at": "2026-08-08T01:45:00+08:00",
+      "context": "Quiboloy is detained while facing Philippine child-abuse and qualified human-trafficking charges. He also faces US sex-trafficking charges; he has denied wrongdoing."
+    },
+    {
+      "headline": "Former bodyguards dispute origins of allegations involving political figures",
+      "summary": "Four former bodyguards of ex-lawmaker Zaldy Co alleged in recantation affidavits that their group's original plan was to pressure prominent politicians with fabricated payment claims. Lawyer Levito Baligod denied the accusation, while another former guard alleged that those who recanted had been offered money to reverse their accounts.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/997755/4-ex-bodyguards-claim-initial-plan-was-to-blackmail-politicians/story/?order=6&top_picks=",
+      "category": "politics",
+      "published_at": "2026-08-07T22:44:00+08:00"
+    },
+    {
+      "headline": "Fuel firms estimate price cuts of up to P5 per liter",
+      "summary": "Industry estimates indicate gasoline and diesel prices could fall by P4.50 to P5 per liter on August 11, although one trading day remains before the final adjustment. A fuel executive attributed the estimate to lower oil prices and a stronger peso amid renewed expectations of progress in US-Iran talks.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/08/2547756/much-p5liter-cut-pump-prices-seen",
+      "category": "economy",
+      "published_at": "2026-08-08T00:00:00+08:00",
+      "watch_for": "Oil companies are expected to announce the final price adjustments before they take effect on August 11."
+    },
+    {
+      "headline": "Government and business group propose national AI implementation task force",
+      "summary": "The Private Sector Advisory Council proposed a national task force to coordinate implementation of the Philippines' AI strategy with government. The proposed body would focus on workforce development, technology and research infrastructure, and policy and governance; the council said President Ferdinand Marcos Jr. supported incorporating private-sector input.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/08/2547728/private-sector-government-partner-ai-task-force",
+      "category": "economy",
+      "published_at": "2026-08-08T00:00:00+08:00"
+    },
+    {
+      "headline": "Five suspected Dawlah Islamiya members killed in Cotabato operation",
+      "summary": "Five suspected Dawlah Islamiya members were killed when police and soldiers attempted to serve arrest warrants in Pikit, Cotabato, the military said. Authorities alleged that the suspects opened fire first and linked them to pending criminal cases and a March ambush that killed five police officers.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/08/08/2547726/5-terror-suspects-slain-cotabato-firefight",
+      "category": "regions",
+      "published_at": "2026-08-08T00:00:00+08:00"
+    },
+    {
+      "headline": "Southwest monsoon brings flood and landslide risk to western Luzon",
+      "summary": "PAGASA forecast monsoon rains over Occidental Mindoro, Zambales and Bataan, with occasional rain across Metro Manila and several other Luzon provinces. The agency warned that moderate to intense rain could trigger floods and landslides, while the trough of Typhoon Dolphin outside the Philippine area of responsibility affects Batanes and the Babuyan Islands.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-08T04:00:00+08:00"
+    },
+    {
+      "headline": "Eight die in Thailand school shooting, police say",
+      "summary": "A 14-year-old boy killed his grandparents and five school employees before killing himself near Bangkok, Thai police said. Twenty-three people were wounded in Thailand's deadliest mass shooting since 2022, and Prime Minister Anutin Charnvirakul said he would propose tighter restrictions on carrying firearms in public.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/his-quiet-home-shooting-spree-school-thai-teenagers-deadly-rampage-2026-08-07/",
+      "category": "world",
+      "published_at": "2026-08-07T23:59:00+08:00"
+    }
+  ]
+}
