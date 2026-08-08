@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T07:00:28+08:00",
+  "stories": [
+    {
+      "headline": "Storm and monsoon death toll rises to six, NDRRMC says",
+      "summary": "The NDRRMC reported that six people died during recent tropical cyclones and southwest monsoon rains, including two new deaths in La Union from drowning and electrocution. The agency said 261,048 people had been affected and 7,580 were staying in 83 evacuation centers.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/09/2548083/6-reported-dead-due-typhoons-habagat",
+      "category": "regions",
+      "published_at": "2026-08-09T00:00:00+08:00"
+    },
+    {
+      "headline": "NBI summons four lawyers over alleged operation targeting Ralph Recto",
+      "summary": "The NBI said it will subpoena four lawyers as part of its investigation into an alleged effort to falsely implicate Executive Secretary Ralph Recto in human trafficking and drug use. NBI Director Melvin Matibag alleged the lawyers helped prepare scripts for women recruited for the operation; the claims have not been adjudicated.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/09/2548047/4-lawyers-summoned-over-plot-vs-recto",
+      "category": "politics",
+      "published_at": "2026-08-09T00:00:00+08:00",
+      "watch_for": "The NBI said it will issue subpoenas on August 10 and require the lawyers to appear on August 14."
+    },
+    {
+      "headline": "Finance chief says roughly one in ten state firms may face closure",
+      "summary": "Finance Secretary Frederick Go said about 10 percent of more than 100 government-owned and controlled corporations could be closed for failing to deliver sufficient value, with their functions transferred to other agencies. Budget support for state firms reached P98 billion in the first five months of 2026, according to the report.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/09/2548039/costly-ineffective-goccs-chopping-block-dof",
+      "category": "economy",
+      "published_at": "2026-08-09T00:00:00+08:00",
+      "context": "Closing a government corporation requires statutory review and other government procedures; no specific firms were named for closure."
+    },
+    {
+      "headline": "Police pursue leads after empty caskets left across Metro Manila",
+      "summary": "Quezon City police said a driver is cooperating in the investigation into five empty caskets bearing anti-communist and anti-China messages that were left in several Metro Manila cities. Police have not publicly identified the organizers and said they are determining whether criminal charges are warranted.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/09/2548037/police-gain-lead-group-behind-metro-casket-dumps",
+      "category": "metro",
+      "published_at": "2026-08-09T00:00:00+08:00"
+    },
+    {
+      "headline": "Thirty-eight Filipino seafarers return after attacks on vessels",
+      "summary": "The Department of Migrant Workers said 38 Filipino crew members returned home after their vessels were hit by drones or missiles in the Persian Gulf, Strait of Hormuz and Black Sea. The seafarers received airport, medical and financial assistance, and the department called for physical and psychological checks.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/nation/2026/08/09/2547977/38-pinoy-seafarers-return-hormuz-black-sea",
+      "category": "other",
+      "published_at": "2026-08-09T00:00:00+08:00"
+    },
+    {
+      "headline": "Philippines exits ASEAN football tournament after loss to Malaysia",
+      "summary": "The Philippine men's national football team lost 1-0 to Malaysia in Kuala Lumpur and missed the ASEAN Championship semifinals. The team ended the group stage with one victory and three defeats.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/sports/football/997857/philippines-falls-to-malaysia-misses-asean-championship-semifinals/story/?just_in=",
+      "category": "sports",
+      "published_at": "2026-08-08T23:05:00+08:00"
+    },
+    {
+      "headline": "Monsoon rains keep flood and landslide risk elevated across Luzon",
+      "summary": "PAGASA forecast monsoon rains over parts of western and northern Luzon and occasional rain in Metro Manila and several nearby provinces. It warned of possible flash floods and landslides, while rough to very rough seas were expected around extreme northern Luzon as Typhoon Dolphin remained outside the Philippine area of responsibility.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-09T04:00:00+08:00"
+    },
+    {
+      "headline": "British Columbia declares emergency as wildfires force mass evacuations",
+      "summary": "British Columbia declared a provincial state of emergency as wildfires forced more than 20,000 people from their homes. Reuters reported that the out-of-control Bald Range fire expanded to about 9,500 hectares, damaged properties and prompted evacuation orders around communities west of Okanagan Lake.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/environment/british-columbia-district-declares-state-emergency-issues-evacuation-orders-2026-08-08/",
+      "category": "world",
+      "published_at": "2026-08-08T21:55:00+08:00"
+    }
+  ]
+}
