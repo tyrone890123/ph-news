@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T07:03:51+08:00",
+  "stories": [
+    {
+      "headline": "Survey finds majority want evidence weighed before verdict in Sara Duterte trial",
+      "summary": "An OCTA Research survey found that 55 percent of respondents preferred that senators examine evidence before deciding Vice President Sara Duterte's impeachment case. The non-commissioned survey interviewed 1,200 registered voters from July 4 to 11 and had a reported national margin of error of three percentage points.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/997936/octa-research-55-prefer-evidence-before-verdict-in-impeachment-trial-vs-vp-sara-duterte/story/?just_in=",
+      "category": "politics",
+      "published_at": "2026-08-10T02:40:00+08:00"
+    },
+    {
+      "headline": "Five rescued and at least seven missing after Baguio landslide",
+      "summary": "Baguio officials said rescuers pulled five people from a landslide in Guidag-Surong on Sunday night while at least seven others remained missing. The slide struck three houses occupied by five families during continuous rain, and the search operation was continuing.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/997933/5-rescued-from-baguio-city-landslide-at-least-7-others-missing-lgu/story/?just_in=",
+      "category": "regions",
+      "published_at": "2026-08-10T00:34:00+08:00",
+      "watch_for": "Local authorities said search and rescue operations would continue for the missing residents."
+    },
+    {
+      "headline": "Palace suspends in-person classes and government work in NCR and 15 provinces",
+      "summary": "Malacañang suspended face-to-face classes at all levels and in-person government work on August 10 across Metro Manila and 15 provinces because of monsoon rains. Schools were directed to use alternative learning arrangements, while agencies were placed on work-from-home status except for essential services.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/serbisyopubliko/walangpasok/997931/walang-pasok-palace-suspends-face-to-face-classes-in-person-gov-t-work-in-ncr-15-provinces/story/?just_in=",
+      "category": "other",
+      "published_at": "2026-08-09T23:43:00+08:00"
+    },
+    {
+      "headline": "Lacson says reclamation agency is moving to recover unlawfully filled Taguig land",
+      "summary": "Senator Panfilo Lacson said the Philippine Reclamation Authority is preparing to recover areas in Taguig that were allegedly reclaimed without authorization. He also said contractors linked to 32 suspected fictitious flood-control projects could face plunder complaints; the allegations have not been adjudicated.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/10/2548222/ping-pra-seize-illegally-reclaimed-areas-taguig",
+      "category": "politics",
+      "published_at": "2026-08-10T00:00:00+08:00"
+    },
+    {
+      "headline": "United States criticizes China's planned nature reserve at Panatag Shoal",
+      "summary": "The US State Department described China's plan for a national nature reserve at Panatag Shoal as destabilizing and accused Beijing of using environmental claims to advance its maritime position. The United States reiterated support for the Philippines and called for adherence to international law.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/10/2548218/us-chinas-national-nature-reserve-panatag-destabilizing",
+      "category": "politics",
+      "published_at": "2026-08-10T00:00:00+08:00",
+      "context": "Panatag Shoal, also known internationally as Scarborough Shoal, is claimed by the Philippines and China and has been a recurring point of tension in the South China Sea."
+    },
+    {
+      "headline": "Meralco customers set to receive six-month refund beginning in August",
+      "summary": "Meralco said more than eight million customers will begin receiving a P9.5-billion refund in their August bills. For residential users, the refund is equivalent to P0.59 per kilowatt-hour and will be spread over six months, although other billing adjustments may offset part of the reduction.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/10/2548203/meralco-rates-going-down-month",
+      "category": "economy",
+      "published_at": "2026-08-10T00:00:00+08:00"
+    },
+    {
+      "headline": "Southwest monsoon keeps flood and landslide risk high across Luzon",
+      "summary": "PAGASA said the southwest monsoon was bringing monsoon rains to Benguet, Zambales and Bataan and intermittent rain to Metro Manila and other parts of Luzon. The agency warned of possible flash floods and landslides, while Tropical Storm Peilou remained far outside the Philippine area of responsibility.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-10T04:00:00+08:00"
+    },
+    {
+      "headline": "Iran says Oman-mediated shipping agreement is nearing completion",
+      "summary": "Iran said an Oman-mediated agreement on new shipping lanes was in its final stages but tied reopening the Strait of Hormuz to US action on sanctions and compensation. A US official said implementation steps would be sequenced, as the prolonged closure continues to disrupt a route that carried about one-fifth of global oil and liquefied natural gas supplies.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-says-oman-deal-is-final-stages-us-must-act-open-hormuz-2026-08-09/",
+      "category": "world",
+      "published_at": "2026-08-09T19:43:00+08:00"
+    }
+  ]
+}
