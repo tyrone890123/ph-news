@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T07:05:16+08:00",
+  "stories": [
+    {
+      "headline": "Edwin Mercado appointed health secretary after Jose Pujalte resigns",
+      "summary": "President Ferdinand Marcos Jr. appointed PhilHealth chief Edwin Mercado as health secretary after Jose Pujalte resigned less than a month into the post. The Palace said Pujalte stepped down for health reasons and that Mercado was instructed to prioritize public health.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/998023/who-is-edwin-mercado-the-new-doh-chief/story/",
+      "category": "politics",
+      "published_at": "2026-08-10T19:03:00+08:00"
+    },
+    {
+      "headline": "Government offices shift to remote work in three provinces amid continued rain",
+      "summary": "Malacañang ordered government employees in Zambales, Bataan and Occidental Mindoro to work from home on August 11 because of continuing monsoon rain. Schools in the three provinces were directed to use alternative learning modes, while essential government services remain operational.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/998053/malaca-ang-orders-work-from-home-setup-in-3-provinces-amid-continued-heavy-rains/story/?order=2&top_picks=",
+      "category": "regions",
+      "published_at": "2026-08-10T23:35:00+08:00"
+    },
+    {
+      "headline": "Baguio landslide toll rises to eight as search continues",
+      "summary": "The Baguio City Public Information Office said eight people had died, three remained missing and two had been rescued after a landslide buried three houses in Guisad Surong. Authorities evacuated residents from nearby high-risk areas and reported 13 other landslides in the city during the heavy rain.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/998044/dog-rescued-from-baguio-landslide-debris-nearly-24-hours-later/story/",
+      "category": "regions",
+      "published_at": "2026-08-10T21:57:00+08:00",
+      "watch_for": "The city said search, rescue and retrieval operations would continue for the three missing people."
+    },
+    {
+      "headline": "Government prepares to submit proposed P7.2-trillion 2027 budget",
+      "summary": "The Department of Budget and Management is scheduled to submit a proposed P7.2-trillion national budget for 2027, six percent above this year's spending program. The Palace said the proposal prioritizes education, health, livelihoods, security and community resilience.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/11/2548438/dbm-submits-today-p72-trillion-people-centered-growth-budget",
+      "category": "economy",
+      "published_at": "2026-08-11T00:00:00+08:00",
+      "watch_for": "The DBM is scheduled to submit the proposal to Congress and hold a Palace briefing on August 11."
+    },
+    {
+      "headline": "Agriculture department estimates storm losses at P135.5 million",
+      "summary": "The Department of Agriculture estimated initial crop and farm losses from tropical cyclones Luis and Maymay and the southwest monsoon at P135.5 million. It said 4,516 hectares in five regions and 6,010 farmers were affected, and P106.5 million in seeds, fertilizer and other support had been prepared.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/11/2548462/farm-damage-storms-exceeds-p100-million-da",
+      "category": "economy",
+      "published_at": "2026-08-11T00:00:00+08:00"
+    },
+    {
+      "headline": "Philippines and United States approve new year of joint defense activities",
+      "summary": "Philippine and US military leaders marked the 75th anniversary of the Mutual Defense Treaty by approving guidance and activities for another year of cooperation. The program includes large exercises and expert exchanges focused on readiness, maritime security, humanitarian assistance and disaster response.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/11/2548466/philippines-us-mark-75th-anniversary-mdt-reaffirm-alliance",
+      "category": "politics",
+      "published_at": "2026-08-11T00:00:00+08:00",
+      "context": "The 1951 treaty commits both countries to respond to armed attacks covered by its terms and remains the foundation of their defense alliance."
+    },
+    {
+      "headline": "Monsoon rain keeps flood and landslide risks elevated in parts of Luzon",
+      "summary": "PAGASA forecast occasional rain over Zambales, Bataan and Occidental Mindoro and scattered rain over Metro Manila and several other Luzon areas. It warned of possible flash floods and landslides, while Tropical Storm Peilou remained far outside the Philippine area of responsibility.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-11T04:00:00+08:00"
+    },
+    {
+      "headline": "Colombia earthquake kills at least 111 as rescuers search collapsed buildings",
+      "summary": "A magnitude 7.4 earthquake struck western Colombia, killing at least 111 people and injuring 87, according to the president's preliminary figures. Buildings and infrastructure were damaged across several cities, airports were closed for inspections and rescue teams continued searching for people trapped under rubble.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/earthquake-pacific-coast-shakes-colombian-capital-2026-08-10/",
+      "category": "world",
+      "published_at": "2026-08-10T21:03:00+08:00",
+      "watch_for": "Colombian authorities said rescue operations and assessments would continue as aftershocks remained possible."
+    }
+  ]
+}
