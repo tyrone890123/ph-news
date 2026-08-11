@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T07:04:50+08:00",
+  "stories": [
+    {
+      "headline": "DOJ files grave threats charge against Vice President Duterte",
+      "summary": "The Justice Department filed one grave threats count against Vice President Sara Duterte in a Quezon City court and set recommended bail at P120,000. The department dismissed a related inciting-to-sedition complaint for lack of prima facie evidence; Duterte's counsel said she is presumed innocent and will pursue legal remedies.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/998144/doj-grave-threats-sara-duterte/story/",
+      "category": "politics",
+      "published_at": "2026-08-11T16:16:00+08:00"
+    },
+    {
+      "headline": "Comelec removes expiry rule for teachers' election service credits",
+      "summary": "Comelec amended its rules so teachers may use service credits earned from election work at any time after an electoral exercise. The commission said it acted after concerns raised by teachers' groups and the Department of Education.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/998226/comelec-removes-expiration-of-poll-service-credits-for-teachers/story/?order=4&top_picks=",
+      "category": "politics",
+      "published_at": "2026-08-12T02:44:00+08:00",
+      "watch_for": "The resolution will take effect after publication in two newspapers and on the Comelec website."
+    },
+    {
+      "headline": "Police report 26 deaths linked to storms and monsoon rains",
+      "summary": "The Philippine National Police reported 26 deaths linked to recent storms and monsoon rains, including 16 from landslides in parts of the Cordillera, subject to validation by disaster agencies. The NDRRMC said about 2.27 million people were affected and nearly 95,000 remained in evacuation centers.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/12/2548741/pnp-deaths-monsoons-storms-hit-26",
+      "category": "weather",
+      "published_at": "2026-08-12T00:00:00+08:00"
+    },
+    {
+      "headline": "Senate ratifies visiting-forces agreements with Canada and New Zealand",
+      "summary": "The Senate ratified separate status-of-visiting-forces agreements with Canada and New Zealand by a 19-0 vote, with no objections or abstentions. The accords establish legal rules for activities such as joint training and exercises.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/12/2548717/senate-ratifies-philippines-sovfa-canada-new-zealand",
+      "category": "politics",
+      "published_at": "2026-08-12T00:00:00+08:00"
+    },
+    {
+      "headline": "Labor groups ask Supreme Court to review orders stopping Metro Manila wage increase",
+      "summary": "Akbayan and labor groups asked the Supreme Court's Judicial Integrity Office to review a Pasig court's orders that suspended Metro Manila's new minimum-wage increase. They argue that the Labor Code bars lower courts from issuing injunctions against wage-board proceedings.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/11/2548575/groups-seek-supreme-court-review-court-order-halting-wage-hike",
+      "category": "economy",
+      "published_at": "2026-08-11T17:46:00+08:00",
+      "watch_for": "The Pasig court's temporary restraining order is set to run through August 13, subject to the required P1 million bond."
+    },
+    {
+      "headline": "Marcos submits P7.2 trillion proposed national budget for 2027",
+      "summary": "President Ferdinand Marcos Jr. asked Congress to approve a P7.2 trillion budget for 2027, six percent above this year's spending plan. The proposal assigns the largest share to education and projects a P1.7 trillion deficit, according to the Budget Department.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/philippines-marcos-proposes-118-billion-budget-2027-2026-08-11/",
+      "category": "economy",
+      "published_at": "2026-08-11T06:18:00+00:00"
+    },
+    {
+      "headline": "Southwest monsoon brings rain and flood risk across parts of Luzon",
+      "summary": "PAGASA said the southwest monsoon would bring scattered rain and thunderstorms to Metro Manila and several Luzon provinces, with possible flash floods or landslides during moderate to occasionally heavy rain. A tropical depression remained outside the Philippine area of responsibility early Wednesday.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-12T04:00:00+08:00"
+    },
+    {
+      "headline": "US stocks edge lower as oil prices remain volatile",
+      "summary": "The S&P 500 and Dow each fell 0.3 percent on Tuesday, while the Nasdaq lost 0.6 percent. Brent crude ended 1.4 percent higher at $88.91 a barrel after moving between $87 and $90 amid uncertainty over oil flows during the Iran war.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-e5e8f3360f8d30714778761e3a483347",
+      "category": "world"
+    }
+  ]
+}
