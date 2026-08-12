@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T07:01:12+08:00",
+  "stories": [
+    {
+      "headline": "Supreme Court rejects bid to release unfinished Senate flood-control report",
+      "summary": "The Supreme Court dismissed a petition seeking disclosure of an unfinished Senate Blue Ribbon Committee report on the flood-control investigation. The court said no law creates a ministerial duty to release a draft before committee approval and submission to the Senate plenary.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/998294/sc-junks-petition-to-disclose-senate-draft-report-on-flood-control-probe/story/?order=2&top_picks=",
+      "category": "politics",
+      "published_at": "2026-08-12T15:56:00+08:00"
+    },
+    {
+      "headline": "Bonoan alleges senators received up to P1 billion each in infrastructure funds",
+      "summary": "Former public works secretary Manuel Bonoan testified that senators received P500 million each in leadership funds in 2024, with committee chairs receiving P1 billion. Former Senate president Juan Miguel Zubiri denied requesting or handling such a list and said funding requests went through the finance committee.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/998286/ex-dwph-chief-bonoan-claims-senators-received-leadership-fund-up-to-p1b-each/story/?order=3&top_picks=",
+      "category": "politics",
+      "published_at": "2026-08-12T14:38:00+08:00"
+    },
+    {
+      "headline": "COA witness questions confidential operations under OVP and education mandates",
+      "summary": "A Commission on Audit official testified at Vice President Sara Duterte's impeachment trial that confidential operations are not part of the stated mandates of the vice presidency or the education secretary. She also said several cited social-service expenses were not allowable confidential-fund uses under the governing joint circular.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/998306/witness-confidential-ops-not-part-of-sara-duterte-s-mandate-as-vp-deped-chief/story/",
+      "category": "politics",
+      "published_at": "2026-08-12T17:09:00+08:00"
+    },
+    {
+      "headline": "Marcos links clogged waterways and waste buildup to Metro Manila flooding",
+      "summary": "President Ferdinand Marcos Jr. called the capital's garbage problem critical after inspecting clearing work at waterways and a pumping station in Pasay and Parañaque. The government is also identifying possible sites for waste-to-energy facilities, according to the report.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/13/2548987/garbage-problem-critical-says-marcos-jr",
+      "category": "metro",
+      "published_at": "2026-08-13T00:00:00+08:00"
+    },
+    {
+      "headline": "SWS records improved public satisfaction with Marcos administration",
+      "summary": "A Social Weather Stations survey conducted June 20 to 29 found 42 percent satisfied and 40 percent dissatisfied with the Marcos administration. Its net rating rose to plus one from minus 13 in March, moving from the pollster's poor classification to neutral.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/13/2548977/satisfaction-marcos-jr-admin-q2-sws",
+      "category": "politics",
+      "published_at": "2026-08-13T00:00:00+08:00"
+    },
+    {
+      "headline": "ABS-CBN plans P6 billion equity infusion from Lopez-linked investors",
+      "summary": "ABS-CBN announced plans to raise as much as P6 billion in new equity from I&C Holdings, three Lopez family branches and Lopez Inc. The broadcaster said the funds would strengthen its balance sheet as it seeks a return to profitability after a larger first-quarter loss and lower revenue.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/13/2548954/abs-cbn-raises-p6-billion-new-equity",
+      "category": "economy",
+      "published_at": "2026-08-13T00:00:00+08:00"
+    },
+    {
+      "headline": "Southwest monsoon brings flood and landslide risk across much of Luzon",
+      "summary": "PAGASA forecast occasional rain in Zambales and Bataan and scattered rain or thunderstorms across Metro Manila and several other Luzon areas, warning of possible flash floods and landslides. Tropical Storm Nangka remained outside the Philippine Area of Responsibility early Thursday.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-13T04:00:00+08:00"
+    },
+    {
+      "headline": "Colombia earthquake death toll reaches 265 as rescue effort continues",
+      "summary": "Colombia's president said at least 265 people were killed by the magnitude 7.4 earthquake and nearly 500 were officially reported missing, while a civilian database listed more than 4,100. Rescue teams continued searching rubble in the hardest-hit cities as international aid arrived.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/colombia-earthquake-aid-search-survivors-a35440647cc3efed1bbce935d223565e",
+      "category": "world"
+    }
+  ]
+}
