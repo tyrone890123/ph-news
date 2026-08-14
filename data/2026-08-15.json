@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T07:03:56+08:00",
+  "stories": [
+    {
+      "headline": "Marcos says China resupply arrangement preserves Philippine position in West Philippine Sea",
+      "summary": "President Ferdinand Marcos Jr. said the provisional arrangement with China for rotation and resupply missions to the BRP Sierra Madre does not weaken the Philippines' sovereign-rights position. He described the understanding as a practical way to reduce tension during missions to Ayungin Shoal.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/998570/marcos-says-rore-deal-with-china-won-t-weaken-philippines-position-in-wps/story/",
+      "category": "politics",
+      "published_at": "2026-08-14T17:52:00+08:00"
+    },
+    {
+      "headline": "Marcos rejects characterization of family assets as ill-gotten",
+      "summary": "President Marcos said civil-case outcomes support his position that his family's assets were not unlawfully acquired. He made the claim when asked about the estate of former president Ferdinand Marcos and the family's unresolved estate-tax obligations.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/998580/marcos-says-family-s-wealth-not-ill-gotten/story/",
+      "category": "politics",
+      "published_at": "2026-08-14T19:30:00+08:00"
+    },
+    {
+      "headline": "Fuel companies estimate another large pump-price increase on August 18",
+      "summary": "Industry estimates cited by The Philippine Star indicate diesel could rise by P3.75 to P4.25 per liter and gasoline by P2.50 to P3 per liter next week. The projected increase was linked to continued disruption around the Strait of Hormuz.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/15/2549374/over-p4liter-oil-price-hike-looms-next-week",
+      "category": "economy",
+      "published_at": "2026-08-15T00:00:00+08:00",
+      "watch_for": "Fuel companies are expected to announce final price adjustments before they take effect on August 18."
+    },
+    {
+      "headline": "Drug-war truth commission opens public hearings with testimony from victims' families",
+      "summary": "The independent civilian Truth Commission held its first public hearing on alleged abuses during former president Rodrigo Duterte's anti-drug campaign. Luzviminda Siapo testified about the 2017 killing of her son Raymart, recounting allegations against armed men and the isolation experienced by the family afterward.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/15/2549336/pwd-drug-war-victim-voted-duterte-mother-says",
+      "category": "politics",
+      "published_at": "2026-08-15T00:00:00+08:00"
+    },
+    {
+      "headline": "BCDA says government financing is unnecessary for proposed Pax Silica hub",
+      "summary": "The Bases Conversion and Development Authority said the government would not need to finance Philippine participation in the proposed 1,600-hectare Pax Silica industrial hub in New Clark City, Tarlac. The US-led initiative is intended to support semiconductor, artificial-intelligence and related supply chains.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2284651/fwd-bcda-no-govt-financing-needed-for-1600-hectare-pax-silica-hub",
+      "category": "economy"
+    },
+    {
+      "headline": "Philippines lifts import restrictions on canned pork and Japanese poultry",
+      "summary": "The Philippines removed import restrictions covering canned pork products and poultry from Japan, according to the Manila Bulletin. Restrictions on canned pork had been imposed as part of measures intended to prevent the entry of African swine fever.",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/08/14/philippines-lifts-import-ban-on-canned-pork-japanese-poultry",
+      "category": "economy",
+      "published_at": "2026-08-14T17:17:00+08:00"
+    },
+    {
+      "headline": "Southwest monsoon keeps Metro Manila and much of Luzon under flood risk",
+      "summary": "PAGASA forecast scattered rain and thunderstorms across Metro Manila and broad areas of Luzon, with possible flash floods and landslides during moderate to occasionally heavy rain. Moderate to rough seas were expected along northern and western Luzon.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-15T04:00:00+08:00"
+    },
+    {
+      "headline": "Strait of Hormuz shipping nears standstill after two more vessel attacks",
+      "summary": "Commercial traffic through the Strait of Hormuz slowed to near a standstill after two vessels operated by the United Arab Emirates' state oil company were attacked. The UAE blamed Iran, which had not immediately responded, while ship-tracking data showed no visible crude-oil shipments on Friday.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-hormuz-2026-08-14/",
+      "category": "world",
+      "published_at": "2026-08-14T10:55:00+00:00"
+    }
+  ]
+}
