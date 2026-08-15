@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T07:02:52+08:00",
+  "stories": [
+    {
+      "headline": "Teodoro disputes China's criticism over enforcement action against Chinese nationals",
+      "summary": "Defense Secretary Gilberto Teodoro rejected China's accusation that he had harmed bilateral relations and defended a May law-enforcement operation at a steel facility in Misamis Oriental. China said the detained Chinese nationals had been working legally, while Teodoro said the operation was supported by court-issued warrants and evidence of violations.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/philippine-defence-chief-rejects-china-criticism-calls-response-squid-tactic-2026-08-15/",
+      "category": "politics",
+      "published_at": "2026-08-15T08:54:00+00:00"
+    },
+    {
+      "headline": "DILG investigates alleged 911 delay and ambulance equipment gaps",
+      "summary": "The Department of the Interior and Local Government opened an investigation after a social-media user alleged that a 911 call for his father went unanswered for nearly 10 minutes and that the responding ambulance lacked an automated defibrillator and other equipment. The post said the man later died; the department has not yet announced findings.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/metro/998690/dilg-probes-viral-911-delay-ill-equipped-ambulance/story/?just_in=",
+      "category": "metro",
+      "published_at": "2026-08-16T01:03:00+08:00"
+    },
+    {
+      "headline": "Farm losses from monsoon rains and recent cyclones reach P689 million",
+      "summary": "The Department of Agriculture said damage from the southwest monsoon and recent cyclones had reached P689 million, including P451 million in rice losses across about 18,000 hectares. Pampanga recorded the largest provincial losses, followed by Nueva Ecija and Pangasinan.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/998689/agri-damage-from-habagat-cyclones-reaches-689m-da/story/?just_in=",
+      "category": "economy",
+      "published_at": "2026-08-16T00:42:00+08:00"
+    },
+    {
+      "headline": "House begins review of proposed P7.2-trillion 2027 budget on August 17",
+      "summary": "The House appropriations committee is scheduled to start deliberations on the proposed P7.2-trillion national budget with a briefing on financing and spending levels. The chamber received the executive proposal on August 11 and is targeting approval by October 9.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/16/2549663/house-deliberates-2027-budget-week",
+      "category": "politics",
+      "published_at": "2026-08-16T00:00:00+08:00",
+      "watch_for": "House budget deliberations are scheduled to begin on August 17, with chamber approval targeted for October 9."
+    },
+    {
+      "headline": "Marcos says government is moving to recover delayed public spending",
+      "summary": "President Ferdinand Marcos Jr. said the government had adopted measures to accelerate expenditures after a review of the previous budget delayed bidding and project implementation. He said second-quarter public spending was about seven percent below the year-earlier level and that the administration aimed to close the gap later in 2026.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/16/2549661/government-eyes-accelerated-pace-public-spending",
+      "category": "economy",
+      "published_at": "2026-08-16T00:00:00+08:00"
+    },
+    {
+      "headline": "Gunmen fire on BARMM chief minister's convoy in Maguindanao del Norte",
+      "summary": "Unidentified gunmen fired on three vehicles in Bangsamoro Chief Minister Abdulraof Macacua's convoy along a highway in Datu Odin Sinsuat, according to military officials cited by The Philippine Star. No passenger was injured, and police and military intelligence units were investigating the attack.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/16/2549648/barmm-chief-ministers-convoy-attacked",
+      "category": "regions",
+      "published_at": "2026-08-16T00:00:00+08:00"
+    },
+    {
+      "headline": "Southwest monsoon brings flood and landslide risk to parts of Luzon",
+      "summary": "PAGASA forecast scattered rain and thunderstorms over northern and central Luzon and Occidental Mindoro, with possible flash floods or landslides during moderate to heavy rain. Moderate to rough seas were expected around extreme northern and western Luzon, with waves reaching up to 3.1 meters.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-16T04:00:00+08:00"
+    },
+    {
+      "headline": "South Korean president calls for talks aimed at a formal peace with North Korea",
+      "summary": "South Korean President Lee Jae Myung urged dialogue with North Korea and other parties to replace the armistice that halted the Korean War with a peace arrangement. He also proposed safeguards against escalation and discussions on measures to limit Pyongyang's nuclear capabilities; North Korea has rejected his earlier engagement offers.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/south-koreas-lee-says-mechanisms-needed-manage-north-tensions-2026-08-15/",
+      "category": "world",
+      "published_at": "2026-08-15T01:56:00+00:00"
+    }
+  ]
+}
