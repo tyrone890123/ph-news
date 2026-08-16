@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T07:01:28+08:00",
+  "stories": [
+    {
+      "headline": "Senate seeks precise locations and studies for P107 billion in flood-control proposals",
+      "summary": "Senate President Sherwin Gatchalian said the chamber would require the Department of Public Works and Highways to provide coordinates and station numbers for proposed 2027 flood-control projects. He said feasibility studies would also be required to reduce duplicate, ineffective or nonexistent projects.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/17/2549777/gps-coordinates-p107-billion-flood-projects-sought",
+      "category": "politics",
+      "published_at": "2026-08-17T00:00:00+08:00"
+    },
+    {
+      "headline": "DBM releases P9.75 billion to cover free higher-education arrears",
+      "summary": "The Department of Budget and Management released P9.75 billion to the Commission on Higher Education for costs that state universities and colleges had temporarily covered from their own resources. The funding covers arrears from academic years 2022-2023 through 2024-2025 and is intended for 108 institutions.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/17/2549769/dbm-releases-p975-billion-free-higher-education",
+      "category": "economy",
+      "published_at": "2026-08-17T00:00:00+08:00"
+    },
+    {
+      "headline": "OCD reports 24 deaths and nearly 4.9 million people affected by recent storms",
+      "summary": "The Office of Civil Defense reported 24 deaths, 17 injuries and three missing people from the combined effects of cyclones Luis and Maymay and the southwest monsoon. It said nearly 4.9 million people had been affected, more than 31,000 were in evacuation centers and agricultural losses had reached P689.66 million.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/16/2549693/23-dead-habagat-luis-maymay-batter-philippines-ocd",
+      "category": "regions",
+      "published_at": "2026-08-16T16:38:00+08:00"
+    },
+    {
+      "headline": "Local governments suspend classes as southwest monsoon rains continue",
+      "summary": "Local governments across parts of Batangas, Benguet, Bulacan, Cavite, Metro Manila, Pangasinan, Pampanga and Tarlac suspended classes or shifted students to alternative learning arrangements for August 17 because of monsoon-driven bad weather.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/serbisyopubliko/walangpasok/998710/walang-pasok-august-17-2026/story/?order=1&top_picks=",
+      "category": "regions",
+      "published_at": "2026-08-16T12:34:00+08:00"
+    },
+    {
+      "headline": "LTO employee arrested after Antipolo hit-and-run injures two pedestrians",
+      "summary": "Police arrested a Land Transportation Office employee after a vehicle struck two women at a pedestrian crossing in Antipolo and left the scene. The LTO chief ordered the employee's dismissal and permanent license revocation, while police said the driver faced charges over the injuries and leaving the victims.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/998748/lto-employee-nabbed-after-hit-and-run-in-antipolo-city-two-women-injured/story/?order=3&top_picks=",
+      "category": "regions",
+      "published_at": "2026-08-16T21:10:00+08:00"
+    },
+    {
+      "headline": "Police investigate suspected poisoning deaths of child and grandmother in Bukidnon",
+      "summary": "A four-year-old girl and her grandmother died after a suspected poisoning in Don Carlos, Bukidnon, police told GMA News. Investigators recovered a feeding bottle and rodenticide sachets and were examining whether an earlier family dispute was connected to the deaths.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/998746/grandmother-allegedly-poisons-self-4-year-old-granddaughter-in-bukidnon/story/?order=4&top_picks=",
+      "category": "regions",
+      "published_at": "2026-08-16T20:41:00+08:00"
+    },
+    {
+      "headline": "Southwest monsoon keeps flood and landslide risks elevated in Luzon",
+      "summary": "PAGASA forecast occasional or scattered rain over western and northern Luzon, Metro Manila and several nearby provinces, with flash floods or landslides possible during heavier rain. The agency also expected moderate to rough seas, with waves up to 2.8 meters, along northern and western Luzon.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-16T16:00:00+08:00"
+    },
+    {
+      "headline": "Trump orders reduction in US military exercises with South Korea",
+      "summary": "US President Donald Trump said he instructed the Pentagon to substantially reduce joint military exercises with South Korea, though he said it was too late to cancel them. The annual Ulchi Freedom Shield drills were scheduled for August 17 to 27, and US agencies had not immediately provided further details on how the directive would be implemented.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trump-instructs-pentagon-reduce-military-exercises-with-south-korea-2026-08-16/",
+      "category": "world",
+      "published_at": "2026-08-16T21:39:00+00:00",
+      "watch_for": "The Ulchi Freedom Shield exercises are scheduled to run from August 17 through August 27."
+    }
+  ]
+}
