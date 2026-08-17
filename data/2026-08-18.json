@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T07:01:19+08:00",
+  "stories": [
+    {
+      "headline": "Former OVP officer says P125 million was released on Sara Duterte's instruction",
+      "summary": "Former Office of the Vice President disbursing officer Gina Acosta testified at the Senate impeachment trial that Vice President Sara Duterte instructed her to release P125 million in confidential funds to a security aide in 2022. The statement is witness testimony and has not been independently established.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/18/2550023/witness-p125-million-secret-funds-released-vps-order",
+      "category": "politics",
+      "published_at": "2026-08-18T00:00:00+08:00"
+    },
+    {
+      "headline": "Police put monsoon-related death toll at 27",
+      "summary": "The Philippine National Police said flooding, landslides and damaged infrastructure linked to the southwest monsoon had left at least 27 people dead, 18 injured and two missing. It also reported 14,437 people staying in evacuation centers.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/18/2550015/monsoon-death-toll-now-27-pnp",
+      "category": "regions",
+      "published_at": "2026-08-18T00:00:00+08:00"
+    },
+    {
+      "headline": "Government extends public transport fuel subsidy through year-end",
+      "summary": "Energy Secretary Sharon Garin said the fuel subsidy for public utility vehicle drivers will continue at least through the end of 2026. The benefit was raised to P12 per liter on August 15, with a weekly cap of 150 liters, and the government said rates will be reviewed monthly.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/18/2550009/doe-puv-fuel-subsidy-continue-until-year-end",
+      "category": "economy",
+      "published_at": "2026-08-18T00:00:00+08:00",
+      "watch_for": "The Energy Department said the subsidy rate will be reviewed each month as fuel prices change."
+    },
+    {
+      "headline": "La Mesa Dam reaches Alert Level 3 as water rises",
+      "summary": "Quezon City disaster officials placed La Mesa Dam under Alert Level 3 after its water level reached 79.71 meters at 5 a.m. They warned that excess water could affect low-lying communities along the Tullahan River, including parts of Fairview, San Bartolome and areas near Quirino Highway.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/metro/998896/qc-water-level-update-la-mesa-dam-under-alert-level-3/story/?order=2&top_picks=",
+      "category": "metro",
+      "published_at": "2026-08-18T06:00:00+08:00"
+    },
+    {
+      "headline": "Transport agencies deploy free rides for stranded commuters",
+      "summary": "The Transportation Department and attached agencies deployed 43 government vehicles to provide free rides on several routes for commuters stranded by flooding. Service was scheduled from 6 a.m. to 8 p.m., subject to extension depending on conditions.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/metro/998889/dotr-other-agencies-to-provide-free-rides-on-tuesday-august-18-2026/story/?order=5&top_picks=",
+      "category": "metro",
+      "published_at": "2026-08-18T03:11:00+08:00",
+      "watch_for": "Transport officials said the free-ride service may run beyond 8 p.m. if conditions require it."
+    },
+    {
+      "headline": "Senate impeachment court cancels August 18 trial because of severe weather",
+      "summary": "The Senate impeachment court canceled the August 18 trial of Vice President Sara Duterte because of forecast heavy rain and flooding from the southwest monsoon. The court's notice said the presiding officer ordered the suspension.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/998853/impeachment-court-suspends-trial-on-august-18-2026-due-to-severe-weather/story/?order=6&top_picks=",
+      "category": "politics",
+      "published_at": "2026-08-17T20:39:00+08:00"
+    },
+    {
+      "headline": "Southwest monsoon brings heavy rain risk across western Luzon",
+      "summary": "PAGASA said the southwest monsoon was bringing monsoon rain to several western Luzon provinces and occasional rain to Metro Manila and nearby areas, with flash floods and landslides possible. At 3 a.m., a low-pressure area was 1,115 kilometers east of northern Luzon.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-18T04:00:00+08:00"
+    },
+    {
+      "headline": "Deadline for permanent Iran war agreement passes without a deal",
+      "summary": "A 60-day deadline for a permanent agreement in the Iran war passed without a deal. The Associated Press reported that the parties remained divided over reopening the Strait of Hormuz and had not begun detailed nuclear negotiations, while renewed attacks and the blockade had largely undone an earlier interim accord.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-war-diplomacy-deal-deadline-nuclear-258e9c556fc861c05ccf6ed2b38515d6",
+      "category": "world"
+    }
+  ]
+}
