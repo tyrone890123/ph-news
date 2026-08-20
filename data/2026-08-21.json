@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T07:06:28+08:00",
+  "stories": [
+    {
+      "headline": "ICC prosecutors disclose evidence classifications in Duterte case",
+      "summary": "International Criminal Court prosecutors said they disclosed 6,909 evidence items to former president Rodrigo Duterte's defense, including 2,279 classified as incriminating and 57 described as potentially exonerating. The classifications are the prosecution's assessment and do not establish guilt.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/999294/icc-prosecution-says-2-279-items-of-evidence-vs-rodrigo-duterte-incriminating/story/?just_in=",
+      "category": "politics",
+      "published_at": "2026-08-20T20:36:00+08:00",
+      "watch_for": "The ICC has scheduled the start of Duterte's trial for November 30, 2026."
+    },
+    {
+      "headline": "Former security aide withdraws allegations involving Romualdez",
+      "summary": "Former security aide Orly Guteza said in a new affidavit that his earlier claims about delivering cash to former speaker Martin Romualdez were false. Guteza alleged that Senator Rodante Marcoleta and former representative Mike Defensor offered him benefits and that fear influenced his testimony; those allegations have not been independently established.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/999299/orly-guteza-says-he-agreed-to-make-false-testimony-out-of-fear/story/?order=1&top_picks=",
+      "category": "politics",
+      "published_at": "2026-08-20T22:08:00+08:00"
+    },
+    {
+      "headline": "Baguio continues landslide cleanup as Kennon Road stays closed",
+      "summary": "Baguio City continued clearing landslide debris and repairing drainage after prolonged heavy rain. Disaster officials said 27 families were evacuated as a precaution, while Kennon Road remained closed and motorists were advised to use Marcos Highway or Naguilian Road.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/999296/baguio-clearing-operations-habagat-rains/story/?order=3&top_picks=",
+      "category": "regions",
+      "published_at": "2026-08-20T20:52:00+08:00"
+    },
+    {
+      "headline": "OCTA survey shows higher self-rated poverty and hunger",
+      "summary": "An OCTA Research survey conducted July 4 to 11 found that 39 percent of respondents considered their families poor, up from 35 percent in March. The share reporting hunger rose to 21 percent from 17 percent over the same comparison.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/21/2550750/self-rated-poverty-hunger-rise-q2-octa",
+      "category": "economy",
+      "published_at": "2026-08-21T00:00:00+08:00"
+    },
+    {
+      "headline": "Philippine technology officials set meeting with Meta after school shooting",
+      "summary": "Philippine technology and cybercrime officials plan to meet Meta's regional executives in Singapore following the deadly Ateneo de Zamboanga University shooting. Officials said discussions will cover violent-content controls and election integrity, while investigators continue gathering digital evidence with assistance from Roblox.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/21/2550747/government-tech-officials-meet-meta-regional-officers",
+      "category": "other",
+      "published_at": "2026-08-21T00:00:00+08:00",
+      "watch_for": "DICT and cybercrime officials are scheduled to meet Meta regional executives in Singapore on August 27."
+    },
+    {
+      "headline": "Health department logs 72,735 influenza-like illness cases",
+      "summary": "The Department of Health recorded 72,735 influenza-like illness cases from January 4 through August 1, 23 percent fewer than in the comparable period last year. The agency reported 38 deaths and said recent case counts had increased slightly.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/21/2550727/doh-72735-cases-flu-illness-logged",
+      "category": "other",
+      "published_at": "2026-08-21T00:00:00+08:00"
+    },
+    {
+      "headline": "Southwest monsoon keeps rain and flood risk over Luzon",
+      "summary": "PAGASA forecast scattered rain and thunderstorms over parts of northern Luzon due to the southwest monsoon, with flash floods or landslides possible. It also tracked Severe Tropical Storm Saudel outside the Philippine Area of Responsibility, 2,735 kilometers east of southeastern Luzon at 3 a.m.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-21T04:00:00+08:00"
+    },
+    {
+      "headline": "Magnitude 6.7 earthquake strikes Peru's southern Andes",
+      "summary": "A magnitude 6.7 earthquake struck Peru's southern Andes, according to the U.S. Geological Survey. The quake was centered near Upahuacho in the Ayacucho region at a depth of about 67 kilometers and was felt across several southern regions; early reports did not identify major damage.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/peru-earthquake-andes-mountains-0018e250224f1cd86fc4c99cb33a9537",
+      "category": "world"
+    }
+  ]
+}
