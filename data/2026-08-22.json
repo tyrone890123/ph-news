@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T07:03:42+08:00",
+  "stories": [
+    {
+      "headline": "Lahar floods and bridge damage isolate about 1,000 Zambales families",
+      "summary": "Around 1,000 families in Barangay Santa Fe, San Marcelino, were isolated after monsoon rain destroyed a bridge and lahar-laden floods reached communities. The local government reported at least 10 houses destroyed, 22 partly damaged and no casualties or injuries.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/999394/lahar-laden-floods-fallen-bridge-isolate-1-000-families-in-san-marcelino-zambales/story/",
+      "category": "regions",
+      "published_at": "2026-08-21T20:57:00+08:00",
+      "watch_for": "The local government said it plans to build temporary pedestrian and tricycle bridges if weather conditions improve over the next two to three days."
+    },
+    {
+      "headline": "DPWH estimates P3 billion in repairs after Benguet landslides",
+      "summary": "The Public Works Department said damage and needed repairs from recent landslides in Baguio and Benguet total about P3 billion. A damaged road in La Trinidad linking Benguet and Nueva Vizcaya remains impassable, and officials said stronger slope protection will be installed.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/999407/dpwh-to-speed-up-repair-of-landslide-hit-road-linking-benguet-nueva-vizcaya/story/?order=1&top_picks=",
+      "category": "regions",
+      "published_at": "2026-08-21T22:50:00+08:00",
+      "watch_for": "Public Works Secretary Vince Dizon said the road repair and stronger slope protection could take about 10 months."
+    },
+    {
+      "headline": "Metro Manila hospitals report rise in severe leptospirosis cases",
+      "summary": "The National Kidney and Transplant Institute reported 19 leptospirosis cases and five deaths since June 1 after weeks of rain and flooding. San Lazaro Hospital recorded 50 cases, including 24 admissions in the previous 24 hours, and two deaths.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/metro/999408/nkti-logs-5-leptospirosis-deaths-since-june-1-amid-habagat-rains/story/?order=2&top_picks=",
+      "category": "metro",
+      "published_at": "2026-08-21T23:17:00+08:00"
+    },
+    {
+      "headline": "Senate agrees to move Sara Duterte impeachment hearings to afternoons",
+      "summary": "Senate President Sherwin Gatchalian said senators agreed to hold regular sessions in the morning and Vice President Sara Duterte's impeachment trial in the afternoon. He said the longer hearings are intended to keep the proceedings from extending into 2027.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/22/2550929/impeachment-trial-moved-afternoon",
+      "category": "politics",
+      "published_at": "2026-08-22T00:00:00+08:00",
+      "watch_for": "Gatchalian said the revised schedule will be implemented within the week, with the Senate aiming to finish the trial by December."
+    },
+    {
+      "headline": "PNP orders tighter firearm storage after Zamboanga school shooting",
+      "summary": "The Philippine National Police ordered commanders to reinforce firearm storage and accountability rules after investigators said government-issued guns assigned to a Customs official were used in the Zamboanga City school shooting. The PNP also said it will support nationwide school safety drills on August 25.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/22/2550943/pnp-tighten-firearm-security-rules-cops",
+      "category": "other",
+      "published_at": "2026-08-22T00:00:00+08:00",
+      "watch_for": "The PNP and Education Department have scheduled nationwide school safety drills for August 25."
+    },
+    {
+      "headline": "Fuel retailers project another price increase on August 25",
+      "summary": "Industry estimates based on the first four trading days pointed to an August 25 increase of P1.75 to P2.25 per liter for diesel and P1 to P1.50 for gasoline. The estimates remained preliminary with one trading day left and could still change.",
+      "source": "Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/22/2550934/fuel-prices-going-again-next-week",
+      "category": "economy",
+      "published_at": "2026-08-22T00:00:00+08:00",
+      "watch_for": "Retailers are expected to announce final price adjustments before they take effect on August 25."
+    },
+    {
+      "headline": "Southwest monsoon keeps flood and landslide risk over northern and central Luzon",
+      "summary": "PAGASA forecast scattered rain and thunderstorms over northern and central Luzon, with flash floods or landslides possible during heavier rain. Typhoon Saudel and a tropical depression remained outside the Philippine area of responsibility as of 3 a.m.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-22T04:00:00+08:00"
+    },
+    {
+      "headline": "Russian drone attack on Ukrainian shopping center kills at least 15",
+      "summary": "Russian drones struck a shopping center in Kryvyi Rih, killing at least 15 people and injuring 130, according to Ukrainian officials. Separate attacks in the Mykolaiv and Kharkiv regions brought the reported death toll from Friday's Russian strikes across Ukraine to 21.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/russia-ukraine-war-5f0948b0163062d84d7a68fbfc3c1469",
+      "category": "world"
+    }
+  ]
+}
