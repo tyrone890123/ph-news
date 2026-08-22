@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T07:01:33+08:00",
+  "stories": [
+    {
+      "headline": "Marcos orders framework for Philippine critical-minerals industry",
+      "summary": "President Ferdinand Marcos Jr. approved Executive Order No. 122, directing agencies to expand exploration and processing of critical minerals, identify new deposits and enforce a use-it-or-lose-it policy on idle permits. Mining companies welcomed the push for higher-value processing, while environmental groups raised concerns about community safeguards and exports of raw ore.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2289994/marcos-eo-puts-focus-on-ph-critical-minerals",
+      "category": "economy",
+      "published_at": "2026-08-23T05:38:00+08:00"
+    },
+    {
+      "headline": "Government asks Supreme Court to restore commercial fishing-vessel monitoring",
+      "summary": "The Office of the Solicitor General asked the Supreme Court to reverse a January ruling that invalidated round-the-clock monitoring of commercial fishing vessels. The government said location data are needed to protect municipal waters and fisheries, while the companies that challenged the rule argued the system violated privacy protections.",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://newsinfo.inquirer.net/2289995/solgen-backs-fisherfolk-in-sc-plea-vs-commercial-vessels",
+      "category": "politics",
+      "published_at": "2026-08-23T05:36:00+08:00",
+      "context": "The appeal concerns Fisheries Administrative Order No. 266, which expanded vessel monitoring and electronic reporting requirements in 2020."
+    },
+    {
+      "headline": "Senate scrutiny planned for P107.4-billion flood-control allocation",
+      "summary": "Senator Panfilo Lacson said he would examine the Department of Public Works and Highways' proposed P107.4-billion flood-control allocation in the 2027 national budget. He said he would seek the government's updated master plan and question spending to repair defective projects; his allegations of corruption remain claims subject to investigation.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/23/2551203/senate-scrutinize-p107-billion-flood-control-budget",
+      "category": "politics",
+      "published_at": "2026-08-23T00:00:00+08:00"
+    },
+    {
+      "headline": "Philippines-Japan military logistics agreement enters into force",
+      "summary": "The Philippines-Japan Acquisition and Cross-Servicing Agreement took effect on August 22, creating procedures for the two countries' armed forces to provide supplies and services to each other. The Defense Department said the arrangement will support joint exercises and humanitarian and disaster-response operations.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/23/2551174/philippines-japan-defense-agreement-takes-effect",
+      "category": "politics",
+      "published_at": "2026-08-23T00:00:00+08:00",
+      "context": "The agreement was signed in January 2026 and follows the two countries' 2024 Reciprocal Access Agreement."
+    },
+    {
+      "headline": "DepEd reports fewer than 1,000 guidance counselors across 45,000 schools",
+      "summary": "A Department of Education official said fewer than 1,000 registered guidance counselors serve more than 45,000 public schools. DepEd plans to hire at least 10,000 school counselor associates in 2026, with 9,641 positions already advertised and thousands of applications under assessment.",
+      "source": "The Philippine Star",
+      "url": "https://www.philstar.com/headlines/2026/08/23/2551194/deped-over-45000-schools-only-1000-guidance-counselors",
+      "category": "other",
+      "published_at": "2026-08-23T00:00:00+08:00"
+    },
+    {
+      "headline": "Ateneo de Zamboanga tightens campus security after fatal shooting",
+      "summary": "Ateneo de Zamboanga University said it will introduce stricter vehicle and identification checks, tighter visitor controls and closer monitoring of entrances beginning Monday after the August 18 campus shooting that left two students dead, including the alleged shooter. The school also approved a security audit and plans additional cameras and screening equipment.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/999491/ateneo-de-zamboanga-to-tighten-campus-security-after-shooting/story/",
+      "category": "regions",
+      "published_at": "2026-08-23T01:20:00+08:00",
+      "watch_for": "The university said police expect to issue an official report Monday, while administrators will meet parents and guardians Tuesday."
+    },
+    {
+      "headline": "Weather-related agricultural losses reach P1.79 billion",
+      "summary": "The Department of Agriculture said the southwest monsoon and tropical cyclones Luis, Maymay and Neneng caused P1.79 billion in agricultural damage and losses across eight regions. The agency counted 51,229 affected farmers, 41,647 hectares of damaged farmland and about 44,745 metric tons in production losses, with validation continuing.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/999463/agri-damage-due-to-luis-maymay-neneng-habagat-hits-p1-79b/story/?order=4&top_picks=",
+      "category": "economy",
+      "published_at": "2026-08-22T16:22:00+08:00"
+    },
+    {
+      "headline": "Official poverty rate falls in 2025 as threshold draws criticism",
+      "summary": "The Philippine Statistics Authority's latest survey put individual poverty incidence at 9.7 percent in 2025, down from 15.5 percent in 2023, while family poverty fell to 6.4 percent. The national poverty threshold for a five-person family was P14,634 a month; IBON Foundation argued that this benchmark understates hardship.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/money/economy/999468/is-your-family-earning-below-p14-634-a-month-here-s-what-psa-says-about-poverty-line/story/?order=5&top_picks=",
+      "category": "economy",
+      "published_at": "2026-08-22T18:45:00+08:00"
+    },
+    {
+      "headline": "Southwest monsoon brings rain and flood risk to Luzon",
+      "summary": "PAGASA said the southwest monsoon will bring occasional rain to Batanes and scattered rain and thunderstorms to Metro Manila and several Luzon regions, with possible flash floods or landslides. Three tropical cyclones were being monitored outside the Philippine area of responsibility as of 3 a.m., including Typhoon Saudel far east of extreme Northern Luzon.",
+      "source": "PAGASA",
+      "url": "https://www.pagasa.dost.gov.ph/weather",
+      "category": "weather",
+      "published_at": "2026-08-23T04:00:00+08:00"
+    },
+    {
+      "headline": "United States and Canada enter new round of reciprocal tariffs",
+      "summary": "The United States imposed 50 percent tariffs on about $20 billion of Canadian goods after bilateral trade talks collapsed. Canadian Prime Minister Mark Carney said Ottawa will retaliate dollar for dollar from September 8, targeting products including steel, dairy, appliances, farm equipment, pulp and paper, and electronics.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/canada-us-trade-war-trump-carney-tariffs-4d18583fe52134ca8550652ad9772d2c",
+      "category": "world",
+      "watch_for": "Canada said its retaliatory tariffs will begin on September 8."
+    }
+  ]
+}
